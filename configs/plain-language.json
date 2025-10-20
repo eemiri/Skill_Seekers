@@ -1,0 +1,119 @@
+{
+  "name": "plain-language",
+  "description": "Plain Language & Content Design - Use when translating technical rules into clear user-facing text, writing error messages, simplifying complex content, or applying plain language guidelines (Federal Plain Language, Leichte Sprache, ASD-STE100, ISO 82079)",
+  "base_url": "https://www.plainlanguage.gov/guidelines/",
+  "start_urls": [
+    "https://www.plainlanguage.gov/guidelines/audience/",
+    "https://www.plainlanguage.gov/guidelines/organize/",
+    "https://www.plainlanguage.gov/guidelines/words/",
+    "https://www.plainlanguage.gov/guidelines/concise/",
+    "https://www.plainlanguage.gov/guidelines/conversational/",
+    "https://www.plainlanguage.gov/guidelines/design/",
+    "https://www.plainlanguage.gov/guidelines/web/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main'], div.main-content, div.post-content, div.entry-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code, .code-example, .example"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": [
+      "/search",
+      "/suche",
+      "login",
+      "signin",
+      "signup",
+      "register",
+      "impressum",
+      "datenschutz",
+      "privacy-policy",
+      "terms",
+      "cookies",
+      "/admin",
+      "/user",
+      "/wp-admin/",
+      "/wp-content/plugins/",
+      "/feed/",
+      "/rss/",
+      ".pdf$",
+      ".jpg$",
+      ".png$",
+      ".gif$",
+      ".zip$"
+    ]
+  },
+  "categories": {
+    "getting_started": [
+      "introduction",
+      "overview",
+      "what-is",
+      "basics",
+      "fundamentals",
+      "principles"
+    ],
+    "federal_guidelines": [
+      "federal",
+      "government",
+      "digital.gov",
+      "plainlanguage.gov",
+      "guidelines"
+    ],
+    "content_design": [
+      "content-design",
+      "ux-content",
+      "content-strategy",
+      "writing",
+      "style"
+    ],
+    "error_messages": [
+      "error-message",
+      "error",
+      "validation",
+      "feedback",
+      "alerts"
+    ],
+    "accessibility": [
+      "accessibility",
+      "a11y",
+      "wcag",
+      "inclusive",
+      "screen-reader"
+    ],
+    "leichte_sprache": [
+      "leichte-sprache",
+      "einfache-sprache",
+      "easy-language",
+      "simplified"
+    ],
+    "technical_writing": [
+      "technical-writing",
+      "documentation",
+      "instructions",
+      "82079",
+      "ste100",
+      "asd"
+    ],
+    "health_literacy": [
+      "health-literacy",
+      "cdc",
+      "medical",
+      "healthcare"
+    ],
+    "uk_government": [
+      "gov.uk",
+      "homeoffice",
+      "design-system",
+      "service"
+    ],
+    "best_practices": [
+      "best-practices",
+      "checklist",
+      "tips",
+      "examples",
+      "patterns"
+    ]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 400
+}
