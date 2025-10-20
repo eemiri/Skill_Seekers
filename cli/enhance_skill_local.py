@@ -16,6 +16,15 @@ import subprocess
 import tempfile
 from pathlib import Path
 
+# Fix Windows console encoding for Unicode emojis
+if sys.platform == 'win32':
+    try:
+        import io
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
+    except:
+        pass
+
 
 class LocalSkillEnhancer:
     def __init__(self, skill_dir):
@@ -181,7 +190,7 @@ rm {prompt_file}
 '''
 
         # Save shell script
-        with tempfile.NamedTemporaryFile(mode='w', suffix='.sh', delete=False) as f:
+        with tempfile.NamedTemporaryFile(mode='w', suffix='.sh', delete=False, encoding='utf-8') as f:
             script_file = f.name
             f.write(shell_script)
 

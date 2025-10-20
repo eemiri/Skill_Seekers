@@ -1,0 +1,116 @@
+{
+  "name": "verpackg",
+  "description": "German Packaging Law (VerpackG) - Use when working with German packaging regulations, compliance requirements, producer responsibility, recycling obligations, or PPWR (Packaging and Packaging Waste Regulation)",
+  "base_url": "https://www.verpackungsgesetz.com/",
+  "additional_urls": [
+    "https://verpackungsgesetz-info.de/",
+    "https://www.gesetze-im-internet.de/verpackg/BJNR223410017.html"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main'], div.main-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/verpackg/",
+      "verpackungsgesetz",
+      "packaging",
+      "verpackung",
+      "lizenzierung",
+      "registrierung",
+      "mengen",
+      "beteiligung",
+      "pfand",
+      "mehrweg"
+    ],
+    "exclude": [
+      "/search",
+      "/suche",
+      "login",
+      "impressum",
+      "datenschutz",
+      "privacy",
+      "/admin",
+      "/user",
+      "/_static/",
+      "/wp-admin/",
+      "/wp-content/plugins/",
+      ".pdf$",
+      ".jpg$",
+      ".png$",
+      ".gif$"
+    ]
+  },
+  "categories": {
+    "getting_started": [
+      "introduction",
+      "einführung",
+      "overview",
+      "überblick",
+      "grundlagen",
+      "basics"
+    ],
+    "registration": [
+      "registrierung",
+      "registration",
+      "lucid",
+      "anmeldung",
+      "register"
+    ],
+    "compliance": [
+      "pflichten",
+      "obligations",
+      "compliance",
+      "anforderungen",
+      "requirements",
+      "verantwortung"
+    ],
+    "licensing": [
+      "lizenzierung",
+      "licensing",
+      "duales system",
+      "dual system",
+      "beteiligung",
+      "participation"
+    ],
+    "reporting": [
+      "mengenmeldung",
+      "reporting",
+      "datenmeldung",
+      "declaration",
+      "meldung"
+    ],
+    "deposit_reuse": [
+      "pfand",
+      "deposit",
+      "mehrweg",
+      "reusable",
+      "einweg",
+      "single-use"
+    ],
+    "penalties": [
+      "bußgeld",
+      "penalty",
+      "sanktion",
+      "strafe",
+      "fine"
+    ],
+    "legal_text": [
+      "gesetzestext",
+      "legal text",
+      "paragraf",
+      "§",
+      "absatz",
+      "artikel"
+    ],
+    "ppwr": [
+      "ppwr",
+      "eu-verordnung",
+      "european regulation",
+      "packaging waste regulation"
+    ]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 300
+}

@@ -11,6 +11,15 @@ from urllib.parse import urljoin, urlparse
 import time
 import json
 
+# Fix Windows console encoding for Unicode emojis
+if sys.platform == 'win32':
+    try:
+        import io
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
+    except:
+        pass
+
 
 def estimate_pages(config, max_discovery=1000, timeout=30):
     """

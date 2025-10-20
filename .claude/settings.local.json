@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 cli/estimate_pages.py configs/verpackg.json --max-discovery 150)",
+      "Bash(python cli/estimate_pages.py configs/verpackg.json --max-discovery 150)",
+      "Bash(python cli/doc_scraper.py --config configs/verpackg.json --enhance-local)",
+      "Bash(findstr /n \"⚠ ✗ ✓\" doc_scraper.py)",
+      "Bash(python cli/enhance_skill_local.py output/verpackg/)",
+      "Bash(python cli/package_skill.py output/verpackg/ --no-open)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

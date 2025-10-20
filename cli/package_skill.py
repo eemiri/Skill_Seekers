@@ -15,6 +15,15 @@ import zipfile
 import argparse
 from pathlib import Path
 
+# Fix Windows console encoding for Unicode emojis
+if sys.platform == 'win32':
+    try:
+        import io
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
+    except:
+        pass
+
 # Import utilities
 try:
     from utils import (

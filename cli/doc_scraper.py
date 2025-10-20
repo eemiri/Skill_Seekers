@@ -22,6 +22,15 @@ from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 from collections import deque, defaultdict
 
+# Fix Windows console encoding for Unicode emojis
+if sys.platform == 'win32':
+    try:
+        import io
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
+    except:
+        pass
+
 
 class DocToSkillConverter:
     def __init__(self, config, dry_run=False, resume=False):
