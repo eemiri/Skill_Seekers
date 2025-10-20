@@ -1,0 +1,31 @@
+{
+  "name": "nngroup-ia",
+  "description": "Nielsen Norman Group Information Architecture - Use when designing information architecture, navigation systems, taxonomies, site structure, findability, and content organization. Based on UX research and best practices from NN/g.",
+  "base_url": "https://www.nngroup.com/",
+  "start_urls": [
+    "https://www.nngroup.com/articles/ia-study-guide/",
+    "https://www.nngroup.com/topic/information-architecture/"
+  ],
+  "selectors": {
+    "main_content": "article",
+    "title": "h1",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/articles/"],
+    "exclude": ["/videos/", "/courses/", "/training/", "/about/", "/contact/", "/jobs/", "/report/", "/books/", "/podcast/"]
+  },
+  "categories": {
+    "fundamentals": ["ia-study-guide", "definition", "intro", "fundamentals", "basics"],
+    "navigation": ["navigation", "menu", "nav", "findability", "wayfinding"],
+    "taxonomy": ["taxonomy", "categorization", "classification", "labeling"],
+    "structure": ["structure", "hierarchy", "organization", "site-structure"],
+    "search": ["search", "findability", "discovery"],
+    "content": ["content-strategy", "content"],
+    "research": ["research", "testing", "card-sorting", "tree-testing"],
+    "mobile": ["mobile", "responsive"],
+    "ecommerce": ["ecommerce", "e-commerce", "product"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150
+}

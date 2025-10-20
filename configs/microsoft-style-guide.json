@@ -1,0 +1,45 @@
+{
+  "name": "microsoft-style-guide",
+  "description": "Microsoft Writing Style Guide - Use when writing technical documentation, UI text, error messages, or any Microsoft-style content. Covers grammar, terminology, formatting, accessibility, and content design principles.",
+  "base_url": "https://learn.microsoft.com/en-us/style-guide/",
+  "start_urls": [
+    "https://learn.microsoft.com/en-us/style-guide/welcome/",
+    "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice",
+    "https://learn.microsoft.com/en-us/style-guide/bias-free-communication",
+    "https://learn.microsoft.com/en-us/style-guide/global-communications/",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/",
+    "https://learn.microsoft.com/en-us/style-guide/formatting/",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/",
+    "https://learn.microsoft.com/en-us/style-guide/acronyms",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/"
+  ],
+  "selectors": {
+    "main_content": "main",
+    "title": "h1",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/style-guide/"],
+    "exclude": ["/api/"]
+  },
+  "categories": {
+    "welcome": ["welcome", "get-started", "whats-new"],
+    "top_10": ["top-10"],
+    "brand_voice": ["brand-voice", "voice", "tone"],
+    "word_choice": ["word-choice", "terminology", "verbs", "nouns"],
+    "grammar": ["grammar", "punctuation", "capitalization"],
+    "formatting": ["formatting", "lists", "numbers", "dates"],
+    "accessibility": ["accessibility", "bias-free", "inclusive"],
+    "global": ["global-communications", "localization"],
+    "acronyms": ["acronyms", "abbreviations"],
+    "chatbots": ["chatbot", "conversational"],
+    "buttons": ["buttons", "ui-text"],
+    "error_messages": ["error-messages", "notifications"],
+    "a_z_reference": ["a-z-", "/a/", "/b/", "/c/", "/d/", "/e/", "/f/", "/g/", "/h/", "/i/", "/j/", "/k/", "/l/", "/m/", "/n/", "/o/", "/p/", "/q/", "/r/", "/s/", "/t/", "/u/", "/v/", "/w/", "/x/", "/y/", "/z/"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 500
+}

@@ -10,7 +10,15 @@
       "Bash(python cli/doc_scraper.py --config configs/plain-language.json)",
       "Bash(cat output/plain-language_data/summary.json)",
       "Bash(python cli/package_skill.py output/plain-language/ --no-open)",
-      "Bash(unzip -l output/plain-language.zip)"
+      "Bash(unzip -l output/plain-language.zip)",
+      "Bash(python cli/estimate_pages.py configs/microsoft-style-guide.json --max-discovery 150)",
+      "Bash(python cli/doc_scraper.py --config configs/microsoft-style-guide.json --enhance-local)",
+      "Bash(if exist \"output\\microsoft-style-guide_data\" rmdir /s /q \"output\\microsoft-style-guide_data\")",
+      "Bash(if exist \"output\\microsoft-style-guide\" rmdir /s /q \"output\\microsoft-style-guide\")",
+      "Bash(python cli/doc_scraper.py --config configs/microsoft-style-guide.json)",
+      "Bash(python -c \"import shutil; import os; paths = [''output/microsoft-style-guide_data'', ''output/microsoft-style-guide'']; [shutil.rmtree(p) if os.path.exists(p) else None for p in paths]; print(''Cleaned up'')\")",
+      "Bash(python cli/package_skill.py output/verpackungsregister/ --no-open)",
+      "Bash(unzip -l output/verpackungsregister.zip)"
     ],
     "deny": [],
     "ask": []

@@ -1,0 +1,36 @@
+{
+  "name": "verpackungsregister",
+  "description": "German Packaging Register (Verpackungsregister) - Use for understanding packaging law compliance, data reporting (Datenmeldung), system participation (Systembeteiligung), packaging types, data fields, validation rules, and producer responsibilities under German VerpackG.",
+  "base_url": "https://www.verpackungsregister.org/",
+  "start_urls": [
+    "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/datenmeldung",
+    "https://www.verpackungsregister.org/themen/verpackungsarten",
+    "https://www.verpackungsregister.org/en/system-participation-data-reporting/about-the-catalogue",
+    "https://www.verpackungsregister.org/faq",
+    "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/",
+    "https://www.verpackungsregister.org/information-orientierung/",
+    "https://www.verpackungsregister.org/registrierung-und-lizenzierung/"
+  ],
+  "selectors": {
+    "main_content": "main, article, .content, #content",
+    "title": "h1",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/news/", "/presse/", "/en/news/", "/kontakt", "/impressum", "/datenschutz"]
+  },
+  "categories": {
+    "datenmeldung": ["datenmeldung", "data-reporting", "meldung", "vollständigkeitserklärung"],
+    "verpackungsarten": ["verpackungsarten", "packaging-types", "materialien", "material"],
+    "systembeteiligung": ["systembeteiligung", "system-participation", "lizenzierung", "licensing"],
+    "registrierung": ["registrierung", "registration", "anmeldung"],
+    "katalog": ["katalog", "catalogue", "datenfelder", "data-fields"],
+    "pflichten": ["pflichten", "obligations", "responsibilities", "hersteller"],
+    "validierung": ["validierung", "validation", "prüfung"],
+    "faq": ["faq", "häufig", "fragen"],
+    "rechtliches": ["verpackg", "gesetz", "law", "legal", "vorschriften"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 200
+}
