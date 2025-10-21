@@ -1,0 +1,22 @@
+{
+  "name": "bbst-courses",
+  "description": "BBST (Black Box Software Testing) courses - when working on context-driven testing, test design, bug advocacy, and exploratory testing",
+  "base_url": "https://bbst.courses/category/open-course-materials/",
+  "selectors": {
+    "main_content": "article, main, .content, div[role='main'], .entry-content, .post-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/login", "/signup", "/cart", "/checkout", "/author", "/tag", "/page"]
+  },
+  "categories": {
+    "foundations": ["foundations", "fundamentals", "introduction"],
+    "test_design": ["test design", "techniques", "domain testing"],
+    "bug_advocacy": ["bug advocacy", "reporting", "communication"],
+    "exploratory": ["exploratory", "session-based", "charter"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 150
+}

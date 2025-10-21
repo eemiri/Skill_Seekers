@@ -1,0 +1,23 @@
+{
+  "name": "productplan-guide",
+  "description": "ProductPlan guides and resources - when working on product management, roadmapping, planning, and product strategy",
+  "base_url": "https://www.productplan.com/explore/",
+  "selectors": {
+    "main_content": "article, main, .content, div[role='main'], .post-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/glossary/", "/learn/"],
+    "exclude": ["/login", "/signup", "/pricing", "/templates/download", "/webinar", "/demo", "/contact"]
+  },
+  "categories": {
+    "roadmapping": ["roadmap", "roadmapping", "timeline"],
+    "strategy": ["strategy", "vision", "planning"],
+    "prioritization": ["prioritize", "prioritization", "framework"],
+    "agile": ["agile", "scrum", "sprint"],
+    "glossary": ["glossary", "definition", "term"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 200
+}

@@ -1,0 +1,22 @@
+{
+  "name": "satisfice-htsm",
+  "description": "Heuristic Test Strategy Model - when working on test strategy, heuristics, oracles, and exploratory testing approaches",
+  "base_url": "https://www.satisfice.com/download/heuristic-test-strategy-model",
+  "selectors": {
+    "main_content": "article, main, .content, div[role='main'], .entry-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/login", "/signup", "/cart", "/shop", "/author"]
+  },
+  "categories": {
+    "strategy": ["strategy", "planning", "approach"],
+    "heuristics": ["heuristic", "guideline", "rule of thumb"],
+    "oracles": ["oracle", "verification", "validation"],
+    "techniques": ["technique", "method", "practice"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

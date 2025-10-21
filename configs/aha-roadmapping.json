@@ -1,0 +1,23 @@
+{
+  "name": "aha-roadmapping",
+  "description": "Aha! roadmapping guide - when working on product roadmaps, strategic planning, feature prioritization, and roadmap communication",
+  "base_url": "https://www.aha.io/roadmapping/guide",
+  "selectors": {
+    "main_content": "article, main, .content, div[role='main'], .guide-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/roadmapping/guide"],
+    "exclude": ["/login", "/signup", "/pricing", "/templates", "/webinars"]
+  },
+  "categories": {
+    "fundamentals": ["what-is", "why", "types", "fundamentals", "basics"],
+    "strategy": ["strategy", "vision", "goals", "objectives"],
+    "building": ["building", "creating", "develop", "build"],
+    "prioritization": ["prioritize", "prioritization", "scoring"],
+    "communication": ["communicate", "share", "present", "stakeholder"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 150
+}

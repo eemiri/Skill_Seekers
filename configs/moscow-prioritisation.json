@@ -1,0 +1,23 @@
+{
+  "name": "moscow-prioritisation",
+  "description": "MoSCoW prioritisation framework - when prioritizing requirements, features, or backlog items using Must have, Should have, Could have, Won't have",
+  "base_url": "https://www.agilebusiness.org/dsdm-project-framework/moscow-prioririsation.html",
+  "selectors": {
+    "main_content": "article, main, .content, div[role='main'], .page-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/moscow", "/dsdm", "/priorit"],
+    "exclude": ["/login", "/signup", "/member", "/events"]
+  },
+  "categories": {
+    "fundamentals": ["what", "why", "overview", "introduction"],
+    "must_have": ["must have", "must-have", "critical"],
+    "should_have": ["should have", "should-have", "important"],
+    "could_have": ["could have", "could-have", "desirable"],
+    "wont_have": ["won't have", "wont have", "won't-have"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

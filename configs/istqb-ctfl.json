@@ -1,0 +1,23 @@
+{
+  "name": "istqb-ctfl",
+  "description": "ISTQB Certified Tester Foundation Level - when working on test fundamentals, test design techniques, test management, and testing processes",
+  "base_url": "https://istqb.org/",
+  "selectors": {
+    "main_content": "article, main, .content, div[role='main'], .entry-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/certifications/certified-tester-foundation-level"],
+    "exclude": ["/login", "/signup", "/cart", "/checkout", "/account", "/events", "/news"]
+  },
+  "categories": {
+    "fundamentals": ["fundamentals", "basics", "introduction", "overview"],
+    "test_design": ["test design", "techniques", "black-box", "white-box", "experience-based"],
+    "test_management": ["test management", "planning", "estimation", "monitoring"],
+    "test_process": ["test process", "levels", "types", "activities"],
+    "tools": ["tools", "automation", "support"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

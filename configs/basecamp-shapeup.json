@@ -1,0 +1,23 @@
+{
+  "name": "basecamp-shapeup",
+  "description": "Shape Up methodology for product development - when working on product shaping, appetite setting, betting tables, and Hill Charts",
+  "base_url": "https://basecamp.com/shapeup",
+  "selectors": {
+    "main_content": "article, main, .content, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/shapeup"],
+    "exclude": ["/login", "/signup", "/pricing", "/customers", "basecamp.com/about"]
+  },
+  "categories": {
+    "shaping": ["shaping", "appetite", "boundaries", "rabbit holes"],
+    "betting": ["betting", "bet", "cycle", "cool-down"],
+    "building": ["building", "hill charts", "scopes", "tasks"],
+    "principles": ["principles", "responsibility", "fixed time", "variable scope"],
+    "appendix": ["appendix", "reference", "qa", "questions"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

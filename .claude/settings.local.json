@@ -18,7 +18,12 @@
       "Bash(python cli/doc_scraper.py --config configs/microsoft-style-guide.json)",
       "Bash(python -c \"import shutil; import os; paths = [''output/microsoft-style-guide_data'', ''output/microsoft-style-guide'']; [shutil.rmtree(p) if os.path.exists(p) else None for p in paths]; print(''Cleaned up'')\")",
       "Bash(python cli/package_skill.py output/verpackungsregister/ --no-open)",
-      "Bash(unzip -l output/verpackungsregister.zip)"
+      "Bash(unzip -l output/verpackungsregister.zip)",
+      "Bash(python cli/estimate_pages.py:*)",
+      "Bash(python cli/doc_scraper.py:*)",
+      "Bash(python cli/enhance_skill_local.py:*)",
+      "Bash(python cli/package_skill.py:*)",
+      "Bash(dir:*)"
     ],
     "deny": [],
     "ask": []

@@ -1,0 +1,22 @@
+{
+  "name": "nist-combinatorial",
+  "description": "NIST Combinatorial Testing - when working on pairwise testing, covering arrays, combinatorial test design, and interaction testing",
+  "base_url": "https://csrc.nist.gov/projects/automated-combinatorial-testing-for-software",
+  "selectors": {
+    "main_content": "article, main, .content, div[role='main'], #main-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/combinatorial", "/testing", "/projects/automated"],
+    "exclude": ["/login", "/signup", "/search"]
+  },
+  "categories": {
+    "fundamentals": ["introduction", "overview", "basics", "what is"],
+    "techniques": ["pairwise", "t-way", "covering array", "interaction"],
+    "tools": ["acts", "tool", "download"],
+    "case_studies": ["case study", "example", "application"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}
