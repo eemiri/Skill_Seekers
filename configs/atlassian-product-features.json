@@ -1,0 +1,21 @@
+{
+  "name": "atlassian-product-features",
+  "description": "Use when defining, prioritizing, or managing product features using Atlassian's agile product management methodology",
+  "base_url": "https://www.atlassian.com/agile/product-management/product-features",
+  "selectors": {
+    "main_content": "main",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["/agile/product-management"],
+    "exclude": ["/blog", "/try", "/signup", "/login"]
+  },
+  "categories": {
+    "product_management": ["product-management", "features", "prioritization"],
+    "agile": ["agile", "methodology", "framework"],
+    "planning": ["planning", "roadmap", "strategy"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

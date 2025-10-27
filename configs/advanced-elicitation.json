@@ -1,0 +1,49 @@
+{
+  "name": "advanced-elicitation",
+  "description": "Use this skill when helping users conduct requirements elicitation, stakeholder interviews, workshops, or facilitation sessions. Provides techniques like heuristic evaluation, pre-mortem analysis, I Like/I Wish/What If, SWOT analysis, and Six Thinking Hats.",
+  "base_url": "https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/",
+  "start_urls": [
+    "https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/",
+    "https://www.atlassian.com/team-playbook/plays/pre-mortem",
+    "https://dschool.stanford.edu/resources/i-like-i-wish-what-if",
+    "https://www.mindtools.com/pages/article/newPPM_07.htm",
+    "https://www.debonogroup.com/services/core-programs/six-thinking-hats/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.article-body, div.main-content",
+    "title": "h1, title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [
+      "heuristic-evaluation",
+      "pre-mortem",
+      "i-like-i-wish",
+      "swot-analysis",
+      "six-thinking-hats",
+      "elicitation",
+      "workshop",
+      "facilitation"
+    ],
+    "exclude": [
+      "/search",
+      "/login",
+      "/signup",
+      "/cart",
+      "/checkout",
+      "/pricing",
+      "/download",
+      "/account",
+      "/shop"
+    ]
+  },
+  "categories": {
+    "evaluation": ["heuristic", "evaluation", "usability", "nngroup", "nielsen"],
+    "risk_analysis": ["pre-mortem", "risk", "failure", "atlassian", "playbook"],
+    "ideation": ["i-like", "i-wish", "what-if", "brainstorm", "stanford", "dschool"],
+    "strategy": ["swot", "strengths", "weaknesses", "opportunities", "threats", "mindtools"],
+    "thinking": ["six-hats", "thinking", "debono", "lateral", "perspective"]
+  },
+  "rate_limit": 0.8,
+  "max_pages": 120
+}

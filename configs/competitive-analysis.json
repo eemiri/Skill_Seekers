@@ -1,0 +1,42 @@
+{
+  "name": "competitive-analysis",
+  "description": "Use this skill when helping users perform competitive analysis, market research, or competitor research for businesses. Provides frameworks, templates, and methodologies for analyzing competitors.",
+  "base_url": "https://www.shopify.com/blog/competitive-analysis",
+  "start_urls": [
+    "https://www.shopify.com/blog/competitive-analysis",
+    "https://www.sba.gov/business-guide/plan-your-business/market-research-competitive-analysis",
+    "https://miro.com/templates/competitor-analysis/",
+    "https://openstax.org/books/entrepreneurship/pages/5-3-competitive-analysis",
+    "https://www.smartsheet.com/free-competitor-analysis-template"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content",
+    "title": "h1, title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [
+      "competitive-analysis",
+      "competitor-analysis",
+      "market-research",
+      "entrepreneurship/pages/5-3"
+    ],
+    "exclude": [
+      "/search",
+      "/login",
+      "/signup",
+      "/cart",
+      "/checkout",
+      "/pricing",
+      "/download"
+    ]
+  },
+  "categories": {
+    "frameworks": ["framework", "methodology", "approach", "strategy", "swot", "porter"],
+    "templates": ["template", "worksheet", "checklist", "tool", "miro"],
+    "research": ["research", "analysis", "data", "market", "sba"],
+    "examples": ["example", "case-study", "sample", "demonstration", "openstax"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

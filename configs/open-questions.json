@@ -1,0 +1,42 @@
+{
+  "name": "open-questions",
+  "description": "Use this skill when documenting open issues, open questions, decision logs, key decisions, and Q&A sections in Product Requirements Documents (PRDs) and product management documentation",
+  "base_url": "https://productschool.com/blog/product-strategy/product-template-requirements-document-prd",
+  "start_urls": [
+    "https://productschool.com/blog/product-strategy/product-template-requirements-document-prd",
+    "https://www.prodpad.com/blog/prd-example/",
+    "https://www.cycle.app/blog/how-figma-writes-product-requirements-document-prd"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .post-content, .blog-content",
+    "title": "h1, .post-title, .blog-title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/blog/product-strategy/product-template-requirements-document-prd",
+      "/blog/prd-example",
+      "/blog/how-figma-writes-product-requirements-document-prd"
+    ],
+    "exclude": [
+      "/login",
+      "/signup",
+      "/pricing",
+      "/cart",
+      "/checkout",
+      "/author/",
+      "/category/",
+      "/tag/",
+      "?",
+      "#"
+    ]
+  },
+  "categories": {
+    "open_issues": ["open-issue", "open-question", "unresolved", "pending", "tbd", "to-be-determined"],
+    "decision_logs": ["decision", "key-decision", "decision-log", "tradeoff", "choice", "rationale"],
+    "qa_sections": ["q-a", "question", "answer", "faq", "common-question"],
+    "templates": ["template", "example", "format", "structure", "figma", "prodpad"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 30
+}

@@ -1,0 +1,44 @@
+{
+  "name": "brainstorming",
+  "description": "Use when working with brainstorming techniques, facilitation methods, ideation exercises, or collaborative creativity frameworks including 1-2-4-All, Crazy 8s, Silent Brainstorming, and design thinking ideation rules",
+  "base_url": "https://www.liberatingstructures.com/1-1-2-4-all/",
+  "additional_urls": [
+    "https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s",
+    "https://openpracticelibrary.com/practice/silent-brainstorming-brainwriting/",
+    "https://www.designkit.org/methods/brainstorm-rules.html"
+  ],
+  "selectors": {
+    "main_content": "main, article, .sqs-block-content, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/1-1-2-4-all",
+      "/crazy-8s",
+      "/silent-brainstorming",
+      "/brainstorm-rules",
+      "/liberatingstructures.com/",
+      "/designsprintkit.withgoogle.com/",
+      "/openpracticelibrary.com/",
+      "/designkit.org/"
+    ],
+    "exclude": [
+      "/search",
+      "/login",
+      "/signup",
+      "analytics",
+      ".jpg",
+      ".png",
+      ".pdf"
+    ]
+  },
+  "categories": {
+    "liberating_structures": ["1-2-4-all", "liberating", "inclusion"],
+    "design_sprints": ["crazy-8", "sketch", "google", "sprint"],
+    "silent_methods": ["silent", "brainwriting", "individual"],
+    "facilitation_rules": ["rules", "ideo", "guidelines", "principles"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

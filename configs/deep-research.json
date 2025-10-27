@@ -1,0 +1,33 @@
+{
+  "name": "deep-research",
+  "description": "Use this skill when helping users conduct academic research, write research papers, perform literature reviews, or learn research methodologies. Covers research strategies, citation practices, and academic writing from UCLA Library resources.",
+  "base_url": "https://www.library.ucla.edu/help/services-resources/writing-research-tutorials/",
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.node-content",
+    "title": "h1, title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [
+      "/writing-research-tutorials",
+      "/research",
+      "/citation",
+      "/library"
+    ],
+    "exclude": [
+      "/search",
+      "/login",
+      "/calendar",
+      "/hours",
+      "/contact"
+    ]
+  },
+  "categories": {
+    "methodology": ["methodology", "method", "approach", "strategy", "technique"],
+    "writing": ["writing", "paper", "thesis", "dissertation", "essay"],
+    "citation": ["citation", "reference", "bibliography", "apa", "mla", "chicago"],
+    "literature_review": ["literature", "review", "analysis", "synthesis"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

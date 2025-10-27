@@ -1,0 +1,43 @@
+{
+  "name": "acceptance-criteria",
+  "description": "Use this skill when writing user stories, acceptance criteria, BDD scenarios, or agile requirements. Provides best practices for Given-When-Then format, scenario-oriented criteria, and rule-oriented formats.",
+  "base_url": "https://www.altexsoft.com/blog/acceptance-criteria-purposes-formats-and-best-practices/",
+  "additional_urls": [
+    "https://www.zenhub.com/blog-posts/acceptance-criteria-what-it-is-and-best-practices",
+    "https://blog.logrocket.com/product-management/acceptance-criteria/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.post-content, div.content, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/blog/acceptance-criteria",
+      "/blog-posts/acceptance-criteria",
+      "/product-management/acceptance-criteria"
+    ],
+    "exclude": [
+      "/wp-admin",
+      "/wp-content",
+      "/feed",
+      "/comments",
+      "/author/",
+      "/tag/",
+      "/category/",
+      "?replytocom",
+      "#comments",
+      "/login",
+      "/signup"
+    ]
+  },
+  "categories": {
+    "getting_started": ["introduction", "what is", "definition", "overview", "basics", "purpose"],
+    "formats": ["format", "template", "structure", "given-when-then", "gherkin", "scenario", "rule-oriented"],
+    "best_practices": ["best practice", "tips", "guidelines", "do and don't", "common mistakes", "anti-pattern"],
+    "examples": ["example", "sample", "use case", "real-world", "template"],
+    "agile": ["agile", "scrum", "user story", "sprint", "backlog", "epic"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

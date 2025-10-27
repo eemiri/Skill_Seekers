@@ -1,0 +1,23 @@
+{
+  "name": "atlassian-product-management",
+  "description": "Atlassian's agile product management best practices, requirements, and team collaboration guides",
+  "base_url": "https://www.atlassian.com/agile/product-management",
+  "selectors": {
+    "main_content": "main, article",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["/agile/product-management", "/agile/project-management"],
+    "exclude": ["/try", "/buy", "/pricing", "/login", "/software"]
+  },
+  "categories": {
+    "requirements": ["requirements", "prd", "specifications"],
+    "agile": ["agile", "scrum", "kanban"],
+    "roadmaps": ["roadmap", "planning"],
+    "product_management": ["product-management", "product-owner"],
+    "best_practices": ["best-practice", "guide", "how-to"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 200
+}

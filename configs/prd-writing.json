@@ -1,0 +1,37 @@
+{
+  "name": "prd-writing",
+  "description": "Use this skill when helping users write Product Requirements Documents (PRDs), create PRD templates, or understand PRD best practices and methodologies",
+  "base_url": "https://www.aha.io/roadmapping/guide/requirements-management/",
+  "selectors": {
+    "main_content": ".Content, .PageLayout__contentWrapper, article, main",
+    "title": "h1, .main_title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/roadmapping/guide/requirements-management/",
+      "/agile/product-management/requirements",
+      "/glossary/product-requirements-document",
+      "/blog/product-strategy/product-template-requirements-document-prd"
+    ],
+    "exclude": [
+      "/login",
+      "/signup",
+      "/pricing",
+      "/cart",
+      "/checkout",
+      "?",
+      "#"
+    ]
+  },
+  "categories": {
+    "getting_started": ["what-is", "introduction", "basics", "overview", "definition"],
+    "templates": ["template", "example", "format", "structure"],
+    "best_practices": ["best-practice", "tip", "guideline", "recommendation", "mistake", "pitfall"],
+    "writing_process": ["how-to", "write", "create", "when-to", "process", "steps"],
+    "components": ["include", "content", "section", "component", "element"],
+    "tools": ["tool", "software", "platform", "aha", "atlassian", "productplan"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

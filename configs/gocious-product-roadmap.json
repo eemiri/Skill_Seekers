@@ -1,0 +1,21 @@
+{
+  "name": "gocious-product-roadmap",
+  "description": "Use when creating visual product roadmaps, managing feature libraries, or understanding product roadmap best practices",
+  "base_url": "https://gocious.com/blog/who-can-benefit-from-using-a-visual-product-roadmap",
+  "selectors": {
+    "main_content": "article",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["/blog"],
+    "exclude": ["/contact", "/demo", "/signup", "/login"]
+  },
+  "categories": {
+    "roadmapping": ["roadmap", "visual", "planning"],
+    "feature_library": ["feature", "library", "catalog"],
+    "product_strategy": ["strategy", "prioritization", "benefits"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

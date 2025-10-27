@@ -1,0 +1,41 @@
+{
+  "name": "roadmap-slicing",
+  "description": "Use this skill when planning product roadmaps, breaking down features into deliverable slices, implementing thin slicing or vertical slicing techniques, or organizing incremental delivery strategies for agile teams.",
+  "base_url": "https://medium.com/@rico.surridge/thin-slicing-your-way-to-success-2f5228f230dc",
+  "additional_urls": [
+    "https://medium.com/@murthy.1809/vertical-slicing-8654662539b9",
+    "https://blog.newmathdata.com/agile-thin-slice-technique-explained-257d800b0592"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.post-content, div.content, section[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/thin-slicing",
+      "/vertical-slicing",
+      "/agile-thin-slice"
+    ],
+    "exclude": [
+      "/login",
+      "/signup",
+      "/membership",
+      "/subscribe",
+      "?source=",
+      "/responses",
+      "/notes",
+      "#respond"
+    ]
+  },
+  "categories": {
+    "getting_started": ["introduction", "what is", "definition", "overview", "basics"],
+    "techniques": ["technique", "method", "approach", "strategy", "how to"],
+    "thin_slicing": ["thin slice", "thin slicing", "incremental", "small batch"],
+    "vertical_slicing": ["vertical slice", "vertical slicing", "end-to-end", "cross-layer"],
+    "best_practices": ["best practice", "tips", "guidelines", "principle", "benefit"],
+    "examples": ["example", "case study", "sample", "real-world", "demonstration"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

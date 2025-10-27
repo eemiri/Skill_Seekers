@@ -1,0 +1,27 @@
+{
+  "name": "stakeholder-alignment",
+  "description": "Stakeholder alignment and management for product managers. Use when working on stakeholder communication, alignment strategies, stakeholder mapping, managing expectations, and building consensus across teams and leadership.",
+  "base_url": "https://www.aha.io/",
+  "start_urls": [
+    "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment",
+    "https://www.productboard.com/blog/3-best-practices-for-building-stakeholder-alignment-as-a-product-leader/",
+    "https://productschool.com/blog/skills/product-management-skills-stakeholder-management"
+  ],
+  "selectors": {
+    "main_content": "article, .pageContentsWrapper, .ewOftR, main",
+    "title": "h1",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["stakeholder"],
+    "exclude": ["/pricing", "/login", "/signup", "/demo", "/products/", "/customer-stories/", "/templates/", "/careers/", "/company/", "/integrations/"]
+  },
+  "categories": {
+    "alignment_strategies": ["alignment", "consensus", "agreement", "buy-in"],
+    "stakeholder_mapping": ["mapping", "categorize", "identify", "stakeholder-types"],
+    "communication": ["communication", "updates", "reporting", "presentation"],
+    "best_practices": ["best-practice", "tip", "technique", "approach"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

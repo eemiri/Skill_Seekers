@@ -1,0 +1,23 @@
+{
+  "name": "productplan-glossary",
+  "description": "Product management terminology, definitions, and concepts glossary from ProductPlan",
+  "base_url": "https://www.productplan.com/glossary/",
+  "selectors": {
+    "main_content": ".entry-content, #left-area",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["/glossary/"],
+    "exclude": ["/pricing", "/login", "/signup", "/demo"]
+  },
+  "categories": {
+    "product_management": ["product-manager", "product-management", "pm"],
+    "planning": ["planning", "roadmap", "strategy"],
+    "frameworks": ["framework", "methodology", "process"],
+    "metrics": ["metric", "kpi", "analytics"],
+    "tools": ["tool", "software", "platform"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150
+}

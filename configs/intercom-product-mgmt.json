@@ -1,0 +1,37 @@
+{
+  "name": "intercom-product-mgmt",
+  "description": "Use when learning Intercom's approach to product management, including their principles of 'Start with the problem', 'Think big, start small', 'Ship to learn', product strategy, saying no, and building small product teams",
+  "base_url": "https://www.intercom.com/blog/tag/product-management/",
+  "selectors": {
+    "main_content": "article, main, .blog-post, .content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/blog/product",
+      "/blog/how-we-build",
+      "/blog/intercom-product-principles",
+      "/blog/product-strategy",
+      "/blog/product-management"
+    ],
+    "exclude": [
+      "/careers",
+      "/pricing",
+      "/customers",
+      "/early-stage",
+      "/signup",
+      "/demo"
+    ]
+  },
+  "categories": {
+    "principles": ["principles", "philosophy", "approach"],
+    "strategy": ["strategy", "vision", "planning"],
+    "process": ["process", "workflow", "methodology"],
+    "teams": ["teams", "structure", "organization"],
+    "product_building": ["building", "development", "shipping"],
+    "decision_making": ["decisions", "saying-no", "prioritization"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 80
+}

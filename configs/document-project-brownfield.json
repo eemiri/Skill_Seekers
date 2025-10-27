@@ -1,0 +1,42 @@
+{
+  "name": "document-project-brownfield",
+  "description": "Use this skill when documenting existing software projects (brownfield), creating software architecture documentation, using C4 model, arc42 templates, ADRs (Architecture Decision Records), or Structurizr. Helps reverse-engineer and document legacy systems.",
+  "base_url": "https://c4model.com/",
+  "start_urls": [
+    "https://c4model.com/",
+    "https://arc42.org/overview",
+    "https://docs.arc42.org/",
+    "https://adr.github.io/madr/",
+    "https://docs.structurizr.com/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.section",
+    "title": "h1, title",
+    "code_blocks": "pre code, pre"
+  },
+  "url_patterns": {
+    "include": [
+      "c4model",
+      "arc42",
+      "madr",
+      "structurizr",
+      "architecture",
+      "adr"
+    ],
+    "exclude": [
+      "/search",
+      "/login",
+      "/signup",
+      "/download",
+      "/pricing"
+    ]
+  },
+  "categories": {
+    "c4_model": ["c4", "context", "container", "component", "code", "diagram"],
+    "arc42": ["arc42", "template", "section", "documentation"],
+    "adr": ["adr", "decision", "record", "madr"],
+    "tools": ["structurizr", "tool", "dsl", "workspace"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 150
+}

@@ -1,0 +1,36 @@
+{
+  "name": "prd-diff",
+  "description": "Use this skill when managing PRD (Product Requirements Document) versions, tracking feature changes, implementing change management for requirements, versioning product documentation, or treating PRD diffs as new features in agile workflows.",
+  "base_url": "https://medium.com/bumble-tech/crazy-agile-api-5130be6f5b06",
+  "additional_urls": [
+    "https://pm.stackexchange.com/questions/24220/managing-product-versions-in-confluence-with-prds"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.post-content, div.content, div.post-body",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/crazy-agile-api",
+      "/managing-product-versions"
+    ],
+    "exclude": [
+      "/login",
+      "/signup",
+      "/membership",
+      "/subscribe",
+      "?source=",
+      "/responses"
+    ]
+  },
+  "categories": {
+    "getting_started": ["introduction", "what is", "definition", "overview"],
+    "versioning": ["version", "versioning", "change tracking", "history"],
+    "prd_management": ["prd", "product requirements", "documentation", "confluence"],
+    "change_management": ["change", "diff", "update", "revision"],
+    "best_practices": ["best practice", "tips", "guidelines", "workflow"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

@@ -1,0 +1,39 @@
+{
+  "name": "prompt-engineering",
+  "description": "Use this skill when helping users write effective prompts for AI models, optimize prompt performance, or learn prompt engineering techniques. Covers OpenAI, Anthropic Claude, and Microsoft Azure AI best practices.",
+  "base_url": "https://platform.openai.com/docs/guides/prompt-engineering",
+  "start_urls": [
+    "https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results",
+    "https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview",
+    "https://docs.anthropic.com/en/prompt-library/library",
+    "https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.markdown",
+    "title": "h1, title",
+    "code_blocks": "pre code, pre"
+  },
+  "url_patterns": {
+    "include": [
+      "prompt-engineering",
+      "prompt-library",
+      "build-with-claude"
+    ],
+    "exclude": [
+      "/search",
+      "/login",
+      "/signup",
+      "/pricing",
+      "/api-reference",
+      "/changelog"
+    ]
+  },
+  "categories": {
+    "strategies": ["strategy", "strategies", "technique", "method", "approach"],
+    "examples": ["example", "library", "template", "sample", "demonstration"],
+    "best_practices": ["best-practice", "guideline", "tip", "recommendation"],
+    "techniques": ["chain-of-thought", "few-shot", "zero-shot", "role", "system"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 150
+}

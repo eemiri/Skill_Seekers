@@ -1,0 +1,27 @@
+{
+  "name": "perforce-requirements",
+  "description": "Perforce's guidance on requirements management, non-functional requirements, application lifecycle management, and best practices for software teams.",
+  "base_url": "https://www.perforce.com/blog/",
+  "start_urls": [
+    "https://www.perforce.com/blog/alm/what-are-non-functional-requirements-examples",
+    "https://www.perforce.com/blog/alm",
+    "https://www.perforce.com/resources/alm"
+  ],
+  "selectors": {
+    "main_content": "article, .node-content, .field-body",
+    "title": "h1",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/blog/alm/", "/resources/alm/", "requirement", "project-management"],
+    "exclude": ["/products/", "/downloads/", "/pricing/"]
+  },
+  "categories": {
+    "requirements": ["requirement", "nfr", "functional", "specification"],
+    "alm": ["application-lifecycle", "alm", "lifecycle"],
+    "project_management": ["project-management", "agile", "methodology"],
+    "best_practices": ["best-practice", "tip", "example", "approach"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 117
+}

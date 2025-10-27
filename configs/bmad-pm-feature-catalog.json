@@ -1,0 +1,41 @@
+{
+  "name": "bmad-pm-feature-catalog",
+  "description": "Use this skill when working with product feature catalogs, feature libraries, product roadmaps, feature prioritization, or managing product portfolios. Provides guidance on defining, organizing, and prioritizing product features effectively.",
+  "base_url": "https://www.atlassian.com/agile/product-management/product-features",
+  "additional_urls": [
+    "https://gocious.com/blog/who-can-benefit-from-using-a-visual-product-roadmap",
+    "https://docs.usehindsight.com/guides/product-managers"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.post-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/agile/product-management",
+      "/blog/",
+      "/guides/product-managers"
+    ],
+    "exclude": [
+      "/login",
+      "/signup",
+      "/pricing",
+      "/contact",
+      "/about-us",
+      "/careers",
+      "?",
+      "#"
+    ]
+  },
+  "categories": {
+    "getting_started": ["introduction", "what is", "getting started", "overview", "basics"],
+    "feature_definition": ["define", "definition", "feature", "requirements", "specification"],
+    "prioritization": ["prioritize", "prioritization", "ranking", "scoring", "value"],
+    "roadmapping": ["roadmap", "planning", "timeline", "strategy"],
+    "feature_catalog": ["catalog", "library", "repository", "inventory", "portfolio"],
+    "best_practices": ["best practice", "tips", "guidelines", "framework", "methodology"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

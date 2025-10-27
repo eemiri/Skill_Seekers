@@ -1,0 +1,34 @@
+{
+  "name": "design-sprint-kit",
+  "description": "Use when planning, facilitating, or running Google Design Sprints - a 5-day process for answering critical business questions through design, prototyping, and testing ideas with customers",
+  "base_url": "https://designsprintkit.withgoogle.com/",
+  "selectors": {
+    "main_content": "main, article, .content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/methodology/",
+      "/planning/",
+      "/resources/",
+      "/case-studies/"
+    ],
+    "exclude": [
+      "/relay2021/",
+      ".pdf",
+      "/assets/",
+      "javascript:",
+      "#"
+    ]
+  },
+  "categories": {
+    "methodology": ["methodology", "phase", "understand", "define", "sketch", "decide", "prototype", "validate"],
+    "planning": ["planning", "scope", "team", "sprint-brief", "initialwork"],
+    "methods": ["methods", "exercises", "activities", "techniques"],
+    "resources": ["resources", "tools", "templates", "reading"],
+    "case_studies": ["case-studies", "examples", "stories"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 150
+}

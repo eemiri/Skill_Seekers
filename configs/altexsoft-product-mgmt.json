@@ -1,0 +1,28 @@
+{
+  "name": "altexsoft-product-mgmt",
+  "description": "AltexSoft's product management insights covering metrics, KPIs, requirements (functional and non-functional), and best practices for product teams.",
+  "base_url": "https://www.altexsoft.com/blog/",
+  "start_urls": [
+    "https://www.altexsoft.com/blog/15-key-product-management-metrics-and-kpis/",
+    "https://www.altexsoft.com/blog/non-functional-requirements/",
+    "https://www.altexsoft.com/blog/business/complete-guide-to-product-management/",
+    "https://www.altexsoft.com/blog/business/software-product-management/"
+  ],
+  "selectors": {
+    "main_content": ".iXptCH, .evWVlm",
+    "title": "h1",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/blog/business/", "/blog/engineering/", "product", "requirement", "metric", "kpi"],
+    "exclude": ["/author/", "/category/", "/tag/", "/search"]
+  },
+  "categories": {
+    "metrics": ["metric", "kpi", "measurement", "analytics"],
+    "requirements": ["requirement", "nfr", "functional", "specification"],
+    "product_management": ["product-management", "product-manager", "roadmap"],
+    "best_practices": ["best-practice", "tip", "approach", "guide"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 228
+}

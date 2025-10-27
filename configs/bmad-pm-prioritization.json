@@ -1,0 +1,42 @@
+{
+  "name": "bmad-pm-prioritization",
+  "description": "Use this skill when helping users choose, apply, or understand product prioritization frameworks like MoSCoW, RICE, Kano, Impact-Effort Matrix, and other prioritization methodologies",
+  "base_url": "https://www.atlassian.com/agile/product-management/prioritization-framework",
+  "start_urls": [
+    "https://www.atlassian.com/agile/product-management/prioritization-framework",
+    "https://productschool.com/blog/product-fundamentals/ultimate-guide-product-prioritization",
+    "https://monday.com/blog/rnd/product-prioritization-framework/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .article-section__container, #post-content",
+    "title": "h1, .post-title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/agile/product-management/prioritization",
+      "/blog/product-fundamentals/ultimate-guide-product-prioritization",
+      "/blog/rnd/product-prioritization-framework"
+    ],
+    "exclude": [
+      "/login",
+      "/signup",
+      "/pricing",
+      "/cart",
+      "/checkout",
+      "/author/",
+      "/category/",
+      "/tag/",
+      "?",
+      "#"
+    ]
+  },
+  "categories": {
+    "frameworks": ["moscow", "rice", "kano", "impact-effort", "matrix", "weighted-scoring", "cost-of-delay", "product-tree", "buy-a-feature", "dvf", "desirability", "feasibility", "viability"],
+    "getting_started": ["what-is", "introduction", "basics", "overview", "choosing", "pick", "select"],
+    "implementation": ["how-to", "implement", "apply", "use", "example", "practice", "process"],
+    "comparison": ["comparison", "compare", "versus", "vs", "difference", "when-to-use"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

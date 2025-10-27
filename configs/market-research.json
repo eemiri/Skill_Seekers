@@ -1,0 +1,54 @@
+{
+  "name": "market-research",
+  "description": "Use this skill when helping users perform market research, market analysis, competitive intelligence, or business analysis. Provides frameworks like TAM/SAM/SOM, PEST analysis, Porter's Five Forces, market segmentation, and research methodologies.",
+  "base_url": "https://www.qualtrics.com/experience-management/brand/market-research/",
+  "start_urls": [
+    "https://www.qualtrics.com/experience-management/brand/market-research/",
+    "https://www.productplan.com/glossary/tam-sam-som/",
+    "https://en.wikipedia.org/wiki/PEST_analysis",
+    "https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis",
+    "https://courses.lumenlearning.com/suny-principlesofmarketing/chapter/reading-marketing-information-and-research/",
+    "https://www.investopedia.com/terms/m/market-research.asp",
+    "https://www.ama.org/the-definition-of-marketing-what-is-marketing/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.mw-parser-output, div#bodyContent",
+    "title": "h1, title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [
+      "market-research",
+      "tam-sam-som",
+      "PEST_analysis",
+      "Porter",
+      "five_forces",
+      "marketing-information",
+      "market-segmentation",
+      "competitive",
+      "consumer-research"
+    ],
+    "exclude": [
+      "/search",
+      "/login",
+      "/signup",
+      "/Special:",
+      "/Talk:",
+      "/User:",
+      "/File:",
+      "/Template:",
+      "/Help:",
+      "/Category:",
+      "/cart",
+      "/checkout"
+    ]
+  },
+  "categories": {
+    "frameworks": ["framework", "methodology", "pest", "porter", "five-forces", "swot", "tam", "sam", "som"],
+    "research_methods": ["research", "survey", "interview", "focus-group", "methodology", "data-collection"],
+    "analysis": ["analysis", "segmentation", "targeting", "positioning", "competitive"],
+    "strategy": ["strategy", "planning", "business-model", "market-entry", "go-to-market"]
+  },
+  "rate_limit": 0.8,
+  "max_pages": 150
+}

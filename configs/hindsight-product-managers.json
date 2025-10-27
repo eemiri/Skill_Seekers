@@ -1,0 +1,21 @@
+{
+  "name": "hindsight-product-managers",
+  "description": "Use when setting up feature catalogs, managing product documentation, or working with Hindsight product management tools",
+  "base_url": "https://docs.usehindsight.com/guides/product-managers",
+  "selectors": {
+    "main_content": "article",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["/guides", "/docs"],
+    "exclude": ["/signup", "/login", "/pricing"]
+  },
+  "categories": {
+    "feature_catalog": ["feature-catalog", "catalog", "setup"],
+    "product_guides": ["guides", "product-managers", "workflow"],
+    "documentation": ["docs", "reference", "api"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

@@ -1,0 +1,37 @@
+{
+  "name": "atlassian-product-mgmt",
+  "description": "Use when working on product management tasks including roadmaps, product discovery, requirements gathering, backlog prioritization, feature planning, and agile product development processes",
+  "base_url": "https://www.atlassian.com/agile/product-management",
+  "selectors": {
+    "main_content": "article, main, .content, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/agile/product-management"
+    ],
+    "exclude": [
+      "/software/",
+      "/teams/",
+      "/blog/",
+      "/resources/",
+      "/customers/",
+      "/purchase",
+      "/try",
+      "/pricing",
+      "/contact"
+    ]
+  },
+  "categories": {
+    "roadmaps": ["roadmap", "roadmaps", "planning"],
+    "requirements": ["requirements", "prd", "specifications", "features"],
+    "product_discovery": ["discovery", "research", "validation"],
+    "backlog": ["backlog", "prioritization", "features"],
+    "product_release": ["release", "launch", "deployment"],
+    "product_development": ["development", "process", "lifecycle"],
+    "tools": ["tools", "software", "platforms"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}
