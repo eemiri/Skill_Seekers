@@ -1,0 +1,31 @@
+{
+  "name": "performance-testing-slis",
+  "description": "Use this skill when implementing performance testing, load testing, defining SLIs/SLOs/SLAs, or using tools like K6, JMeter, Gatling, and following Google SRE practices",
+  "base_url": "https://grafana.com/docs/k6/latest/",
+  "specific_urls": [
+    "https://grafana.com/docs/k6/latest/",
+    "https://sre.google/workbook/implementing-slos/",
+    "https://sre.google/sre-book/service-level-objectives/",
+    "https://jmeter.apache.org/",
+    "https://docs.gatling.io/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.entry-content, div.post-content, div.markdown-body",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": []
+  },
+  "categories": {
+    "k6": ["k6", "load", "javascript", "virtual user"],
+    "slo": ["slo", "sli", "sla", "objective", "indicator", "agreement"],
+    "jmeter": ["jmeter", "java", "performance", "throughput"],
+    "gatling": ["gatling", "scala", "simulation", "scenario"],
+    "sre": ["sre", "reliability", "error budget", "availability"],
+    "best_practices": ["best", "practice", "pattern", "strategy"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 10
+}

@@ -1,0 +1,29 @@
+{
+  "name": "test-case-design",
+  "description": "Use this skill when designing test cases using boundary value analysis, equivalence partitioning, decision table testing, or creating requirements traceability matrices for software testing",
+  "base_url": "https://www.softwaretestinghelp.com/what-is-boundary-value-analysis-and-equivalence-partitioning/",
+  "specific_urls": [
+    "https://www.softwaretestinghelp.com/what-is-boundary-value-analysis-and-equivalence-partitioning/",
+    "https://www.guru99.com/traceability-matrix.html",
+    "https://www.guru99.com/decision-table-testing.html",
+    "https://www.softwaretestinghelp.com/requirements-traceability-matrix/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.entry-content, div.post-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": []
+  },
+  "categories": {
+    "boundary_value": ["boundary", "bva", "boundary value", "edge case"],
+    "equivalence_partitioning": ["equivalence", "partition", "ep", "class"],
+    "decision_table": ["decision", "table", "condition", "action"],
+    "traceability": ["traceability", "matrix", "rtm", "requirement", "coverage"],
+    "best_practices": ["best", "practice", "example", "technique"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 10
+}

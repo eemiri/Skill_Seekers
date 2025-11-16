@@ -1,0 +1,24 @@
+{
+  "name": "robot-framework",
+  "description": "Robot Framework test automation - use when working with Robot Framework test suites, test cases, keywords, and test execution",
+  "base_url": "https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html",
+  "selectors": {
+    "main_content": "body",
+    "title": "h1, h2, h3",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/robotframework/", "/RobotFrameworkUserGuide"],
+    "exclude": ["/api/", "/_static/", "/_sources/"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "getting_started", "installation", "demo"],
+    "syntax": ["syntax", "data", "variables", "test_data"],
+    "keywords": ["keywords", "library", "builtin"],
+    "test_suites": ["suite", "test_case", "organization"],
+    "execution": ["execution", "running", "output", "report"],
+    "advanced": ["listener", "api", "extending", "remote"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

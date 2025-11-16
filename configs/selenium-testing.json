@@ -1,0 +1,24 @@
+{
+  "name": "selenium-testing",
+  "description": "Selenium WebDriver for browser automation and testing - use when working with Selenium test automation, web element interaction, and browser testing",
+  "base_url": "https://www.selenium.dev/documentation/",
+  "selectors": {
+    "main_content": "main, article, div.td-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/documentation/", "/webdriver/", "/selenium/"],
+    "exclude": ["/blog/", "/downloads/", "/support/", "/sponsor/"]
+  },
+  "categories": {
+    "getting_started": ["overview", "getting_started", "installation", "first"],
+    "webdriver": ["webdriver", "driver", "browser"],
+    "elements": ["element", "locator", "finding", "interaction"],
+    "waits": ["wait", "synchronization", "implicit", "explicit"],
+    "testing": ["test", "testing", "assertions", "best_practices"],
+    "advanced": ["grid", "remote", "headless", "docker"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 200
+}

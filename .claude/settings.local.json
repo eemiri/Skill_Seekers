@@ -56,7 +56,15 @@
       "WebFetch(domain:www.prodpad.com)",
       "WebFetch(domain:www.cycle.app)",
       "WebFetch(domain:www.productboard.com)",
-      "WebFetch(domain:pm.stackexchange.com)"
+      "WebFetch(domain:pm.stackexchange.com)",
+      "Read(//tmp/**)",
+      "Bash(copy:*)",
+      "WebFetch(domain:www.softwaretestinghelp.com)",
+      "WebFetch(domain:agilealliance.org)",
+      "Bash(nul)",
+      "WebFetch(domain:docs.github.com)",
+      "WebFetch(domain:www.jenkins.io)",
+      "WebFetch(domain:docs.gitlab.com)"
     ],
     "deny": [],
     "ask": []

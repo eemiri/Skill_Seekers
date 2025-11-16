@@ -1,0 +1,22 @@
+{
+  "name": "bug-triage-atlassian",
+  "description": "Bug triage and defect management in Agile - use when triaging bugs, prioritizing defects, or managing bug workflows",
+  "base_url": "https://www.atlassian.com/agile/software-development/bug-triage",
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/agile/", "/software-development/", "/bug", "/defect"],
+    "exclude": ["/pricing/", "/signup/", "/login/", "/products/"]
+  },
+  "categories": {
+    "process": ["triage", "process", "workflow", "methodology"],
+    "prioritization": ["priority", "severity", "classification"],
+    "tools": ["tools", "jira", "tracking", "management"],
+    "best_practices": ["best", "practices", "tips", "guidelines"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

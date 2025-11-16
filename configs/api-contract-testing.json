@@ -1,0 +1,31 @@
+{
+  "name": "api-contract-testing",
+  "description": "Use this skill when implementing API contract testing, working with OpenAPI/Swagger specifications, JSON Schema validation, API versioning strategies, or using consumer-driven contract testing with Pact",
+  "base_url": "https://json-schema.org/",
+  "specific_urls": [
+    "https://json-schema.org/",
+    "https://swagger.io/specification/",
+    "https://www.postman.com/api-platform/api-testing/",
+    "https://www.postman.com/api-platform/api-versioning/",
+    "https://pactflow.io/blog/contract-testing-using-json-schemas-and-open-api-part-1/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.entry-content, div.post-content, div.markdown-body",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": []
+  },
+  "categories": {
+    "json_schema": ["json", "schema", "validation", "type"],
+    "openapi": ["openapi", "swagger", "specification", "oas"],
+    "postman": ["postman", "testing", "api test"],
+    "versioning": ["version", "versioning", "compatibility"],
+    "contract_testing": ["contract", "pact", "consumer", "provider"],
+    "best_practices": ["best", "practice", "pattern", "strategy"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 10
+}

@@ -1,0 +1,30 @@
+{
+  "name": "accessibility-testing",
+  "description": "Use this skill when implementing web accessibility, testing with WCAG guidelines, using ARIA patterns, testing with axe-core, or following accessibility best practices",
+  "base_url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
+  "specific_urls": [
+    "https://www.w3.org/WAI/standards-guidelines/wcag/",
+    "https://www.w3.org/WAI/ARIA/apg/",
+    "https://web.dev/learn/accessibility",
+    "https://github.com/dequelabs/axe-core",
+    "https://www.a11yproject.com/checklist/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.entry-content, div.post-content, div.markdown-body",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": []
+  },
+  "categories": {
+    "wcag": ["wcag", "guideline", "standard", "compliance"],
+    "aria": ["aria", "role", "label", "accessible name"],
+    "testing": ["axe", "test", "audit", "check"],
+    "checklist": ["checklist", "best practice", "a11y"],
+    "patterns": ["pattern", "component", "widget", "example"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 10
+}

@@ -1,0 +1,21 @@
+{
+  "name": "bug-triage-browserstack",
+  "description": "Bug triage process and severity vs priority - use when defining bug triage workflows or classifying defects",
+  "base_url": "https://www.browserstack.com/guide/bug-triage-process",
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/guide/", "/bug", "/triage", "/severity", "/priority"],
+    "exclude": ["/pricing/", "/signup/", "/login/"]
+  },
+  "categories": {
+    "process": ["triage", "process", "workflow"],
+    "classification": ["severity", "priority", "classification", "categorization"],
+    "best_practices": ["best", "practices", "tips", "guidelines"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

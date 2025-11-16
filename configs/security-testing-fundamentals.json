@@ -1,0 +1,48 @@
+{
+  "name": "security-testing-fundamentals",
+  "description": "Use this skill when implementing security testing, vulnerability assessment, dependency scanning, or secure coding practices. Provides comprehensive guidance on OWASP Top 10, Web Security Testing Guide, and automated security tools.",
+  "base_url": "https://owasp.org/www-project-web-security-testing-guide/",
+  "additional_urls": [
+    "https://owasp.org/Top10/",
+    "https://owasp.org/www-project-dependency-check/",
+    "https://docs.github.com/code-security/secret-scanning/about-secret-scanning",
+    "https://jeremylong.github.io/DependencyCheck/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main'], div.main-content, div.markdown-body, #main-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/www-project-",
+      "/Top10/",
+      "/code-security/",
+      "/DependencyCheck/"
+    ],
+    "exclude": [
+      "/search",
+      "/feed",
+      "/blog",
+      "/community",
+      "/versions",
+      "?search",
+      "#comments",
+      "/api/",
+      "/_static/",
+      "/slack",
+      "/discord",
+      "/download"
+    ]
+  },
+  "categories": {
+    "getting_started": ["getting started", "introduction", "quick start", "about", "overview"],
+    "owasp_top10": ["top 10", "top10", "injection", "broken access", "cryptographic", "insecure design", "security misconfiguration"],
+    "testing_guide": ["testing guide", "test", "wstg", "penetration", "vulnerability"],
+    "dependency_check": ["dependency check", "dependencies", "vulnerability scanning", "sca", "software composition"],
+    "secret_scanning": ["secret scanning", "secrets", "credentials", "tokens", "api keys"],
+    "best_practices": ["best practice", "secure coding", "guidelines", "recommendations", "mitigation"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150
+}

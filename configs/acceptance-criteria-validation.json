@@ -1,0 +1,48 @@
+{
+  "name": "acceptance-criteria-validation",
+  "description": "Use this skill when validating acceptance criteria, writing Gherkin scenarios, implementing BDD/ATDD practices, or understanding testing types. Provides technical reference for Given-When-Then syntax, example mapping, user stories, and test automation practices.",
+  "base_url": "https://cucumber.io/docs/gherkin/reference/",
+  "additional_urls": [
+    "https://cucumber.io/docs/bdd/example-mapping/",
+    "https://cucumber.io/docs/terms/user-story/",
+    "https://agilealliance.org/glossary/atdd/",
+    "https://www.selenium.dev/documentation/test_practices/testing_types/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main'], div.main-content, div.post-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/docs/gherkin",
+      "/docs/bdd",
+      "/docs/terms",
+      "/glossary/atdd",
+      "/documentation/test_practices"
+    ],
+    "exclude": [
+      "/search",
+      "/feed",
+      "/comments",
+      "/author/",
+      "/tag/",
+      "/category/",
+      "?search",
+      "#comments",
+      "/login",
+      "/signup",
+      "/api/",
+      "/_static/"
+    ]
+  },
+  "categories": {
+    "gherkin": ["gherkin", "given-when-then", "scenario", "feature", "step", "keyword"],
+    "bdd": ["bdd", "behavior", "example mapping", "three amigos", "discovery"],
+    "user_stories": ["user story", "acceptance criteria", "story", "narrative", "persona"],
+    "atdd": ["atdd", "acceptance test", "test-driven", "specification"],
+    "testing": ["test", "testing", "automation", "selenium", "functional", "integration", "unit"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

@@ -1,0 +1,23 @@
+{
+  "name": "regression-suite-management",
+  "description": "Regression testing and test suite management - use when planning regression test strategy, organizing test suites, or managing automated regression tests",
+  "base_url": "https://www.browserstack.com/guide/regression-testing-with-selenium",
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/guide/", "/regression", "/testing", "/selenium"],
+    "exclude": ["/pricing/", "/signup/", "/login/"]
+  },
+  "categories": {
+    "strategy": ["strategy", "planning", "approach", "methodology"],
+    "automation": ["automation", "selenium", "framework", "tools"],
+    "test_management": ["suite", "management", "organization", "selection"],
+    "execution": ["execution", "running", "ci", "continuous"],
+    "best_practices": ["best", "practices", "tips", "guidelines"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

@@ -1,0 +1,49 @@
+{
+  "name": "end-to-end-testing",
+  "description": "Use this skill when implementing end-to-end testing with Playwright, Cypress, or Selenium WebDriver. Provides comprehensive guides for browser automation, test writing, and best practices for E2E testing.",
+  "base_url": "https://playwright.dev/",
+  "additional_urls": [
+    "https://docs.cypress.io/app/get-started/why-cypress",
+    "https://docs.cypress.io/app/end-to-end-testing/writing-your-first-end-to-end-test",
+    "https://www.selenium.dev/documentation/webdriver/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main'], div.main-content, div.markdown",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/docs/",
+      "/app/",
+      "/documentation/"
+    ],
+    "exclude": [
+      "/search",
+      "/feed",
+      "/blog",
+      "/community",
+      "/versions",
+      "?search",
+      "#comments",
+      "/api/",
+      "/_static/",
+      "/java/",
+      "/python/",
+      "/ruby/",
+      "/dotnet/",
+      "/versions/",
+      "/release-notes"
+    ]
+  },
+  "categories": {
+    "getting_started": ["getting started", "installation", "introduction", "quick start", "first test", "why"],
+    "playwright": ["playwright", "test runner", "fixtures", "locators", "assertions"],
+    "cypress": ["cypress", "commands", "assertions", "intercept", "custom commands"],
+    "selenium": ["selenium", "webdriver", "driver", "elements", "waits"],
+    "best_practices": ["best practice", "patterns", "tips", "guidelines", "anti-pattern"],
+    "testing": ["test", "testing", "e2e", "end-to-end", "automation", "browser"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150
+}

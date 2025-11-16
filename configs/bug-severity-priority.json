@@ -1,0 +1,21 @@
+{
+  "name": "bug-severity-priority",
+  "description": "Bug severity vs priority classification - use when categorizing defects by severity and priority levels",
+  "base_url": "https://www.browserstack.com/guide/bug-severity-vs-priority",
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/guide/", "/bug", "/severity", "/priority"],
+    "exclude": ["/pricing/", "/signup/", "/login/"]
+  },
+  "categories": {
+    "classification": ["severity", "priority", "classification", "categorization"],
+    "examples": ["example", "scenario", "case"],
+    "best_practices": ["best", "practices", "tips", "guidelines"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

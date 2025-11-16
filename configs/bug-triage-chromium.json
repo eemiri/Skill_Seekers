@@ -1,0 +1,21 @@
+{
+  "name": "bug-triage-chromium",
+  "description": "Chromium bug reporting and triage best practices - use when establishing bug triage standards or reporting guidelines",
+  "base_url": "https://www.chromium.org/for-testers/bug-reporting-guidelines/triage-best-practices/",
+  "selectors": {
+    "main_content": "article, main, div.content, div.devsite-article-body",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/bug-reporting", "/triage", "/for-testers/"],
+    "exclude": ["/search/", "/downloads/"]
+  },
+  "categories": {
+    "reporting": ["reporting", "guidelines", "filing"],
+    "triage": ["triage", "process", "classification"],
+    "best_practices": ["best", "practices", "standards", "guidelines"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

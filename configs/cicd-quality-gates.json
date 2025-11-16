@@ -1,0 +1,48 @@
+{
+  "name": "cicd-quality-gates",
+  "description": "Use this skill when implementing CI/CD pipelines, quality gates, automated testing, build processes, and deployment workflows. Provides comprehensive guidance on GitHub Actions, Jenkins pipelines, GitLab CI, and quality gate strategies.",
+  "base_url": "https://docs.github.com/en/actions/tutorials/build-and-test-code",
+  "additional_urls": [
+    "https://www.jenkins.io/doc/book/pipeline/",
+    "https://docs.gitlab.com/ci/testing/",
+    "https://www.datadoghq.com/blog/datadog-quality-gates/",
+    "https://www.jenkins.io/doc/pipeline/tour/tests-and-artifacts/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main'], div.main-content, div.markdown-body, #main-content, .article-body",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/actions/",
+      "/pipeline/",
+      "/ci/",
+      "/blog/",
+      "/doc/"
+    ],
+    "exclude": [
+      "/search",
+      "/feed",
+      "/community",
+      "/versions",
+      "?search",
+      "#comments",
+      "/api/",
+      "/_static/",
+      "/download",
+      "/changelog"
+    ]
+  },
+  "categories": {
+    "getting_started": ["getting started", "introduction", "quick start", "about", "overview", "tutorial"],
+    "github_actions": ["github actions", "actions", "workflow", "runner", "artifact"],
+    "jenkins": ["jenkins", "jenkinsfile", "declarative", "scripted", "agent"],
+    "gitlab_ci": ["gitlab", "gitlab-ci", "ci/cd", ".gitlab-ci.yml"],
+    "quality_gates": ["quality gate", "gate", "threshold", "metric", "coverage", "sonar"],
+    "testing": ["test", "testing", "unit test", "integration", "e2e", "coverage"],
+    "best_practices": ["best practice", "pattern", "strategy", "guideline", "recommendation"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150
+}

@@ -1,0 +1,31 @@
+{
+  "name": "test-data-fixtures",
+  "description": "Use this skill when working with test fixtures, mock functions, test data generation, or setting up test environments using pytest, Jest, Mockito, JUnit, or Faker.js",
+  "base_url": "https://docs.pytest.org/en/stable/how-to/fixtures.html",
+  "specific_urls": [
+    "https://docs.pytest.org/en/stable/how-to/fixtures.html",
+    "https://jestjs.io/docs/mock-functions",
+    "https://site.mockito.org/",
+    "https://github.com/junit-team/junit4/wiki/Test-fixtures",
+    "https://fakerjs.dev/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.entry-content, div.post-content, div.markdown-body",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": []
+  },
+  "categories": {
+    "pytest": ["pytest", "fixture", "python", "conftest"],
+    "jest": ["jest", "mock", "javascript", "spy"],
+    "mockito": ["mockito", "java", "verify", "stub"],
+    "junit": ["junit", "setup", "teardown", "before"],
+    "faker": ["faker", "fake", "data", "generate"],
+    "best_practices": ["best", "practice", "pattern", "tip"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 10
+}

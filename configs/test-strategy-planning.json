@@ -1,0 +1,29 @@
+{
+  "name": "test-strategy-planning",
+  "description": "Use this skill when designing test strategies, creating test plans, understanding the test pyramid, implementing risk-based testing, or organizing testing approaches for software projects",
+  "base_url": "https://martinfowler.com/articles/practical-test-pyramid.html",
+  "specific_urls": [
+    "https://martinfowler.com/articles/practical-test-pyramid.html",
+    "https://istqbfoundation.wordpress.com/2017/09/18/test-strategy-test-approach/",
+    "https://www.guru99.com/risk-based-testing.html",
+    "https://martinfowler.com/bliki/TestPyramid.html",
+    "https://circleci.com/blog/testing-pyramid/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.entry-content, div.post-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": []
+  },
+  "categories": {
+    "test_pyramid": ["pyramid", "unit", "integration", "e2e", "end-to-end"],
+    "strategy": ["strategy", "approach", "planning", "plan"],
+    "risk_based": ["risk", "priority", "mitigation"],
+    "best_practices": ["best", "practice", "pattern", "anti-pattern"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 10
+}
