@@ -1,0 +1,81 @@
+{
+  "url": "https://www.nngroup.com/articles/interaction-cost-definition/",
+  "title": "Interaction Cost",
+  "content": "August 31, 2013 · Updated Oct. 14, 2024 2024-10-14\n\nInteraction cost is the sum of efforts — mental and physical — that users must deploy in interacting with a digital product in order to reach their goals.\n\nIdeally, we’d like users to go to a site and find the answer they’re looking for immediately. That would mean zero interaction cost and is the holy grail of usability as a field.\n\nUnfortunately, zero interaction cost is rarely attainable, since most sites and apps offer many things that users may want to do. Most of the time, users have to look around, read, possibly scroll, find a promising link, click on it, wait for the page to load, and then repeat the process all over. Sometimes a new window may pop up on top of the existing one, and in that case, users must switch attention to the new window and perhaps also look back to the old one to integrate information in both windows. In other situations, users may need to remember information on one page and apply it on a different one. All these actions require cognitive effort and make up the interaction cost.\n\nUsable sites minimize the interaction cost required to attain a variety of user goals. That is, they minimize:\n\nThese user actions contribute differently to the total interaction cost.\n\nMany usability guidelines address the question of minimizing the various components of the interaction cost. For instance, the rules of writing for the web lower the cost of reading by recommending bullet points and short, to-the-point sentences and paragraphs.\n\nLet’s take a simple example. Assume we want to find where the word “ceremony” comes from. We’ll use the Dictionary.com iPhone app for this task. We ignore the cost involved in finding the app on the phone, and we start our analysis immediately after launching the Dictionary app.\n\nAt this point, the interaction cost involves waiting for a few seconds for the splash screen to disappear and make room for the first actionable screen of the app:\n\nNext, users had to edit the search query.\n\nAs users start to type, a new list of autosuggestions that match the typed letters is automatically displayed. Users could look at the autosuggestions and decide if they want to continue typing or select something from the list.\n\nOnce the word “ceremony” has been selected (or typed), the users have to press Search to get to the result page. They need to wait for a few moments for the new page to appear:\n\nFinally, users will spend time reading the explanation in the ORIGIN OF CEREMONY section.\n\nLet’s summarize the various components of the interaction cost to find the origin of the word “ceremony”:\n\nAs you can see, a fairly simple and painless process takes a lot of steps and substeps; each of them incurs an interaction cost.\n\nFor some, the interaction cost is insignificant — for instance, remembering that swiping to the right exposes more content has a very low interaction cost, because people have encountered horizontal scrolling many times before on mobile devices or on the web.\n\nOther steps can be optimized to minimize the interaction cost. For example, the placement and the visual design of the search field impact how quickly people locate it on the page. Similarly, making the buttons and search fields big can help with tapping the targets. A descriptive heading in plain language like ORIGIN OF CEREMONY also helps users quickly find the information they are looking for. (Though, in this case, using all caps makes the label harder to read.)\n\nNote that for some of the steps in the previous sections, users have multiple choices. For instance, they can either pick a suggestion from the autosuggest list or type the string to the end.\n\nHow do people decide which action to pick? The answer lies in the concept of expected utility:\n\nExpected utility = Expected benefits – Expected interaction costs\n\nUsers try to maximize the expected utility of an action: In other words, they weigh the benefits and the costs of each action, and they choose the one that has the best balance of benefits versus costs.\n\nWhen there are several ways to reach the same goal with similar benefits, users typically tend to pick actions that minimize the estimated interaction cost.\n\nFor instance, many people may not scroll down in the list of autosuggestions to find the word “ceremony” and might rather type one (or a few) more characters until the word ceremony is visible, because the cost of scrolling down the small list and scanning the list for the right word is higher than the cost of typing one or even a few more characters.\n\nThis type of thinking generalizes at the site level as well. If it looks like it is going to be really hard to reach their goal on any given site, most users will just move to another site with a lower estimated interaction cost unless the benefit of interacting with the initial site is really high. To give an example, if the user really wants to buy an Apple computer, they probably are going to stick with Apple’s site because it’s unlikely that they will be able to buy it elsewhere. In this case, the user motivation is really high, so they may be willing to put up with a high interaction cost. However, if the user wants to buy a grill, they may not care if they buy it from Home Depot or Lowe's or some other site, and they will navigate away from sites that have high interaction costs.\n\nMarketing and branding usually have the job of increasing the user motivation and expected benefits for engaging with a particular site or brand; usability deals with lowering the interaction cost. Both methods ultimately address the issue of increasing the expected utility of using a site or a piece of software.\n\nInteraction cost is a direct measure of usability. In fact, the concept was introduced back in the early days of human-computer interaction to evaluate the usability of a software system. All usability heuristics minimize the interaction cost for the user.\n\nA quick assessment of the interaction cost of a design can save a lot of money in the long run, as it can give you a good measure of how difficult the interface is going to be for the user. It can also serve as a comparison tool between design alternatives: usually, the one that minimizes the interaction cost has a better chance of success.\n\nUse psychology to predict and explain how your customers think and act\n\nStrategically combine content, visuals, and interactive components to design successful web pages",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Interaction Cost",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "What Is Interaction Cost?",
+      "id": "toc-what-is-interaction-cost-1"
+    },
+    {
+      "level": "h2",
+      "text": "An Example of Interaction Cost",
+      "id": "toc-an-example-of-interaction-cost-2"
+    },
+    {
+      "level": "h2",
+      "text": "Expected Utility",
+      "id": "toc-expected-utility-3"
+    },
+    {
+      "level": "h2",
+      "text": "Why You Should Care About Interaction Cost",
+      "id": "toc-why-you-should-care-about-interaction-cost-4"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "The Human Mind and Usability",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Web Page UX Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/raluca-budiu/",
+    "https://www.nngroup.com/articles/interaction-cost-definition/",
+    "https://www.nngroup.com/articles/interaction-cost-definition/",
+    "https://www.nngroup.com/articles/interaction-cost-definition/#toc-what-is-interaction-cost-1",
+    "https://www.nngroup.com/articles/interaction-cost-definition/#toc-an-example-of-interaction-cost-2",
+    "https://www.nngroup.com/articles/interaction-cost-definition/#toc-expected-utility-3",
+    "https://www.nngroup.com/articles/interaction-cost-definition/#toc-why-you-should-care-about-interaction-cost-4",
+    "https://www.nngroup.com/articles/short-term-memory-and-web-usability/",
+    "https://www.nngroup.com/articles/minimize-cognitive-load/",
+    "https://www.nngroup.com/articles/how-little-do-users-read/",
+    "https://www.nngroup.com/articles/scrolling-and-attention/",
+    "https://www.nngroup.com/articles/website-response-times/",
+    "https://www.nngroup.com/articles/attention-economy/",
+    "https://www.nngroup.com/articles/working-memory-external-memory/",
+    "https://www.nngroup.com/articles/presenting-bulleted-lists/",
+    "https://www.nngroup.com/articles/rewriting-content-brevity/",
+    "https://www.nngroup.com/articles/search-not-enough/",
+    "https://www.nngroup.com/articles/horizontal-scrolling/",
+    "https://www.nngroup.com/articles/touch-target-size/",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/"
+  ]
+}

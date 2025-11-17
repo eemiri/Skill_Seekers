@@ -1,0 +1,53 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation",
+  "title": "Reference documentation",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nReference documentation provides details about the programming elements associated with technologies and languages, including class libraries, object models, and programming language constructs.\n\nConsistency is essential in reference documentation. A standard article design, predictable headings and structure, and consistent wording help developers find what they need quickly. Links to articles with related information are also a common feature.\n\nNote Information such as configuration schemas, compiler options, and error messages might not follow the guidelines described in this section.\n\nUse the name of a programming element (such as Clear), followed by an element type (such as Class, Method, Property, or Event). If the name is shared by multiple elements, add a differentiator, such as the parent element name or the product or technology name. Differentiators are particularly important in search results, where they help customers find the article for the correct product or element.\n\nExamples Clear method Device.Clear method Clear method (ADO)\n\nThe table lists the information typically provided in reference articles. Not all sections appear in all reference articles. Sections vary depending on the language, product, or technology being documented.\n\nOther information can appear in reference articles as appropriate to the language, product, or technology. For example, instead of a parameter description as shown in the preceding table, there can be descriptions of members, methods, property values, and field values. The following table contains an example of a property value and examples of exceptions and permissions.\n\nIf you automatically generate reference documentation and comments from the source code, review the quality and appropriateness of the comments. Developers might leave out details that are important to customers. Remove any implementation or internal details that aren't suitable for documentation.\n\nLearn more For other examples of technical reference articles, see the .NET API Browser.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Reference documentation",
+      "id": "reference-documentation"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Article titles",
+      "id": "article-titles"
+    },
+    {
+      "level": "h2",
+      "text": "Elements of a reference article",
+      "id": "elements-of-a-reference-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples"
+  ]
+}

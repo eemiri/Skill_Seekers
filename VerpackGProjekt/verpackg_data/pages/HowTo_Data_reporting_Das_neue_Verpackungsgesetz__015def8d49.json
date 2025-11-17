@@ -1,0 +1,111 @@
+{
+  "url": "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/",
+  "title": "HowTo: Data reporting - Das neue Verpackungsgesetz (VerpackG) 2025",
+  "content": "Log into the LUCID system of the packaging register first, using your eMail address and the password used at the time of the registration. There you’ll find the section Volume report in the dashboard. Click on the button Edit in the rightmost tile to go to the different declaration types. In the upper left tile, click on the button Start to enter the forecast volumes for the following year. The dialog Enter data message appears.\n\nFirst, select the year for the forecast in the upper drop-down menu.\n\nNow select the system operator as well as the material fractions and weight amounts in the table below. To do so, select a dual system from the drop-down menu in the column System operator. Then enter the different estimates for the packaging materials on the right. You can optionally select additional dual systems by repeating the procedure, i.e. selecting another system operator in the appropriate column and entering the weights. You can also delete a selected system by clicking on the wheelie-bin left of the line.\n\nHint: Officially, all values need to be exact to the gram (i.e. in kg and three decimal places). However, this precision is usually not practicable for a forecast. Above all, make sure that the values entered here match those declared to the system(s) for the same forecast!\n\nBy clicking on the button Validate all values are checked by the system and presented in a dialog window. If all amounts are correct you can send them to the packaging register using the Save button. Please note that all values can also be checked by the assigned (dual) systems.\n\nHint: The Intra-year volume report serves two purposes:\n\nLog into the packaging register system LUCID, using your eMail address and the appropriate password. Select Volume report in the dashboard and click on Edit. Find the middle, upper tile Intra-year volume report and click on Start to open the dialog Enter data message.\n\nFirst, define the reporting period by selecting the first and the last month from the two drop-down menus. Our own clients can just copy all declaration data 1:1 form the declaration guide into the system of the packaging register.\n\nNow select the system operator as well as the material fractions and weight amounts in the table below. To do so, select a dual system from the drop-down menu in the column System operator. Then enter the different estimates for the packaging materials on the right. You can optionally select additional dual systems by repeating the procedure, i.e. selecting another system operator in the appropriate column and entering the weights. You can also delete a selected system by clicking on the wheelie-bin left of the row.\n\nHint: Officially, all values need to be exact to the gram (i.e. in kg and three decimal places). However, this precision is usually not practicable for a forecast. Above all, make sure that the values entered here match those declared to the system(s) for the same forecast!\n\nBy clicking on the button Validate all values are checked by the system and presented in a dialog window. If all amounts are correct you can send them to the packaging register using the Save button. Please note that all values can also be checked by the assigned (dual) systems.\n\nHint: The reporting interval isn’t predefined by the packaging register but instead results from the individual agreement between a producer and the different (dual) systems he joined for the recovery and recycling of his packaging waste. In practise, the interval is usually defined along commercial criteria, as for example the annual financial turnover of the packaging licenses. Traditionally, there are monthly, quarterly, and annual declaration intervals. However, any other interval is theoretically also possible.\n\nTo the beginning of a year the total weight amounts of all packaging materials in the preceding year have to be declared to the packaging register. The data has to exactly match the similar report to the dual system(s). The declaration to the packaging register must be completed immediately after the report to the system(s).\n\nHINT: Existing year-end closing volume reports for a calendar year can be increased later on via a supplementary volume report. However, a reduction of these amounts is not allowed!\n\nThe required steps and interface dialogs will be provided by the Clearing House in the future.\n\nIf existing intra-year or year-end closing reports should be increased later on, the funcion supplementary volume report in the packaging register LUCID can be used. This can be required after and audit or review of the original amounts which resulted in higher amounts than before.\n\nATTENTION! Generally, only supplements, i.e. increases, to the originally reported volumes are allows. It’ll be impossible to reduce annual forecasts or effective intra-year volume reports later on. Please note that the function deduction volume message can only be used to deduct damaged or insellable B2C packaging materials along § 7 (3) VerpackG.\n\nHINT: If another supplement for an existing report is required, another supplementary volume report message has to be filed. Existing supplementary reports cannot be changed anymore.\n\nThe packaging register Clearing House will define the procedure and the functionality in their system in the year 2019.\n\nUnder certain circumstances, as defined in § 7 (3) VerpackG, producers can deduct damaged or otherwise insellable packaging materials from volumes already declared to dual systems and the packaging register. The respective packaging licensing costs will then be refunded by the systems. In order to receive the refunds, producers have to take back the packaging materials themselves and forward them to a certified recycling company for recovery and treatment. The results need to be documented.\n\nThese packaging volumes can be reported to the packaging register LUCID using the function deduction volume message, to have them deducted from the already declared amounts.\n\nThe packaging register is going to describe the declaration procedure and the provide the appropriate function in the year 2019.\n\n- About us - Services - Qualifications - References",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "HowTo: Data reporting at the packaging register",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Quickstart",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Tips & Tricks",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Initial planned volume report",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 1: Select reporting period",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 2: Assign systems and planned volumes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 3: Check and validate",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Intra-year volume report",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 1: Select reporting period",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 2: Assign systems and planned volumes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 3: Check and validate",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Year-end closing volume report",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Supplementary volume report",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Deduction volume message",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "TABLE OF CONTENTS",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Do you need help?",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsgesetz.com/en/author/s/",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-initiale-planmengenmeldung",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-initiale-planmengenmeldung",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-unterjaehrige-mengenmeldung",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-unterjaehrige-mengenmeldung",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-jahresabschlussmeldung",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-jahresabschlussmeldung",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-nachtragsmengenmeldungen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-nachtragsmengenmeldungen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-abzugsmengenmeldungen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-data-reporting/#artikel-howto-datenmeldung-abzugsmengenmeldungen",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-profil",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-leistungen",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-qualifikationen",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-referenzen",
+    "https://www.verpackungsgesetz.com/kontakt/"
+  ]
+}

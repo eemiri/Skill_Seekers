@@ -1,0 +1,75 @@
+{
+  "url": "https://www.nngroup.com/articles/polyhierarchy/",
+  "title": "Polyhierarchies Improve Findability for Ambiguous IA Categories",
+  "content": "May 13, 2018 2018-05-13\n\nCreating a perfect information architecture (IA) for a website is tough, especially when it comes to balancing precision and clarity. Ideally, you want to create categories that accurately describe your content and products, are extensible when you add new topics or products, and match your users’ mental models (which often vary from one person to another).\n\nThe most common IA hierarchy is structured as a tree, in which each node (except for the one corresponding to the homepage) has a single parent. (Note that while we’re talking about the invisible IA structures underlying a website, these are usually reflected in the navigation UI as well). This type of hierarchy often poses a problem, however: some things don’t fit cleanly in just one category, but they naturally have multiple parents, depending on one’s point of view. Here is where polyhierarchies come in.\n\nDefinition: A polyhierarchy refers to a graph structure in which at least some child nodes have more than one parent nodes.\n\nA polyhierarchical IA is a structure where an item exists in more than one place ­— that is, it can be reached following several category paths. A classic example of an object in a polyhierarchy is the piano within the hierarchy of musical instruments: a piano could be considered a keyboard instrument, a percussion instrument, or a string instrument (pressing a key on a piano forces a tiny hammer to hit a string). So, if you were creating a hierarchy of all musical instruments, where does the piano fit? Since it can comfortably fit in several categories, a solution is to place it in all of these parent categories (keyboard, percussion, and strings).\n\nPolyhierarchies pose a big difficulty for physical objects: if you only have one copy of a book (or only one piano), it can only be in one place. To avoid polychierarchies, many complicated ways of classifying items emerged; they involve carefully structured taxonomies and judicious use of crossreferencing (such as the Library of Congress’s classification system, for example).\n\nHowever, if we tried to avoid a polyhierarchy when deciding where to put the piano, we’d have to create mutually exclusive categories which could appropriately handle instruments like this. These artificial categories can easily increase the complexity of taxonomies and make them inaccessible to lay people. One example of such a complicated taxonomy is the Hornbostel-Sachs musical-instrument classification, in which instruments are classified by how they produce the air vibrations that make the sound. (The piano is considered a chordophone in this system.) While that might work from a technical perspective, it’s not helpful for regular people whose mental models don’t include things like chordophones, idiophones, membranophones, and so on. These categories are so obscure that most users would skip right over them, rather than trying to figure out what they mean.\n\nClearly, polyhierarchies have their uses. Luckily, the digital world easily affords polyhierarchies, as long as we use them thoughtfully.\n\nPolyhierarchies are useful on ecommerce sites, where having the same product category appear in multiple places supports several different mental models. For example, on Target.com, the products were organized in an extensive polyhierarchy. The product subcategory Nintendo Switch could be found both in the Video Games and Electronics top-level categories. This decision reflects the fact that different users assume that either Video Games or Electronics are the natural “home” for the Nintendo Switch and its games and accessories; if the site didn’t include both of these two parents for Nintendo Switch, it would likely lose customers who chose the “wrong” category and couldn’t find what they were looking for. (Users frequently assume that, if a product is not present in the place where it “ought” to be, the site doesn’t carry that product.)\n\nHowever, Target notably avoids putting the Switch in every possible parent category (e.g., Toys) that could conceivably include it. This aspect of designing polyhierarchies is important because exhaustively crossreferencing every single place where a particular item could sit would swell each menu with tons of items, and add significant cognitive strain for users. Navigation menus are meant to help people find the content they seek and discover unexpected but relevant items; they should not be tortuously long lists. For huge, complex sites with tremendous overlap in categories, a better solution is to use facets to provide robust search aids.\n\nSo, how do you determine if an item should have multiple parents? The answer involves understanding users’ mental models for your information space. There are multiple ways to collect this data. One solution is to conduct closed card sorting (where users have to sort cards into existing categories) or tree testing. If in that study you discover that different users tend to place that item in two different categories, then you can add it to both those categories. Another solution is to test the item’s findability during moderated usability tests; if you find that some users reasonably expect another parent category for that item, then you can use that data as a basis for your decision.\n\nA big drawbacks for polyhierarchies is that they conflict with navigational wayfinding elements, particularly breadcrumbs. Breadcrumbs exist to show users where they are, and how the current page fits in the site hierarchy.\n\nWe’ve known for many years that breadcrumbs should show the location of the current page in the site’s IA, not the user’s browsing history. What does that mean for nodes with multiple parents? Because sites cannot succinctly represent polyhierarchies (as well as for SEO and content-governance reasons), a “canonical’ path to a page will be shown in the breadcrumbs. However, this canonical path can potentially conflict with the path that the user took to access that particular page.\n\nUnfortunately, this is a tradeoff that needs to be made. The alternative involves giving up breadcrumbs altogether. This solution can work for shallow hierarchies with fewer than 3 levels, but it can lead to disorientation and navigation difficulties for deeper hierarchies.\n\nPolyhierarchies are IA structures in which a single item fits in more than one parent categories. They primarily exist to accommodate multiple mental models that different users have for the natural “home” of a page. While digital tools make polyhierarchies possible, they should be used with restraint: too many parents for any given node increase cognitive load and make navigation difficult.\n\nLearn more in our full-day Information Architecture seminar.\n\nMorville, P., Rosenfeld, L., and Arango, J. (2015). Information Architecture, 4th Edition. Sebastopol, CA: O’Reilly Media\n\nKalbach, J. (2007). Designing Web Navigation: Optimizing the User Experience. Sebastopol, CA: O’Reilly Media\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Polyhierarchies Improve Findability for Ambiguous IA Categories",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Introduction",
+      "id": "toc-introduction-1"
+    },
+    {
+      "level": "h2",
+      "text": "Definition",
+      "id": "toc-definition-2"
+    },
+    {
+      "level": "h2",
+      "text": "Restrained Use of Polyhierarchies Supports Multiple Mental Models",
+      "id": "toc-restrained-use-of-polyhierarchies-supports-multiple-mental-models-3"
+    },
+    {
+      "level": "h2",
+      "text": "Wayfinding and Polyhierarchies Can Conflict",
+      "id": "toc-wayfinding-and-polyhierarchies-can-conflict-4"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-5"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/polyhierarchy/",
+    "https://www.nngroup.com/articles/polyhierarchy/",
+    "https://www.nngroup.com/articles/polyhierarchy/#toc-introduction-1",
+    "https://www.nngroup.com/articles/polyhierarchy/#toc-definition-2",
+    "https://www.nngroup.com/articles/polyhierarchy/#toc-restrained-use-of-polyhierarchies-supports-multiple-mental-models-3",
+    "https://www.nngroup.com/articles/polyhierarchy/#toc-wayfinding-and-polyhierarchies-can-conflict-4",
+    "https://www.nngroup.com/articles/polyhierarchy/#toc-conclusion-5",
+    "https://www.nngroup.com/articles/card-sorting-definition/",
+    "https://www.nngroup.com/articles/ia-vs-navigation/",
+    "https://www.nngroup.com/articles/navigation-cognitive-strain/",
+    "https://www.nngroup.com/articles/filters-vs-facets/",
+    "https://www.nngroup.com/articles/tree-testing/",
+    "https://www.nngroup.com/articles/navigation-you-are-here/",
+    "https://www.nngroup.com/articles/breadcrumb-navigation-useful/"
+  ]
+}

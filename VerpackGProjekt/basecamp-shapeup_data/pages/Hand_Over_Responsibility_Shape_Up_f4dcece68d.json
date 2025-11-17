@@ -1,0 +1,351 @@
+{
+  "url": "https://basecamp.com/shapeup/3.1-chapter-10#assign-projects-not-tasks",
+  "title": "Hand Over Responsibility | Shape Up",
+  "content": "Heads up! This page uses features your browser doesn’t support. Try a modern browser like Firefox or Chrome for the best experience.\n\nNext: Get One Piece Done\n\nWe’ve made our bets and now it’s time to start the next cycle. How does the team get started?\n\nWe don’t start by assigning tasks to anyone. Nobody plays the role of the “taskmaster” or the “architect” who splits the project up into pieces for other people to execute.\n\nSplitting the project into tasks up front is like putting the pitch through a paper shredder. Everybody just gets disconnected pieces. We want the project to stay “whole” through the entire process so we never lose sight of the bigger picture.\n\nInstead, we trust the team to take on the entire project and work within the boundaries of the pitch. The team is going to define their own tasks and their own approach to the work. They will have full autonomy and use their judgement to execute the pitch as best as they can.\n\nTeams love being given more freedom to implement an idea the way they think is best. Talented people don’t like being treated like “code monkeys” or ticket takers.\n\nProjects also turn out better when the team is given responsibility to look after the whole. Nobody can predict at the beginning of a project what exactly will need to be done for all the pieces to come together properly. What works on paper almost never works exactly as designed in practice. The designers and programmers doing the real work are in the best position to make changes and adjustments or spot missing pieces.\n\nWhen teams are assigned individual tasks, each person can execute their little piece without feeling responsible for judging how all the pieces fit together. Planning up front makes you blind to the reality along the way.\n\nRemember: we aren’t giving the teams absolute freedom to invent a solution from scratch. We’ve done the shaping. We’ve set the boundaries. Now we are going to trust the team to fill in the outline from the pitch with real design decisions and implementation.\n\nThis is where our efforts to define the project at the right level of abstraction—without too much detail—will pay off. With their talent and knowledge of the particulars, the team is going to arrive at a better finished product than we could have by trying to determine the final form in advance.\n\nAt the end of the cycle, the team will deploy their work. In the case of a Small Batch team with a few small projects for the cycle, they’ll deploy each one as they see fit as long as it happens before the end of the cycle.\n\nThis constraint keeps us true to our bets and respects the circuit breaker. The project needs to be done within the time we budgeted; otherwise, our appetite and budget don’t mean anything.\n\nThat also means any testing and QA needs to happen within the cycle. The team will accommodate that by scoping off the most essential aspects of the project, finishing them early, and coordinating with QA. (More on that later.)\n\nFor most projects we aren’t strict about the timing of help documentation, marketing updates, or announcements to customers and don’t expect those to happen within the cycle. Those are thin-tailed from a risk perspective (they never take 5x as long as we think they will) and are mostly handled by other teams. We’ll often take care of those updates and publish an announcement about the new feature during cool-down after the cycle.\n\nWe start the project by creating a new Basecamp project and adding the team to it. Then the first thing we’ll do is post the shaped concept to the Message Board. We’ll either post the original pitch or a distilled version of it.\n\nThe first thing on the Basecamp project is a message with the shaped concept\n\nSince our teams are remote, we use the chat room in the Basecamp project to arrange a kick-off call.\n\nArranging a call with the team to walk through the shaped work\n\nThe call gives the team a chance to ask any important questions that aren’t clear from the write-up. Then, with a rough understanding of the project, they’re ready to get started.\n\nWork in the first few days doesn’t look like “work.” No one is checking off tasks. Nothing is getting deployed. There aren’t any deliverables to look at. Often there isn’t even much communication between the team in the first few days. There can be an odd kind of radio silence.\n\nWhy? Because each person has their head down trying to figure out how the existing system works and which starting point is best. Everyone is busy learning the lay of the land and getting oriented.\n\nThe team figuring out where to start\n\nIt’s important for managers to respect this phase. Teams can’t just dive into a code base and start building new functionality immediately. They have to acquaint themselves with the relevant code, think through the pitch, and go down some short dead ends to find a starting point. Interfering or asking them for status too early hurts the project. It takes away time that the team needs to find the best approach. The exploration needs to happen anyway. Asking for visible progress will only push it underground. It’s better to empower the team to explictly say “I’m still figuring out how to start” so they don’t have to hide or disguise this legitimate work.\n\nGenerally speaking, if the silence doesn’t start to break after three days, that’s a reasonable time to step in and see what’s going on.\n\nSince the team was given the project and not tasks, they need to come up with the tasks themselves. Here we note an important difference between tasks we think we need to do at the start of a project and the tasks we discover we need to do in the course of doing real work.\n\nThe team naturally starts off with some imagined tasks—the ones they assume they’re going to have to do just by thinking about the problem. Then, as they get their hands dirty, they discover all kinds of other things that we didn’t know in advance. These unexpected details make up the true bulk of the project and sometimes present the hardest challenges.\n\nTeams discover tasks by doing real work. For example, the designer adds a new button on the desktop interface but then notices there’s no obvious place for it on the mobile webview version. They record a new task: figure out how to reveal the button on mobile. Or the first pass of the design has good visual hierarchy, but then the designer realizes there needs to be more explanatory copy in a place that disrupts the layout. Two new tasks: Change the layout to accommodate explanatory copy; write the explanatory copy.\n\nOften a task will appear in the process of doing something unrelated. Suppose a programmer is working on a database migration. While looking at the model to understand the associations, she might run into a method that needs to be updated for a different part of the project later. She’s going to want to note a task to update that method later.\n\nThe way to really figure out what needs to be done is to start doing real work. That doesn’t mean the teams start by building just anything. They need to pick something meaningful to build first. Something that is central to the project while still small enough to be done end-to-end—with working UI and working code—in a few days.\n\nIn the next chapters we’ll look at how the team chooses that target and works together to get a fully integrated spike working.\n\nCopyright ©1999-2025 37signals LLC. All rights reserved.\n\nStop Running in Circles and Ship Work that Matters\n\nBuy the print edition",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Hand Over Responsibility",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Assign projects, not tasks",
+      "id": "assign-projects-not-tasks"
+    },
+    {
+      "level": "h2",
+      "text": "Done means deployed",
+      "id": "done-means-deployed"
+    },
+    {
+      "level": "h2",
+      "text": "Kick-off",
+      "id": "kick-off"
+    },
+    {
+      "level": "h2",
+      "text": "Getting oriented",
+      "id": "getting-oriented"
+    },
+    {
+      "level": "h2",
+      "text": "Imagined vs discovered tasks",
+      "id": "imagined-vs-discovered-tasks"
+    },
+    {
+      "level": "h1",
+      "text": "Shape Up",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Preface",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Foreword by Jason Fried",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Acknowledgements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Introduction",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 1: Shaping",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Principles of Shaping",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Set Boundaries",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Find the Elements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Risks and Rabbit Holes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Write the Pitch",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 2: Betting",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Bets, Not Backlogs",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "The Betting Table",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Place Your Bets",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 3: Building",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Hand Over Responsibility",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Get One Piece Done",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Map the Scopes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Show Progress",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Decide When to Stop",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Move On",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Conclusion",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Appendices",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Implement Shape Up in Basecamp",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Adjust to Your Size",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Begin to Shape Up",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Glossary",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "About the Author",
+      "id": ""
+    }
+  ],
+  "code_samples": [
+    {
+      "code": "circuit breaker",
+      "language": "plaintext"
+    }
+  ],
+  "patterns": [],
+  "links": [
+    "https://basecamp.com/shapeup/3.1-chapter-10",
+    "https://basecamp.com/shapeup/3.1-chapter-10#assign-projects-not-tasks",
+    "https://basecamp.com/shapeup/3.1-chapter-10#done-means-deployed",
+    "https://basecamp.com/shapeup/3.1-chapter-10#getting-oriented",
+    "https://basecamp.com/shapeup/3.1-chapter-10#imagined-vs-discovered-tasks",
+    "https://basecamp.com/shapeup/3.2-chapter-11",
+    "https://basecamp.com/shapeup/3.2-chapter-11",
+    "https://basecamp.com/shapeup/4.0-appendix-01",
+    "https://basecamp.com/shapeup",
+    "https://basecamp.com/shapeup/0.1-foreword",
+    "https://basecamp.com/shapeup/0.2-acknowledgements",
+    "https://basecamp.com/shapeup/0.3-chapter-01",
+    "https://basecamp.com/shapeup/0.3-chapter-01#growing-pains",
+    "https://basecamp.com/shapeup/0.3-chapter-01#six-week-cycles",
+    "https://basecamp.com/shapeup/0.3-chapter-01#shaping-the-work",
+    "https://basecamp.com/shapeup/0.3-chapter-01#making-teams-responsible",
+    "https://basecamp.com/shapeup/0.3-chapter-01#targeting-risk",
+    "https://basecamp.com/shapeup/0.3-chapter-01#how-this-book-is-organized",
+    "https://basecamp.com/shapeup/1.1-chapter-02",
+    "https://basecamp.com/shapeup/1.1-chapter-02#wireframes-are-too-concrete",
+    "https://basecamp.com/shapeup/1.1-chapter-02#words-are-too-abstract",
+    "https://basecamp.com/shapeup/1.1-chapter-02#case-study-the-dot-grid-calendar",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-1-its-rough",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-2-its-solved",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-3-its-bounded",
+    "https://basecamp.com/shapeup/1.1-chapter-02#who-shapes",
+    "https://basecamp.com/shapeup/1.1-chapter-02#two-tracks",
+    "https://basecamp.com/shapeup/1.1-chapter-02#steps-to-shaping",
+    "https://basecamp.com/shapeup/1.2-chapter-03",
+    "https://basecamp.com/shapeup/1.2-chapter-03#setting-the-appetite",
+    "https://basecamp.com/shapeup/1.2-chapter-03#fixed-time-variable-scope",
+    "https://basecamp.com/shapeup/1.2-chapter-03#good-is-relative",
+    "https://basecamp.com/shapeup/1.2-chapter-03#responding-to-raw-ideas",
+    "https://basecamp.com/shapeup/1.2-chapter-03#narrow-down-the-problem",
+    "https://basecamp.com/shapeup/1.2-chapter-03#case-study-defining-calendar",
+    "https://basecamp.com/shapeup/1.2-chapter-03#watch-out-for-grab-bags",
+    "https://basecamp.com/shapeup/1.2-chapter-03#boundaries-in-place",
+    "https://basecamp.com/shapeup/1.3-chapter-04",
+    "https://basecamp.com/shapeup/1.3-chapter-04#move-at-the-right-speed",
+    "https://basecamp.com/shapeup/1.3-chapter-04#breadboarding",
+    "https://basecamp.com/shapeup/1.3-chapter-04#fat-marker-sketches",
+    "https://basecamp.com/shapeup/1.3-chapter-04#elements-are-the-output",
+    "https://basecamp.com/shapeup/1.3-chapter-04#room-for-designers",
+    "https://basecamp.com/shapeup/1.3-chapter-04#not-deliverable-yet",
+    "https://basecamp.com/shapeup/1.3-chapter-04#no-conveyor-belt",
+    "https://basecamp.com/shapeup/1.4-chapter-05",
+    "https://basecamp.com/shapeup/1.4-chapter-05#different-categories-of-risk",
+    "https://basecamp.com/shapeup/1.4-chapter-05#look-for-rabbit-holes",
+    "https://basecamp.com/shapeup/1.4-chapter-05#case-study-patching-a-hole",
+    "https://basecamp.com/shapeup/1.4-chapter-05#declare-out-of-bounds",
+    "https://basecamp.com/shapeup/1.4-chapter-05#cut-back",
+    "https://basecamp.com/shapeup/1.4-chapter-05#present-to-technical-experts",
+    "https://basecamp.com/shapeup/1.4-chapter-05#de-risked-and-ready-to-write-up",
+    "https://basecamp.com/shapeup/1.5-chapter-06",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-1-problem",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-2-appetite",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-3-solution",
+    "https://basecamp.com/shapeup/1.5-chapter-06#help-them-see-it",
+    "https://basecamp.com/shapeup/1.5-chapter-06#embedded-sketches",
+    "https://basecamp.com/shapeup/1.5-chapter-06#annotated-fat-marker-sketches",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-4-rabbit-holes",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-5-no-gos",
+    "https://basecamp.com/shapeup/1.5-chapter-06#examples",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ready-to-present",
+    "https://basecamp.com/shapeup/1.5-chapter-06#how-we-do-it-in-basecamp",
+    "https://basecamp.com/shapeup/2.1-chapter-07",
+    "https://basecamp.com/shapeup/2.1-chapter-07#no-backlogs",
+    "https://basecamp.com/shapeup/2.1-chapter-07#a-few-potential-bets",
+    "https://basecamp.com/shapeup/2.1-chapter-07#decentralized-lists",
+    "https://basecamp.com/shapeup/2.1-chapter-07#important-ideas-come-back",
+    "https://basecamp.com/shapeup/2.2-chapter-08",
+    "https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles",
+    "https://basecamp.com/shapeup/2.2-chapter-08#cool-down",
+    "https://basecamp.com/shapeup/2.2-chapter-08#team-and-project-sizes",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-betting-table",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-meaning-of-a-bet",
+    "https://basecamp.com/shapeup/2.2-chapter-08#uninterrupted-time",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-circuit-breaker",
+    "https://basecamp.com/shapeup/2.2-chapter-08#what-about-bugs",
+    "https://basecamp.com/shapeup/2.2-chapter-08#keep-the-slate-clean",
+    "https://basecamp.com/shapeup/2.3-chapter-09",
+    "https://basecamp.com/shapeup/2.3-chapter-09#look-where-you-are",
+    "https://basecamp.com/shapeup/2.3-chapter-09#existing-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#new-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#rd-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#production-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#cleanup-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#examples",
+    "https://basecamp.com/shapeup/2.3-chapter-09#questions-to-ask",
+    "https://basecamp.com/shapeup/2.3-chapter-09#does-the-problem-matter",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-appetite-right",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-solution-attractive",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-this-the-right-time",
+    "https://basecamp.com/shapeup/2.3-chapter-09#are-the-right-people-available",
+    "https://basecamp.com/shapeup/2.3-chapter-09#post-the-kick-off-message",
+    "https://basecamp.com/shapeup/3.1-chapter-10",
+    "https://basecamp.com/shapeup/3.1-chapter-10#assign-projects-not-tasks",
+    "https://basecamp.com/shapeup/3.1-chapter-10#done-means-deployed",
+    "https://basecamp.com/shapeup/3.1-chapter-10#getting-oriented",
+    "https://basecamp.com/shapeup/3.1-chapter-10#imagined-vs-discovered-tasks",
+    "https://basecamp.com/shapeup/3.2-chapter-11",
+    "https://basecamp.com/shapeup/3.2-chapter-11#integrate-one-slice",
+    "https://basecamp.com/shapeup/3.2-chapter-11#case-study-clients-in-projects",
+    "https://basecamp.com/shapeup/3.2-chapter-11#programmers-dont-need-to-wait",
+    "https://basecamp.com/shapeup/3.2-chapter-11#affordances-before-pixel-perfect-screens",
+    "https://basecamp.com/shapeup/3.2-chapter-11#program-just-enough-for-the-next-step",
+    "https://basecamp.com/shapeup/3.2-chapter-11#start-in-the-middle",
+    "https://basecamp.com/shapeup/3.3-chapter-12",
+    "https://basecamp.com/shapeup/3.3-chapter-12#organize-by-structure-not-by-person",
+    "https://basecamp.com/shapeup/3.3-chapter-12#the-scope-map",
+    "https://basecamp.com/shapeup/3.3-chapter-12#the-language-of-the-project",
+    "https://basecamp.com/shapeup/3.3-chapter-12#case-study-message-drafts",
+    "https://basecamp.com/shapeup/3.3-chapter-12#discovering-scopes",
+    "https://basecamp.com/shapeup/3.3-chapter-12#how-to-know-if-the-scopes-are-right",
+    "https://basecamp.com/shapeup/3.3-chapter-12#layer-cakes",
+    "https://basecamp.com/shapeup/3.3-chapter-12#icebergs",
+    "https://basecamp.com/shapeup/3.3-chapter-12#chowder",
+    "https://basecamp.com/shapeup/3.3-chapter-12#mark-nice-to-haves-with-",
+    "https://basecamp.com/shapeup/3.4-chapter-13",
+    "https://basecamp.com/shapeup/3.4-chapter-13#the-tasks-that-arent-there",
+    "https://basecamp.com/shapeup/3.4-chapter-13#estimates-dont-show-uncertainty",
+    "https://basecamp.com/shapeup/3.4-chapter-13#work-is-like-a-hill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#scopes-on-the-hill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#status-without-asking",
+    "https://basecamp.com/shapeup/3.4-chapter-13#nobody-says-i-dont-know",
+    "https://basecamp.com/shapeup/3.4-chapter-13#prompts-to-refactor-the-scopes",
+    "https://basecamp.com/shapeup/3.4-chapter-13#build-your-way-uphill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#solve-in-the-right-sequence",
+    "https://basecamp.com/shapeup/3.5-chapter-14",
+    "https://basecamp.com/shapeup/3.5-chapter-14#compare-to-baseline",
+    "https://basecamp.com/shapeup/3.5-chapter-14#limits-motivate-trade-offs",
+    "https://basecamp.com/shapeup/3.5-chapter-14#scope-grows-like-grass",
+    "https://basecamp.com/shapeup/3.5-chapter-14#cutting-scope-isnt-lowering-quality",
+    "https://basecamp.com/shapeup/3.5-chapter-14#scope-hammering",
+    "https://basecamp.com/shapeup/3.5-chapter-14#qa-is-for-the-edges",
+    "https://basecamp.com/shapeup/3.5-chapter-14#when-to-extend-a-project",
+    "https://basecamp.com/shapeup/3.6-chapter-15",
+    "https://basecamp.com/shapeup/3.6-chapter-15#let-the-storm-pass",
+    "https://basecamp.com/shapeup/3.6-chapter-15#stay-debt-free",
+    "https://basecamp.com/shapeup/3.6-chapter-15#feedback-needs-to-be-shaped",
+    "https://basecamp.com/shapeup/3.7-conclusion",
+    "https://basecamp.com/shapeup/3.7-conclusion#key-concepts",
+    "https://basecamp.com/shapeup/3.7-conclusion#get-in-touch",
+    "https://basecamp.com/shapeup/4.0-appendix-01",
+    "https://basecamp.com/shapeup/4.0-appendix-01#a-basecamp-team-for-shaping",
+    "https://basecamp.com/shapeup/4.0-appendix-01#basecamp-projects-for-the-cycle-projects",
+    "https://basecamp.com/shapeup/4.0-appendix-01#to-do-lists-for-scopes",
+    "https://basecamp.com/shapeup/4.0-appendix-01#track-scopes-on-the-hill-chart",
+    "https://basecamp.com/shapeup/4.1-appendix-02",
+    "https://basecamp.com/shapeup/4.1-appendix-02#basic-truths-vs-specific-practices",
+    "https://basecamp.com/shapeup/4.1-appendix-02#small-enough-to-wing-it",
+    "https://basecamp.com/shapeup/4.1-appendix-02#big-enough-to-specialize",
+    "https://basecamp.com/shapeup/4.2-appendix-03",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-a-one-six-week-experiment",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-b-start-with-shaping",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-c-start-with-cycles",
+    "https://basecamp.com/shapeup/4.2-appendix-03#fix-shipping-first",
+    "https://basecamp.com/shapeup/4.2-appendix-03#focus-on-the-end-result",
+    "https://basecamp.com/shapeup/4.5-appendix-06",
+    "https://basecamp.com/shapeup/4.6-appendix-07"
+  ]
+}

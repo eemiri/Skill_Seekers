@@ -1,0 +1,93 @@
+{
+  "url": "https://www.nngroup.com/articles/usability-metrics/",
+  "title": "Usability Metrics",
+  "content": "January 20, 2001 2001-01-20\n\nUsability can be measured, but it rarely is. The reason? Metrics are expensive and are a poor use of typically scarce usability resources.\n\nMost companies still under-invest in usability. With a small budget, you're far better off passing on quantitative measures and reaching for the low-hanging fruit of qualitative methods, which provide a much better return on investment. Generally, to improve a design, insight is better than numbers.\n\nHowever, the tide might be turning on usability funding. I've recently worked on several projects to establish formal usability metrics in different companies. As organizations increase their usability investments, collecting actual measurements is a natural next step and does provide benefits. In general, usability metrics let you:\n\nIt is easy to specify usability metrics, but hard to collect them. Typically, usability is measured relative to users' performance on a given set of test tasks. The most basic measures are based on the definition of usability as a quality metric:\n\nIt is also possible to collect more specific metrics, such as the percentage of time that users follow an optimal navigation path or the number of times they need to backtrack.\n\nYou can collect usability metrics for both novice users and experienced users. Few websites have truly expert users, since people rarely spend enough time on any given site to learn it in great detail. Given this, most websites benefit most from studying novice users. Exceptions are sites like Yahoo and Amazon, which have highly committed and loyal users and can benefit from studying expert users.\n\nIntranets, extranets, and weblications are similar to traditional software design and will hopefully have skilled users; studying experienced users is thus more important than working with the novice users who typically dominate public websites.\n\nWith qualitative user testing, it is enough to test 3–5 users. After the fifth user tests, you have all the insight you are likely to get and your best bet is to go back to the drawing board and improve the design so that you can test it again. Testing more than five users wastes resources, reducing the number of design iterations and compromising the final design quality.\n\nUnfortunately, when you're collecting usability metrics, you must test with more than five users. In order to get a reasonably tight confidence interval on the results, I usually recommend testing 20 users for each design. Thus, conducting quantitative usability studies is approximately four times as expensive as conducting qualitative ones. Considering that you can learn more from the simpler studies, I usually recommend against metrics unless the project is very well funded.\n\nTo illustrate quantitative results, we can look at those recently posted by Macromedia from its usability study of a Flash site, aimed at showing that Flash is not necessarily bad. Basically, Macromedia took a design, redesigned it according to a set of usability guidelines, and tested both versions with a group of users. Here are the results:\n\nIt is very rare for usability studies to employ tasks that are so simple that users can perform them in a few seconds. Usually, it is better to have the users perform more goal-directed tasks that will take several minutes. In a project I'm working on now, the tasks often take more than half an hour (admittedly, it's a site that needs much improvement).\n\nGiven that the redesign scored better than the original design on all five measures, there is no doubt that the new design is better than the old one. The only sensible move is to go with the new design and launch it as quickly as possible. However, in many cases, results will not be so clear cut. In those cases, it's important to look in more detail at how much the design has improved.\n\nThere are two ways of looking at the time-to-task measures in our example case:\n\nWhy do I recommend using the geometric mean rather than the more common arithmetic mean? Two reasons: First, you don't want a single big number to skew the result. Second, the geometric mean accounts fairly for cases in which some of the metrics are negative (i.e., the second design scores less than 100% of the first design).\n\nConsider a simple example containing two metrics: one in which the new design doubles usability and one in which the new design has half the usability of the old. If you take the arithmetic average of the two scores (200% and 50%), you would conclude that the new design scored 125%. In other words, the new design would be 25% better than the old design. Obviously, this is not a reasonable conclusion.\n\nThe geometric mean provides a better answer. In general, the geometric mean of N numbers is the N 'th root of the product of the numbers. In our sample case, you would multiply 2.0 with 0.5, take the square root, and arrive at 1.0 (or 100%), indicating that the new design has the same usability as the baseline.\n\nAlthough it is possible to assign different weights to the different tasks when computing the geometric mean, absent any knowledge as to the relative frequency or importance of the tasks, I've assumed equal weights here.\n\nOnce you've gathered the metrics, you can use the numbers to formulate an overall conclusion about your design's usability. However, you should first examine the relative importance of performance versus satisfaction. In the Macromedia example, users' subjective satisfaction with the new design was 66% higher than the old design. For a business-oriented website or a website that is intended for frequent use (say, stock quotes), performance might be weighted higher than preference. For an entertainment site or a site that will only be used once, preference may get the higher weight. Before making a general conclusion, I would also prefer to have error rates and perhaps a few additional usability attributes, but, all else being equal, I typically give the same weight to all the usability metrics. Thus, in the Macromedia example, the geometric mean averages the set of scores as: sqrt (2.50*1.66)=2.04. In other words, the new design scores 204% compared with the baseline score of 100% for the control condition (the old design).\n\nThe new design thus has 104% higher usability than the old one.\n\nThis result does not surprise me: It is common for usability to double as a result of a redesign. In fact, whenever you redesign a website that was created without a systematic usability process, you can often improve measured usability even more. However, the first numbers you should focus on are those in your budget. Only when those figures are sufficiently large should you make metrics a part of your usability improvement strategy.\n\nSee full report on the return-on-investment (ROI) from usability for many more examples of before–after usability metrics.\n\nUse metrics from quantitative research to demonstrate value\n\nConduct successful discovery phases to ensure you build the best solution\n\nPick the best UX research method for each stage in the design process",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Usability Metrics",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Introduction",
+      "id": "toc-introduction-1"
+    },
+    {
+      "level": "h2",
+      "text": "How to Measure",
+      "id": "toc-how-to-measure-2"
+    },
+    {
+      "level": "h2",
+      "text": "Comparing Two Designs",
+      "id": "toc-comparing-two-designs-3"
+    },
+    {
+      "level": "h2",
+      "text": "Measuring Success",
+      "id": "toc-measuring-success-4"
+    },
+    {
+      "level": "h2",
+      "text": "Summarizing Results",
+      "id": "toc-summarizing-results-5"
+    },
+    {
+      "level": "h2",
+      "text": "More Case Studies",
+      "id": "toc-more-case-studies-6"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Measuring UX and ROI",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Discovery: Building the Right Thing",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "User Research Methods: From Strategy to Requirements to Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/usability-metrics/",
+    "https://www.nngroup.com/articles/usability-metrics/",
+    "https://www.nngroup.com/articles/usability-metrics/#toc-introduction-1",
+    "https://www.nngroup.com/articles/usability-metrics/#toc-how-to-measure-2",
+    "https://www.nngroup.com/articles/usability-metrics/#toc-comparing-two-designs-3",
+    "https://www.nngroup.com/articles/usability-metrics/#toc-measuring-success-4",
+    "https://www.nngroup.com/articles/usability-metrics/#toc-summarizing-results-5",
+    "https://www.nngroup.com/articles/usability-metrics/#toc-more-case-studies-6",
+    "https://www.nngroup.com/articles/usability-maturity-stages-1-4/",
+    "https://www.nngroup.com/articles/usability-101-introduction-to-usability/",
+    "https://www.nngroup.com/articles/success-rate-the-simplest-usability-metric/",
+    "https://www.nngroup.com/articles/novice-vs-expert-users/",
+    "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+    "https://www.nngroup.com/articles/quantitative-studies-how-many-users/",
+    "https://www.nngroup.com/articles/productivity-and-screen-size/",
+    "https://www.nngroup.com/articles/usability-roi-declining-but-still-strong/"
+  ]
+}

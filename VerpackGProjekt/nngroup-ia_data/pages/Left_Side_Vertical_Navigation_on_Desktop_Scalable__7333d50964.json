@@ -1,0 +1,76 @@
+{
+  "url": "https://www.nngroup.com/articles/vertical-nav/",
+  "title": "Left-Side Vertical Navigation on Desktop: Scalable, Responsive, and Easy to Scan",
+  "content": "May 16, 2021 2021-05-16\n\nEvery time I talk about broad hierarchies in our UX Conference course on information architecture, two questions come up:\n\nMany teams will try to shoehorn a broad navigation hierarchy into a horizontal navigation bar on desktop sites. To make the list of categories fit into the limited horizontal space, they will use excessively small font sizes, crowd items close to one another, or come up with unnaturally short category labels. Worst of all is changing the IA so that there are only as many main categories as will fit in the available space. When we limit a broad information space into a small number of categories, we will end up with top-tier items that are too generic and will make it difficult for users to find what they need. Moreover, users will have to work more (clicking around and scanning various lower-tier categories) to find the relevant category.\n\nHowever, there is another type of main-navigation UI that, on desktop, can accommodate as many top-tier items as needed — vertical, left-side navigation.\n\nMost benefits of this navigation UI derive from its ability to accommodate many top-tier categories.\n\nUsing vertical navigation removes the visual design constraints that limit the number of categories, allowing the team to create an IA that naturally fits the information space, and expose specific, high-information scent categories to users without requiring them to dig into the second tier of the hierarchy\n\nVertical navigation is an excellent choice for sites where the navigation is likely to grow in the future — large organizations that may continually evolve their offerings or content, in areas such as B2B, enterprise, government, higher education, and healthcare. Adding additional categories to the vertical navigation doesn’t require a major process of redesigning the navigation UI; the only major decision is how the new items should be blended into the existing category structure.\n\nWe know from eyetracking studies that attention leans left on websites: users look at the left half of the screen 80% of the time. The real estate on the left side of the screen is valuable, and placing your navigation there makes it likely to be noticed and scanned by your users.\n\nAdditionally, research in psycholinguistics shows that visual search in a list is more efficient if the list is vertical than if it is horizontal — people are able to find an item of interest with fewer eye fixations, simply because much more information can be derived from a single fixation. (Remember that the eye is able to perceive information not only from the exact location where it fixates but also from a relatively small area around it. As a result, even when we do read every single word in a sentence, we need to fixate only on a few of them.)\n\nNote that a common misconception is that horizontal-navigation designs support the F-shaped reading pattern. However, the F-shaped pattern is encountered when users read a piece of unstructured text, which is definitely not applicable for the navigation, header, or other page chrome.\n\nIn addition, many websites use vertical local navigation (i.e., showing the current page’s “sibling” pages, that are part of the same category in the site hierarchy).\n\nThat being said, don’t be tempted to hide your desktop navigation under a vertical (hamburger or other) menu. Visible navigation is the gold standard for both mobile and desktop. While some mobile websites may be forced to hide most or all of the navigation under a hamburger menu due to the limited screen space, there is a huge discoverability benefit from using a visible navigation. When navigation is hidden, people simply forget to check it. Moreover, on desktop a hamburger menu has a such a small footprint relatively to the rest of the page, that its chances of being ignored are even bigger than on mobile.\n\nThe main drawback to using vertical navigation compared to horizontal navigation is that it takes up more space and, as a result, there is less room available for content. Vertical navigation usually results in pages with a lower content-to-chrome ratio than horizontal navigation.\n\nAt small window sizes (like those encountered on smaller displays or tablets), this tradeoff may be challenging to accommodate. If you are working with a responsive design, you may need to decide what the right navigation UI should be for various breakpoints (i.e., window sizes) and at what display size a vertical navigation will lead to a decent content-to-chrome ratio. Bear in mind, however, that as you approach the large window-size end of the spectrum, vertical navigation will most likely no longer affect the content-to- chrome ratio (as often the viewport area will be filled with blank space on right and left when the display is really big).\n\nA very long vertical menu may have some items below the page fold. We know, from much research, that users pay more attention to information above the fold than to that below the fold. They might not even scroll at all if what they see above the fold looks useless for their current goal. (Remember that users are very quick to leave web pages they deem useless.) On the other hand, vertical navigation is a sufficiently well-established design pattern that most users will know to scroll if they don’t see the full menu—assuming that the information that’s visible above the fold convinces them that the site might be useful.\n\nAs noted earlier, visual attention leans to the left side of the screen. That, coupled with the fact that we often see right-rail blindness (where users avoid looking at the right column of the page if it looks like it could contain ads) means that navigation on the right side of the page is less likely to be noticed. (As always with left-vs-right guidelines, this advice applies to languages that read left to right. If your language reads right to left, the opposite advice applies.)\n\nFurthermore, make sure that the navigation is visually salient. Different text or background colors and borders can make it stand out from the other page elements.\n\nA recent odd trend consists of using two redundant UIs for the global navigation: a horizontal menu bar and a hamburger menu with the same categories. It almost feels like the design team wasn’t sure which UI should be used, so it included both. This duplication (like most duplication of UI elements) is unnecessary and potentially confusing.\n\nSince vertical navigation takes up more space than horizontal navigation, designers often attempt to minimize its corresponding area. This is certainly an understandable objective, but some means of achieving it end up creating additional problems. One emerging trend has been to use icons instead of text labels for categories. While text labels are available for every navigation item, the user can see them only when clicking, tapping, or hovering on the navigation bar.\n\nWe have recommended for years to add labels to icons. Not only does text reduce ambiguity, but it also increases the target size. Yet, we still see sites that assume their users will instantly understand their icons for navigation categories. I often say that in navigation, a word is worth a thousand pictures.\n\nHiding the navigation text labels means that users will be most likely to simply ignore the navigation (as often happens with a hamburger menu). Those users who do interact with it must carry either the additional interaction cost of hovering or clicking to see the text labels or the additional cognitive load of attempting to decode what the icons mean.\n\nThe strategy of minimizing the navigation to a series of icons (where the default is showing the text label, and hiding it is optional) may be a realistic compromise for applications used every day, where the user may well learn what the categories represent. However, on a website that sees only occasional use by each individual user, this is not a recommended strategy.\n\nDue to the usability problems caused by the page fold (discussed above), a very long vertical menu risks having items that are not visible without scrolling. Unfortunately, since different users have differently sized monitors, you can’t know where the page fold will hit your menu for any individual user. For long menus, prioritize the items so that the ones that are likely to be invisible without scrolling are among the less important features.\n\nVertical navigation can be a reasonable choice on the desktop, particularly for sites that have a broad range of content, are rapidly growing, or simply want to surface specific categories for users. Vertical navigation is also easy to adapt for mobile. To keep vertical navigation helpful, don’t hide it under a hamburger menu, use left-aligned, keyword-frontloaded labels (not just icons) for categories, and weigh whether its benefits justify the space taken away from the content area.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Left-Side Vertical Navigation on Desktop: Scalable, Responsive, and Easy to Scan",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Benefits of Vertical Navigation",
+      "id": "toc-benefits-of-vertical-navigation-1"
+    },
+    {
+      "level": "h2",
+      "text": "Vertical Navigation Requires More Space",
+      "id": "toc-vertical-navigation-requires-more-space-2"
+    },
+    {
+      "level": "h2",
+      "text": "Guidelines for Usable Vertical Navigation",
+      "id": "toc-guidelines-for-usable-vertical-navigation-3"
+    },
+    {
+      "level": "h2",
+      "text": "Summary",
+      "id": "toc-summary-4"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/vertical-nav/",
+    "https://www.nngroup.com/articles/flat-vs-deep-hierarchy/",
+    "https://www.nngroup.com/articles/interaction-cost-definition/",
+    "https://www.nngroup.com/articles/vertical-nav/",
+    "https://www.nngroup.com/articles/vertical-nav/#toc-benefits-of-vertical-navigation-1",
+    "https://www.nngroup.com/articles/vertical-nav/#toc-vertical-navigation-requires-more-space-2",
+    "https://www.nngroup.com/articles/vertical-nav/#toc-guidelines-for-usable-vertical-navigation-3",
+    "https://www.nngroup.com/articles/vertical-nav/#toc-summary-4",
+    "https://www.nngroup.com/articles/centered-logos/",
+    "https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/",
+    "https://www.nngroup.com/articles/navigation-you-are-here/",
+    "https://www.nngroup.com/articles/mobile-navigation-patterns/",
+    "https://www.nngroup.com/articles/hamburger-menus/",
+    "https://www.nngroup.com/articles/support-mobile-navigation/",
+    "https://www.nngroup.com/articles/content-chrome-ratio/",
+    "https://www.nngroup.com/articles/how-long-do-users-stay-on-web-pages/",
+    "https://www.nngroup.com/articles/fight-right-rail-blindness/",
+    "https://www.nngroup.com/articles/reduce-redundancydecrease-duplicated-design-decisions/",
+    "https://www.nngroup.com/articles/utility-navigation/",
+    "https://www.nngroup.com/articles/minimize-cognitive-load/"
+  ]
+}

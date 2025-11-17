@@ -1,0 +1,42 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/dont-compress-line-spacing",
+  "title": "Don't compress line spacing",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nThe amount of vertical space between lines of text in a paragraph, called line spacing, can help or hinder reading. Adequate line spacing helps readers find their way from the end of one line to the beginning of the next.\n\nIf you’re using a template, don’t change the line spacing. If you’re not, ask a designer for advice if you can.\n\nIf you need to modify line spacing later, change it in the styles, not in individual paragraphs, so spacing remains consistent throughout the content. Never reduce line spacing to fit more text on a slide or page. Edit the text instead.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Don't compress line spacing",
+      "id": "dont-compress-line-spacing"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/dont-compress-line-spacing",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/dont-compress-line-spacing",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/dont-compress-line-spacing",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/dont-compress-line-spacing",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/dont-compress-line-spacing",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/dont-compress-line-spacing"
+  ]
+}

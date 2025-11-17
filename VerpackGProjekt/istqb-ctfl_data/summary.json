@@ -1,0 +1,15 @@
+{
+  "name": "istqb-ctfl",
+  "total_pages": 2,
+  "base_url": "https://istqb.org/",
+  "pages": [
+    {
+      "title": "International Software Testing Qualifications Board (ISTQB)",
+      "url": "https://istqb.org/"
+    },
+    {
+      "title": "Certified Tester Foundation Level Agile Tester (CTFL-AT) - International Software Testing Qualifications Board",
+      "url": "https://istqb.org/certifications/certified-tester-foundation-level-agile-tester-ctfl-at/"
+    }
+  ]
+}

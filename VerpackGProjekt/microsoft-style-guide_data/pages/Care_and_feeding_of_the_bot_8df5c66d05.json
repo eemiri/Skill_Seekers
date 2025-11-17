@@ -1,0 +1,52 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/care-feeding-bot",
+  "title": "Care and feeding of the bot",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nHave a plan for maintaining and evolving the bot. What's working and what isn't? What's your plan for phasing in new and improved features? What can be done better? How will you know when it's time to retire your bot?\n\nMake it possible for people to give you feedback directly through the bot. Ask if they got what they were looking for. Give them a way to tell you what they wanted if the results weren't what they expected.\n\nLabel your content blocks in the flow. That way, you can identify the content blocks that users leave from the most, figure out why, and improve them.\n\nExtend or improve the experience when appropriate. For example, if the customer gives positive feedback, suggest they rate the app. If the experience didn't meet their expectations, provide a link to support.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Care and feeding of the bot",
+      "id": "care-and-feeding-of-the-bot"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Maintain the bot and evaluate its effectiveness over time",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Learn from customers",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/care-feeding-bot",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/care-feeding-bot",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/care-feeding-bot",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/care-feeding-bot",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/care-feeding-bot",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/care-feeding-bot"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "url": "https://www.verpackungsgesetz.com/en/topics/howto-registration/",
+  "title": "HowTo: Registration - Das neue Verpackungsgesetz (VerpackG) 2025",
+  "content": "The registration in the Packaging Register has to be done by an employee of the company that wants to register. This does not mean it has to be an Authorised Representative.\n\nTo be able to do the registration properly, certain data should be collected beforehand which will be needed during the application procedure. This includes in particular the following information:\n\nThe Packaging Register publishes, besides the company name, the given address and telephone number in a way that is visible for all! Therefore, choose suitable data, because it might likely be abused for SPAM!\n\nEnter all brands of products and packaging that might be potentially sold by you as the one putting it on the market for the first time in Germany. There is no extra cost to the naming of numerous brands. Also always give your own company name as a brand. That way you are on the safe side in case you offer products or packaging without a brand. Do not use auxiliary descriptions such as “no name” or “blank”. In Germany it’s not mandatory to give more than one brand mark (=company name) – and also it’s not mandatory to mark the products with brand names!\n\nGo to the hyperlink Registration form of the German Packaging Register LUCID. If necessary, you can change the input language via the menu at the top right.\n\nThe registration consists of the following steps:\n\nHere you can enter the following:\n\nHere you can enter the following:\n\nClick “create login”.\n\nThe login is therefore created and an activation link is sent to the given email address, which you should click within 24 hours before you can continue with the registration. You can then login with email address and “login” to continue and finish the registration within 7 days.\n\nLog in into the Packaging Register with the given email address and your password. Now enter the following data:\n\nPlease note: Remember that these data (except for the email address) will be visible for everybody in the Packaging Register later!\n\nTo give information on the packaging you put on the market, you can choose between two categories:\n\nProducer is who fills packaging with goods for the first time. If packaging is system-relevant you can check in the system participation requirement catalogue which lists system-relevant packaging. If you yourself don’t have to participate in the system, LUCID asks you to confirm this or correct your system participation via “back”.\n\nHere you can enter the brand names of your products or packaging under which you as the producer or the one putting them on the market first put packaging filled with goods on the market. Brand names means the word(s) on the packaging to set it apart from other brands. They need to be categorised by packaging that is system-relevant and not system-relevant. The umbrella brands are sufficient here. If you don’t use any brand names enter your company name only.\n\nAdditional brands can be added via the dialogue window. If you want to enter several brands at once, you can also upload a file in xml-format. The brand names have to be published in the public register by the Central Packaging Agency ZSVR.\n\nIn the last step the different data is summarised for a last check. Before the registration application can be sent off several declarations and approvals have to be done:\n\nNote: Even if at the time of registration you are not yet participating in a (dual) system, you should choose “yes” here. Otherwise the registration will not be granted. For this the system participation should follow as soon as possible. The necessary system participation can also be done by us.\n\nAfter hitting “send” on the registration application the registration number is immediately shown in the dashboard and also sent to you via email. You can at this point change to the dashboard.\n\nIn the LUCID dashboard you see at a glance your registration number, last login, company name, registration status, and last update of master data.\n\nThe latter has to be kept up to date always – as soon as there are changes in the master data, packaging types, or brand updates, these have to be updated here immediately!\n\nThe producer information and changes are updated by the ZSVR daily and published in the public part of the register.\n\nIn the dashboard you have editing access to:\n\n- About us - Services - Qualifications - References",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "HowTo: Registration at the German Packaging Register",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Quickstart",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Tips & tricks",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Preparation: Checklist",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Registration procedure",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 1: Create login",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Producer data and designated person",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Login data / contact person",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Activating login",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 2: Entering master data",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 3: Information on the packaging",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 4: Entering the brand names",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Step 5: Checking the registration application and sending off",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Dashboard",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "TABLE OF CONTENTS",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Do you need help?",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsgesetz.com/en/author/s/",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-ueberblick",
+    "https://www.verpackungsgesetz.com/#artikel-registrierung-vorbereitung",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-vorbereitung",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-prozedur",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-prozedur",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-schritt01",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-schritt01",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-schritt02",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-schritt02",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-schritt03",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-schritt03",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-schritt04",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-schritt04",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-schritt05",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-schritt05",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-dashboard",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-dashboard",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-hinweise",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/#artikel-registrierung-hinweise",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-profil",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-leistungen",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-qualifikationen",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-referenzen",
+    "https://www.verpackungsgesetz.com/kontakt/"
+  ]
+}

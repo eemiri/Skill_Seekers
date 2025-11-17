@@ -1,0 +1,28 @@
+{
+  "url": "https://www.satisfice.com/download/heuristic-test-strategy-model",
+  "title": "Heuristic Test Strategy Model - Satisfice, Inc.",
+  "content": "Published: December 2, 2024 by James Bach\n\nThe HTSM (v.6.3) is a set of guideword heuristics designed to help you think better about test strategy. It includes four focus areas: test techniques, project elements, product factors, and quality criteria categories. You can use it casually or rigorously. It is pretty generic to any kind of software. I'd encourage you to modify this to fit the context of your own organization.\n\nThe 6.3 version has a bunch of changes to emphasize state-based testing and to say more about boundaries.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Heuristic Test Strategy Model",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Heuristic Test Strategy Model",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Attached Files",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.satisfice.com/download/heuristic-test-strategy-model",
+    "https://www.satisfice.com/download/heuristic-test-strategy-model?ind=1733127627205&filename=1733127626wpdm_htsm.pdf&wpdmdl=13&refresh=68f6e22d2322b1761010221"
+  ]
+}

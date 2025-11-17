@@ -1,0 +1,127 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies",
+  "title": "Benefits of the Aha! Framework: A Better Way To Build",
+  "content": "It offers the product development guidelines you need — with more flexibility.\n\nThe Aha! Framework for product development is defined, yet adaptable.\n\nWe bet you will check off at least a few items in this list.\n\nThe Aha! Framework accounts for all the essential stages of building lovable products — from creating your product strategy to analyzing your post-launch results.\n\nThe Aha! Framework easily layers onto other approaches. If you are comparing our framework to your own, you can borrow from the evaluation points we used in this guide. You might find areas of overlap and places where you want to adopt or adapt our flow to refine your own. If you are using Aha! Roadmaps, we can help you with creating a custom template that brings together the best of both worlds.\n\nWhat are the stages of product development?\n\nHow to adopt The Aha! Framework\n\nThe Frameworks functionality in Aha! Roadmaps\n\nScrum is one of the most popular agile frameworks among product development teams today. Although rooted in software development, scrum has been adapted for many other use cases. You can find teams using scrum to manage hardware products, marketing campaigns, and even educational programs in school classrooms.\n\nScrum is founded on empiricism. This means that the workflow hinges upon the theory that all knowledge is derived from experience. Self-managing teams work collectively to consistently deliver value at a sustainable pace, improving the team's approach over time based on learnings from each completed sprint.\n\nScrum is organized around a set of theories, values, and practices. There are two defined roles:\n\nScrum master: The scrum master acts as a coach to the rest of the product team.\n\nProduct owner: The product owner is also part of the scrum team, but is accountable to the product. This person is considered a customer contact and is responsible for maximizing product value by defining user stories and refining the product backlog.\n\nThe rest of the scrum team has no imposed hierarchy.\n\nThere is an emphasis in scrum on empowering developers to work together against concrete deliverables. Teams are encouraged to collaborate and iterate quickly, which can be motivating for high-achieving groups. The focus on completing increments of a project and continuous learning can give folks a tangible sense of accomplishment and investment in the process.\n\nChallenges with scrum stem from a few areas. Scrum purists would argue that trouble starts when organizations do not fully understand or adhere to the method. The scrum master is an especially important role — these folks are responsible for onboarding new teammates, identifying areas to improve, and implementing best practices and learnings.\n\nIf an organization does not invest in adequate training or hires inexperienced scrum masters, the entire team suffers. Scrum events can also balloon into multihour meetings if mismanaged, with teams spending too much time talking about the work instead of actually doing it.\n\nScrum addresses the development phase of product building, so there is not an emphasis on product strategy. Each sprint has a goal, but that goal is specific to what the team is delivering in that sprint — prioritized work should support an overarching strategy, but strategic alignment and roadmap planning are not part of scrum. It does not mention the concept of business strategy. But the scrum guide was updated to include \"product goals\" in 2020.\n\nIn the context of scrum, a product goal represents the commitment the team makes with each product backlog. There should be one product goal for each product backlog. The idea is to provide a \"why\" behind the work. But beyond this inclusion, there are no concrete details guiding the formation of a product goal (either in terms of structure or timing for creation).\n\nThere is also no consideration for product launches or other customer-facing materials, such as documentation. Again, the focus is on development.\n\nThe Aha! Framework takes a more holistic view. Its activities address all phases of product development — including setting strategy, capturing customer feedback, roadmap planning, stakeholder engagement, documentation, product launches, and analyzing the realized value of what was built.\n\nSimilar to scrum, teams following The Aha! Framework work in sprints to support continuous deployment. Unlike scrum, The Aha! Framework does not have prescribed formal roles (outside of existing functional roles, such as product manager or developer) or specific events that must occur. Instead, activities like reviewing work in progress and release lookbacks are incorporated into a weekly product team meeting.\n\nSix-part series on best practices for stakeholder alignment\n\nEssential parts of a product management playbook\n\nIntroduction to the product value score in Aha! software\n\nScaled Agile Framework® (SAFe®) was developed and launched in 2011 by Scaled Agile Inc. SAFe is a comprehensive set of guidelines for implementing agile and lean principles at scale. There is a set of 10 principles that guide SAFe practices, with concepts drawn from agile ethos and methods, lean product development, and systems thinking. SAFe has evolved over the years, and the latest 6.0 version was released in 2023.\n\nThere are four configurations meant to address different organizations (essential SAFe, large solution SAFe, portfolio SAFe, and full SAFe) with each configuration building upon the last:\n\nEssential SAFe has two levels: the agile team and agile release train (ART). Agile teams in SAFE operate similarly to scrum teams. ARTs are a group of agile teams that practice synchronized planning and iteration cadence, with a shared backlog.\n\nLarge solution SAFe adds roles, events, and artifacts to essential SAFe that are necessary for delivering sophisticated applications, systems, and networks. This includes a solution train that coordinates multiple ARTs and suppliers.\n\nPortfolio SAFe uses lean and agile budgeting principles to prioritize, fund, and plan development. Portfolios often include epics, or large initiatives that might cut across value streams and span multiple releases.\n\nFull SAFe includes all of the above. It is the most comprehensive configuration and supports large enterprises with complex portfolios.\n\nIf this all sounds a bit complicated, that is because it is. But this level of coordination and specificity is necessary for multinational companies that manage and deliver a highly complex portfolio of products. Think about some of the best-known enterprise-level businesses — these organizations often employ more people than live in most small cities. Aligning groups of that size to deliver value at the product, portfolio, and company levels in a consistent way is no easy feat.\n\nMany large enterprise organizations are drawn to SAFe because it promises the speed of agile with the predictability of a structured workflow that can be coordinated across many teams in complex environments. Believe it or not, one of the main pros of SAFe is that it brings added process overhead.\n\nHuge companies can feel safe (pun very much intended) that dozens or even hundreds of teams are working off the same strategic imperatives and following the same prescribed workflow. Everyone knows their role and has a detailed map of what is expected of that role at each stage of the process. At the most basic level, that is a good thing.\n\nHowever, many balk at the massive overhead that comes with SAFe (including the \"standard\" two-day planning interval (PI) sessions, which can last even longer). Some complain about the complexity and rigidity of SAFe. Some even refer to it as a \"command and control culture,\" which refers to a somewhat traditional leadership model where decisions happen at the top of an organizational hierarchy and cascade down to different groups.\n\nThe idea is that with strict adherence to the organizational structure and explicit policies, you can increase efficiency. The downside is that the folks doing the work can become isolated from the impetus behind it — mired in the minutiae of the process — and might feel like cogs in a machine. It can stifle creativity, which is essential for product development.\n\nAlthough SAFe promises increased productivity, context is important. Many enterprises that adopt SAFe operated with legacy workflows (e.g., waterfall) before and moved at a glacial pace because of their sheer scale. But faster with SAFe might not be faster for everyone. The complexity of this method is not typically ideal for dynamic markets that demand highly accelerated speed to market.\n\nSimilar to SAFe, The Aha! Framework can be helpful for enterprise organizations that have portfolios of many products with coordinated releases. It just requires some adjustments to certain activity groups. We will cover those at a high level here. But if you are interested in using The Aha! Framework for portfolio management, reach out to our Customer Success team to help you understand how to best configure everything in your Aha! account.\n\nHere are some of the ways you can adjust the activities within The Aha! Framework to support portfolio management:\n\nSet strategy at the portfolio level, establishing the high-level direction for the products and solutions you offer.\n\nAfter you create individual product roadmaps, create a portfolio roadmap to bring together the various release plans.\n\nCoordinate multiple sprints so you can build and deploy functionality across your portfolio in a synchronized way.\n\nCapture go-to-market activities across the portfolio to coordinate launches across multiple products and teams.\n\nStay accountable to your portfolio strategy by measuring collective value delivered and identifying improvements.\n\nThe most obvious difference between the two frameworks is that The Aha! Framework is simpler. It uses plain language (there are no trademarked terms or acronyms to learn). And it is easily understood by product teams of different backgrounds because it is aligned with the common stages of product development. Instead of the many events and meetings in SAFe, reviewing and discussing the activities in The Aha! Framework can easily be part of a weekly product team meeting.\n\nNote that SAFe requires paid training and certifications. There are a variety of programs that you can enroll in to learn it and gain the information needed for implementation or to perform a specific role. These courses can cost anywhere from a few hundred dollars to more than $1,000 USD, and some require renewals which can be bundled into a yearly subscription price. SAFe provides a plethora of resource materials and open-access information on its website.\n\nAha! offers paid certifications for our software. We share The Aha! Framework and any educational materials related to it (like this guide) for free.\n\nBest practices for configuring Aha! to support SAFe\n\nBest practices for PI planning in Aha! Develop\n\nKanban is a workflow management system. It originated in the mid-20th century at Toyota. Technically, it is not a framework or a methodology — it is a system for visualizing work, maintaining transparency, and boosting productivity by only working on what is needed when team capacity allows.\n\nKanban is the most lightweight of the approaches outlined in this guide, which is one reason why teams of all sizes and backgrounds use it. People even use kanban to manage personal projects and events, such as book clubs or weddings. Elements of kanban (e.g., the board and cards and the concept of \"pulling\" work) were also adopted by early agile practitioners and remain a vital part of most agile workflows and methodologies today.\n\nThere is a difference between using a kanban board and following the kanban system, though. The nuance is subtle, because (as we already referenced) kanban is a workflow management system and not a philosophical approach with associated principles and ideals.\n\nThere are broad best practices that underpin the system:\n\nLimiting work in progress\n\nClosely managing the flow of work (not the people doing it)\n\nMaking the process explicit\n\nImplementing feedback loops\n\nKanban prioritizes efficiency above all, with restrictions around when work can be started: That is, only when it is explicitly defined, actually needed, and the team has capacity to complete it. Teams are self-directed. The only \"interference\" with how the team works comes from the team itself, which is responsible for identifying roadblocks and spotting areas of waste or stagnation.\n\nThe focus on individual contribution to collective achievement is freeing and motivating for developers who want to get work done. There is a sense of perpetual motion. Continuous delivery is the norm, and kanban's visual nature makes everyone's contributions clear to the team. The sense of always moving forward is compelling.\n\nThings get dicey for those same reasons. One person might drag down the overall flow of the board, either by not contributing at the same level as others, or because a work item was poorly defined and should have been broken down into multiple cards. When work-in-progress limits fall apart, teammates end up with uneven workloads. Work items might not be prioritized appropriately if teammates choose to pull in work based on what they want to do or what seems easiest to accomplish.\n\nBut realistically, few product development teams use a kanban system without additional processes and defined roles. Remember that both scrum and SAFe rely on elements of kanban for managing product backlogs and active work.\n\nIt is challenging to truly compare The Aha! Framework to kanban for the reasons outlined above. Evaluating a workflow system against a comprehensive framework for product development is not an apples-to-apples situation.\n\nThe Aha! Framework includes the concept of \"pulling\" work based on need and capacity. Both eschew unnecessary overhead in favor of the minimum process needed. A kanban board is not required, but Aha! software includes kanban-like functionality with a features board and parking lot for unstarted work The features board is integral to implementing and following our framework when using Aha! Roadmaps.\n\nGantt charts and kanban boards — what are they good for?\n\nBest practices for configuring Aha! Develop to support kanban\n\nHow to build a features roadmap in Aha! Roadmaps\n\nWaterfall is the oldest approach to software development and follows traditional manufacturing processes. It is a sequential model for planning, building, and delivering new products, and is centered on the importance of beginning projects with a clearly defined set of requirements. The focus is delivering projects on time and on budget.\n\nEach phase in the waterfall methodology has specific activities that must be documented and approved before the next phase can begin. Waterfall is heavy into documentation — teams at each stage receive at least one document as an input and produce one document at the completion of that phase.\n\nLet's address the obvious rebuttal to the inclusion of waterfall in this guide: What self-respecting product development team follows waterfall today? Well, more than you might think.\n\nMany of the homegrown methods we mentioned earlier evolved from project-based planning methods such as waterfall and evolved into a hybrid \"wagile\" approach. The strict stage-gate processes of SAFe and attention paid to compliance and costs have roots in waterfall. Even some of the ways that we think about product development as a discipline stem from waterfall: defining requirements, tracking that work is built as designed, and ensuring the final product meets expectations of both stakeholders and end users.\n\nAgile was a response to the rigidity of waterfall. The rapid pace of software development made it possible to deliver value to customers incrementally (rather than as a whole) and to quickly iterate and improve what was delivered based on actual customer feedback. The result was a sort of collaboration between product builder and user — one that is very different from the rigorous upfront planning, copious documentation, minimal customer involvement, and high opportunity cost of waiting to deliver what comes with conventional waterfall.\n\nYet many companies still follow a sequential model, for a variety of reasons. Manufacturing or hardware products that require specific construction may employ waterfall to increase efficiency and ensure that products are built safely and accurately. And waterfall is still used in industries with high levels of governance or regulatory compliance because the linear process gives certainty that those requirements are met before work continues.\n\nThe larger the enterprise and its portfolio of products, the more likely you are to see waterfall practices in place. This might rile agile aficionados. But the reality is that multinational companies with complex offerings necessitate coordinated planning and regimented processes — one reason why SAFe has become so popular with large organizations.\n\nThe Aha! Framework (like others) incorporates some elements of waterfall. It is grounded in upfront strategic planning and includes a sequential set of activities oriented around the stages of product development. However, though some of those activities happen at set intervals, most happen concurrently to support continuous delivery.\n\nUltimately there is no one \"right\" way for product development teams to work. Methodologies and frameworks offer repeatable structures that teams can follow — but developing successful products hinges on much more than workflow. With a deeper understanding of how different product methodologies compare, you can evaluate your team's competencies and choose a method that provides the right balance between process overhead and freedom to innovate.\n\nIt offers the product development guidelines you need — with more flexibility.\n\nThe Aha! Framework for product development is defined, yet adaptable.\n\nWe bet you will check off at least a few items in this list.",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "The Aha! Framework for product development",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Balance strategic planning and agile delivery using The Aha! Framework",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Is The Aha! Framework right for you? Use this new checklist.",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Scrum vs. The Aha! Framework",
+      "id": "scrum-vs-the-aha-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Scaled Agile Framework® vs. The Aha! Framework",
+      "id": "scaled-agile-framework-vs-the-aha-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Kanban vs. The Aha! Framework",
+      "id": "kanban-vs-the-aha-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Waterfall vs. The Aha! Framework",
+      "id": "waterfall-vs-the-aha-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "The Aha! Framework for product development",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Balance strategic planning and agile delivery using The Aha! Framework",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Is The Aha! Framework right for you? Use this new checklist.",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/stages-of-product-development",
+    "https://www.aha.io/roadmapping/guide/stages-of-product-development",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#what-are-scrum-events-and-artifacts",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning",
+    "https://www.aha.io/roadmapping/guide/what-is-product-documentation",
+    "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-the-role-of-pm-in-safe#which-roles-do-safe-product-managers-work-with",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-pi-planning",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-a-portfolio-product-management",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-prd-(product-requirements-document)",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-waterfall",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development"
+  ]
+}

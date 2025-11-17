@@ -1,0 +1,39 @@
+{
+  "name": "definition-of-done",
+  "description": "Use this skill when working with user stories, acceptance criteria, story review, Definition of Done (DoD), agile testing, or ensuring quality standards in agile development. Helps teams understand what 'done' means and how to verify story completion.",
+  "base_url": "https://qase.io/blog/definition-of-done/",
+  "selectors": {
+    "main_content": "article, main, div.post-content, div.content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/definition-of-done",
+      "/done",
+      "/dod",
+      "/acceptance-criteria",
+      "/user-stories",
+      "/story-review",
+      "/agile-testing",
+      "/quality"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/author/",
+      "/category/",
+      "/_static/",
+      "/cdn-cgi/"
+    ]
+  },
+  "categories": {
+    "fundamentals": ["definition", "fundamentals", "basics", "what-is", "introduction"],
+    "testing": ["testing", "test", "qa", "quality-assurance"],
+    "practices": ["practices", "implementation", "how-to", "guide", "checklist"],
+    "examples": ["example", "template", "sample", "case-study"],
+    "team": ["team", "collaboration", "scrum", "agile"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

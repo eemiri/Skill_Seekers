@@ -1,0 +1,335 @@
+{
+  "name": "microsoft-style-guide",
+  "total_pages": 82,
+  "base_url": "https://learn.microsoft.com/en-us/style-guide/",
+  "pages": [
+    {
+      "title": "Welcome",
+      "url": "https://learn.microsoft.com/en-us/style-guide/welcome/"
+    },
+    {
+      "title": "Top 10 tips for Microsoft style and voice",
+      "url": "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice"
+    },
+    {
+      "title": "Bias-free communication",
+      "url": "https://learn.microsoft.com/en-us/style-guide/bias-free-communication"
+    },
+    {
+      "title": "Global communications",
+      "url": "https://learn.microsoft.com/en-us/style-guide/global-communications/"
+    },
+    {
+      "title": "Word choice",
+      "url": "https://learn.microsoft.com/en-us/style-guide/word-choice/"
+    },
+    {
+      "title": "Punctuation",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/"
+    },
+    {
+      "title": "Acronyms",
+      "url": "https://learn.microsoft.com/en-us/style-guide/acronyms"
+    },
+    {
+      "title": "Chatbots and virtual agents",
+      "url": "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/"
+    },
+    {
+      "title": "Microsoft's brand voice: Above all, simple and human",
+      "url": "https://learn.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human"
+    },
+    {
+      "title": "Use contractions",
+      "url": "https://learn.microsoft.com/en-us/style-guide/word-choice/use-contractions"
+    },
+    {
+      "title": "Scannable content",
+      "url": "https://learn.microsoft.com/en-us/style-guide/scannable-content/"
+    },
+    {
+      "title": "Capitalization",
+      "url": "https://learn.microsoft.com/en-us/style-guide/capitalization"
+    },
+    {
+      "title": "Headings",
+      "url": "https://learn.microsoft.com/en-us/style-guide/scannable-content/headings"
+    },
+    {
+      "title": "Lists",
+      "url": "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists"
+    },
+    {
+      "title": "Commas",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/commas"
+    },
+    {
+      "title": "Verbs",
+      "url": "https://learn.microsoft.com/en-us/style-guide/grammar/verbs"
+    },
+    {
+      "title": "Militaristic language",
+      "url": "https://learn.microsoft.com/en-us/style-guide/militaristic-language"
+    },
+    {
+      "title": "Accessibility terms",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms"
+    },
+    {
+      "title": "Accessibility Guidelines and Requirements",
+      "url": "https://learn.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements"
+    },
+    {
+      "title": "Use simple words, concise sentences",
+      "url": "https://learn.microsoft.com/en-us/style-guide/word-choice/use-simple-words-concise-sentences"
+    },
+    {
+      "title": "Don't use common words in new ways",
+      "url": "https://learn.microsoft.com/en-us/style-guide/word-choice/dont-use-common-words-in-new-ways"
+    },
+    {
+      "title": "Use technical terms carefully",
+      "url": "https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully"
+    },
+    {
+      "title": "Avoid jargon",
+      "url": "https://learn.microsoft.com/en-us/style-guide/word-choice/avoid-jargon"
+    },
+    {
+      "title": "Use US spelling and avoid non-English words",
+      "url": "https://learn.microsoft.com/en-us/style-guide/word-choice/use-us-spelling-avoid-non-english-words"
+    },
+    {
+      "title": "Formatting punctuation",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/formatting-punctuation"
+    },
+    {
+      "title": "Apostrophes",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/apostrophes"
+    },
+    {
+      "title": "Colons",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/colons"
+    },
+    {
+      "title": "Em dashes, en dashes, hyphens, and minus signs",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/"
+    },
+    {
+      "title": "Hyphens",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/hyphens"
+    },
+    {
+      "title": "Ellipses",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/ellipses"
+    },
+    {
+      "title": "Exclamation points",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/exclamation-points"
+    },
+    {
+      "title": "Periods",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/periods"
+    },
+    {
+      "title": "Question marks",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/question-marks"
+    },
+    {
+      "title": "Quotation marks",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/quotation-marks"
+    },
+    {
+      "title": "Semicolons",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/semicolons"
+    },
+    {
+      "title": "Slashes",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/slashes"
+    },
+    {
+      "title": "Bits and bytes terms",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms"
+    },
+    {
+      "title": "Units of measure terms",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms"
+    },
+    {
+      "title": "Structural and technical considerations",
+      "url": "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/structural-technical-considerations"
+    },
+    {
+      "title": "Writing for bots",
+      "url": "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/writing-bots"
+    },
+    {
+      "title": "Care and feeding of the bot",
+      "url": "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/care-feeding-bot"
+    },
+    {
+      "title": "Pull quotes",
+      "url": "https://learn.microsoft.com/en-us/style-guide/scannable-content/pull-quotes"
+    },
+    {
+      "title": "Sidebars",
+      "url": "https://learn.microsoft.com/en-us/style-guide/scannable-content/sidebars"
+    },
+    {
+      "title": "Tables",
+      "url": "https://learn.microsoft.com/en-us/style-guide/scannable-content/tables"
+    },
+    {
+      "title": "Text formatting",
+      "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/"
+    },
+    {
+      "title": "Nouns and pronouns",
+      "url": "https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns"
+    },
+    {
+      "title": "Formatting text in instructions",
+      "url": "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions"
+    },
+    {
+      "title": "Formatting titles",
+      "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles"
+    },
+    {
+      "title": "Using type",
+      "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/index"
+    },
+    {
+      "title": "Numbers",
+      "url": "https://learn.microsoft.com/en-us/style-guide/numbers"
+    },
+    {
+      "title": "Writing for all abilities",
+      "url": "https://learn.microsoft.com/en-us/style-guide/accessibility/writing-all-abilities"
+    },
+    {
+      "title": "Colors and patterns in text, graphics, and design",
+      "url": "https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design"
+    },
+    {
+      "title": "Graphics, Design, and Media",
+      "url": "https://learn.microsoft.com/en-us/style-guide/accessibility/graphics-design-media"
+    },
+    {
+      "title": "and so on",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/and-so-on"
+    },
+    {
+      "title": "Special characters",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/special-characters"
+    },
+    {
+      "title": "URLs and web addresses",
+      "url": "https://learn.microsoft.com/en-us/style-guide/urls-web-addresses"
+    },
+    {
+      "title": "and/or",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/and-or"
+    },
+    {
+      "title": "country or region",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/country-or-region"
+    },
+    {
+      "title": "either/or",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/either-or"
+    },
+    {
+      "title": "Responsive content",
+      "url": "https://learn.microsoft.com/en-us/style-guide/responsive-content"
+    },
+    {
+      "title": "Formatting common text elements",
+      "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-common-text-elements"
+    },
+    {
+      "title": "Formatting developer text elements",
+      "url": "https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements"
+    },
+    {
+      "title": "Reference documentation",
+      "url": "https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation"
+    },
+    {
+      "title": "Procedures and instructions",
+      "url": "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/index"
+    },
+    {
+      "title": "Person",
+      "url": "https://learn.microsoft.com/en-us/style-guide/grammar/person"
+    },
+    {
+      "title": "Describing interactions with UI",
+      "url": "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui"
+    },
+    {
+      "title": "Keys and keyboard shortcuts",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts"
+    },
+    {
+      "title": "Use sentence-style capitalization",
+      "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/use-sentence-style-capitalization"
+    },
+    {
+      "title": "Use left alignment",
+      "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/use-left-alignment"
+    },
+    {
+      "title": "Don't compress line spacing",
+      "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/dont-compress-line-spacing"
+    },
+    {
+      "title": "Date and time terms",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/date-time-terms"
+    },
+    {
+      "title": "Em dashes, en dashes, hyphens, and minus signs",
+      "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/index"
+    },
+    {
+      "title": "percent, percentage",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/percent-percentage"
+    },
+    {
+      "title": "Describing alternative input methods",
+      "url": "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-alternative-input-methods"
+    },
+    {
+      "title": "ampersand (&)",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/ampersand"
+    },
+    {
+      "title": "plus sign (+)",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/p/plus-sign"
+    },
+    {
+      "title": "Procedures and instructions",
+      "url": "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/"
+    },
+    {
+      "title": "Code examples",
+      "url": "https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples"
+    },
+    {
+      "title": "Writing step-by-step instructions",
+      "url": "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions"
+    },
+    {
+      "title": "Mouse and mouse interaction terms",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms"
+    },
+    {
+      "title": "Touch and pen interaction terms",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms"
+    },
+    {
+      "title": "Search and writing",
+      "url": "https://learn.microsoft.com/en-us/style-guide/search-writing"
+    }
+  ]
+}

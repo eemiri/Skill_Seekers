@@ -1,0 +1,29 @@
+{
+  "name": "personas-jtbd",
+  "description": "Use this skill when working with user personas, Jobs-to-be-Done framework, user research, or product development methodologies",
+  "base_url": "https://www.nngroup.com/articles/persona/",
+  "selectors": {
+    "main_content": "article",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["nngroup.com", "strategyn.com", "interaction-design.org", "userinterviews.com"],
+    "exclude": ["/search.html", "/_static/", "/wp-admin/", "/login", "/register", "/cart", "/checkout"]
+  },
+  "additional_urls": [
+    "https://www.nngroup.com/articles/personas-jobs-be-done/",
+    "https://strategyn.com/jobs-to-be-done/",
+    "https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them",
+    "https://www.userinterviews.com/ux-research-field-guide-chapter/jobs-to-be-done-jtbd-framework"
+  ],
+  "categories": {
+    "personas": ["persona", "user persona", "user profile", "user research"],
+    "jobs_to_be_done": ["jobs", "jtbd", "job", "outcome", "progress"],
+    "methodology": ["framework", "method", "approach", "process"],
+    "research": ["research", "interview", "discovery", "insight"],
+    "examples": ["example", "case study", "template", "sample"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 150
+}

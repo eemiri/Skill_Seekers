@@ -1,0 +1,63 @@
+{
+  "url": "https://www.nngroup.com/articles/ia-questions-navigation-menus/#toc-should-categories-be-listed-in-alphabetical-order-2",
+  "title": "Top 3 IA Questions about Navigation Menus",
+  "content": "January 4, 2015 2015-01-04\n\nSome information-architecture (IA) problems are unique to specific situations — certain audiences or types of content may present unusual challenges. But in our Information Architecture courses, we invariably get asked about a few persistent questions that many designers from a variety of backgrounds seem to struggle with.\n\nLike most design problems, these questions rarely have an absolute, black-and-white answer. But there are specific considerations that can help you answer these questions appropriately for your circumstances.\n\nHere are the key usability issues for the IA questions our course attendees ask the most.\n\nAs a rule, you need enough categories to adequately represent the scope of information offered on your site or application. But how many is ‘enough’? This can vary widely depending on the content and purpose of a website.\n\nSimple sites with a narrow range of content can usually be represented with just a few categories. This minimalist presentation helps users quickly understand what’s available and select the right section. For example, consider Dyson, the company that makes those amazingly quick hand dryers (which actually work consistently, unlike most of the ‘touchless’ faucets and soap dispensers on the market). The entire Dyson Airblade website is devoted to just a few variations of their core product. 5 categories are perfectly adequate to provide users with a good overview of the site, and quick access to all the different types of content.\n\nAt the other extreme, RestroomDirect is another website that sells hand dryers—alongside 15 other types of fixtures for public bathrooms. Limiting this site to only 5 main categories would make it much harder for visitors to discover the full range of products. Instead, this site offers 7 links in the top horizontal navigation, and 17 product categories in the vertical navigation (which expands to show even more subcategories.)\n\nIf you’re lucky, your content obviously matches one of these extremes, and you can start your design process with a good sense of how many categories you’ll need. For content that doesn’t have clear organizing principles (like distinct types of products), you may need to turn to card sorting to get a better sense of how people expect to navigate.\n\nIn either case, the fundamental principle is that the number of categories should be determined by what makes it easiest for people to discover and access information — not by some preordained decision that ‘we should only have 4 categories.’\n\nAnother frequent question is, ‘in what order should our categories be listed?’ Designers often wonder whether they should be listing links in alphabetical order, or if some other organizing principle would be better.\n\nThere’s no single answer that will be correct for every situation, but there are 3 key factors to consider:\n\nMeaningful Organizing Principles\n\nUsually, there’s another way to organize content that is better than alphabetical organization. So before you default to alphabetizing your links, look for organizing principles like frequency of use that help the largest number of people quickly access the information they are most likely to be seeking. For example, Rightmove.co.uk, a property listing website, places For Sale and To Rent as the first two items in the global navigation.\n\nPrioritizing the most frequently accessed items means that most people won’t have to read through the entire menu, and prevents critical links from being buried in the middle, or shoved to the very end.\n\nFor example, if it were alphabetized, the Rightmove menu would be:\n\nBesides the efficiency advantage of placing the most-used menu options first, there’s also a likely business advantage to the site from this ordering of the menu: by placing “for sale” and “to rent” next to each other, the design maximizes the likelihood that users discover that the site offers both ways of getting a home.\n\nHowever, there are a few cases where alphabetical ordering makes sense. The first is when your categories are have only one possible label—for example, product names or brand names. In this type of situation, users are likely to be scanning for that particular word, and alphabetical organization is helpful, even if the list only has a few items. (That said, remember that many new customers will not know your proprietary — i.e., made-up — brand names.)\n\nOptimizing Long Lists with Alphabetization\n\nAlphabetization is also worth considering if you need to present a long list of categories, and all the categories are equally important. Reading a long list is time consuming, but when the items are alphabetized, at least some people can safely ignore most of the list, if they are lucky enough to recall precisely the name of the category they are looking for. For example, the Grainger.com website has 32 product categories, which makes for quite a long list. However, because the links are in alphabetical order, someone interested in plumbing supplies and correctly guessing “Plumbing” as a category word can safely skip down to the bottom half of the list, without bothering to read through the top half of the links. (Note that this is true only when the menu items are standard labels, as described above. People who don’t know the exact word they are looking for will still have to read the whole menu, and alphabetization won’t significantly speed up that process.)\n\nReading a shorter list doesn’t take as long, and the time saved by alphabetical sequencing is less significant. Of course, this begs the question: how many items does it take to make a ‘long’ list? Generally speaking, it’s a good idea to consider alphabetical ordering for lists with 20 or more items. If a list has fewer than 10 categories, there is probably not much benefit to alphabetizing them (unless they are unique terms that people will be specifically seeking).\n\nCombining Alphabetization With Other Organization Schemes\n\nIf your content fits into more than one of these situations, you’ll need to get creative. For example, a long list of categories with a few that are very important calls for a two part menu: a short list of the most popular items, and link to the longer alphabetized list. Lists that include many categories, but don’t have uniquely recognizable labels, may require a multilevel structure. Lynda.com uses a combination of prioritized, alphabetical, and hierarchical structuring. Because there are a large number of course topics and they aren’t standardized labels, they are structured into a two-level hierarchical list. Because the top-level categories are broader, this top-level menu is shorter and can be scanned quickly. Lynda.com also combines prioritization and alphabetization in the list of Education software programs: the 10 most popular programs are listed, along with a View All link that leads to the full alphabetized list.\n\nAs you can see, there are a wide range of factors that influence how people understand and use menus, and few universally true rules about how you ‘should’ present category links. Testing your menus with your target audience is the best way to discover what works in your situation.\n\nFinally, with the increasing traffic from touch devices, many UX designers wonder whether websites should still have hover menus.\n\nObviously, the hover-activated menus don’t work well for people who access a site from a touchscreen. Even if the menu is adapted to be activated by a tap rather than a hover, touchscreens are often too small to display the entire menu. This can lead to awkward, error-prone attempts to scroll the menu without accidentally deactivating the menu by tapping something else on the page.\n\nBut just because a portion of your audience can’t use a feature doesn’t mean you should prevent everyone from using it. On traditional laptops and desktops, hover-activated menus serve an important role in providing almost immediate access to a huge range of choices. The key is graceful degradation: make sure that users who can’t interact by hovering can still access your content.\n\nYou don’t need to look far for an example of how to do this properly. The full Fedex website provides quick access to all their shipping methods using hover-activated menus. These menus would be unwieldy on a small touchscreen, so they are replaced with a simpler tap-activated menu.\n\nQuestions about user experience can have different answers depending on the exact circumstances. Information architecture principles provide a good design starting points, but the best outcomes are achieved by combining theoretical knowledge with direct UX research that proves whether your design works for your target audience.\n\nYou can learn more about UX guidelines and best practices — as well as techniques for conducting your own research — at our in-depth UX Conference training courses, such as the full-day course on Navigation Design.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Top 3 IA Questions about Navigation Menus",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "How Many Categories Should We Have?",
+      "id": "toc-how-many-categories-should-we-have-1"
+    },
+    {
+      "level": "h2",
+      "text": "Should Categories Be Listed in Alphabetical Order?",
+      "id": "toc-should-categories-be-listed-in-alphabetical-order-2"
+    },
+    {
+      "level": "h2",
+      "text": "Should Hover-Activated Menus Be Eliminated Since Touch Devices Don’t Allow Hovering?",
+      "id": "toc-should-hover-activated-menus-be-eliminated-since-touch-devices-dont-allow-hovering-3"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-4"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/kathryn-whitenton/",
+    "https://www.nngroup.com/articles/ia-questions-navigation-menus/",
+    "https://www.nngroup.com/articles/ia-questions-navigation-menus/",
+    "https://www.nngroup.com/articles/ia-questions-navigation-menus/#toc-how-many-categories-should-we-have-1",
+    "https://www.nngroup.com/articles/ia-questions-navigation-menus/#toc-should-categories-be-listed-in-alphabetical-order-2",
+    "https://www.nngroup.com/articles/ia-questions-navigation-menus/#toc-should-hover-activated-menus-be-eliminated-since-touch-devices-dont-allow-hovering-3",
+    "https://www.nngroup.com/articles/ia-questions-navigation-menus/#toc-conclusion-4"
+  ]
+}

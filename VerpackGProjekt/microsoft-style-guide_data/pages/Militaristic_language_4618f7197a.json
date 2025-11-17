@@ -1,0 +1,43 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/militaristic-language",
+  "title": "Militaristic language",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nAvoid using terms associated with violence and military actions unless you are referring to physical combat operations.\n\nIn the context of cybersecurity at Microsoft, use the following recommendations in the table of militaristic terms.\n\nAttack It’s ok to use attack if there’s context in front of it describing what kind of attack it is. For example, say, Early detection is critical to preventing damage from malware attacks instead of Get protection from sophisticated attacks.\n\nIf there’s no context before attack that describes what kind of attack it is, add cyber- in front of threat so it reads cyberattack, all one word, no space, no hyphen.\n\nExample Uncover and defend against advanced cyberattacks across your entire digital estate.\n\nDefend, defense, and defenses It’s ok to use defend and defenses if there’s context in the same sentence that makes it clear they’re referring to cybersecurity.\n\nExamples Learn how to defend your cloud and on-premises workloads. Extend your defenses across endpoints and clouds with Microsoft Security.\n\nExternal attack surface It’s ok to use this phrase when discussing external attack surface management, external attack surface management capabilities, or the product Microsoft Defender External Attack Surface Management.\n\nDon’t use the phrase external attack surface when referring to a customer’s points of access that are potentially vulnerable to an attack. Use vulnerabilities, points of access, or external exposure instead.\n\nThreat It’s ok to use threat if there’s context in front of it describing what kind of threat it is.\n\nExample Explore an integrated identity threat and response solution.\n\nIf there’s no context before threat that describes what kind of threat it is, add cyber- in front of threat so it reads cyberthreat, all one word no space no hyphen.\n\nExample Identify and remediate cyberthreats in the cloud and on-premises.\n\nThreat intelligence It’s ok to use threat intelligence if the surrounding context makes it clear it’s related to cybersecurity. Don’t shorten to threat intel.\n\nExample Get actionable insights into new and emerging cyberthreats with dynamic threat intelligence.\n\nNever use These terms are overtly militaristic and should never be used in the context of cybersecurity at Microsoft (though they may be used to refer to physical combat operations):\n\nair cover bomb, email bomb, mail bomb, time bomb enemy, enemies, enemy lines go on the offensive invade, invasion missile, torpedo nuke, go nuclear strike troops\n\nSee also Bias-free communication\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Militaristic language",
+      "id": "militaristic-language"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/militaristic-language",
+    "https://learn.microsoft.com/en-us/style-guide/militaristic-language",
+    "https://learn.microsoft.com/en-us/style-guide/militaristic-language",
+    "https://learn.microsoft.com/en-us/style-guide/militaristic-language",
+    "https://learn.microsoft.com/en-us/style-guide/militaristic-language",
+    "https://learn.microsoft.com/en-us/style-guide/militaristic-language",
+    "https://learn.microsoft.com/en-us/style-guide/bias-free-communication"
+  ]
+}

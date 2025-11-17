@@ -1,0 +1,112 @@
+{
+  "url": "https://www.nngroup.com/articles/quant-vs-qual/",
+  "title": "Quantitative vs. Qualitative Usability Testing",
+  "content": "October 1, 2017 2017-10-01\n\nAll usability-testing studies involve a participant performing some assigned tasks on one or more designs. There are, however, two types of data that can be collected in a user-testing study:\n\nQualitative data offer a direct assessment of the usability of a system: researchers will observe participants struggle with specific UI elements and infer which aspects of the design are problematic and which work well. They can always ask participants followup questions and change the course of the study to get insights into the specific issue that the participant experiences. Then, based on their own UX knowledge and possibly on observing other participants encounter (or not) the same difficulty, researchers will determine whether the respective UI element is indeed poorly designed.\n\nQuantitative data offer an indirect assessment of the usability of a design. They can be based on users’ performance on a given task (e.g., task-completion times, success rates, number of errors) or can reflect participants’ perception of usability (e.g., satisfaction ratings). Quantitative metrics are simply numbers, and as such, they can be hard to interpret in the absence of a reference point. For example, if 60% of the participants in a study were able to complete a task, is that good or bad? It’s hard to say in the absolute. That is why many quant studies usually aim not so much to describe the usability of a site, but rather to compare it with a known standard or with the usability of a competitor or a previous design.\n\nWhile quant data can tell us that our design may not be usable relative to a reference point, they do not point out what problems users encountered. Even worse, they don’t tell us what changes to make in the design to get a better result next time. Knowing that only 40% of the participants are able to complete a task doesn’t say why users had trouble with that task or how to make it easier. Often researchers will need to use qual methods to supplement quant data in order to understand the specific usability issues in an interface.\n\nOne advantage of quant over qual is statistical significance. When quant data are presented in a sound way, they come with a certain protection against randomness: usually, mathematical instruments such as confidence intervals and statistical significance will tell us how likely it is that the data reflect the truth or whether they may be just an effect of random noise — perhaps an artifact of the specific participants that we happened to recruit or of the conditions in which the study was run. Although seasoned qual researchers will deploy an arsenal of good practices to protect themselves from chance and to make sure that their results are not biased, we have no formal assurance that the findings from a qual study are indeed objective and representative for the whole target population.\n\nQualitative and quantitative data need slightly different study setups and very different analysis methods. They are rarely collected at the same time — hence the distinction between qualitative and quantitative user studies. Both qualitative and quantitative testing are essential in the iterative design cycle. Although qual studies are more common in our industry, quant studies are the only ones that allow us to put a number on a redesign and clearly say how much our new version improved over the old one — they are the essential instrument in calculating return on investment.\n\nThe table below summarizes the differences between the two types of research. In the rest of the article we discuss these differences in detail.\n\nHow many and how much?\n\nBoth formative and summative:\n\nAnytime: during redesign, or when you have a final working product\n\nWhen you have a working product (either at the beginning or end of a design cycle)\n\nFindings based on the researcher’s impressions, interpretations, and prior knowledge\n\nStatistically meaningful results that are likely to be replicated in a different study\n\nThe basic user-centered design cycle starts with an evaluation of an existing design, followed by a redesign intended to address the current system’s usability challenges. Once the new version is complete, it can be evaluated and compared against the initial version.\n\nThe first and third stage of the iterative design cycle are summative — they are intended to provide an overall assessment of a design. In these steps both qual and quant research methods (or combinations such as PURE) can be used to evaluate the design. However, when the goal is to link the entire redesign effort to actual financial savings or explicitly figure out how much the redesign has improved, quant studies must be used. Organizations with mature UX often have such a quant usability-tracking process in place. (Sometimes this process of quantitatively evaluating each version of a design and comparing it with previous versions is called benchmarking.)\n\nDuring the redesign stage, user research has a formative role: it is meant to inform the design and steer it on the right path. In this phase, designers and researchers need to get user data relatively quickly and cheaply in order to be able to choose among different design alternatives and create a usable UI. At this stage, qual studies are usually the most appropriate. We know that, with 5 users, a qualitative study is likely to uncover 85% of the usability problems in a design (provided that the design is not already close to being perfect), so, in the redesign step, it makes sense to run one quick study with a few users, determine the big issues, fix them, and then test the new version again with another small set of users.\n\nQual studies are well suited for identifying the main problems in a design: for example, we can easily run a qualitative study to see what (if anything) prevents users from submitting a form successfully, and, based on that study, we may determine that we need to lengthen the form fields, present password requirements, or use labels outside the fields rather than inside them.\n\nIn contrast, most quant studies are done on a complete version of the site, with the purpose of evaluating the usability of the site, rather than directly informing the redesign process. This is not because one could not employ quantitative methods during the redesign iterations, but rather because quant usability studies would be too costly if used often and early in the design process. Quant studies usually involve a large number of users, and most organizations cannot afford to spend a lot of money on such studies to investigate whether the page copy is clear or whether a button is findable. However, the numbers obtained from quantitative testing can be invaluable when it comes to convincing upper management that your site is in need of a complete redesign.\n\nQual data usually will consist of a set of findings, which identify (and prioritize according to severity) the strengths and weaknesses of a design. These findings are estimates — they are based on the knowledge and level of experience of the researcher facilitating the task and interpreting the meanings of the users’ actions. Different practitioners will often identify different issues in the same user-testing session (a phenomenon known as the evaluator’s effect). Plus, even if we’ve been very careful in recruiting participants who match our target demographics, when we include only a few people there is always a chance that they are not truly representative of the whole user population, and so our findings may be skewed.\n\nQuant studies usually involve a relatively large number of users (often more than 30) and use statistical techniques to protect themselves against such random events. When reported correctly, quantitative studies will include information about the statistical significance of the results. For example, a margin of error will help you understand how much you can trust the results from the study. Or, if the difference in task-completion time between your site and the competitor’s site was statistically significant, you will know that, even if you were to recruit a different set of users and rerun your study, your results will point in the same direction, even if the exact averages may be slightly different.\n\nThus, when quantitative studies are carried out and analyzed correctly, you can have confidence that their results are sound. Namely, that they are not due to a lucky or unlucky throw of the dice.\n\nThese types of analyses are based on statistics and usually involve other types of skills than you will find in a qual usability researcher. That is why many companies have separate job requirements for quant and qual UX researchers.\n\nOn the surface quantitative and qualitative user testing can look quite similar (i.e., they both involve users performing tasks on a design). Both types of studies need to follow the basic rules for good experiment design, by making sure that they have:\n\nBut, because quant studies strive to obtain results that are meaningful statistically, there are some important differences between the two types of studies:\n\nMoreover, all participants should understand the same thing when they read the task. A task such as “Research the requirements for obtaining a drone-flying permit in California” is too vague for a quant user study, as different people may understand different things by the word “research,” but can be okay in qual studies if you’re trying to figure out what types of information people may be interested in.\n\nQualitative and quantitative user testing are complementary methods that serve different goals. Qual testing involves a small number of users (5–8) and directly identifies the main usability problems in an interface. It is often used formatively, to inform the design process and channel it in the right direction. Quant usability testing (or benchmarking) is based on a large number of participants (often more than 30); when analyzed and interpreted correctly, results from quant tests come with higher protection against random noise. Quant studies offer an indirect, summative evaluation of the usability of a site through metrics such as task-completion rate, task time, or satisfaction ratings and are typically used to track the usability of a system over design iterations.\n\nFor an overview of popular quantitative research methods, guidance on which to use each one, and how to calculate return on investment, check out our course Measuring UX and ROI.\n\nCalculate, interpret, and report the numbers from your quantitative UX studies\n\nUse metrics from quantitative research to demonstrate value\n\nCollect insights without leaving your desk",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Quantitative vs. Qualitative Usability Testing",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Qual Research",
+      "id": "toc-qual-research-1"
+    },
+    {
+      "level": "h2",
+      "text": "Quant Research",
+      "id": "toc-quant-research-2"
+    },
+    {
+      "level": "h2",
+      "text": "Statistical Significance",
+      "id": "toc-statistical-significance-3"
+    },
+    {
+      "level": "h2",
+      "text": "Differences Between Qual and Quant",
+      "id": "toc-differences-between-qual-and-quant-4"
+    },
+    {
+      "level": "h2",
+      "text": "The Iterative Design Cycle: Goals for Qual vs. Quant",
+      "id": "toc-the-iterative-design-cycle-goals-for-qual-vs-quant-5"
+    },
+    {
+      "level": "h2",
+      "text": "When to Use Qual vs. Quant",
+      "id": "toc-when-to-use-qual-vs-quant-6"
+    },
+    {
+      "level": "h2",
+      "text": "Outcome: Qual vs. Quant",
+      "id": "toc-outcome-qual-vs-quant-7"
+    },
+    {
+      "level": "h2",
+      "text": "Methodology: Qual vs. Quant",
+      "id": "toc-methodology-qual-vs-quant-8"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-9"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Statistics for UX",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Measuring UX and ROI",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Remote User Research",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/raluca-budiu/",
+    "https://www.nngroup.com/articles/quant-vs-qual/",
+    "https://www.nngroup.com/articles/quant-vs-qual/",
+    "https://www.nngroup.com/articles/quant-vs-qual/#toc-qual-research-1",
+    "https://www.nngroup.com/articles/quant-vs-qual/#toc-quant-research-2",
+    "https://www.nngroup.com/articles/quant-vs-qual/#toc-statistical-significance-3",
+    "https://www.nngroup.com/articles/quant-vs-qual/#toc-differences-between-qual-and-quant-4",
+    "https://www.nngroup.com/articles/quant-vs-qual/#toc-the-iterative-design-cycle-goals-for-qual-vs-quant-5",
+    "https://www.nngroup.com/articles/quant-vs-qual/#toc-when-to-use-qual-vs-quant-6",
+    "https://www.nngroup.com/articles/quant-vs-qual/#toc-outcome-qual-vs-quant-7",
+    "https://www.nngroup.com/articles/quant-vs-qual/#toc-methodology-qual-vs-quant-8",
+    "https://www.nngroup.com/articles/quant-vs-qual/#toc-conclusion-9",
+    "https://www.nngroup.com/articles/return-on-investment-for-usability/",
+    "https://www.nngroup.com/articles/pure-method/",
+    "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+    "https://www.nngroup.com/articles/web-form-design/",
+    "https://www.nngroup.com/articles/password-creation/",
+    "https://www.nngroup.com/articles/form-design-placeholders/",
+    "https://www.nngroup.com/articles/quantitative-studies-how-many-users/",
+    "https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/",
+    "https://www.nngroup.com/articles/users-real-data/"
+  ]
+}

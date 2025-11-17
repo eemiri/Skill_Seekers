@@ -1,0 +1,82 @@
+{
+  "url": "https://www.verpackungsregister.org/registrierung/alle-informationen-zur-registrierung/datenupload-xml-schnittstelle",
+  "title": "Datenupload per XML-Schnittstelle",
+  "content": "Sie haben die Möglichkeit, Ihre Verpackungsmengen und Markennamen im Verpackungsregister LUCID per XML-Schnittstelle digital einzutragen. Hier erfahren Sie, wie das geht.\n\nUnternehmen, die ihre Waren in Verpackungen mit Systembeteiligungspflicht (Verkaufs-, Um- oder Versandverpackungen) vertreiben, müssen die bei ihrem Systembetreiber angegebenen Verpackungsmengen auch im Verpackungsregister LUCID melden (Datenmeldung).\n\nZu diesem Zweck stellen einige Systembetreiber ihren Kunden eine XML-Datei mit den bei ihnen systembeteiligten Mengen differenziert nach Materialarten zur Verfügung. Diese XML-Dateien können registrierte Unternehmen im Verpackungsregister LUCID hochladen und damit automatisiert ihre Verpackungsmengen melden (Datenmeldung).\n\nUm Ihre Meldung zu den Verpackungsmengen (Datenmeldung) mittels XML-Upload abzugeben, loggen Sie sich zunächst mit Ihren Zugangsdaten im Verpackungsregister LUCID ein und klicken in der Kachel „Datenmeldung“ auf „Datenmeldung abgeben“. In der Kachel „XML-Meldung“ laden Sie die XML-Datei dann hoch. Nach dem erfolgreichen Upload der Datei können Sie Ihre im Verpackungsregister LUCID abgegebene Meldung zu Ihren Verpackungsmengen in der Übersicht „Abgegebene Datenmeldungen“ einsehen.\n\nSofern Sie oder Ihr Unternehmen selbst eine XML-Datei zur Abgabe einer Datenmeldung erstellen wollen, finden Sie in der untenstehenden Anleitung detaillierte Erläuterungen zur Schnittstelle. Zudem stellen wir Ihnen eine Beispieldatei und das Schema zur Validierung der XML-Datei zur Verfügung.\n\nSie können Ihre Meldung zu den Verpackungsmengen (Datenmeldung) im Verpackungsregister LUCID auch manuell hinterlegen. Der Upload einer XML-Datei ist eine alternative Abgabemöglichkeit.\n\nBei der Registrierung im Verpackungsregister LUCID müssen Sie auch die Markennamen angeben, unter denen Sie Ihre verpackten Waren vertreiben – differenziert nach Verpackungen mit Systembeteiligungspflicht und Verpackungen ohne Systembeteiligungspflicht.\n\nIn Ihrer bereits bestehenden Registrierung im Verpackungsregister LUCID können Sie Ihre Markennamen manuell oder durch Hochladen einer XML-Datei eintragen. Der Upload bietet sich vor allem für Unternehmen an, die eine größere Anzahl an Marken eintragen müssen oder bei denen ein Export von Markennamen aus einem Warenwirtschaftssystem als XML-Datei technisch möglich ist.\n\nFür den Upload der XML-Datei loggen Sie sich mit Ihren Zugangsdaten im Verpackungsregister LUCID ein und klicken in der Kachel „Markennamen“ auf „Bearbeiten“. Über Anklicken der Kachel „XML-Import“ können Sie die Datei hochladen.\n\nZur Unterstützung bei der Erstellung einer XML-Datei zum Upload von Markennamen steht Ihnen hier eine Anleitung mit detaillierten Erläuterungen zur XML-Schnittstelle zur Verfügung. Zudem stellen wir Ihnen eine Beispieldatei und das Schema zur Validierung der XML-Datei zur Verfügung.\n\nWie Sie eine XML-Datei erstellen und validieren, klären Sie bitte mit Ihrer IT-Abteilung.\n\nMelden Sie regelmäßig die Mengen Ihrer Verpackungen mit Systembeteiligungspflicht – bei Ihrem Systembetreiber und im Verpackungsregister LUCID.\n\nIm Verpackungsregister LUCID müssen Sie die Markennamen angeben, unter denen Sie Ihre verpackten Waren erstmals gewerbsmäßig vertreiben.\n\nUnser Support-Team erreichen Sie unter: +49 541 34310555Montag bis Freitag: 9:00 bis 17:00 Uhr(ausgenommen sind gesetzliche Feiertage in Niedersachsen)",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Datenupload per XML-Schnittstelle",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Abgabe einer Datenmeldung zu den Verpackungsmengen",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Upload der XML-Datei",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Weitere Hilfestellungen",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Wichtig",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Eingabe und Pflege Ihrer Markennamen",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Upload der XML-Datei",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Weitere Hilfestellungen",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Wichtig",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Datenmeldung",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Markennamen",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Sie brauchen technische Unterstützung oder haben allgemeine Fragen zu den verpackungsrechtlichen Pflichten?",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsregister.org/",
+    "https://www.verpackungsregister.org/registrierung/alle-informationen-zur-registrierung",
+    "https://www.verpackungsregister.org/registrierung/alle-informationen-zur-registrierung",
+    "https://www.verpackungsregister.org/fileadmin/files/LUCID/Anleitung_XML_Datenmeldung.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/LUCID/Hersteller_Datenmeldung_Beispiel.xml",
+    "https://www.verpackungsregister.org/fileadmin/LUCID/Hersteller_Datenmeldung_Schema.xsd",
+    "https://www.verpackungsregister.org/fileadmin/files/LUCID/Anleitung_XML_Markennamen.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/LUCID/XML_Markennamen_Beispiel.xml",
+    "https://www.verpackungsregister.org/fileadmin/LUCID/marken-import-schema.xsd",
+    "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/datenmeldung",
+    "https://www.verpackungsregister.org/registrierung/markennamen"
+  ]
+}

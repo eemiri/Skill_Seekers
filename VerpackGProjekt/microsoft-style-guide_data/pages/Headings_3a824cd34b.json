@@ -1,0 +1,59 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/scannable-content/headings",
+  "title": "Headings",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nHeadings provide both structure and visual points of reference to help readers scan content. If you can break text logically into smaller sections, the extra spacing and distinct fonts associated with headings will help readers scan content and find entry points.\n\nIn any type of content—whether it's UI, web content, marketing, or advertising—use headings consistently.\n\nThink of headings as an outline, only more interesting—pithy, even. If readers don't read the headings, they probably won't read the text that follows, either.\n\nTop-level headings communicate what's most important and divide content into major subjects. Make them as specific as you can to catch the reader's attention.\n\nWhen there's a lot to say under a top-level heading, look for two or more distinct topics, and use second-level headings (subheads) to break up the large section into more scannable chunks. If you can't find at least two distinct topics, skip the second-level headings.\n\nAvoid having two headings in a row without text in between—that might indicate a problem with organization or that the headings are redundant. But don't insert filler text just to separate the headings.\n\nEach new heading represents a new or more specific topic. The heading should introduce the topic in an interesting way.\n\nUse headings judiciously. One heading level is usually plenty for a page or two of content. For long content, you might need to use additional heading levels. For example, this guide uses four heading levels.\n\nKeep headings as short as possible, and put the most important idea at the beginning. This is especially critical in blogs and social media.\n\nBe as specific as you can, and be even more detailed with lower-level headings. For example, a second-level heading should be more specific than a first-level heading.\n\nFocus on what matters to customers, and choose words they'd use themselves. In most cases, don't talk about products, features, or commands in headings. Concentrate on what customers can achieve or what they need to know.\n\nUse parallel sentence structure for all headings at the same level. For example, use noun phrases for first-level headings, verb phrases for second-level headings, and infinitive phrases for headings in instructions. Examples Source data\n\nConsider infinitive phrases, such as To create a heading, for headings and titles related to tasks. For headings that aren't related to tasks, use a noun phrase such as Headings, if possible.\n\nDon’t use ampersands (&) or plus signs (+) in headings unless you're referring to UI that contains them or space is limited.\n\nAvoid hyphens in headings if you can. In resized windows or mobile devices, they can result in awkward line breaks.\n\nUse vs., not v. or versus, in headings.\n\nUse sentence-style capitalization for headings. That means that you capitalize the first word, any proper nouns, and the first word after a colon (if there is one). Everything else is lowercase. To learn more, see Capitalization. Examples Say hello to Surface Pro Set up the deployment environment Templates and themes for Office Online My account Find a store Can a search engine predict the winner of a sports tournament? Block party: Communities use Minecraft to create public spaces\n\nDon't end headings with a period. A question mark or (rarely) an exclamation point can be used if it's needed for meaning. Examples Not seeing what you want? What can we help you find?\n\nUse italic if it would be required in body text.\n\nBreak two-line headings carefully. Unless you're writing content for a responsive design (which breaks lines dynamically to fit the screen), break the heading in a way that makes sense and balances the length of the two lines. (Shift + Enter inserts a manual line break in many authoring tools.)\n\nKeep adjectives and prepositions with the words they modify.\n\nKeep hyphenated words and multiple-word proper nouns (such as New York) on the same line.\n\nBreak after punctuation.\n\nBreak naturally, at the end of a complete phrase, if possible.\n\nIf you can't fit a headline on two lines, rewrite it.\n\nUse vertical spacing to make headings stand out. Headings typically have extra space above them and often less space below them. Close proximity between the heading and the text that follows it communicates to the reader that they're related. Heading spacing is built into heading styles in most templates. Use those styles to control spacing in a consistent way.\n\nDon't use extra line breaks to increase heading spacing, especially in web content. In responsive web design, the layout and screen elements (including headings) adjust to the screen size automatically, whether they're viewed on mobile devices, tablets, laptops, or desktops. Extra line breaks might detract from the content appearance on mobile devices.\n\nLearn more Using type\n\nIf you regularly highlight specific types of content, such as benefits, feature highlights, tips, notes, warnings, or cross-references, consider using a special kind of heading for them. Although they don't add white space to a document, bold run-in headings, like the ones you see in this article, draw the reader's eye to interesting information. Because they're part of the paragraph, run-in headings have less impact than separate headings but require much less space—so they're ideal for packaging blurbs, web content, screen callouts, and the like.\n\nWhen you use bold formatting for run-in headings:\n\nMake sure the first few words of the paragraph are interesting and introduce the paragraph contents.\n\nConsider repeating common phrases, such as Tip, Note, and See also, as run-in headings to call attention to helpful information, interesting but nonessential information, or cross-references, respectively.\n\nUse a character style, rather than manual formatting, to make your headings consistent, easy to apply, and easy to maintain. You can apply character styles to any selected words in a document without changing the paragraph style. In Microsoft Word, character styles, such as Subtle Emphasis, are designated by an a next to the style name. To create a new character style in a document, select the characters, and then add the style.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Headings",
+      "id": "headings"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Writing headings",
+      "id": "writing-headings"
+    },
+    {
+      "level": "h2",
+      "text": "Formatting headings",
+      "id": "formatting-headings"
+    },
+    {
+      "level": "h2",
+      "text": "Using run-in headings",
+      "id": "using-run-in-headings"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/headings",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/headings",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/headings",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/headings",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/headings",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/headings",
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/index"
+  ]
+}

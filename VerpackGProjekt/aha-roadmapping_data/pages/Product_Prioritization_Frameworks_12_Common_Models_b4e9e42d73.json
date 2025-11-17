@@ -1,0 +1,101 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+  "title": "Product Prioritization Frameworks: 12 Common Models",
+  "content": "Last updated: April 2024\n\nDo skillful product managers have a sixth sense? It might seem that way, especially when it comes to evaluating which product features will deliver the most value. The more you hone your understanding of customers, the better you are able to anticipate what they want.\n\nBut what makes product managers particularly good at feature prioritization is the ability to connect strategy to implementation. You want the features you choose to prioritize to help you achieve your product vision. That requires a repeatable, objective way to estimate the value of features. This is where prioritization frameworks come in.\n\nWe will explore 12 of the most popular prioritization frameworks for evaluating future product work in this guide. Need to get started quickly? Aha! software offers an easy way to collaborate with pre-built whiteboard templates like this value vs. effort matrix. That way, you can visualize your top ideas or features side-by-side for faster (and better) trade-off decisions.\n\nStart using this template now\n\nExplore the sections below:\n\nWhat is a prioritization framework?\n\nWhy is it important to prioritize features?\n\nCommon prioritization frameworks\n\nHow to choose the best prioritization framework for your team\n\nA prioritization framework contains consistent criteria for product teams to use when putting features in priority order or ranking according to business value. Frameworks can support more strategic decisions, minimize biases, and avoid analysis paralysis. It is also easier to communicate priorities to stakeholders and leadership when you have an agreed-upon framework for making tradeoff decisions.\n\nThe prioritization framework chosen by product teams is usually informed by the product type, customers served, organizational culture, and individual preferences. One approach is no better or worse than another. It is more important to choose a framework that your team will apply uniformly across the product.\n\nProduct managers decide what to build next. But you do not do this important work in isolation. Plenty of voices weigh in — like sales and engineering teams and company leaders. And customer feedback informs what to build next too. Strong opinions matter but should not overshadow product strategy.\n\nWithout a prioritization framework, you could spend all day sorting and resorting features — potentially relying too much on subjectivity or failing to reach a consensus with stakeholders. Effective prioritization also provides transparency for the team and builds confidence in the planning process. Everyone wants to work on features that truly matter to customers and the business.\n\nThere are dozens of prioritization frameworks available to product managers. Keep in mind that choosing a framework does not preclude deeper discussion and evaluation. These frameworks just provide guardrails for decision-making. Your team still needs to make thoughtful choices about what to prioritize next.\n\nLet's take a closer look at some of the common prioritization frameworks and the benefits of each.\n\nA﻿ha! product value score\n\nThe Aha! product value score gives you a way to measure and prioritize work based on its customer and business value through every stage of the product development lifecycle. Its metrics include:\n\nIntroducing the new product value score\n\nHow to use the product value score in Aha! software\n\nThe cost of delay (CoD) framework combines urgency and value — so you can make decisions on what will deliver the most value right now.\n\nCoD is often used by teams following the Scaled Agile Framework (SAFe). CoD is a component of the weighted shortest job first (WSJF) prioritization framework. (See below.)\n\nCprime: How do you calculate the cost of delays?\n\nSAFe: Weighted shorted job first\n\nThe ICE product prioritization framework model ranks the impact, confidence, and ease associated with developing a specific idea or feature.\n\nTeams choose ICE for its simplicity. It is similar to the RICE framework (see below) but is more lightweight. Just rank the three values — impact, confidence, and ease — then multiply them to calculate the ICE score of a given feature.\n\nRelated: Itamar Gilad: Idea prioritization with ICE and the confidence meter\n\nJobs-to-be-done framework\n\nThe jobs-to-be-done framework (JTBD) encourages you to think through the specific jobs, or actions a user wants to take, along with the desired outcomes they want to achieve from using a product.\n\nJTBD helps product teams understand customers' motivations and overall experience more deeply, so you can make better decisions about what to build next and how to improve your offering.\n\nRelated: What is the jobs-to-be-done framework?\n\nThe Kano model weighs customer satisfaction against the cost to implement.\n\nThis framework can be useful for teams that want to determine which features to build for a Minimum Lovable Product (MLP).\n\nJared Spool: Building a winning UX strategy using the Kano model\n\nThe MoSCoW method qualifies initiatives and features into four categories:\n\nWill not have at this time\n\nMoSCoW prioritization can help teams deliver incremental value across each of the four categories.\n\nMoSCoW method template\n\nTechTarget: MoSCoW method\n\nOpportunity scoring, also called gap analysis, weighs the importance of a potential feature or enhancement against customer satisfaction with the existing feature.\n\nAfter seeking customer feedback, teams plot importance vs. satisfaction on a graph. Then they prioritize the ideas that score both high in importance to customers and low in current satisfaction.\n\nSome product teams use opportunity scoring in conjunction with JTBD since both frameworks grew out of an innovation process called outcome-driven innovation (ODI).\n\nRelated: Tony Ulwick: Outcome-driven innovation: JTBD theory in practice\n\nProduct tree refers to an exercise in which the product roadmap is represented by a tree:\n\nBranches: The primary product or system functionalities\n\nRoots: The technical requirements needed to support feature branches\n\nLeaves: New feature ideas\n\nThis method of feature prioritization can be helpful for organizations with a large portfolio of products. The visual of a tree encourages teams to focus across the portfolio with decisions that positively impact the entire ecosystem.\n\nRelated: Product Talk: Opportunity solution trees\n\nThe RICE framework scores features based on four factors:\n\nReach: How many customers the feature will benefit\n\nImpact: A measurable impact to customers or the business, such as an increase in sales or customer sentiment\n\nConfidence: Proposed value to the customer\n\nEffort: Resources needed to complete the feature\n\nWhereas CoD combines urgency and value, RICE balances value and effort.\n\nRelated: GitLab: Using the RICE framework\n\nUser story mapping can be considered a prioritization framework as well as an exercise for charting the customer journey. Teams create a map of the user’s interactions with the product and evaluate which steps have the most benefit for the user.\n\nThis framework is commonly used because all product teams strive to be customer-focused. It is also often used by user experience designers, who are also intently focused on the customer experience.\n\nWhat is user story mapping?\n\nHow to create user story maps in Aha! Roadmaps\n\nSomewhat of a simplified version of RICE, the value vs. effort framework scores features based on value to the customer and organizational effort.\n\nLean teams that prefer a lightweight framework may choose this one.\n\nAha! product value score\n\nThe one metric every product team should track\n\nReforge: Use a product value matrix to prioritize your roadmap\n\nWeighted shortest job first\n\nUsed in SAFe, weighted shortest job first (WSJF) sequences jobs (features, capabilities, and epics) in a flow-based order by measuring CoD against job size or duration.\n\nRelated: SAFe: Weighted shorted job first\n\nAha! software allows you to score features by their potential value.\n\nMany product managers also customize existing frameworks. For example, you could create a framework based on any number of criteria — such as user engagement, usability, or operational efficiency. Then, customize the metrics, scale, or weight applied to each. For a customized framework to drive decisions, you need to choose criteria that are congruent with the overall strategy.\n\nLook back at recent releases and the features you delivered. How did the team reach a decision on what to move forward? Dig in to see whether those reasons are aligned with the product strategy and business goals. If yes, you have a good start. You can begin codifying criteria and assigning relative value.\n\nIf you cannot find common criteria from looking at past decisions, you will need to start fresh. And even if you can, it is still a good idea to list your product goals in order of importance and determine what type of framework will help you make more deliberate, strategic decisions.\n\nThere is often not a perfect match when it comes to choosing a prioritization framework. You may need to experiment before you land on the framework that suits the team best. Or use a purpose-built product management tool that is pre-populated with proven prioritization scorecards. The goal is to have a constant flow of high-value features for the team to work on — a boon for product leadership, team competency, and customer value.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "12 most common product prioritization frameworks",
+      "id": "12-most-common-product-prioritization-frameworks"
+    },
+    {
+      "level": "h4",
+      "text": "Prioritize smarter in Aha! software. Sign up to get started.",
+      "id": "prioritize-smarter-in-aha-software"
+    },
+    {
+      "level": "h2",
+      "text": "What is a prioritization framework?",
+      "id": "what-is-a-prioritization-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Why is using a prioritization framework important for feature development?",
+      "id": "why-is-using-a-prioritization-framework-important-for-feature-development"
+    },
+    {
+      "level": "h2",
+      "text": "Common prioritization frameworks",
+      "id": "common-prioritization-frameworks"
+    },
+    {
+      "level": "h2",
+      "text": "How to choose the best prioritization framework for your team",
+      "id": "how-to-choose-the-best-prioritization-framework-for-your-team"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework#what-is-a-prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework#why-is-using-a-prioritization-framework-important-for-feature-development",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework#common-prioritization-frameworks",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework#how-to-choose-the-best-prioritization-framework-for-your-team",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework#top",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-the-scaled-agile-framework-(safe)",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-the-jobs-to-be-done-framework",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/dictionary#l",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-the-jobs-to-be-done-framework",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

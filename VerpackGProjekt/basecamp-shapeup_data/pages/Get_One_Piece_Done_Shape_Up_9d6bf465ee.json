@@ -1,0 +1,353 @@
+{
+  "url": "https://basecamp.com/shapeup/3.2-chapter-11#program-just-enough-for-the-next-step",
+  "title": "Get One Piece Done | Shape Up",
+  "content": "Heads up! This page uses features your browser doesn’t support. Try a modern browser like Firefox or Chrome for the best experience.\n\nAs the team gets oriented, they start to discover and track the tasks they need to do to build the project. It’s important at this early phase that they don’t create a master plan of parts that should come together in the 11th hour. If the team completes a lot of tasks but there’s no “one thing” to click on and try out, it’s hard to feel progress. A team can do a lot of work but feel insecure because they don’t have anything real to show for it yet. Lots of things are done but nothing is really done.\n\nInstead they should aim to make something tangible and demoable early—in the first week or so. That requires integrating vertically on one small piece of the project instead of chipping away at the horizontal layers.\n\nWe can think of projects in two layers: front-end and back-end, design and code. While technically speaking there are more layers than this, these two are the primary integration challenge in most projects.\n\nSuppose the project starts with a lot of design. The team could design a variety of screens and even implement them as templates or views. But until they’re wired to a backend, nothing does anything. The work remains hypothetical and speculative.\n\nSame with the backend. A lot of tasks could be checked off, but without any UI—what can you do with it? How do you judge if the work on a specific piece of business logic is really right without interacting with it?\n\nWhat we want instead is to pick off one slice of the project to integrate. Then when that’s done, the team has something tangible that they’ve proven to work (or not work and reconsider). Anyone can click through the interaction and see if the feature does what it should and if what it does is what they want.\n\nWe built a feature in Basecamp 3 that allowed service firms to invite clients to their projects and share chosen documents, messages, or to-do lists with them. The concept, defined in the pitch, had a variety of moving parts:\n\nThe team had one designer and one programmer. After they got oriented and familiar with how the existing code worked, the designer chose the visibility toggle as the best place to integrate first. This was the most central piece of UI in the project. It’s the one that would appear in demo videos and the interaction customers would use most.\n\nThe designer didn’t make a pixel-perfect mockup. Instead, he experimented with different affordances and placements in the app’s HTML templates. Should the toggle be two radio buttons, a checkbox, or a custom button that changes state?\n\nMeanwhile, the programmer wasn’t waiting around. He had enough guidance from the pitch to start spiking the access model.\n\nAs soon as the designer felt confident in the basic direction of the UI, he pinged the programmer and showed him the stubbed toggle. Stepping away from the access problem for a bit, the programmer wired the toggle enough so that it would appear on all the supported content types, change state when clicked, and save its state in the database.\n\nAt this point, the toggle didn’t actually change the visibility of the content. But it worked from the service firm’s point of view. The designer could click it, feel it, and judge how well it worked with live data on a staging server.\n\nThere was still more design work to do on the toggle. But the programmer didn’t need to be involved anymore. With the affordance wired up, the designer could continue to experiment with copy, placement, color, mobile view rendering, and more. Meanwhile, the programmer could get back to the access model or whatever else was most important to tackle next.\n\nAbout three days after the start of the project, the designer demoed the working toggle to a manager. Their conversation led to a few more tweaks and then they were able to call the toggle “done.” One important piece of the project was designed, implemented, demoed, and settled. The team felt good about showing tangible progress. And the team and management both felt confidence in the project by seeing a working piece. By clicking through a core interaction early, they were able to validate that what they hoped would make sense in theory did indeed look right and make sense in practice.\n\nThis short example illustrates a few points about how the teams integrate over short periods to finish one piece of the project at a time.\n\nBecause the important moving parts were already defined in the shaping process, programmers don’t need to sit idle waiting for design when the project starts. There’s enough direction in the pitch for them to start working on back-end problems from the start. They won’t be able to take a piece of functionality to completion without knowing where it leads on the front-end, but there should be enough information in the pitch to inform foundational modeling decisions.\n\nProgrammers don’t need a pixel-perfect design to start implementing. All they need are endpoints: input elements, buttons, places where stored data should appear. These affordances are the core of a user interface design.\n\nQuestions about font, color, spacing, and layout can be resolved after the raw affordances are in place and hooked up in code. Copywriting, basic affordances, and some wiring are all we need to try a live working version in the browser or on the device. Then we can answer the fundamental questions early: Does it make sense? Is it understandable? Does it do what we want?\n\nThat means the first interface a designer gives to a programmer can look very basic, like the example below. It’s more like a breadboard than a visual design or a polished mock-up.\n\nThis screenshot is from a registration app for multi-day courses. The designer made it in HTML by hand. There’s barely any style — just enough visual hierarchy to feel confident that the layout is usable and amenable to future layers of styling.\n\nWhile the design looks simple, a lot of decisions are reflected in it.\n\nHere’s another example. This is the first working piece of an app for capturing data from customer interviews.\n\nAt this early stage the project name (Basecamp) and interview subject (Jan) were hard-coded and most of the links didn’t go anywhere.\n\nLook at how raw this design is. The actions are plain text links in the default blue and purple browser colors. The boxes containing the data points are barely styled with plain black borders. As rough as it is, this design tests some important trade-offs. The designer chose to show as much data as possible above the fold so it would be easy to review interviews. That didn’t leave enough room within each section for UI to add, edit, or remove data points. That led the designer to create separate screens for adding and editing data per section.\n\nThis is the first design for adding and editing “pulls” — a type of data in this interview technique. Again, look at how raw it is. There’s just enough design here to quickly wire it up and test it. The team can click through this to judge whether navigating to a separate screen to record data is acceptable or not. If it works, they can layer on additional styling later. If it doesn’t work, they didn’t waste a lot of time implementing a pixel-perfect design.\n\nBeautiful alignment, colors, and typography don’t matter on the first pass. Visual styling is important in the end product, not in the early stages. The biggest uncertainties are about whether it will work, whether it will make sense, and how hard it will be to implement. After the elements are wired up, they can be rearranged, restyled, and repainted to improve the work that’s already done. First make it work, then make it beautiful.\n\nThe same is true for back-end work. It doesn’t have to be all or nothing. Sometimes a designer just needs some scaffolding—a couple fields that save data or some code to navigate from one stubbed screen to another. Other times she needs to populate a variable in the template with a collection of real data so she can iterate on different displays (rows, columns, media boxes, etc) to find the best design.\n\nThe early back-end work can be strategically patchy. There might be a controller to render templates but no model. Or a controller and bits of a model with mock data but no support for creating or updating the data. Screens that aren’t wired yet could at least be connected with routes for navigating between them.\n\nWhen it was time to test the first piece of the interview app, the team knew there would be sensitive data from real interviews going into it. They needed to protect it with some kind of authentication. Rather than building full username and password support—or even integrating a third-party solution—they just used plain HTTPAuth to hard-code a password.\n\nThis allowed the team to try adding data from real interviews very early in the cycle, without slowing down to hook up some authentication code that wasn’t going to teach them anything about the problems they were trying to solve.\n\nThe point is to create a back-and-forth between design and programming on the same piece of the product. Instead of one big hand-off, take turns layering in affordances, code, and visual styling. Step by step, click through the real working feature-in-progress to judge how it’s coming and what to do next.\n\nIn the examples above, the team didn’t build log in first. They didn’t build a way to create an interview project and an interview subject before solving the problem of adding interview data. They jumped straight into the middle where the interesting problem was and stubbed everything else to get there.\n\nTo expand on this, here are three criteria to think about when choosing what to build first:\n\nFirst, it should be core. The visibility toggle was core to the Clients in Projects concept. Without it, the other work wouldn’t mean anything. Contrast that with a more peripheral aspect of the project, like the ability to rename a client. Both were “required,” but one was more central and important to prove out early in the cycle. In the interview app, recording interview data was more core—more in the middle—than setting up a new research project.\n\nSecond, it should be small. If the first piece of work isn’t small enough, there isn’t much benefit to carving it off from the rest. The point is to finish something meaningful in a few days and build momentum—to have something real to click on that shows the team is on the right track.\n\nThird, it should be novel. If two parts of the project are both core and small, prefer the thing that you’ve never done before. In the Clients in Projects feature, the UI for adding clients was mostly the same as the UI for adding regular users. Starting on that would have moved the project forward, but it wouldn’t have taught the team anything. It wouldn’t have eliminated uncertainty. Starting with the visibility toggle boosted everyone’s confidence because it proved that a new idea was going to work.\n\nCopyright ©1999-2025 37signals LLC. All rights reserved.\n\nStop Running in Circles and Ship Work that Matters\n\nBuy the print edition",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Get One Piece Done",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Integrate one slice",
+      "id": "integrate-one-slice"
+    },
+    {
+      "level": "h2",
+      "text": "Case study: Clients in projects",
+      "id": "case-study-clients-in-projects"
+    },
+    {
+      "level": "h2",
+      "text": "Programmers don’t need to wait",
+      "id": "programmers-dont-need-to-wait"
+    },
+    {
+      "level": "h2",
+      "text": "Affordances before pixel-perfect screens",
+      "id": "affordances-before-pixel-perfect-screens"
+    },
+    {
+      "level": "h2",
+      "text": "Program just enough for the next step",
+      "id": "program-just-enough-for-the-next-step"
+    },
+    {
+      "level": "h2",
+      "text": "Start in the middle",
+      "id": "start-in-the-middle"
+    },
+    {
+      "level": "h1",
+      "text": "Shape Up",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Preface",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Foreword by Jason Fried",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Acknowledgements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Introduction",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 1: Shaping",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Principles of Shaping",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Set Boundaries",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Find the Elements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Risks and Rabbit Holes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Write the Pitch",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 2: Betting",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Bets, Not Backlogs",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "The Betting Table",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Place Your Bets",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 3: Building",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Hand Over Responsibility",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Get One Piece Done",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Map the Scopes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Show Progress",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Decide When to Stop",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Move On",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Conclusion",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Appendices",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Implement Shape Up in Basecamp",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Adjust to Your Size",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Begin to Shape Up",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Glossary",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "About the Author",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://basecamp.com/shapeup/3.2-chapter-11",
+    "https://basecamp.com/shapeup/3.2-chapter-11#integrate-one-slice",
+    "https://basecamp.com/shapeup/3.2-chapter-11#case-study-clients-in-projects",
+    "https://basecamp.com/shapeup/3.2-chapter-11#programmers-dont-need-to-wait",
+    "https://basecamp.com/shapeup/3.2-chapter-11#affordances-before-pixel-perfect-screens",
+    "https://basecamp.com/shapeup/3.2-chapter-11#program-just-enough-for-the-next-step",
+    "https://basecamp.com/shapeup/3.2-chapter-11#start-in-the-middle",
+    "https://basecamp.com/shapeup/3.3-chapter-12",
+    "https://basecamp.com/shapeup/3.3-chapter-12",
+    "https://basecamp.com/shapeup/4.0-appendix-01",
+    "https://basecamp.com/shapeup",
+    "https://basecamp.com/shapeup/0.1-foreword",
+    "https://basecamp.com/shapeup/0.2-acknowledgements",
+    "https://basecamp.com/shapeup/0.3-chapter-01",
+    "https://basecamp.com/shapeup/0.3-chapter-01#growing-pains",
+    "https://basecamp.com/shapeup/0.3-chapter-01#six-week-cycles",
+    "https://basecamp.com/shapeup/0.3-chapter-01#shaping-the-work",
+    "https://basecamp.com/shapeup/0.3-chapter-01#making-teams-responsible",
+    "https://basecamp.com/shapeup/0.3-chapter-01#targeting-risk",
+    "https://basecamp.com/shapeup/0.3-chapter-01#how-this-book-is-organized",
+    "https://basecamp.com/shapeup/1.1-chapter-02",
+    "https://basecamp.com/shapeup/1.1-chapter-02#wireframes-are-too-concrete",
+    "https://basecamp.com/shapeup/1.1-chapter-02#words-are-too-abstract",
+    "https://basecamp.com/shapeup/1.1-chapter-02#case-study-the-dot-grid-calendar",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-1-its-rough",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-2-its-solved",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-3-its-bounded",
+    "https://basecamp.com/shapeup/1.1-chapter-02#who-shapes",
+    "https://basecamp.com/shapeup/1.1-chapter-02#two-tracks",
+    "https://basecamp.com/shapeup/1.1-chapter-02#steps-to-shaping",
+    "https://basecamp.com/shapeup/1.2-chapter-03",
+    "https://basecamp.com/shapeup/1.2-chapter-03#setting-the-appetite",
+    "https://basecamp.com/shapeup/1.2-chapter-03#fixed-time-variable-scope",
+    "https://basecamp.com/shapeup/1.2-chapter-03#good-is-relative",
+    "https://basecamp.com/shapeup/1.2-chapter-03#responding-to-raw-ideas",
+    "https://basecamp.com/shapeup/1.2-chapter-03#narrow-down-the-problem",
+    "https://basecamp.com/shapeup/1.2-chapter-03#case-study-defining-calendar",
+    "https://basecamp.com/shapeup/1.2-chapter-03#watch-out-for-grab-bags",
+    "https://basecamp.com/shapeup/1.2-chapter-03#boundaries-in-place",
+    "https://basecamp.com/shapeup/1.3-chapter-04",
+    "https://basecamp.com/shapeup/1.3-chapter-04#move-at-the-right-speed",
+    "https://basecamp.com/shapeup/1.3-chapter-04#breadboarding",
+    "https://basecamp.com/shapeup/1.3-chapter-04#fat-marker-sketches",
+    "https://basecamp.com/shapeup/1.3-chapter-04#elements-are-the-output",
+    "https://basecamp.com/shapeup/1.3-chapter-04#room-for-designers",
+    "https://basecamp.com/shapeup/1.3-chapter-04#not-deliverable-yet",
+    "https://basecamp.com/shapeup/1.3-chapter-04#no-conveyor-belt",
+    "https://basecamp.com/shapeup/1.4-chapter-05",
+    "https://basecamp.com/shapeup/1.4-chapter-05#different-categories-of-risk",
+    "https://basecamp.com/shapeup/1.4-chapter-05#look-for-rabbit-holes",
+    "https://basecamp.com/shapeup/1.4-chapter-05#case-study-patching-a-hole",
+    "https://basecamp.com/shapeup/1.4-chapter-05#declare-out-of-bounds",
+    "https://basecamp.com/shapeup/1.4-chapter-05#cut-back",
+    "https://basecamp.com/shapeup/1.4-chapter-05#present-to-technical-experts",
+    "https://basecamp.com/shapeup/1.4-chapter-05#de-risked-and-ready-to-write-up",
+    "https://basecamp.com/shapeup/1.5-chapter-06",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-1-problem",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-2-appetite",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-3-solution",
+    "https://basecamp.com/shapeup/1.5-chapter-06#help-them-see-it",
+    "https://basecamp.com/shapeup/1.5-chapter-06#embedded-sketches",
+    "https://basecamp.com/shapeup/1.5-chapter-06#annotated-fat-marker-sketches",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-4-rabbit-holes",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-5-no-gos",
+    "https://basecamp.com/shapeup/1.5-chapter-06#examples",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ready-to-present",
+    "https://basecamp.com/shapeup/1.5-chapter-06#how-we-do-it-in-basecamp",
+    "https://basecamp.com/shapeup/2.1-chapter-07",
+    "https://basecamp.com/shapeup/2.1-chapter-07#no-backlogs",
+    "https://basecamp.com/shapeup/2.1-chapter-07#a-few-potential-bets",
+    "https://basecamp.com/shapeup/2.1-chapter-07#decentralized-lists",
+    "https://basecamp.com/shapeup/2.1-chapter-07#important-ideas-come-back",
+    "https://basecamp.com/shapeup/2.2-chapter-08",
+    "https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles",
+    "https://basecamp.com/shapeup/2.2-chapter-08#cool-down",
+    "https://basecamp.com/shapeup/2.2-chapter-08#team-and-project-sizes",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-betting-table",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-meaning-of-a-bet",
+    "https://basecamp.com/shapeup/2.2-chapter-08#uninterrupted-time",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-circuit-breaker",
+    "https://basecamp.com/shapeup/2.2-chapter-08#what-about-bugs",
+    "https://basecamp.com/shapeup/2.2-chapter-08#keep-the-slate-clean",
+    "https://basecamp.com/shapeup/2.3-chapter-09",
+    "https://basecamp.com/shapeup/2.3-chapter-09#look-where-you-are",
+    "https://basecamp.com/shapeup/2.3-chapter-09#existing-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#new-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#rd-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#production-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#cleanup-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#examples",
+    "https://basecamp.com/shapeup/2.3-chapter-09#questions-to-ask",
+    "https://basecamp.com/shapeup/2.3-chapter-09#does-the-problem-matter",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-appetite-right",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-solution-attractive",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-this-the-right-time",
+    "https://basecamp.com/shapeup/2.3-chapter-09#are-the-right-people-available",
+    "https://basecamp.com/shapeup/2.3-chapter-09#post-the-kick-off-message",
+    "https://basecamp.com/shapeup/3.1-chapter-10",
+    "https://basecamp.com/shapeup/3.1-chapter-10#assign-projects-not-tasks",
+    "https://basecamp.com/shapeup/3.1-chapter-10#done-means-deployed",
+    "https://basecamp.com/shapeup/3.1-chapter-10#getting-oriented",
+    "https://basecamp.com/shapeup/3.1-chapter-10#imagined-vs-discovered-tasks",
+    "https://basecamp.com/shapeup/3.2-chapter-11",
+    "https://basecamp.com/shapeup/3.2-chapter-11#integrate-one-slice",
+    "https://basecamp.com/shapeup/3.2-chapter-11#case-study-clients-in-projects",
+    "https://basecamp.com/shapeup/3.2-chapter-11#programmers-dont-need-to-wait",
+    "https://basecamp.com/shapeup/3.2-chapter-11#affordances-before-pixel-perfect-screens",
+    "https://basecamp.com/shapeup/3.2-chapter-11#program-just-enough-for-the-next-step",
+    "https://basecamp.com/shapeup/3.2-chapter-11#start-in-the-middle",
+    "https://basecamp.com/shapeup/3.3-chapter-12",
+    "https://basecamp.com/shapeup/3.3-chapter-12#organize-by-structure-not-by-person",
+    "https://basecamp.com/shapeup/3.3-chapter-12#the-scope-map",
+    "https://basecamp.com/shapeup/3.3-chapter-12#the-language-of-the-project",
+    "https://basecamp.com/shapeup/3.3-chapter-12#case-study-message-drafts",
+    "https://basecamp.com/shapeup/3.3-chapter-12#discovering-scopes",
+    "https://basecamp.com/shapeup/3.3-chapter-12#how-to-know-if-the-scopes-are-right",
+    "https://basecamp.com/shapeup/3.3-chapter-12#layer-cakes",
+    "https://basecamp.com/shapeup/3.3-chapter-12#icebergs",
+    "https://basecamp.com/shapeup/3.3-chapter-12#chowder",
+    "https://basecamp.com/shapeup/3.3-chapter-12#mark-nice-to-haves-with-",
+    "https://basecamp.com/shapeup/3.4-chapter-13",
+    "https://basecamp.com/shapeup/3.4-chapter-13#the-tasks-that-arent-there",
+    "https://basecamp.com/shapeup/3.4-chapter-13#estimates-dont-show-uncertainty",
+    "https://basecamp.com/shapeup/3.4-chapter-13#work-is-like-a-hill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#scopes-on-the-hill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#status-without-asking",
+    "https://basecamp.com/shapeup/3.4-chapter-13#nobody-says-i-dont-know",
+    "https://basecamp.com/shapeup/3.4-chapter-13#prompts-to-refactor-the-scopes",
+    "https://basecamp.com/shapeup/3.4-chapter-13#build-your-way-uphill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#solve-in-the-right-sequence",
+    "https://basecamp.com/shapeup/3.5-chapter-14",
+    "https://basecamp.com/shapeup/3.5-chapter-14#compare-to-baseline",
+    "https://basecamp.com/shapeup/3.5-chapter-14#limits-motivate-trade-offs",
+    "https://basecamp.com/shapeup/3.5-chapter-14#scope-grows-like-grass",
+    "https://basecamp.com/shapeup/3.5-chapter-14#cutting-scope-isnt-lowering-quality",
+    "https://basecamp.com/shapeup/3.5-chapter-14#scope-hammering",
+    "https://basecamp.com/shapeup/3.5-chapter-14#qa-is-for-the-edges",
+    "https://basecamp.com/shapeup/3.5-chapter-14#when-to-extend-a-project",
+    "https://basecamp.com/shapeup/3.6-chapter-15",
+    "https://basecamp.com/shapeup/3.6-chapter-15#let-the-storm-pass",
+    "https://basecamp.com/shapeup/3.6-chapter-15#stay-debt-free",
+    "https://basecamp.com/shapeup/3.6-chapter-15#feedback-needs-to-be-shaped",
+    "https://basecamp.com/shapeup/3.7-conclusion",
+    "https://basecamp.com/shapeup/3.7-conclusion#key-concepts",
+    "https://basecamp.com/shapeup/3.7-conclusion#get-in-touch",
+    "https://basecamp.com/shapeup/4.0-appendix-01",
+    "https://basecamp.com/shapeup/4.0-appendix-01#a-basecamp-team-for-shaping",
+    "https://basecamp.com/shapeup/4.0-appendix-01#basecamp-projects-for-the-cycle-projects",
+    "https://basecamp.com/shapeup/4.0-appendix-01#to-do-lists-for-scopes",
+    "https://basecamp.com/shapeup/4.0-appendix-01#track-scopes-on-the-hill-chart",
+    "https://basecamp.com/shapeup/4.1-appendix-02",
+    "https://basecamp.com/shapeup/4.1-appendix-02#basic-truths-vs-specific-practices",
+    "https://basecamp.com/shapeup/4.1-appendix-02#small-enough-to-wing-it",
+    "https://basecamp.com/shapeup/4.1-appendix-02#big-enough-to-specialize",
+    "https://basecamp.com/shapeup/4.2-appendix-03",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-a-one-six-week-experiment",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-b-start-with-shaping",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-c-start-with-cycles",
+    "https://basecamp.com/shapeup/4.2-appendix-03#fix-shipping-first",
+    "https://basecamp.com/shapeup/4.2-appendix-03#focus-on-the-end-result",
+    "https://basecamp.com/shapeup/4.5-appendix-06",
+    "https://basecamp.com/shapeup/4.6-appendix-07"
+  ]
+}

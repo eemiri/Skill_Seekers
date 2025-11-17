@@ -1,0 +1,72 @@
+{
+  "url": "https://www.nngroup.com/articles/steering-law/",
+  "title": "Accot-Zhai Steering Law: Implications for UI Design",
+  "content": "June 23, 2019 · Updated Aug. 7, 2024 2024-08-07\n\nThe Accot-Zhai steering law (discovered by HCI researchers Johnny Accot and Shumin Zhai, but also known simply as the steering law) is a corollary of Fitts’s Law. The steering law is an equation that predicts the efficiency of very common interactions; it describes the particular case of path-steering tasks — that is, when a user must move a pointer through a path with boundaries or a “tunnel.” The equation is:\n\nDon’t worry, most UX professionals will never need to use this equation: the main actionable insight is that long, narrow tunnels take more time to navigate than short, wide tunnels.\n\nThe steering law predicts the time necessary to steer a pointer (such as a mouse cursor) through a bounded tunnel (such as a menu, a scroll bar, or slider). The steering time depends on the length and the width of the tunnel: the longer and the narrower the tunnel, the more time will be required to successfully steer through it.\n\nAccording to the steering law, a tunnel is any user-interface control that requires the user to move the cursor (or drag a finger on a touchscreen) along a path that has borders. Overstepping the border will have some consequence, though since this is a common user error, the consequences will hopefully be mild, such as having the computer stop paying attention while the pointer is outside the tunnel. Some of the most common UI elements that involve this type of interaction include dropdown menus (particularly hierarchical menus with hover-revealed submenus), parameter-control sliders, scroll bars, video-playback scrubber bars, and video-game elements that require drag and drop in a straight line.\n\nIn most cases, moving outside the tunnel boundaries interrupts the user action: for example, in a hierarchical dropdown menu, if the user moves the cursor outside the menu area, the menu disappears (which is a somewhat harsh penalty, if the tunnel breakage was unintentional). That is why the width of the tunnel is important for how easily the user can steer through — a narrow tunnel makes it easy to accidentally exit the tunnel area.\n\nWhy people have trouble maintaining the cursor on a straight path has to do with human physiology: the elbow and wrist, which enable the movement of the hand, describe an arc, not a line. Try it yourself: hold your arm out directly in front of you and move your hand from left to right. You’ll notice that, even if you attempt to keep it moving in a straight line, your arm will always have a subtle arc in the movement. As a result, using one’s hand to move in a long, straight line is physically difficult; the longer the motion, the greater the chance of error. Furthermore, many users (especially older adults and those with disabilities) have unsteady hands, and all mobile users are subject to the bumps and jitters of using a device out in the world.\n\nMenus are one of the UI elements most affected by the steering law. Here are a few design choices to make them easy to use.\n\nKeep dropdown menus as short as possible. Menus with few choices minimize the time and difficulty of steering through the narrow tunnel, and also reduces the time to visually search through a large number of choices.\n\nAvoid hierarchical menus, particularly hierarchical menus that are more than two-levels deep. Hierarchical menus are inherently a difficult UI to design well due to Steering Law constraints. There will always be a tradeoff between designing the two tunnels associated with a hierarchical menu: the vertical tunnel that corresponds to the main-menu area and the horizontal tunnel, that corresponds to subcategory name that the user has to traverse to open the submenu:\n\nWhen a hierarchical menu is absolutely necessary, use a short time delay between mouse hover and when reveal of the child menu (or use a vector-based triangular system to allow for some diagonal movement error). Also include as much padding as reasonably possible above and below each menu item, to increase the width of the tunnel for horizontal movement.\n\nFor navigation menus, consider mega menus (or square menus) as an alternative to pull-down menus. As mega menus allow for free movement within a wide 2D space, the steering law does not apply (though Fitts’s Law still does, so make sure targets are still large).\n\nWhen designing other UI elements that involve path-steering tasks, such as sliders, scrollbars, and video playback heads, remember that users will have a hard time achieving precision with such controls. Therefore, for precise tasks, supplement these UI elements with other secondary controls that support precision. When using a slider to select a parameter value, use the slider as a coarse control (for reaching the general desired region), and provide a secondary fine control (such as numeric input box with stepper buttons) to choose a specific value. Also, allow users to click anywhere on the slider to jump to the desired position, rather than requiring them to click and drag; this approach enables a user to move freely in 2D space without needing to steer through the tunnel. On touchscreens, think about the overall target size of the slider knob (it should be at least 1cm x 1cm) and ensure that the user’s finger won’t obscure the slider (or any labels around it).\n\nFinally, you can add padding to a tunnel, making its effective width bigger than its visual representation on the screen. The padding will allow some wiggle room for the user to move along the tunnel without dropping out because of a small deviation outside the tunnel’s visual area.\n\nThe steering law states that narrow, long tunnels are more difficult to navigate than short, wide ones. Dropdown menus, hierarchical menus, sliders, and other path-following UI elements should be designed so that the corresponding tunnel is as wide and as short as possible. Remember that such controls are hard to use for precise tasks and consider alternatives (such as mega menus instead of dropdowns or secondary controls for sliders) to prevent errors due to linear path-steering interactions.\n\nJohnny Accot and Shumin Zhai. 1997. “Beyond Fitts' law: models for trajectory-based HCI tasks,” Proceedings of CHI '97.\n\nSergey Kulikov, I. Scott MacKenzie, Wolfgang Stuerzlinger. 2005. “Measuring the Effective Parameters of Steering Motions,” CHI '05 Extended Abstracts on Human Factors in Computing Systems.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Accot-Zhai Steering Law: Implications for UI Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "The Steering Law",
+      "id": "toc-the-steering-law-1"
+    },
+    {
+      "level": "h2",
+      "text": "Making Menus Steer-Friendly",
+      "id": "toc-making-menus-steer-friendly-2"
+    },
+    {
+      "level": "h2",
+      "text": "Sliders, Scrollbars, and Scrubbers Need Additional Controls for Precision",
+      "id": "toc-sliders-scrollbars-and-scrubbers-need-additional-controls-for-precision-3"
+    },
+    {
+      "level": "h2",
+      "text": "Be Generous",
+      "id": "toc-be-generous-4"
+    },
+    {
+      "level": "h2",
+      "text": "Summary",
+      "id": "toc-summary-5"
+    },
+    {
+      "level": "h2",
+      "text": "References",
+      "id": "toc-references-6"
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/steering-law/",
+    "https://www.nngroup.com/articles/steering-law/",
+    "https://www.nngroup.com/articles/steering-law/#toc-the-steering-law-1",
+    "https://www.nngroup.com/articles/steering-law/#toc-making-menus-steer-friendly-2",
+    "https://www.nngroup.com/articles/steering-law/#toc-sliders-scrollbars-and-scrubbers-need-additional-controls-for-precision-3",
+    "https://www.nngroup.com/articles/steering-law/#toc-be-generous-4",
+    "https://www.nngroup.com/articles/steering-law/#toc-summary-5",
+    "https://www.nngroup.com/articles/steering-law/#toc-references-6",
+    "https://www.nngroup.com/articles/drop-down-menus/",
+    "https://www.nngroup.com/articles/gui-slider-controls/",
+    "https://www.nngroup.com/articles/drop-down-menus/",
+    "https://www.nngroup.com/articles/mega-menus-work-well/",
+    "https://www.nngroup.com/articles/expandable-menus/",
+    "https://www.nngroup.com/articles/gui-slider-controls/",
+    "https://www.nngroup.com/articles/input-steppers/",
+    "https://www.nngroup.com/articles/touch-target-size/"
+  ]
+}

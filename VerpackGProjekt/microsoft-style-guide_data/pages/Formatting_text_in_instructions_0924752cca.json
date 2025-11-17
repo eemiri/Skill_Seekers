@@ -1,0 +1,58 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions",
+  "title": "Formatting text in instructions",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nConsistent text formatting helps readers locate and interpret information. Follow these conventions for formatting elements that frequently appear in instructions (also referred to as procedures).\n\nSee also Describing interactions with UI Capitalization Formatting common text elements Formatting developer text elements\n\nUse these conventions in instructions that appear in documentation and technical content.\n\nInstructions can also appear in the UI itself and in content other than documentation, such as blogs and marketing. In this content, avoid bold and italic formatting. The goal is to be readable and friendly but also clearly set off the UI label or other text element from the surrounding text.\n\nChoose one of the approaches below and use it consistently.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Formatting text in instructions",
+      "id": "formatting-text-in-instructions"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "In documentation and technical content",
+      "id": "in-documentation-and-technical-content"
+    },
+    {
+      "level": "h2",
+      "text": "In the UI and general content",
+      "id": "in-the-ui-and-general-content"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui",
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-common-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts",
+    "https://learn.microsoft.com/en-us/style-guide/urls-web-addresses"
+  ]
+}

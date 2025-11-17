@@ -1,0 +1,85 @@
+{
+  "url": "https://www.nngroup.com/articles/taxonomy-101/#toc-4-types-of-organization-models-in-ia-1",
+  "title": "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work",
+  "content": "July 3, 2022 2022-07-03\n\nWhat is a taxonomy and why does it matter for UX practitioners? In our UX Conference Information Architecture course, I often get asked what a taxonomy is, how to build one, and how it fits into the larger landscape of information-architecture (IA) work.\n\nTaxonomies are what information-science professionals call controlled vocabularies — planned, prescriptive ways of adding descriptive metadata to content so that it can be retrieved effectively. The idea is that the taxonomy defines a limited set of terms for describing our content in the background; content creators must attach them to any new piece of content, with no ability to expand this vocabulary on an ad hoc basis.\n\nTaxonomy: A closed list of acceptable terms that are arranged hierarchically and are used to describe and classify content.\n\nTaxonomies are essentially controlled tag systems — while each piece of content will have a set of taxonomy terms attached to it, content creators cannot define their own terms. Each time we tag content using a taxonomy, we must follow some ground rules about which terms to use and how those terms relate to other terms.\n\nIt’s important to note that a taxonomy is different from the navigation structure that users interact with and from the underlying IA structure. More on this below.\n\nAdmittedly, information architecture can be a confusing discipline — there are many different types of abstract organization models that all seem quite similar but map out different things. The major four organization models are listed below:\n\n(Information architects and taxonomists frequently debate as to whether the IA tree structure constitutes a taxonomy – one could argue that this is a very loose form of taxonomy, but for our purpose we will differentiate this from a formal metadata taxonomy. The meta-classification irony is not lost on me!)\n\nWhereas the IA structure is a map of how our content is organized, a taxonomy is a map of concepts we use to describe our content and of how all those concepts relate to one another. A taxonomy is often very different than the IA structure or the navigation and is usually broader than and more technical than the two.\n\nBecause the taxonomy itself isn’t shown to users per se (though we may show some of the topics or tags to users as a form of navigation, search suggestions, or refinements), it’s a place where we can be fully immersed in very precise and logical classification work. We are typically concerned with logical precision in a taxonomy, whereas in the visible navigation structure we are concerned with grouping things in a way that adheres to users’ mental models.\n\nFor example, an NN/g Article has Author(s), which link to those author’s profile pages, Topics (that link to other content with that same topic, and if available, full topic-overview pages), and so on.\n\nTaxonomies aren’t created for the pure love of classifying things (though some UXers like myself absolutely love doing it). Taxonomies allow us to effectively retrieve all the content that is related to a specific concept. They are typically used in a few ways:\n\nAnother common area of confusion regards the difference between a taxonomy, a thesaurus, an Ontology, and a knowledge graph. They are all forms of metadata used for classification. They can all be represented as graphs in which the nodes are concepts and the edges are different kinds of relationships between these concepts.\n\nTaxonomies are the simplest of these structures. A taxonomy can be either hierarchical or faceted. A faceted taxonomy is made up of several hierarchical , distinct taxonomies that work together to describe different aspects of the same resource. Taxonomies revolve around parent-child relationships between concepts. As you go deeper into a taxonomy, the concepts become more specific (they can also be parts of a larger whole).\n\nA thesaurus (confusingly, not the dictionary type of thesaurus) is a data structure that includes not only parent–child relationships between concepts, but also associative relationships (“related term” that is not a synonym, but is conceptually related) and equivalence relationships (synonymous terms, with one being the official preferred term and the rest nonpreferred terms). A thesaurus allows for synonym control and consistency, which is incredibly important for complete information retrieval.\n\nFor example, if in your company’s intranet you have tags for RFP, Proposal, Statement of Work, and Pitch, but informally they’re all used interchangeably, then each one of these tags will only be associated with some of the relevant content, and, therefore, if you search for just one of the terms, you’ll get incomplete results. A thesaurus can link all those concepts together as either related or synonymous (with one chosen as the preferred term). So, in this case, we would probably have Proposal and Pitch be in an equivalence relationship, with Proposal being the preferred term. Both these concepts would be in an associative relationship to RFP and Statement of Work, because they are not exactly synonymous, but definitely conceptually related. (Note: Most “taxonomies” created for digital products are actually thesauri, since the software for managing taxonomies usually includes thesaurus features such as preferred terms and related terms.)\n\nOntologies are the most flexible and complex of these types of metadata structures and are often used for mapping out knowledge in complex technical fields. Ontologies support many different types of meaningful relationships (beyond parent–child, associative, and equivalence relationships) that connect concepts semantically.\n\nFor example, in the Linnean biology taxonomy that many of us had to learn in school, a polar bear (Ursus Maritimius) is a specific type of bear (Ursidae), which is a specific type of Carnivora (and so on). We are limited to only the one type of relationship — parent–child (or class-inclusion relationships). In an ontology, we can map out other types of conceptual connections: not only is a Polar Bear a type of Bear , but also its Habitat is Polar, its Conservation Status is Threatened, and so on. By building out these relationships of what we can formalize about a field of knowledge, we capture many other aspects into a formal structure that can then be used to build a database.\n\nThe flexibility of ontologies to represent many kinds of relationships among concepts allows for detailed multidimensional classification of information.\n\nOntologies are big, complex projects, typically used to describe a specific knowledge domain. These are not typically the type of project that a single UXer will take on by themselves, as they are often the work of a team of ontologists, taxonomists, software developers, and domain experts. It is, however, important to be aware of them, and how they relate to taxonomies. Especially if you work in scientific fields or on semantic-web projects, ontologies are something you are likely to encounter, so understanding what they are is helpful for a UX practitioner.\n\nBuilding a taxonomy from scratch is a fairly involved process, and full details on how to do so are out of the scope of this article, but there are some common themes for how to proceed no matter the type of project. It is okay to start small and that a taxonomy need not be a multi-year project — simply having a small set of topics that you assign consistently to your content in the background is a fine start!\n\nTaxonomies are a powerful way to build content relationships in digital products and are the unseen, backstage organization systems that fill in the gaps that user-facing navigation systems may leave. When properly defined and maintained, a taxonomy can support better search suggestions and post-search refinements, faceted navigation, and automatic linking of related content.\n\nDean Allemang, James Hendler. 2011. Semantic Web for the Working Ontologist (2nd. Ed.). Morgan Kauffman, Waltham, MA.\n\nHeather Hedden. 2016. The Accidental Taxonomist (2nd Ed.). Information Today, Medford, NJ.\n\nInternational Organization for Standardization. (2011) Information and documentation — Thesauri and interoperability with other vocabularies — Part 1: Thesauri for information retrieval (ISO Standard No. 25964-1:2011) Retrieved from https://www.iso.org/standard/53657.html\n\nMary Whittaker and Kathryn Breininger. 2008. Taxonomy Development for Knowledge Management. In World Library and Information Congress: 74th Ifla General Conference and Council, 10-14 August 2008, Québec, Canada http://www.ifla.org/IV/ifla74/index.htm\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "4 Types of Organization Models in IA",
+      "id": "toc-4-types-of-organization-models-in-ia-1"
+    },
+    {
+      "level": "h2",
+      "text": "Why Create Taxonomies and Why Should UXers Be Involved?",
+      "id": "toc-why-create-taxonomies-and-why-should-uxers-be-involved-2"
+    },
+    {
+      "level": "h2",
+      "text": "Other Types of Controlled Vocabularies: Thesauri and Ontologies",
+      "id": "toc-other-types-of-controlled-vocabularies-thesauri-and-ontologies-3"
+    },
+    {
+      "level": "h2",
+      "text": "Building a Taxonomy",
+      "id": "toc-building-a-taxonomy-4"
+    },
+    {
+      "level": "h2",
+      "text": "Summary",
+      "id": "toc-summary-5"
+    },
+    {
+      "level": "h2",
+      "text": "Sources",
+      "id": "toc-sources-6"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/taxonomy-101/",
+    "https://www.nngroup.com/articles/ia-study-guide/",
+    "https://www.nngroup.com/articles/taxonomy-101/",
+    "https://www.nngroup.com/articles/taxonomy-101/#toc-4-types-of-organization-models-in-ia-1",
+    "https://www.nngroup.com/articles/taxonomy-101/#toc-why-create-taxonomies-and-why-should-uxers-be-involved-2",
+    "https://www.nngroup.com/articles/taxonomy-101/#toc-other-types-of-controlled-vocabularies-thesauri-and-ontologies-3",
+    "https://www.nngroup.com/articles/taxonomy-101/#toc-building-a-taxonomy-4",
+    "https://www.nngroup.com/articles/taxonomy-101/#toc-summary-5",
+    "https://www.nngroup.com/articles/taxonomy-101/#toc-sources-6",
+    "https://www.nngroup.com/articles/service-design-101/",
+    "https://www.nngroup.com/articles/ia-vs-navigation/",
+    "https://www.nngroup.com/articles/card-sorting-definition/",
+    "https://www.nngroup.com/articles/filters-vs-facets/",
+    "https://www.nngroup.com/articles/flat-vs-deep-hierarchy/",
+    "https://www.nngroup.com/articles/site-search-suggestions/",
+    "https://www.nngroup.com/articles/content-audits/",
+    "https://www.nngroup.com/articles/search-log-analysis/",
+    "https://www.nngroup.com/articles/specialized-words-specialized-audience/",
+    "https://www.nngroup.com/articles/information-scent/"
+  ]
+}

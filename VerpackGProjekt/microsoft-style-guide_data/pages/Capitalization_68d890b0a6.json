@@ -1,0 +1,56 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/capitalization",
+  "title": "Capitalization",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nMicrosoft style uses sentence-style capitalization. That means everything is lowercase except the first word and proper nouns, which include the names of brands, products, and services. (Microsoft has more than 500 offerings. To help customers recognize, find, and buy them, reserve capitalization for product and service names.)\n\nFollow these guidelines in Microsoft content:\n\nUse sentence-style capitalization most of the time. That means:\n\nAlways capitalize the first word of a new sentence. Rewrite sentences that start with a word that's always lowercase.\n\nDon't use all uppercase for emphasis. (It's OK to use italic sparingly for emphasis.)\n\nDon't use all lowercase as a design choice. Although all uppercase is used occasionally as a design element, don't use it in text.\n\nDon't use internal capitalization (such as AutoScale or e-Book) unless it's part of a brand name.\n\nDon't capitalize the spelled-out form of an acronym unless it's a proper noun.\n\nWhen words are joined by a slash, capitalize the word after the slash if the word before the slash is capitalized. Examples Country/Region Turn on the On/Off toggle.\n\nFor information on capitalization in hyphenated compound words see Hyphens.\n\nLearn more To learn more about capitalization, see The Chicago Manual of Style. If you're not sure whether to capitalize a term, check the A–Z word list and Merriam-Webster Dictionary.\n\nFor information about capitalizing UI labels in instructions, see Formatting text in instructions.\n\nUse sentence-style capitalization in most titles and headings: capitalize the first word and lowercase the rest. Exceptions Proper nouns, including brand, product, and service names, are always capitalized. If a title or heading includes a colon, capitalize the first word after it.\n\nTitles of blog posts, documentation articles, and press releases use sentence-style capitalization. Examples Watch your favorite HD movies, TV shows, and more 1 TB of cloud storage Choose the Office version that's right for you Available for Microsoft partners and commercial and public-sector customers Can a search engine predict the World Cup winner? Block party: Communities use Minecraft to create public spaces\n\nOccasionally, title-style capitalization—capitalizing most words—is appropriate. For example, product and service names, the names of blogs, book and song titles, article titles in citations, white paper titles, and titles of people (Vice President or Director of Marketing) require title-style capitalization. In a tweet, it's OK to use title-style capitalization to highlight the name of a quoted article.\n\nOn the rare occasions when title-style capitalization is required, follow these guidelines:\n\nAlways capitalize the first and last words. Example A Home to Go Back To\n\nDon't capitalize a, an, or the unless it's the first word. Examples Microsoft on the Issues The Official Microsoft Blog\n\nDon't capitalize prepositions of four or fewer letters (such as on, to, in, up, down, of, and for) unless the preposition is the first or last word. Examples How to Personalize Windows To Personalize Windows Ryse: Son of Rome Achieving Excellence in the Classroom Through Technology OneNote Class Notebooks for Teachers The Teaching Tool You're Looking For\n\nDon't capitalize and, but, or, nor, yet, or so unless it's the first word or the last word. Example Monitoring and Operating a Private or Hybrid Cloud\n\nCapitalize all other words, including nouns, verbs (including is and other forms of be), adverbs (including very and too), adjectives, and pronouns (including this, that, and its). Examples Enterprise Agility Is Not an Oxymoron This Is All There Is Teaching Math Over and Over Again, in Less Time Than Before\n\nCapitalize the word after a hyphen if it would be capitalized without the hyphen or it's the last word. Examples Self-Paced Training for Microsoft Visual Studio Microsoft Management Console: Five Essential Snap-Ins Five Essential Snap-ins for Microsoft Management Console Copy-and-Paste Support in Windows Apps\n\nCapitalize the first word of labels and terms that appear in UI and APIs unless they're always lowercase (for example, fdisk).\n\nIn programming languages, follow the traditional capitalization of keywords and other special terms.\n\nSee also Formatting titles\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Capitalization",
+      "id": "capitalization"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Sentence-style capitalization in titles and headings",
+      "id": "sentence-style-capitalization-in-titles-and-headings"
+    },
+    {
+      "level": "h2",
+      "text": "Title-style capitalization",
+      "id": "title-style-capitalization"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/hyphens",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles"
+  ]
+}

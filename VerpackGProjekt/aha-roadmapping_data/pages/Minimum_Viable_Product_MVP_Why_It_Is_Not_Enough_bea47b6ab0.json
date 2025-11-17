@@ -1,0 +1,82 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+  "title": "Minimum Viable Product (MVP): Why It Is Not Enough",
+  "content": "Last updated: September 2024\n\nA Minimum Viable Product (MVP) is just what it sounds like. It includes only the bare minimum functionality needed to bring a product to market. That is why in recent years the concept of a minimum lovable product (MLP) and pursuing customer lovability has emerged as a more holistic approach that is counter to an MVP. This guide covers the history of the MVP, as well as its advantages and disadvantages.\n\nThe reported goal of the MVP is to accelerate learning in the early stages of product development with minimal investment of money and resources. However, the concept of an MVP can also be applied to existing products as a way to understand if a new feature set is valuable to customers.\n\nAn MVP typically starts with the question, “What is the cheapest and fastest way we can start learning?” There are typically a few steps to the process of building it out:\n\nIdentify and evaluate the problem\n\nAnalyze the competition\n\nPrioritize the minimum set of features\n\nBuild, test, and learn\n\nCreating an MVP provides a way to quickly learn if a product has the potential to succeed. This way, companies can make a more informed decision about when to persevere with an idea and when to abandon it.\n\nThe word minimum is important. You need to deliver enough value that early customers want to use the product, can imagine what will be possible in the future, and provide useful feedback for future product development.\n\nAdvantages and disadvantages of an MVP\n\nRole of MVP in product development\n\nThe digital era has changed the way companies bring new products to market. Traditionally, it took months or even years to take a product from concept to implementation. This approach required significant upfront investment. Even then, there was no guarantee that customers would see value in the end result by the time it was delivered. Companies needed a way to quickly test the business viability of new ideas.\n\nAs the story goes, technology CEO Frank Robinson first coined the term “minimum viable product” in 2001. He advocated for building a product that is big enough to be a “sound launching pad for it and its next generation and the roadmap that follows, but not so small that you leave room for a competitor to get the jump on you.” In order for this to happen, Robinson advocated that product and customer development should happen in parallel.\n\nFast forward 10 years and MVP has become well known. This is largely due to Eric Reis and Steve Blank defining an MVP as a core component of the lean startup method. This approach favors experimentation, customer feedback, and iterative development over-elaborate upfront planning. In this context, the goal of an MVP is to help startup companies develop a working product while minimizing implementation costs, ultimately reducing the risk of business failure.\n\nThere are many success stories of companies getting started with an MVP — such as Facebook, Amazon, Instagram, and AirBnB. These companies released a basic version of a product, adding other features after the initial MVP.\n\nThere are significant risks of developing an MVP too. For every big-name product that launched with an MVP, there are many that flopped and did not find marketing fit. Here are some factors to consider when deciding if an MVP approach is right for you:\n\nA lower investment of both time and money reduces the risk of business failure and gives teams the option to learn and adapt during development.\n\nTeams run the risk of not investing enough to deliver a product offering that can solve customer problems.\n\nMVPs often get to the market first, allowing them to establish a foothold ahead of any competition.\n\nIf the right solution isn’t delivered, competitors will win out as the market matures.\n\nEarly and rapid testing validates the proof of concept in real markets.\n\nThere might not be enough features to verify that it solves a real problem.\n\nCountering the tendency to create perfect features, MVPs require fast iterations so feedback can be gathered.\n\nMoving on quickly from one feature to another may allow an incomplete product experience to persist.\n\nEarly feedback can give strong product-market fit signals. Teams can quickly develop and release features to address consumer needs.\n\nTeams can become too focused on addressing every point of feedback instead of focusing on the underlying customer problems.\n\nEntering the market first allows user acquisition and brand building to start upon the first release.\n\nIf all of the aspects that create a positive customer experience aren’t considered, long-term growth is difficult.\n\nThe MVP approach has become widely accepted by many product teams. However, there are real disadvantages, as noted above. Providing the bare minimum is not enough to attract and engage customers in the long term. It is also not enough in markets where many alternative solutions exist and customers have high expectations. Customers want and expect to be delighted from the start. While many teams pursue an MVP, better outcomes are typically achieved by building a lovable product.\n\nIf you are interested in pursuing a more value-driven approach to product development, then there are other proven frameworks that you should explore — including MLP and The Aha! Framework. Check out the guides below to get started.\n\nWhat is the Complete Product Experience?\n\nWhat is value-based product development?\n\nWhat is The Aha! Framework?",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is a Minimum Viable Product (MVP)?",
+      "id": "what-is-a-minimum-viable-product-mvp"
+    },
+    {
+      "level": "h4",
+      "text": "Go from MVP to something more lovable — try Aha! software.",
+      "id": "go-from-mvp-to-something-more-lovable-"
+    },
+    {
+      "level": "h2",
+      "text": "History of the MVP",
+      "id": "history-of-the-mvp"
+    },
+    {
+      "level": "h2",
+      "text": "Advantages and disadvantages of developing an MVP",
+      "id": "advantages-and-disadvantages-of-developing-an-mvp"
+    },
+    {
+      "level": "h2",
+      "text": "The role of an MVP in product development",
+      "id": "the-role-of-an-mvp-in-product-development"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product#history-of-the-mvp",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product#advantages-and-disadvantages-of-developing-an-mvp",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product#the-role-of-an-mvp-in-product-development",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-market-fit",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product#top",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/complete-product-experience",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-market-fit",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-differentiation",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-i-price-my-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

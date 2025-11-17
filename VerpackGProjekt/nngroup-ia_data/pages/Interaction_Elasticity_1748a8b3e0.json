@@ -1,0 +1,62 @@
+{
+  "url": "https://www.nngroup.com/articles/interaction-elasticity/",
+  "title": "Interaction Elasticity",
+  "content": "December 14, 2008 2008-12-14\n\nPeople always want numeric rules:\n\nSadly, there is no single number that answers such questions.\n\nYes, we know that response times must be less than 1 second for navigation to feel seamless and less than 10 seconds to prevent a user's attention from wandering. These time limits are caused by the human brain's structure and are thus firm and stable decade by decade (indeed, century by century). But does that mean that people will leave a site if its download times are above 1 or 10 seconds? No, it means that they're more likely to leave, because the slower a site is, the more unpleasant it is to use.\n\nAs for click and link counts, there's a reason we have a full-day seminar on how to structure a website: These issues require substantial trade-off analyses to resolve correctly. The real question is not how many clicks or links, but how easy it is for users to pick the right one. A path with 5 easy clicks is vastly superior to one with 3 difficult clicks. And a menu with 10 easily understood items is better than a menu with 7 obscure ones.\n\nThe point is, you can't simply count without knowing what you're counting — you have to understand usability principles so that you can assess what's easy or difficult for your customers to use.\n\nStill, shorter paths are usually better: 4 easy clicks are more usable than 5 easy clicks, because the extra click is more work for users. Similarly, shorter menus are faster to scan, assuming their category labels are clear and meaningful.\n\nMost usability questions are not dichotomies. There's no simple cut-off where you're a 100% success on one side and a complete failure on the other. Rather, some designs are better than others and will drive more business.\n\nThe field of economics provides an interesting analogy: that of price elasticity. Whatever your product, there's no single price point that will make all customers buy even though none would have paid a higher price. Instead, what happens is that the more you increase the price, the more customers turn away. Lower prices certainly drive sales, but you can't say that the price must be $x or nobody will buy.\n\nElasticity is the extent to which sales drop as prices increase. Demand might be either inelastic, meaning that people will buy at almost any price (and thus sales drop slowly as prices increase); or highly elastic, meaning that most people will buy only at very cheap prices (and thus sales drop fast if prices go up).\n\nUsability also exhibits elasticity. You can't say that response times must be less than x seconds or nobody will use the site. But, the faster the response times, the more people will use the site, and the more pages they'll visit.\n\nLikewise, the more usability guidelines you follow, the more business you get. But you'll still get some business, even if your site blatantly violates key usability guidelines.\n\nEarlier this year, I analyzed four usability blunders. All four were pretty bad, yet all four offending companies are still in business. The reason? They all do something well, and they therefore have some users who are sufficiently committed to make it through the design problems.\n\nSimilarly, if you have a good product, you can charge a high price because some people will willingly stretch their budgets to buy from you instead of from a cheaper competitor.\n\nThe better you are, the less elasticity in the demand. Granted, your business will always drop off somewhat with higher prices or lower usability, but not as much as someone with a high-elasticity product.\n\nTwo things to note about interaction elasticity:\n\nUsability problems are like a barrier between you and your potential customers: the worse the design, the higher the barrier. Will users jump the hurdle? Some will, some won't. The lower your barrier and the more compelling your offer, the lower your interaction elasticity will be, and the more people will jump.\n\nThere are two strategies for increasing your website's business value: (1) do something that people really want and thus make demand less elastic, and (2) reduce interaction costs by increasing usability. I would do both.\n\nBuild a crossfunctional journey-centric design approach that scales\n\nSet a strategic, practical plan to align, prioritize, and communicate UX work\n\nEmpower and guide UX and product teams to reach their full potential",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Interaction Elasticity",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Elasticity: Demand Drops as Cost Increases",
+      "id": "toc-elasticity-demand-drops-as-cost-increases-1"
+    },
+    {
+      "level": "h2",
+      "text": "Jumping Hurdles",
+      "id": "toc-jumping-hurdles-2"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Customer Journey Management",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "UX Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Becoming a UX Coach",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/interaction-elasticity/",
+    "https://www.nngroup.com/articles/interaction-elasticity/",
+    "https://www.nngroup.com/articles/interaction-elasticity/#toc-elasticity-demand-drops-as-cost-increases-1",
+    "https://www.nngroup.com/articles/interaction-elasticity/#toc-jumping-hurdles-2",
+    "https://www.nngroup.com/articles/four-bad-designs/"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "url": "https://www.nngroup.com/articles/designing-effective-carousels/",
+  "title": "Carousel Usability: Designing an Effective UI for Websites with Content Overload",
+  "content": "September 14, 2013 2013-09-14\n\nBut the most ubiquitous type is the feature area carousel (as discussed in this article), which usually possesses the following traits:\n\nThe greatest benefit of using carousels is that they enable more than one piece of content to occupy the same piece of prime real estate on the homepage, which can help diffuse any infighting about whose content is most deserving. An additional benefit is that because more information appears near the top of the viewable area, there may be greater opportunity for people to actually see it.\n\nYou can’t count on people seeing the information in carousels on websites and intranets. Whether looking at content on a 30-inch or 3-inch display, people often immediately scroll past these large images and miss all of the content within them, or at least the content that’s in any frame other than the first. It is true that some eyetracking research and web metrics show that certain carousels garner a number of fixations and clicks. But the most important caution about using carousels is that people frequently overlook them, together with all or some of the content within them.\n\nThe second most important caution relates to the idea that a designer considers the carousel as a collection of images, but a user often considers just the one image he sees. A set of images in a carousel may collectively give an accurate impression of what an organization does. But if a person sees only one image in that set he may get the wrong idea about an organization. This problem occurs frequently when an image depicts something outrageous, or simply not highly-related to the business or charter.\n\nToday’s multi-image carousels replace the static, single “hero images” that used to be plastered all over the web. But in some cases the mature UI alternative may be a better fit than its youthful, energetic descendant. One reason for this is the designer’s attitude. Knowing there are multiple alternative frames in a carousel that have the opportunity to get a point across or capture the user’s attention may give designers a false sense of security. They assume that people will see all of the images offered in the carousel, so they may choose meager images in the hopes of making up any issues in volume. But if designers knew they had to choose just one image and a sentiment for it, they may be more likely to choose something that’s powerful and demonstrative. And users could really focus on that one image rather than dividing their attention among several. Additionally, a static hero image may be less likely to distract users than a rotating element, and thus may increase the visibility of global navigation that people can use to discover other areas of the site. (Incidentally, it’s always a good idea to put any important information that appears in a hero or carousel also somewhere else in the UI, so the people who interact with the IA and pages have a fighting chance of seeing it.)\n\nSeveral things make the content of Best Buy's hero effective, including:\n\nAdditionally, these traits help convey the Best Buy brand, and reinforce communicating the products they sell every day.\n\nBut if you decide the carousel is your superman after all, follow these guidelines for doing them well.\n\nIt can be taxing to swipe through many frames on a mobile device, and it’s difficult for users to recognize topics they have already viewed when a set exceeds about five. Limiting the number also helps with discovering the content, and finding the content in the carousel again later.\n\nIt’s difficult to read small text and decipher small images, especially on mobile devices. And it’s never any good to cram a large, high-density image into a small region. The clearer the text and images, the more likely users are to engage and understand the intended points.\n\nIn navigation controls, aim to help people identify the choices, and recall them after they have already seen the content in the main frame. A user cannot guess what a number or dot might reveal when clicked, but may remember that a green background relates to an article about the environment, for example. Dots are a particularly poor cue on mobile devices, because people often do not notice them (and they are less standard in Android than iOS).\n\nThis design practice helps avoid issues on both large and small displays.\n\nJohn Deere’s homepage offers images with text as buttons, and they appear within the carousel, which is all helpful. (It also has arrows to forward and rewind the carousel.) However, the text is very small and difficult to read, and the images used as buttons are too dense for the small space allocated to them.\n\nButtons that are tiny, close together, or on top of a busy background are not easy to notice or click.\n\nAuto-forwarding through the frames in a carousel leads people through the information. But there are some instances where auto-forwarding is not recommended.\n\nDo not auto-forward if:\n\nEnsure that users interested in a carousel realize that there is more than just the currently displayed image/content. Offer clear visual elements that represent the notion of more content, such as:\n\nIf you are using a carousel in the hope that people will see a variety of content, know that some people will only see the first frame or none at all. So ensure that important content is also placed mindfully in the IA and on another page of your site. Consider using a static carousel or hero image instead of a rotating one. And in any carousel’s navigation, ensure the buttons and links are clear, large enough to decipher and click, and the selected frame's button appears selected. That way, you’ll create a fanciful amusement, not a house of horrors.\n\nUse psychology to predict and explain how your customers think and act\n\nStrategically combine content, visuals, and interactive components to design successful web pages\n\nCreate user interfaces using essential principles, techniques, and methods of visual design",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Carousel Usability: Designing an Effective UI for Websites with Content Overload",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "The Ubiquitous Carousel",
+      "id": "toc-the-ubiquitous-carousel-1"
+    },
+    {
+      "level": "h2",
+      "text": "Greatest Benefits of Carousels",
+      "id": "toc-greatest-benefits-of-carousels-2"
+    },
+    {
+      "level": "h2",
+      "text": "Greatest Drawbacks of Carousels",
+      "id": "toc-greatest-drawbacks-of-carousels-3"
+    },
+    {
+      "level": "h2",
+      "text": "Could a Hero Image Be Your Site’s Hero? Consider Using a Hero Image Instead of a Carousel",
+      "id": "toc-could-a-hero-image-be-your-sites-hero-consider-using-a-hero-image-instead-of-a-carousel-4"
+    },
+    {
+      "level": "h2",
+      "text": "Guidelines for Good Carousel Design",
+      "id": "toc-guidelines-for-good-carousel-design-5"
+    },
+    {
+      "level": "h3",
+      "text": "1. Include 5 or fewer frames within the carousel, as it’s unlikely users will engage with more than that.",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "2. Use crisp-looking text and images that coincide with the organization's charter.",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "3. Indicate how many frames are present and where the user is within the progression, to help people feel in control.",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "4. Use icons and links that are understandable and recognizable.",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "5. Ensure that navigation controls appear inside the carousel, not below it or separated by a fold.",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "6. If offering a navigation button for each frame (rather than arrows to scroll through), ensure that each button looks different, and represents the frame.",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "7. Make links and buttons large enough to decipher and click.",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Auto-Forwarding",
+      "id": "toc-auto-forwarding-6"
+    },
+    {
+      "level": "h2",
+      "text": "Auto-Forwarding Tips",
+      "id": "toc-auto-forwarding-tips-7"
+    },
+    {
+      "level": "h2",
+      "text": "Static (Non-Auto-Forwarding) Carousel Tips",
+      "id": "toc-static-non-auto-forwarding-carousel-tips-8"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-9"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "The Human Mind and Usability",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Web Page UX Design",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Visual Design Fundamentals",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/kara-pernice/",
+    "https://www.nngroup.com/articles/designing-effective-carousels/",
+    "https://www.nngroup.com/articles/designing-effective-carousels/",
+    "https://www.nngroup.com/articles/designing-effective-carousels/#toc-the-ubiquitous-carousel-1",
+    "https://www.nngroup.com/articles/designing-effective-carousels/#toc-greatest-benefits-of-carousels-2",
+    "https://www.nngroup.com/articles/designing-effective-carousels/#toc-greatest-drawbacks-of-carousels-3",
+    "https://www.nngroup.com/articles/designing-effective-carousels/#toc-could-a-hero-image-be-your-sites-hero-consider-using-a-hero-image-instead-of-a-carousel-4",
+    "https://www.nngroup.com/articles/designing-effective-carousels/#toc-guidelines-for-good-carousel-design-5",
+    "https://www.nngroup.com/articles/designing-effective-carousels/#toc-auto-forwarding-6",
+    "https://www.nngroup.com/articles/designing-effective-carousels/#toc-auto-forwarding-tips-7",
+    "https://www.nngroup.com/articles/designing-effective-carousels/#toc-static-non-auto-forwarding-carousel-tips-8",
+    "https://www.nngroup.com/articles/designing-effective-carousels/#toc-conclusion-9",
+    "https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/",
+    "https://www.nngroup.com/articles/page-fold-manifesto/",
+    "https://www.nngroup.com/articles/illusion-of-completeness/"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-alternative-input-methods",
+  "title": "Describing alternative input methods",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nIf you use input-neutral methods in instructions, provide an article that explains how to interact with the product using each available input method. (The article can be in the product or included in documentation or Help.) To support customers regardless of their ability or the device they use, include mice, keyboards, voice recognition devices, game controllers, touch, and other interaction methods.\n\nLearn more To learn more about creating accessible content, see Accessibility guidelines and requirements.\n\nBe consistent in how you list mouse procedures. For example, always list the mouse method before the keyboard method if you document both. Don't combine keyboard and mouse actions as if they were keyboard shortcuts unless space is limited. For example, don't use Shift+click. Instead, use Select Shift while clicking ….\n\nSee also Mouse and mouse interaction term collection\n\nAssume that the mouse is the primary input device. Include joystick information in a table along with other alternative input devices.\n\nRefer to joystick controls, not options, when you provide specific joystick procedures.\n\nAlways document keyboard procedures for accessibility, even if they're indicated in UI (for example, by underlined letters).\n\nSee also Keys and keyboard shortcuts term collection\n\nUse tap and double-tap instead of click and double-click when writing content specific to touching a screen or using a tablet pen. Tap means to press the screen with a finger or pen tip and then to lift it, usually quickly.\n\nSee also Touch and pen interaction term collection\n\nYou can document multiple input methods in various ways, depending on the content design, space restrictions, and other considerations. Some approaches are discussed below.\n\nList the steps in a table, and provide a separate column for each input method. Example Choose colors to use on webpages To make webpages easier to see, you can change the text, background, link, and hover colors in Internet Explorer.\n\nDocument the primary input method, and provide the alternative instructions in parentheses or separate sentences after the main instructions. Examples To pan, slide one finger in any direction (or drag the mouse pointer, or use the arrow keys). To copy the selection, click Copy on the toolbar. You can also press Ctrl+C.\n\nIf there are multiple ways to perform an entire procedure and you must describe each one, use a table to detail the alternatives. This approach helps the customer decide when to use which method. Example This table describes two ways to save a file.\n\nIf one step has an alternative, make that alternative a separate paragraph in the step. In a single-step procedure, an alternative can be separated by the word or to make it clear that an alternative is available. Examples Press the key for the underlined letter in the menu name. You can also use the Left arrow key or the Right arrow key to move to another menu.\n\nFor several choices within one procedure step, use a bulleted list. Example 1. Select the text that you want to move or copy. Do one of the following:\n\n2. Right-click where you want to insert the text, then click Paste on the Quick Access Toolbar.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Describing alternative input methods",
+      "id": "describing-alternative-input-methods"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Mouse procedures",
+      "id": "mouse-procedures"
+    },
+    {
+      "level": "h2",
+      "text": "Joystick procedures",
+      "id": "joystick-procedures"
+    },
+    {
+      "level": "h2",
+      "text": "Keyboard procedures",
+      "id": "keyboard-procedures"
+    },
+    {
+      "level": "h2",
+      "text": "Pen-computing and touch procedures",
+      "id": "pen-computing-and-touch-procedures"
+    },
+    {
+      "level": "h2",
+      "text": "Multiple input methods and branching within procedures",
+      "id": "multiple-input-methods-and-branching-within-procedures"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-alternative-input-methods",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-alternative-input-methods",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-alternative-input-methods",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-alternative-input-methods",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-alternative-input-methods",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-alternative-input-methods",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/accessibility-guidelines-requirements",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms"
+  ]
+}

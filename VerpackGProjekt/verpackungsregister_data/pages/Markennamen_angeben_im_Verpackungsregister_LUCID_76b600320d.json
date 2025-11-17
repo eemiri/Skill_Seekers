@@ -1,0 +1,61 @@
+{
+  "url": "https://www.verpackungsregister.org/registrierung/markennamen",
+  "title": "Markennamen angeben im Verpackungsregister LUCID",
+  "content": "Bei der Registrierung im Verpackungsregister LUCID müssen Sie die Markennamen angeben, unter denen Sie Ihre verpackten Waren vertreiben – differenziert nach Verpackungen mit Systembeteiligungspflicht und Verpackungen ohne Systembeteiligungspflicht. Zudem können Sie Ihre Markennamen jederzeit ändern, löschen oder neue hinzufügen.\n\nDamit sind die Worte oder Wortkombinationen gemeint, die auf der Verpackung stehen, um die verpackten Waren von anderen zu unterscheiden.\n\nWelche Verpackungsarten gibt es und welche gesetzlichen Pflichten sind damit verbunden?\n\nGrundsätzlich gilt: Geben Sie im Verpackungsregister LUCID nur Markennamen an, die Sie tatsächlich nutzen und für die Sie verantwortlich sind. Sie müssen ausschließlich Ihre Obermarken (sogenannte Dachmarken) eintragen, unter denen Sie Ihre verpackten Waren gewerbsmäßig vertreiben. Es muss sich nicht um eine eingetragene Marke im Sinne des Markenrechts handeln. Bitte geben Sie keine Untermarken (sogenannte Submarken) im Verpackungsregister LUCID an. Auch nicht anzugeben sind:\n\nWichtig: Verwenden Sie einen Markennamen auf einer Verpackung mit Systembeteiligungspflicht und einer Verpackung ohne Systembeteiligungspflicht? Dann müssen Sie diesen Markennamen für beide Verpackungskategorien im Verpackungsregister LUCID angeben.\n\nBei Verkaufs-, Um- oder Versandverpackungen ohne Markennamen tragen Sie als Markennamen Ihren Unternehmensnamen ein. Den Namen des Produzenten der leeren Verpackung müssen Sie nicht angeben.\n\nBei Serviceverpackungen kommt es darauf an, ob Sie die Systembeteiligungspflicht selbst erfüllen oder die unbefüllten Serviceverpackungen vorbeteiligt erwerben. Im ersten Fall tragen Sie Ihren Unternehmensnamen ein. Im zweiten Fall geben Sie den Namen Ihres Verpackungslieferanten an.\n\nFremdmarken müssen Sie dann angeben, wenn Sie selbst die verpackte Ware gewerbsmäßig und erstmals in Deutschland in Verkehr bringen. Dann gelten Sie nach dem Verpackungsgesetz als Hersteller und müssen die verpackungsrechtlichen Pflichten erfüllen. Dieser Fall liegt beispielsweise dann vor, wenn Sie verpackte Waren aus dem Ausland nach Deutschland importieren und Sie die rechtliche Verantwortung bei Grenzübertritt tragen.\n\nTragen Sie keine Marken im Verpackungsregister LUCID ein, für die Sie nicht verantwortlich sind. Als Weiterverkäufer von in Deutschland erworbenen oder importierten Waren, die Sie beispielsweise von Ihrem Lieferanten beziehen, sind Sie nicht verantwortlich. In diesem Fall muss der jeweilige Lieferant oder Großhändler die Marke eintragen.\n\nMelden Sie sich im Verpackungsregister LUCID mit Ihren Zugangsdaten an und klicken Sie in Ihrem persönlichen Zugangsbereich (Dashboard) in der Kachel „Markennamen“ auf „Bearbeiten“.\n\nHaben Sie alle gewünschten Änderungen vorgenommen? Scrollen Sie nach unten und klicken Sie auf „Weiter\". Überprüfen Sie in der Zusammenfassung Ihre Angaben. Bestätigen Sie unten auf der Seite unter dem Abschnitt „Erklärungen\" die Checkboxen. Klicken Sie dann auf die Schaltfläche „Änderungsregistrierung absenden\", um die Änderungen zu speichern.Über die Änderungen der Markennamen versendet die ZSVR elektronisch einen Bescheid (Verwaltungsakt). Die korrigierten Markennamen sind ab dem nächsten Tag im Verpackungsregister LUCID zu sehen.\n\nNeben dem händischen Eintragen ist es möglich, Markennamen per XML-Upload hochzuladen. Damit können Sie zahlreiche Markennamen gleichzeitig eintragen.\n\nMehr Informationen finden Sie auf der Support-Kontaktseite.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Markennamen angeben im Verpackungsregister LUCID",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Was sind Markennamen?",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Was Sie zur Angabe Ihrer Markennamen wissen sollten",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Ober- oder Untermarken? Welche Markennamen müssen Sie angeben?",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Was gilt bei Verpackungen ohne Markennamen?",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Was gilt bei Marken, für die ich nicht verantwortlich bin (Fremdmarken)?",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Wie kann ich Markennamen im Verpackungsregister LUCID ändern, löschen, hinzufügen oder die Zuordnung bearbeiten?",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Upload per XML-Datei",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Sie haben noch technische oder allgemeine Fragen?",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsregister.org/",
+    "https://www.verpackungsregister.org/registrierung/alle-informationen-zur-registrierung",
+    "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Schaubild_Verpackungen_mit_und_ohne_Systembeteiligungspflicht.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Schaubild_Verpackungen_mit_und_ohne_Systembeteiligungspflicht.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/LUCID/Anleitung_XML_Markennamen.pdf"
+  ]
+}

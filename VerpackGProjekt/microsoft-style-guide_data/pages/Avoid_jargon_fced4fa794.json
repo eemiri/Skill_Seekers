@@ -1,0 +1,47 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/word-choice/avoid-jargon",
+  "title": "Avoid jargon",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nIn the right context, for a particular audience, jargon serves as shorthand for well-understood concepts. But for less technical audiences, jargon can impede understanding.\n\nYou can use a more familiar term, such as symbol instead of glyph.\n\nThe term is familiar to only a small segment of your readers.\n\nThe term isn't specific to software, networking, cloud services, and so on.\n\nAvoid business, marketing, and journalistic jargon, such as using leverage to mean take advantage of.\n\nDifferentiating jargon from technical terminology is tricky. First, check the A–Z word list. If you don’t find the term, the following checklist can help.\n\nIf you think a term is jargon, it probably is.\n\nIf it’s an acronym or abbreviation, it may be jargon. Spell it out for clarity.\n\nIf a reviewer questions your use of a term, it may be jargon.\n\nIf the term is used in The Wall Street Journal or The New York Times, or in general-interest magazines, such as Time or Newsweek, it might be appropriate for some audiences.\n\nIf the term is used in technical periodicals such as CNET or Recode, it's probably OK to use for technical audiences.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Avoid jargon",
+      "id": "avoid-jargon"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Testing for jargon",
+      "id": "testing-for-jargon"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/avoid-jargon",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/avoid-jargon",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/avoid-jargon",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/avoid-jargon",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/avoid-jargon",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/avoid-jargon"
+  ]
+}

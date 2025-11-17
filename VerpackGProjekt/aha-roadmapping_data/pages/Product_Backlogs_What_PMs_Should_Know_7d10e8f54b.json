@@ -1,0 +1,129 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+  "title": "Product Backlogs: What PMs Should Know",
+  "content": "Last updated: February 2024\n\nA product backlog is a prioritized inventory of new features and other enhancements. It should contain work that you have identified as valuable to implement, but have not yet added to a release. Essentially, a product backlog functions as a queue for upcoming product updates.\n\nYou will always have more to do than what can fit on your product roadmap. So you need a place to keep this work before it is ready to build. This is your product backlog. As you plan new releases, you will decide what to work on by moving items from your backlog to the roadmap — typically starting at the top of the list, where your most valuable features should live.\n\nDeciding what belongs in the product backlog (and how it gets prioritized) is typically part of a product manager's job. These decisions depend on a variety of factors — including internal feedback, customer requests, and effort to build. But the most important criterion is strategic alignment. Mapping backlog items to your product strategy ensures that the product team is consistently working toward measurable goals.\n\nIt takes effort to effectively manage and refine a product backlog. But with the right processes and tools in place, it can become a streamlined piece of your product development process. In this guide, we will walk through the fundamentals of optimizing your product backlog. Use the following links to jump ahead to a specific section:\n\nProduct backlog best practices\n\nHow to set up a product backlog\n\nWho owns the product backlog?\n\nHow to manage a product backlog\n\nMoving work from your backlog to your roadmap\n\nA software product is always a work in progress — incrementally built over time, evolving as people use it. Value is gained (or lost) with every feature you add.\n\nAha! co-founder and CEO\n\nIn many cases, the product manager is accountable for the product backlog. They decide what belongs on the priority list in order to deliver the most value with each release. But if you have a product owner on your team, it is likely they will be responsible for the backlog instead (with close support from the product manager). This is more common among organizations that practice scrum.\n\nEven though product backlogs (as well as sprint backlogs) are commonly associated with scrum, it is worth noting that anyone can (and should) use a product backlog to organize upcoming work — regardless of which methodologies you follow. This is how we treat our own product backlog at Aha! and it is how we are approaching the advice we share in this guide.\n\nProduct manager vs. product owner\n\nProduct backlog vs. release backlog vs. sprint backlog\n\nA product backlog is never \"done\" — it is a shared asset that plays an ongoing role in your release planning process. It is up to you to actively refine and prioritize what is in the backlog, ensuring that the work captured there does not become outdated over time. This is why many product teams establish set processes for backlog refinement.\n\nFor a deep dive into this topic, consider reading our guide on backlog refinement. If you want to get started quickly, though, here are a few tips for managing your product backlog:\n\nGather feedback: As you gather new insights from stakeholders, customers, and supporting teams, use that information to inform what belongs in the backlog — and what should be at the top of the list.\n\nSay \"no\": Requests for new features and fixes can stream in from anywhere. To keep your backlog manageable, you will need to triage features that are less impactful or out of sync with your vision. You can always reevaluate them in the future.\n\nKeep it fresh: Over time, features that were once a priority could become obsolete. This can happen when your goals shift or you adopt new technologies into your product. Make a habit of clearing out features that are no longer relevant.\n\nCategorize: Your backlog does not have to be a single column — you can use multiple lists to group backlog items by category, initiative, or other themes. If you use product development software, you can also add tags to visually denote types of work.\n\nPrioritize: Rank and sort items by priority so it is easy to see the most impactful items at a glance. This can help you plan new releases more efficiently. Refresh regularly as priorities evolve.\n\nAdd details: Ideally, any work items in your backlog should be ready to be pulled into a release at any time. That means all requirements, effort estimates, acceptance criteria, and other feature details should be filled out and kept current for all items in the backlog.\n\nSet up backlog refinement meetings: Establish a feedback loop by scheduling regular backlog refinement meetings. These sessions act as a forcing factor for reviewing the backlog. Bring the product team together to go over the contents and align on what belongs, what does not, and what updates should be made.\n\nStart using this template now\n\nRemember that keeping a product backlog is just one step in the product planning process. From here, you will start to pull items from your backlog into releases and onto your roadmap. Your development team will get to work building the features you have prioritized. After launching, your product backlog will fill up again — and the cycle continues.\n\nIt takes some serious coordination to move work smoothly throughout product development. And it helps if you have the right tools. With Aha! Roadmaps, you can define detailed feature requirements with the help of an AI assistant, quickly build, rank, and sort your product backlog, and set priority limits for what you can achieve within a release. Then, it only takes a few clicks to go from backlog to roadmap and bring your product strategy to life — all within the same tool. Try it for free.\n\nEditor's note: Although the GIF below still shows core functionality within Aha! software, some of the interface might be out of date. View our knowledge base for the most updated insights into Aha! software.\n\nWhen is a product backlog item considered complete?\n\nIf an item is in your product backlog, it is considered \"not started.\" Product backlog items are considered complete only when you have pulled them into a release, built, and shipped them.\n\nWhat are the key differences between a product backlog and a to-do list?\n\nIn a sense, a product backlog could be described as a complex to-do list of product work that you plan to complete. The key difference is that basic to-do lists are comprised of individual tasks. But product backlog items typically include far more than that — involving various requirements, contributors, and phases of work in order to complete.\n\nHow often should a product backlog be updated?\n\nAim to update your product backlog on a regular basis — weekly, monthly, or once per sprint, depending on how often your team meets. Backlog refinement sessions are a particularly good time to update the backlog.\n\nHow can you involve stakeholders in the product backlog prioritization process?\n\nBacklog refinement sessions are the best way to involve stakeholders in prioritization decisions. These meetings bring cross-functional team members together to review and update what is in the backlog on a recurring basis. Using a template can help you cover strategy and get input from everyone present.\n\nHow does the product backlog relate to sprint planning?\n\nDuring sprint planning, agile teams decide which items to pull from the product backlog into the sprint backlog. Whereas the product backlog functions as a broad inventory of upcoming work, the sprint backlog represents all of the work you plan to complete within a single sprint.\n\nHow can you ensure the product backlog reflects the most current business goals?\n\nRegularly reviewing your product backlog can help you determine what is still aligned with your business goals and what is not. With Aha! Roadmaps, you can even link each backlog item to specific goals and initiatives — so you can clearly see how each feature rolls up to your overall strategy.\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is a product backlog?",
+      "id": "what-is-a-product-backlog"
+    },
+    {
+      "level": "h4",
+      "text": "Manage your product backlog in Aha! Roadmaps — try it for free.",
+      "id": "manage-your-product-backlog-in-aha-roadmaps-"
+    },
+    {
+      "level": "h2",
+      "text": "Product backlog best practices",
+      "id": "product-backlog-best-practices"
+    },
+    {
+      "level": "h2",
+      "text": "Product backlog best practices",
+      "id": "product-backlog-best-practices"
+    },
+    {
+      "level": "h3",
+      "text": "Who owns the product backlog?",
+      "id": "who-owns-the-product-backlog"
+    },
+    {
+      "level": "h2",
+      "text": "How to manage a product backlog",
+      "id": "how-to-manage-a-product-backlog"
+    },
+    {
+      "level": "h4",
+      "text": "Refine your backlog with this template in Aha! software — try it for free.",
+      "id": "refine-your-backlog-with-this-template-in-aha-software-"
+    },
+    {
+      "level": "h2",
+      "text": "Moving work from your backlog to your roadmap",
+      "id": "moving-work-from-your-backlog-to-your-roadmap"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about product backlogs",
+      "id": "faqs-about-product-backlogs"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog#product-backlog-best-practices",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog#how-to-set-up-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog#who-owns-the-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog#how-to-manage-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog#moving-work-from-your-backlog-to-your-roadmap",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog#top",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development-software",
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog#top",
+    "https://www.aha.io/roadmapping/guide/what-is-product-discovery",
+    "https://www.aha.io/roadmapping/guide/stages-of-product-development",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

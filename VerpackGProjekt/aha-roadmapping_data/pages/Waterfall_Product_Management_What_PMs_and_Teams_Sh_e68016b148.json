@@ -1,0 +1,104 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+  "title": "Waterfall Product Management: What PMs and Teams Should Know",
+  "content": "Last updated: May 2024\n\nWaterfall refers to a sequential model for planning, building, and delivering new products and features. The requirements for any new customer experience are defined upfront and implemented in discrete phases. Each phase in the waterfall methodology has specific activities that must be documented and approved before the next phase can begin.\n\nThe waterfall model is often used when managing the production and delivery of hardware products, such as in manufacturing and construction. In these industries, establishing the full scope before beginning work is often important because change is costly and difficult to accommodate in the development or manufacturing process. Within the waterfall methodology, activities are managed linearly to ensure that the requirements are met. The finished product or feature is delivered in its complete form.\n\nSkip ahead to any section:\n\nHistory of the waterfall methodology\n\nWaterfall methodology phases\n\nWhen to choose waterfall\n\nWaterfall methodology in product management\n\nThe waterfall approach was first introduced by Dr. Winston W. Royce in 1970 in a paper on how to implement large software systems. Royce defined a logical progression of steps to help teams achieve “an operational state, on-time, and within costs.”\n\nIn 1976, Thomas E. Bell’s and T.A. Thayer reinforced this approach in a paper called “Software requirements: Are they really a problem?” The authors studied the challenges associated with incorrect, ambiguous, inconsistent, or missing requirements. They concluded that starting with a clearly defined set of requirements and following a top-down “waterfall” approach to implement them was an effective method to achieve a successful outcome.\n\nWaterfall established itself as the predominant product development methodology for the next twenty years. Then, in the early 2000s, agile methodologies emerged. Agile proposed a more flexible way to incorporate feedback once work was underway. The goal was that companies would be able to deliver new products and functionality to market faster, delighting customers and achieving a competitive advantage.\n\nToday, many companies use an agile approach for managing software-based products. Hybrid agile-waterfall methods also provide a way to include some flexibility into traditional workflows. Some organizations combine the planning structure of the waterfall methodology — including fixed deadlines and cost forecasting — with lighter documentation and iterative feedback cycles to respond faster to changing requirements. But, as you will learn in this guide, there are a number of situations when a true waterfall model can still be effective.\n\nLet’s take a closer look at how a waterfall model works. There are six phases. Each phase is distinct and must be completed in order for the next one to begin. The table below lists the phases in sequential order and provides an overview of what must be accomplished.\n\nRequirements analysis\n\nCustomer requirements are captured in a roadmap and product requirements document. Any project constraints — such as time, budget, and dependencies — and assumptions are identified and a release plan is created. A feasibility analysis determines the overall viability of the project.\n\nThe design phase details any requirements — such as architectural, interface, data, process, and physical requirements — needed to implement the project. These requirements are defined in a design specification document.\n\nSource code is developed based on the requirements. The system is commonly built and tested in small units. Units are integrated and then the entire product moves to the testing phase.\n\nThe new product or feature is fully tested to make sure it meets the specified requirements. Any issues or bugs are documented and reported to the development team so they can be fixed.\n\nOnce the system is fully functional and passes the acceptance criteria, it is deployed into a production environment and made available to customers.\n\nThe maintenance phase focuses on keeping the system running smoothly. This includes fixing any defects that customers report and releasing enhancements to improve and update the product.\n\nA stage gate review often happens between phases. The stage gate serves as a decision point for whether a project can proceed to the next phase. This provides an opportunity for the project team to assess status, identify risks, and review cost and schedule. If a project is struggling to stay on track, it may be put on hold or terminated.\n\nThere are a number of pros and cons to consider when choosing whether to use a waterfall approach. On the positive side, planning is more straightforward because requirements are agreed upon upfront and the full scope of the work is known in advance. Conversely, there are more risks to manage and a higher possibility of customers being dissatisfied with the end result. This is because customers typically do not see what will be delivered until the project is completed, at which point it is too late in the process to make changes.\n\nTo help you decide if waterfall model is a good fit for your work, consider this list of characteristics:\n\nRequirements are clear and unlikely to change\n\nCost of change is high\n\nStrict budget and/or time constraints\n\nResources with required expertise are available\n\nCustomers do not need to be involved during development\n\nUnderlying technology is well known and stable\n\nComplex dependencies between projects\n\nMany organizations apply waterfall methodology for managing the development of physical or hardware products, as well as hybrid products that feature both hardware and software components. This is because there are many dependencies to manage and it is challenging to change requirements midway.\n\nAnother use case is developing products for heavily regulated industries. Rigid change-control processes and stage gates between phases make it easier for organizations to ensure that compliance requirements are met and to address any issues along the way.\n\nA waterfall model emphasizes the importance of upfront planning and comprehensive documentation. You can see this in the table above with the first phase being requirements analysis. It is key that product managers set strategy and plan releases. Here is a look at some of the practices and tools product managers use to achieve product success in a waterfall environment.\n\nProduct managers build a long-term roadmap that commits to delivering specific features on a set timeline. Plans are defined on an annual cycle and release budgets and dates are fixed. Here is an example of a product portfolio roadmap. It shows the timeline for delivering releases over a 12-month period.\n\nThis is an example of a product portfolio roadmap in Aha! Roadmaps.\n\nEach phase of a waterfall process must be reviewed and documented before you can progress to the next phase. Product managers are responsible for creating two documents — a market requirements document (MRD) and a product requirements document (PRD).\n\nAn MRD is created before any product development starts. It captures the product vision, go-to-market strategy, and market research — such as the market size, growth opportunity, ideal customer profile, and competitive landscape. An MRD also captures a high-level list of required features based on market and customer needs.\n\nA PRD is created during the requirements phase. It communicates what you are building, who it is for, and how it benefits the end user. A PRD establishes the scope and timeline of a release, detailing the features that will be delivered. Information about each feature includes the problem it solves, how it helps the user, any assumptions, and acceptance criteria.\n\nProduct managers then work closely with design and engineering teams to ensure that requirements are implemented correctly. During the testing phase, product managers validate that the acceptance criteria is met.\n\nA Gantt chart is a useful tool for planning complex releases. You can visualize the start date and end date of each phase and schedule activities in the order the need to be completed. You can also set dependencies between activities and track progress.\n\nThis is an example of a Gantt chart in Aha! Roadmaps.\n\nThere are many different models you can use to manage your product development process. What matters is finding an approach that works well for the type of product you are building and enables the team to work effectively together to achieve outstanding results.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is waterfall product management?",
+      "id": "what-is-waterfall-product-management"
+    },
+    {
+      "level": "h2",
+      "text": "History of the waterfall methodology in product management",
+      "id": "history-of-the-waterfall-methodology-in-product-management"
+    },
+    {
+      "level": "h2",
+      "text": "Waterfall methodology phases",
+      "id": "waterfall-methodology-phases"
+    },
+    {
+      "level": "h2",
+      "text": "When to choose the waterfall methodology",
+      "id": "when-to-choose-the-waterfall-methodology"
+    },
+    {
+      "level": "h2",
+      "text": "Waterfall methodology in product management",
+      "id": "waterfall-methodology-in-product-management"
+    },
+    {
+      "level": "h3",
+      "text": "Product roadmap",
+      "id": "product-roadmap"
+    },
+    {
+      "level": "h3",
+      "text": "Requirements documentation",
+      "id": "requirements-documentation"
+    },
+    {
+      "level": "h3",
+      "text": "Gantt chart",
+      "id": "gantt-chart"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-a-product",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall#history-of-the-waterfall-methodology-in-product-management",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall#waterfall-methodology-phases",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall#when-to-choose-the-waterfall-methodology",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall#waterfall-methodology-in-product-management",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-development",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-prd-(product-requirements-document)",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall#top",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-market-requirements-document",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-prd-(product-requirements-document)",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/an-introductory-guide-to-agile-project-management",
+    "https://www.aha.io/roadmapping/guide/agile-development/what-is-the-role-of-a-software-engineer",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/agile-transformation",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/best-practices",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-burndown-chart",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-issue-tracking",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-unit-testing",
+    "https://www.aha.io/roadmapping/guide/agile/agile-metrics",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

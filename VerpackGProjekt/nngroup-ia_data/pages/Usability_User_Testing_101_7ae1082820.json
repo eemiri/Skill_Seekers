@@ -1,0 +1,174 @@
+{
+  "url": "https://www.nngroup.com/articles/usability-testing-101/",
+  "title": "Usability (User) Testing 101",
+  "content": "December 1, 2019 2019-12-01\n\nUsability testing (alternately called user testing) is a popular UX research methodology.\n\nIn a usability-testing session, a researcher (called a “facilitator” or a “moderator”) asks a participant to perform tasks, usually using one or more specific user interfaces. While the participant completes each task, the researcher observes the participant’s behavior and listens for feedback.\n\nThe phrase “usability testing” is often used interchangeably with “user testing.”\n\nThe goals of usability testing vary by study, but they usually include:\n\nWhy do we need to do usability testing? Won’t a good professional UX designer know how to design a great user interface? Even the best UX designers can’t design a perfect — or even good enough — user experience without iterative design driven by observations of real users and of their interactions with the design.\n\nThere are many variables in designing a modern user interface and there are even more variables in the human brain. The total number of combinations is huge. The only way to get UX design right is to test it.\n\nThere are many different types of usability testing, but the core elements in most usability tests are the facilitator, the tasks, and the participant.\n\nThe facilitator administers tasks to the participant. As the participant performs these tasks, the facilitator observes the participant’s behavior and listens for feedback. The facilitator may also ask followup questions to elicit detail from the participant.\n\nThe facilitator guides the participant through the test process. She gives instructions, answers the participant’s questions, and asks followup questions.\n\nThe facilitator works to ensure that the test results in high-quality, valid data, without accidentally influencing the participant’s behavior. Achieving this balance is difficult and requires training.\n\n(In one form of remote usability testing, called remote unmoderated testing, an application may perform some of the facilitator’s roles.)\n\nThe tasks in a usability test are realistic activities that the participant might perform in real life. They can be very specific or very open-ended, depending on the research questions and the type of usability testing.\n\nExamples of tasks from real usability studies:\n\nYour printer is showing “Error 5200”. How can you get rid of the error message?\n\nYou're considering opening a new credit card with Wells Fargo. Please visit wellsfargo.com and decide which credit card you might want to open, if any.\n\nYou’ve been told you need to speak to Tyler Smith from the Project Management department. Use the intranet to find out where they are located. Tell the researcher your answer.\n\nTask wording is very important in usability testing. Small errors in the phrasing of a task can cause the participant to misunderstand what they’re asked to do or can influence how participants perform the task (a psychological phenomenon called priming).\n\nTask instructions can be delivered to the participant verbally (the facilitator might read them) or can be handed to a participant written on task sheets. We often ask participants to read the task instructions out loud. This helps ensure that the participant reads the instructions completely, and helps the researchers with their notetaking, because they always know which task the user is performing.\n\nThe participant should be a realistic user of the product or service being studied. That might mean that the user is already using the product or service in real life. Alternatively, in some cases, the participant might just have a similar background to the target user group, or might have the same needs, even if he isn’t already a user of the product.\n\nParticipants are often asked to think out loud during usability testing (called the “think-aloud method”). The facilitator might ask the participants to narrate their actions and thoughts as they perform tasks. The goal of this approach is to understand participants’ behaviors, goals, thoughts, and motivations.\n\nUsability testing can be either qualitative or quantitative.\n\nQualitative usability testing focuses on collecting insights, findings, and anecdotes about how people use the product or service. Qualitative usability testing is best for discovering problems in the user experience. This form of usability testing is more common than quantitative usability testing.\n\nQuantitative usability testing focuses on collecting metrics that describe the user experience. Two of the metrics most commonly collected in quantitative usability testing are task success and time on task. Quantitative usability testing is best for collecting benchmarks.\n\nThe number of participants needed for a usability test varies depending on the type of study. For a typical qualitative usability study of a single user group, we recommend using five participants to uncover the majority of the most common problems in the product.\n\nRemote usability tests are popular because they often require less time and money than in-person studies. There are two types of remote usability testing: moderated and unmoderated.\n\nRemote moderated usability tests work very similarly to in-person studies. The facilitator still interacts with the participant and asks her to perform tasks. However, the facilitator and participant are in different physical locations. Usually, moderated tests can be performed using screen-sharing software like Skype or GoToMeeting.\n\nRemote unmoderated remote usability tests do not have the same facilitator–participant interaction as an in-person or moderated tests. The researcher uses a dedicated online remote-testing tool to set up written tasks for the participant. Then, the participant completes those tasks alone on her own time. The testing tool delivers the task instructions and any followup questions. After the participant completes her test, the researcher receives a recording of the session, along with metrics like task success.\n\nSimple, “discount” usability studies can be inexpensive, though you usually must pay a few hundred dollars as incentives to participants. The testing session can take place in a conference room, and the simplest study will take 3 days of your time (assuming that you have already learned how to do it, and you have access to participants):\n\nOn the other hand, more-expensive research is sometimes required, and the cost can run into several hundred thousand dollars for the most elaborate studies.\n\nThings that add cost include:\n\nThe return on investment (ROI) for advanced studies can still be high, though usually not as high as that for simple studies.\n\nFor hands-on training and help honing your facilitation skills, check out our full-day course on usability testing.\n\nFor detailed help planning, conducting, and analyzing remote user testing, check out our full-day seminar: Remote Usability Testing.\n\nPlan, conduct, and analyze your own studies, whether in person or remote\n\nOrchestrate and optimize research to amplify its impact\n\nUse surveys to drive and evaluate UX design",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Usability (User) Testing 101",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Why Usability Test?",
+      "id": "toc-why-usability-test-1"
+    },
+    {
+      "level": "h2",
+      "text": "Elements of Usability Testing",
+      "id": "toc-elements-of-usability-testing-2"
+    },
+    {
+      "level": "h3",
+      "text": "Facilitator",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Tasks",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Participant",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Types of Usability Testing",
+      "id": "toc-types-of-usability-testing-3"
+    },
+    {
+      "level": "h3",
+      "text": "Qualitative vs. Quantitative",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Remote vs. In-Person Testing",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Cost of Usability Testing",
+      "id": "toc-cost-of-usability-testing-4"
+    },
+    {
+      "level": "h2",
+      "text": "NN/g Resources for Usability Testing",
+      "id": "toc-nng-resources-for-usability-testing-5"
+    },
+    {
+      "level": "h3",
+      "text": "Facilitating a Usability Test",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Recruiting Participants",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Remote Usability Testing",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Special Usability Testing Studies or User Groups",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Free Downloads",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Usability Testing",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "ResearchOps: Scaling User Research",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Survey Design and Execution",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/kate-moran/",
+    "https://www.nngroup.com/articles/usability-testing-101/",
+    "https://www.nngroup.com/articles/usability-101-introduction-to-usability/",
+    "https://www.nngroup.com/articles/usability-testing-101/",
+    "https://www.nngroup.com/articles/usability-testing-101/#toc-why-usability-test-1",
+    "https://www.nngroup.com/articles/usability-testing-101/#toc-elements-of-usability-testing-2",
+    "https://www.nngroup.com/articles/usability-testing-101/#toc-types-of-usability-testing-3",
+    "https://www.nngroup.com/articles/usability-testing-101/#toc-cost-of-usability-testing-4",
+    "https://www.nngroup.com/articles/usability-testing-101/#toc-nng-resources-for-usability-testing-5",
+    "https://www.nngroup.com/articles/the-myth-of-the-genius-designer/",
+    "https://www.nngroup.com/articles/parallel-and-iterative-design/",
+    "https://www.nngroup.com/articles/usability-checklist/",
+    "https://www.nngroup.com/articles/leading-questions/",
+    "https://www.nngroup.com/articles/unmoderated-usability-testing/",
+    "https://www.nngroup.com/articles/ux-research-goals-to-scenarios/",
+    "https://www.nngroup.com/articles/better-usability-tasks/",
+    "https://www.nngroup.com/articles/priming/",
+    "https://www.nngroup.com/articles/recruiting-test-participants-for-usability-studies/",
+    "https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/",
+    "https://www.nngroup.com/articles/quant-vs-qual/",
+    "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+    "https://www.nngroup.com/articles/remote-usability-tests/",
+    "https://www.nngroup.com/articles/moderated-remote-usability-test/",
+    "https://www.nngroup.com/articles/unmoderated-usability-testing/",
+    "https://www.nngroup.com/articles/unmoderated-user-testing-tools/",
+    "https://www.nngroup.com/articles/discount-usability-20-years/",
+    "https://www.nngroup.com/articles/when-high-cost-usability-makes-sense/",
+    "https://www.nngroup.com/articles/competitive-usability-evaluations/",
+    "https://www.nngroup.com/articles/international-usability-testing/",
+    "https://www.nngroup.com/articles/eyetracking-setup/",
+    "https://www.nngroup.com/articles/observer-guidelines/",
+    "https://www.nngroup.com/articles/formal-vs-quick-usability-reports/",
+    "https://www.nngroup.com/articles/qual-usability-testing-study-guide/",
+    "https://www.nngroup.com/articles/task-scenarios-usability-testing/",
+    "https://www.nngroup.com/articles/mobile-usability-testing/",
+    "https://www.nngroup.com/articles/talking-to-users/",
+    "https://www.nngroup.com/articles/team-members-user-test/",
+    "https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/",
+    "https://www.nngroup.com/articles/recruiting-test-participants-for-usability-studies/",
+    "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+    "https://www.nngroup.com/articles/how-many-test-users/",
+    "https://www.nngroup.com/articles/employees-user-test/",
+    "https://www.nngroup.com/articles/informed-consent/",
+    "https://www.nngroup.com/articles/remote-usability-tests/",
+    "https://www.nngroup.com/articles/moderated-remote-usability-test/",
+    "https://www.nngroup.com/articles/unmoderated-usability-testing/",
+    "https://www.nngroup.com/articles/unmoderated-user-testing-tools/",
+    "https://www.nngroup.com/articles/quant-vs-qual/",
+    "https://www.nngroup.com/articles/users-real-data/",
+    "https://www.nngroup.com/articles/paper-prototyping/",
+    "https://www.nngroup.com/articles/measuring-perceived-usability/",
+    "https://www.nngroup.com/articles/international-usability-testing/",
+    "https://www.nngroup.com/articles/usability-testing-minors/"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "url": "https://www.nngroup.com/articles/navigation-ia-tests/",
+  "title": "Low Findability and Discoverability: Four Testing Methods to Identify the Causes",
+  "content": "July 6, 2014 · Updated Sep. 9, 2019 2019-09-09\n\nOne of the biggest causes of user failure is when users simply can’t locate stuff on the website. The first law of e-commerce design states, “if the user can’t find the product, the user can’t buy the product.” So these design flaws are not just usability problems, they’re often a site’s biggest profitability problems as well.\n\nWhen site visitors routinely conduct searches for content that should be easily located via browsing or when there is insufficient within-site traffic to mission-critical pages, the site may suffer from low findability and discoverability.\n\nFindability: Users can easily find content or functionality that they assume is present in a website.\n\nDiscoverability: Users encounter new content or functionality that they were not aware of previously.\n\nHigh findability and discoverability are the results of a well-defined information architecture and well-designed navigation system. The challenge with findability and discoverability issues is determining the root cause: is it the information architecture or is it the navigation design? Here are 2 examples to illustrate the difference between IA and Navigation/UI issues:\n\nPotential issues that can cause the problem:\n\nIA-issue: Users do not understand or are not attracted to the names of the sections.\n\nUI-issue: Users do not notice the links to the sections.\n\nPotential issues that can cause the problem:\n\nIA-issue: The content links included under Related Links are not relevant to what users need (a classification issue).\n\nUI-issue: Users do not notice the Related Links navigation component (because perhaps it’s too low down the page or is mistaken for an advertisement).\n\nThe cost of guessing the cause of issues can be very high. It would be a shame to spend money to redesign an entire user interface only to discover that the underlying IA is the issue or vice-versa. With limited resources and time, knowing the root cause is priceless. All of the methods that we recommend can be executed quickly, remotely, and without moderation (unless desired). There are no excuses for not testing.\n\nThe key to identifying the true cause of a problem is to combine multiple testing methods. By running separate studies to measure (a) the information architecture (IA) and (b) the user interface (UI), we increase the likelihood of correctly identifying the cause of website failures.\n\nThe 4 methods described below answer different questions (IA- or UI-focused) and provide results that are either qualitative or quantitative (or both).\n\nA tree test is an IA-focused technique conducted to determine if mission-critical information can be found in the site’s IA. It does not display the user interface to test participants; they navigate using only link names.\n\nQuestions it answers:\n\nTo set up a tree test, you create an information-architecture “tree” which delineates the groupings and hierarchy of pages (you can create this in a spreadsheet and paste it into the system that you use for testing). You then create specific tasks that involve finding specific destinations (called “end nodes”) of the information architecture (e.g., “Find a health insurance plan that covers a family of four and costs less than $500 per month”). Study participants conduct the tasks using the tree.\n\nThe results are quantitative and include, but are not limited to:\n\nDirect success rate: How many participants found the right answer without having to go back up and down the tree?\n\nIndirect success rate: How many participants got the right answer, but had to navigate back up and down the tree to find it?\n\nFirst-click data: Which tier-1 categories did users click first? First clicks are a good indicator of the strength of category names.\n\nTool: Treejack, UserZoom Tree Testing, Userlytics Tree Testing\n\nClosed card sorts are an IA-focused method conducted to evaluate the strength of category names.\n\nQuestions it answers:\n\nTo conduct this type of test, you provide participants with “cards” including names or descriptions of content/functionality. Then they must assign these cards to your categories. (Such closed card sorts are the opposite of traditional open card sorting where users get the same stack of cards but have to create the categories themselves.)\n\nThe results are both quantitative and qualitative, and include:\n\nSimilarity: Number of times the same content was grouped together\n\nStandardization Grid: Number of times a card was sorted into your intended category\n\nLogic of assignment: With card sorting, it’s recommended to moderate a portion of your tests in-person or remotely via teleconference. This allows you to interview users to understand why they grouped certain content together, why they assigned items to particular categories, and how they interpret the category names.\n\nTools: OptimalSort, Usabilitest Card Sorting, UserZoom Card Sorting, Userlytics\n\nClick tests are UI-focused; they are conducted to determine where users click on the interface to find specific information or functionality. One drawback of click tests is that they are not interactive: participants are shown static images of a site and must show where they’d click to perform a task. However, once they click, the task is considered finished and they can move to the next task. To test interactive elements, you should conduct usability testing.\n\nQuestions it answers:\n\nTo conduct this type of test, you upload a screenshot, wireframe, or sketch of a page into a click-testing tool. You then create tasks. Participants must click on the image to indicate where they would go to conduct the task.\n\nThe result is a heatmap illustrating where users clicked. The heatmap helps you determine if the navigation design is noticeable or if elements are conflicting and create too much noise.\n\nTools: Usabilla First Click Tests, Chalkmark, UserZoom Screenshot Click Testing\n\nUsability testing is conducted to determine how and why users navigate a website (or a website prototype) to conduct tasks.\n\nQuestions it answers:\n\nTo conduct this type of test, you can use prototypes (paper or interactive) or a live site. You then create tasks and ask participants to carry out the tasks. You observe users conducting the tasks and note when they interact with navigation components, how they interact, and if they avoid or overlook navigation. You can conduct usability testing in-person or remotely. Remote usability testing can be moderated live (via teleconference) or unmoderated using a variety of online services. (Many options, from established services like UserZoom and WhatUsersDo to startups like YouEye.)\n\nStandard user testing requires no further equipment than a live user and a computer. (Or a piece of paper in the case of paper prototyping.) However, if budget allows, you can run the study with an eyetracker which may help if you’re particularly concerned about whether users ever even see the desired navigation components.\n\nThe results include task success rate and difficulty ratings, identification of interface elements that cause friction, and better understanding of the users’ mental models of the site.\n\nTools: In-person testing, remote moderated tests with services like GoTo Meeting or Webex, remote unmoderated testing tools\n\nWhen running multiple types of studies you may find positive results from one test and negative results from another. Inconsistent results from different types of studies precisely illustrate the value of running multiple tests to focus on both IA and UI. For example, you may run a closed card sort and find that users have no issues assigning subcategory content into your global categories. However, a click test (of the same environment) may result in painfully low success rates, with users clicking in all the wrong places when asked where they would go to conduct mission-critical tasks. Thus, put together, the 2 tests indicate that your category names are fine, but your layout is problematic and that your best investment is in designing new layout configurations.\n\nLow findability and discoverability is a panic-inducing problem which can lead to knee-jerk uninformed and unsuccessful fixes. It’s not uncommon for teams to have limited time to conduct studies, which is why these four methods are so useful: they can be set up quickly, run simultaneously, and conducted remotely—without any moderation if so desired. Therefore, combining two or more of these tests is a reasonable monetary and time investment, as it can help you hone in on the cause of your problems and will mitigate the risk of investing in an expensive nonsolution.\n\nWe have listed a variety of tools for the research methods discussed in this article. While we recommend the methods, we don’t specifically recommend any individual tools. As a vendor-neutral organization, Nielsen Norman Group doesn’t endorse such products, and the one to use on any given project would depend on your specific needs and budget. We are happy to provide consulting on such questions, but the answer would be different in each case.\n\nOrganize and structure information to improve findability and discoverability\n\nCalculate, interpret, and report the numbers from your quantitative UX studies\n\nPlan, conduct, and analyze your own studies, whether in person or remote",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Low Findability and Discoverability: Four Testing Methods to Identify the Causes",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Findability and Discoverability Issues",
+      "id": "toc-findability-and-discoverability-issues-1"
+    },
+    {
+      "level": "h3",
+      "text": "Problem Example 1: Site visitors are not visiting two important sections of the site.",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Problem Example 2: Site visitors never use a Related Links navigation component on content pages.",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Employing Multiple Methods to Determine Cause",
+      "id": "toc-employing-multiple-methods-to-determine-cause-2"
+    },
+    {
+      "level": "h2",
+      "text": "1. Tree Testing",
+      "id": "toc-1-tree-testing-3"
+    },
+    {
+      "level": "h2",
+      "text": "2. Closed Card Sorting",
+      "id": "toc-2-closed-card-sorting-4"
+    },
+    {
+      "level": "h2",
+      "text": "3. Click Testing",
+      "id": "toc-3-click-testing-5"
+    },
+    {
+      "level": "h2",
+      "text": "4. Usability Testing",
+      "id": "toc-4-usability-testing-6"
+    },
+    {
+      "level": "h2",
+      "text": "Identifying the Cause Is Key to Successful Remediation",
+      "id": "toc-identifying-the-cause-is-key-to-successful-remediation-7"
+    },
+    {
+      "level": "h3",
+      "text": "Please note:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Statistics for UX",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Usability Testing",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/navigation-ia-tests/",
+    "https://www.nngroup.com/articles/navigation-ia-tests/",
+    "https://www.nngroup.com/articles/navigation-ia-tests/#toc-findability-and-discoverability-issues-1",
+    "https://www.nngroup.com/articles/navigation-ia-tests/#toc-employing-multiple-methods-to-determine-cause-2",
+    "https://www.nngroup.com/articles/navigation-ia-tests/#toc-1-tree-testing-3",
+    "https://www.nngroup.com/articles/navigation-ia-tests/#toc-2-closed-card-sorting-4",
+    "https://www.nngroup.com/articles/navigation-ia-tests/#toc-3-click-testing-5",
+    "https://www.nngroup.com/articles/navigation-ia-tests/#toc-4-usability-testing-6",
+    "https://www.nngroup.com/articles/navigation-ia-tests/#toc-identifying-the-cause-is-key-to-successful-remediation-7",
+    "https://www.nngroup.com/articles/unmoderated-user-testing-tools/"
+  ]
+}

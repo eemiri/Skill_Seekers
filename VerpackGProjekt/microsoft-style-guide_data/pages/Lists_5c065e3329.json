@@ -1,0 +1,72 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists",
+  "title": "Lists",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nLists are a great way to present complex text in a way that's easy to scan.\n\nA list should have at least two items but no more than seven items. Each item should be fairly short—the reader should be able to see at least two, and preferably three, list items at a glance. It’s OK to have a couple of short paragraphs in a list item, but don’t exceed that length too often.\n\nMake all the items in a list consistent in structure. For example, each item should be a noun or a phrase that starts with a verb.\n\nUse a bulleted list for things that have something in common but don’t need to appear in a particular order. ExamplesThe database owner can:\n\nBring your customers into focus\n\nUse a numbered list for sequential items (like a procedure) or prioritized items (like a top 10 list). ExampleTo sign on to a database:\n\nMake sure the purpose of the list is clear. Introduce the list with a heading, a complete sentence, or a fragment that ends with a colon.\n\nIf you introduce a list with a heading, don’t use explanatory text after the heading. Also, don’t use a colon or period after the heading.\n\nGlobal tip If your content will be localized, avoid lists where an introductory fragment is completed by the list items below it. This can be difficult to translate.\n\nBegin each item in a list with a capital letter unless there's a reason not to (for example, it’s a command that's always lowercase). If necessary, rewrite the list item so that all items begin with capital letters or all items begin with lowercase words.\n\nDon’t use semicolons, commas, or conjunctions (like and or or) at the end of list items.\n\nDon’t use a period at the end of list items unless they’re complete sentences, even if the complete sentence is very short.\n\nExamplesDevices affected by this recall\n\nLimitations on meeting organizers\n\nIf the list is introduced by a sentence fragment that ends with a colon, end all the items in the list with a period if any item forms a complete sentence when combined with the introduction.\n\nExamplesKnowledge managers can:\n\nException Don’t use periods if all items have three or fewer words or if the items are UI labels, headings, subheadings, strings, or similar types of text.\n\nThe administrative templates for Microsoft Edge are:\n\nThe topic answer will display:\n\nOften lists are a series of radio buttons or checkboxes inside dialog boxes or settings pages. Unless they’re complete sentences, don’t use punctuation for each item in a list. If punctuation is necessary for clarity, make sure punctuation is used consistently in the list and in other lists within the same section or screen.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Lists",
+      "id": "lists"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Bulleted lists",
+      "id": "bulleted-lists"
+    },
+    {
+      "level": "h2",
+      "text": "Numbered lists",
+      "id": "numbered-lists"
+    },
+    {
+      "level": "h2",
+      "text": "Introductory text",
+      "id": "introductory-text"
+    },
+    {
+      "level": "h2",
+      "text": "Capitalization",
+      "id": "capitalization"
+    },
+    {
+      "level": "h2",
+      "text": "Punctuation",
+      "id": "punctuation"
+    },
+    {
+      "level": "h2",
+      "text": "In UI",
+      "id": "in-ui"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists"
+  ]
+}

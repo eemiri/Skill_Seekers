@@ -1,0 +1,97 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management",
+  "title": "Release Management: Best Practices for Product Teams",
+  "content": "Last updated: March 2024\n\nRelease management is the process of overseeing the development, testing, deployment, and support of product releases. Product managers are delivering something new to people who need what you have built. You are responsible for the release management process — the planning and coordination needed for a successful launch.\n\nThe best product launches provide real customer value and have cross-departmental support. Your new product or set of features must work well and your team must be prepared to support it — this is all part of what it means to plan and own a release.\n\nRelease management involves outlining critical phases of work upfront. That includes everything from feature definition to testing and QA to launch day activities. A strong release management process keeps your team aligned around a consistent set of criteria for what must be done and when. With smoother releases and fewer complications, you can deliver software faster and provide a better customer experience.\n\nAn example product release plan in the form of a Gantt chart in Aha! Roadmaps\n\nManage releases with Aha! Roadmaps\n\nWhat is a product release?\n\nHow to standardize the release process\n\nA product release is the process of delivering a new product experience to your customers. But a release is much more than just a roll-out of new functionality. For your customers, it is a promise of new value. For your internal teams, a release is the result of all the cross-functional work required to get the product to market and support every customer interaction associated with it.\n\nOf course, a release means different things to the product team and engineering team. Engineers typically define a release as the process of planning, building, testing, and deploying code into production through a series of sprints. For product teams, development just represents one phase of the broader release plan.\n\nWhen planning a release, take into account all the cross-functional work needed to support customers, such as updating the public website and training the support team. A typical release management process includes the following phases:\n\nAligns the team around your goals and initiatives — keeping everyone focused on the \"why\" behind the work.\n\nDetermines the focus or scope of what you will deliver. For instance, you may have a large initiative that you want to split into discrete releases based on areas of your application.\n\nIdentifies features from the features backlog that fit within the defined release theme and support your goals.\n\nFeature definition and prioritization\n\nDefines a prioritized set of features and requirements that will be included in the release. It covers details such as who you are building for, what it should look like, and what users should be able to do.\n\nIncludes customer journey mapping, prototyping, and visual design.\n\nIncludes development work required to build key features — most likely in a series of sprints.\n\nOutlines the cross-functional work needed to promote the release and support customer adoption.\n\nTesting, QA, and release preparation\n\nEnsures that the new functionality works as expected — or is sent back to development to fix. This phase also includes checks by the QA team and approval by the product manager or product owner.\n\nIncludes any activities that marketing is responsible for — such as email campaigns, blog posts, and social media.\n\nSales and support documentation and training\n\nProvides resources like release notes, how-to guides, and support videos to help customer-facing teams communicate the value of the release.\n\nReleases code into production and brings the new functionality to market. Now customers can enjoy the new experience.\n\nSome release phases must be completed linearly — one phase cannot be started until the one before it is completed. For example, designers cannot start creating prototypes until they have a definition of what the feature is supposed to do and who it is for. This is why many product managers use Gantt charts to plan releases and visualize dependencies.\n\nEffective release management requires collaboration and transparency throughout the entire process. You can imagine how easily bottlenecks and delays can happen if you do not have a single source of truth to capture the work and desired outcomes.\n\nIn agile product management, you may feel that there is no need to plan actual releases — some even consider the term \"release planning\" obsolete. But the value of release management is methodology-agnostic. Releases define your themed product journey and represent major launch milestones within that journey.\n\nYou may choose to call it a launch, an increment, or some other name. Regardless, it is still a new offering your customers will anticipate. And internal teams must accommodate for the release requirements within their schedule of other planned work if they are to assist your efforts.\n\nThe actual dates of engagement may have less precision as far as committed targets for an agile team. However, a general delivery plan (even in an agile framework) will continue to establish trust and expectation in your product with your customers and teams.\n\nAn example of a features roadmap in Aha! Roadmaps\n\nDepending on your organization, releases may happen monthly, weekly, or even continuously. Standardizing the process minimizes ambiguity across the team, improves velocity, and allows you to introduce automation — freeing up the team to focus on the highest value work.﻿﻿﻿﻿\n\nHere are a few ways to approach standardization for each phase of the release management process:\n\nTake into account the team's velocity on the previous release (or general capacity to deliver) so you can create a general scope, sequencing, and timeline for the release. During release planning, a general benchmark on the number of sprints or iterations to deliver the scope should be achieved. The accuracy of this expectation and plan depends on whether the team's capacity is well-known as well as the level of detail (or grooming) the scope has been through during estimation.\n\nRevisit plans after each iteration. Tracking an external release target (quarterly or monthly, for instance) can be helpful. It builds trust with your customers and can be refined as your plan progresses.\n\nEstablish a launch or release template that will be the \"gold standard\" for every major delivery. Use it to engage the greater team, who may be supporting multiple products in the portfolio only when needed. A standard for launch also sets expectations for when these teams will be needed internally.\n\nSet a standardized status at both the release and feature level to indicate the overall health of the plan. Status indicators provide an \"Are we good?\" pulse point to help you proactively mitigate risk. A release status enables communication to your internal stakeholders, while feature status workflows enable granular visibility into the readiness of the feature and its current status with respect to development, staging, or QA environments.\n\nRegardless of whether your release plan is executed in sprints or via more waterfall methodologies, regular check-ins and adjustments to the plan are necessary. Use your sprint closure to adjust plans as needed, or schedule regular reviews to ensure plans are on track.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How product teams do release management",
+      "id": "how-product-teams-do-release-management"
+    },
+    {
+      "level": "h2",
+      "text": "What is a product release?",
+      "id": "what-is-a-product-release"
+    },
+    {
+      "level": "h2",
+      "text": "Why plan releases?",
+      "id": "why-plan-releases"
+    },
+    {
+      "level": "h2",
+      "text": "How to standardize the release process",
+      "id": "how-to-standardize-the-release-process"
+    },
+    {
+      "level": "h3",
+      "text": "Planning",
+      "id": "planning"
+    },
+    {
+      "level": "h3",
+      "text": "Phased communication and supporting team engagement",
+      "id": "phased-communication-and-supporting-team-engagement"
+    },
+    {
+      "level": "h3",
+      "text": "Repeatable stages to readiness",
+      "id": "repeatable-stages-to-readiness"
+    },
+    {
+      "level": "h3",
+      "text": "Forward adjustment on plan",
+      "id": "forward-adjustment-on-plan"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/release-management#what-is-a-product-release",
+    "https://www.aha.io/roadmapping/guide/release-management#why-plan-releases",
+    "https://www.aha.io/roadmapping/guide/release-management#how-to-standardize-the-release-process",
+    "https://www.aha.io/roadmapping/guide/product-management/work-with-engineers",
+    "https://www.aha.io/roadmapping/guide/it/it-deployments",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-strategy/customer-journey-map",
+    "https://www.aha.io/roadmapping/guide/product-management/wireframe-mockup-prototype",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/launch/how-to-write-excellent-release-notes",
+    "https://www.aha.io/roadmapping/guide/release-management#top",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-product-management",
+    "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones",
+    "https://www.aha.io/roadmapping/guide/release-management#top",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-good-product-launch-checklist",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

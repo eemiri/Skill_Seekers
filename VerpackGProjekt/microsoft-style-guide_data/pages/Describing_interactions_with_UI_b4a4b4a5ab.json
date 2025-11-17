@@ -1,0 +1,43 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui",
+  "title": "Describing interactions with UI",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nCustomers interact with products using different input methods: keyboard, mouse, touch, voice, and more. So use generic verbs that work with any input method. Don't use input-specific verbs, such as click or swipe. Instead, use the verbs listed here.\n\nSee also Formatting text in instructions\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Describing interactions with UI",
+      "id": "describing-interactions-with-ui"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions"
+  ]
+}

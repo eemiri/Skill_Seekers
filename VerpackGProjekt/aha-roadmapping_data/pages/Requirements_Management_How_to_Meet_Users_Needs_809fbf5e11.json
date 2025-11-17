@@ -1,0 +1,128 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/requirements-management",
+  "title": "Requirements Management: How to Meet Users' Needs",
+  "content": "Last updated: February 2025\n\nRequirements management is the process of defining what your product must do to fulfill customer and stakeholder needs, and validating that you continue to meet those needs. It involves gathering feedback, aligning on priority, and maintaining requirements — capabilities that will satisfy your product strategy.\n\nProduct teams follow this process by collecting, analyzing, refining, and prioritizing requirements continuously throughout the product lifecycle. Requirements management is rooted in systems engineering but can also apply across disciplines — such as business analysis and project management.\n\nLet's consider requirements management for product managers and software development teams. Typically, a product manager owns the requirements management process. You are responsible for helping the team define product requirements and manage the changes throughout development. When you learn how to effectively manage requirements, you can better validate customer needs and build features that customers find lovable.\n\nJump ahead to any section:\n\nWhat is a requirement?\n\nDifferent types of requirements\n\nWho is responsible for requirements management?\n\nOverview of the requirements management process\n\nAt a basic level, a requirement is something that is needed or wanted. Software products can be comprised of hundreds — even thousands — of requirements. But even a single feature can have multiple requirements. In this case, you can think of the requirements as the components that need to be implemented in order to complete the feature.\n\nNo matter what you are building, requirements should be:\n\nNecessary: Essential to achieving business and product goals.\n\nSpecific: Detailed with traceable roots to their origin and purpose.\n\nUnderstandable: Clearly written and unambiguous.\n\nAccurate: Adequately detailed with information about the end-user's challenge or need.\n\nFeasible: Researched and proven to be both useful and attainable.\n\nTestable: Able to be completed or approved through user acceptance testing or other criteria.\n\nProduct teams may manage multiple types of requirements that are important to different stakeholders. It is key to have a shared understanding of the different types of requirements and designate the right people to collaborate on them. That way, you can align on the most business-critical requirements and gain consistency in how you define and prioritize them.\n\nMost product managers define different types of requirements, so it can be helpful to group requirements by category: business requirements, user requirements, and systems requirements. Let's take a closer look at the three types:\n\nBusiness requirements describe objectives from stakeholders — such as leadership, internal business analysts, and initiative owners — that are necessary for the company and its business units to succeed. They bring context to the company's top-level goals and initiatives.\n\nYou can think of these as things that the business needs to do to satisfy both internal and external customers, not something that the product necessarily needs to do. Although, it is worth noting that there may be overlaps.\n\nBusiness goal: Expand into global markets this year\n\nExample requirements:\n\nIdentify international markets to target\n\nDevelop multicultural buyer personas\n\nCreate a website localization strategy\n\nTranslate the application into multiple languages\n\nThe company-level goals and their business requirements will impact the goals and initiatives that you set at the product level. Of course, product goals will be specific to the product and its users, but should also align with one or more business goal.\n\nMoving down to the product level is where you find user requirements. These requirements define what a user needs or how they will interact with a given product or feature. User requirements often describe a customer pain point or challenge as well as an action they want to accomplish and how the product should serve them.\n\nRecall the example above, with the business requirement of translating the application into multiple languages. When defining user requirements, you need to dig into the details of the user experience. How will users select their preferred language? Can account admins set default languages for different user logins? Will the application provide users with a way to translate text from colleagues who use a different language? These are the types of considerations you may need to make.\n\nUser requirements can be defined at the product level as well as the feature level. In the example below, you can see a single feature with its associated requirements.\n\nYou can think of user requirements as the \"why\" and \"what\" of features from a user's perspective. Then, you can share these details with the engineering team so they can focus on the \"how\" of building each feature.\n\nSystems requirements support the product from a technical perspective. These requirements outline what the technology can do (functional requirements) and how well it performs those functions (non-functional requirements). Non-functional requirements often focus on security, performance, and reliability issues.\n\nThe engineering team typically owns systems requirements. For instance, if translating an application into multiple languages, engineers may have to select third-party software that the app will rely on to power the translations. And they will have to determine how frequently to push updates or how the system should handle translation errors.\n\nThe visual below summarizes the three types of requirements:\n\nDepending on the type of requirement, your organization may have various owners and stakeholders. Typically, a product manager is responsible for the requirements management process as it relates to the product and its features.\n\nA big part of your role is collecting ideas and feedback from customers, internal teams, and other stakeholders. You have to evaluate whether new ideas align with the overall business and product strategy and then translate the ideas into features and requirements.\n\nYou will work with cross-functional teams to refine requirements. It may seem obvious that engineering has a big role in requirements management. Other teams do too — for example, you will likely work with the finance team or business operations team to ensure you can measure and report on business requirements.\n\nTo prevent one set of requirements from overriding another, constant communication among stakeholders is critical. As the product manager, you are at the center — overseeing requirements that impact the business, your customers, the product, and the product team.\n\nDeveloping a process for managing requirements creates consistency and transparency between product, engineering, and other stakeholders. Changes to requirements should be broadly shared throughout the lifecycle of the product.\n\nRequirements management does not end with a product release. From that point on, the data coming in about the application’s acceptability is gathered and fed into the product planning phases for the next generation or release. Thus the process begins again.\n\nThe requirements management process typically involves the following phases:\n\nCollection: Gathering feedback and needs from customers and internal teams.\n\nAnalysis: Determining whether proposed features and requirements align with the company or product vision.\n\nDefinition: Documenting requirements from the user perspective and detailing functional or technical requirements.\n\nPrioritization: Planning upcoming releases or sprints and the features and requirements that will be included.\n\nValidation and maintenance: Creating a definition of \"complete\" and planning ongoing enhancements.\n\nA company's product development methodology can determine how and when requirements move through the requirements management process. For example, if you follow a waterfall model, your requirements management process may be linear — one phase closes out before the next begins. In an agile environment, you may have many requirements in flight at varying stages as you prioritize upcoming work as part of sprint planning.\n\nNo matter the methodology, an effective requirements management process requires clear communication and documentation. This will help you ensure that what you build brings value — to your customers and your business.\n\n2x2 prioritization matrix\n\nProduct requirements document\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is requirements management?",
+      "id": "what-is-requirements-management"
+    },
+    {
+      "level": "h4",
+      "text": "Product development has never been this lovable. Try Aha! software today.",
+      "id": "product-development-has-never-been-this-lovable"
+    },
+    {
+      "level": "h2",
+      "text": "What is a requirement?",
+      "id": "what-is-a-requirement"
+    },
+    {
+      "level": "h2",
+      "text": "Different types of requirements",
+      "id": "different-types-of-requirements"
+    },
+    {
+      "level": "h3",
+      "text": "Business requirements",
+      "id": "business-requirements"
+    },
+    {
+      "level": "h3",
+      "text": "User requirements",
+      "id": "user-requirements"
+    },
+    {
+      "level": "h3",
+      "text": "Systems requirements",
+      "id": "systems-requirements"
+    },
+    {
+      "level": "h2",
+      "text": "Who is responsible for requirements management?",
+      "id": "who-is-responsible-for-requirements-management"
+    },
+    {
+      "level": "h2",
+      "text": "Overview of the requirements management process",
+      "id": "overview-of-the-requirements-management-process"
+    },
+    {
+      "level": "h4",
+      "text": "Popular templates:",
+      "id": "popular-templates"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/what-is-the-product-lifecycle",
+    "https://www.aha.io/roadmapping/guide/agile/an-introductory-guide-to-agile-project-management",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/requirements-management#what-is-a-requirement",
+    "https://www.aha.io/roadmapping/guide/requirements-management#different-types-of-requirements",
+    "https://www.aha.io/roadmapping/guide/requirements-management#who-is-responsible-for-requirements-management",
+    "https://www.aha.io/roadmapping/guide/requirements-management#overview-of-the-requirements-management-process",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/requirements-management#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/requirements-management#top",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-management/work-with-engineers",
+    "https://www.aha.io/roadmapping/guide/product-management/product-managers-other-teams",
+    "https://www.aha.io/roadmapping/guide/requirements-management#top",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/what-is-product-documentation",
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-market-requirements-document",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-prd-(product-requirements-document)",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

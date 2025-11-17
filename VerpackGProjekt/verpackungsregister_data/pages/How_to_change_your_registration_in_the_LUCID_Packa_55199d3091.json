@@ -1,0 +1,88 @@
+{
+  "url": "https://www.verpackungsregister.org/en/i-would-like-to-change-my-registration",
+  "title": "How to change your registration in the LUCID Packaging Register",
+  "content": "Have you registered your company with the LUCID Packaging Register and would like to change or add details about your master data, brand names or packaging types? Here we explain how it works.\n\nExplainer video: changing packaging types and brand names in the LUCID Packaging Register\n\nExplainer video: changing packaging types and brand names in the LUCID Packaging Register\n\nYou are responsible for ensuring that your information on file in the LUCID Packaging Register is correct and up to date. If any changes occur, you must update your information immediately.\n\nWe will explain step by step how to make changes to your packaging types and/or brand names in the LUCID Packaging Register:\n\nFirst, log in to the LUCID Packaging Register.\n\nGo to the 'Details about the packaging' tile to edit or add details about your packaging types.Heads-up: Depending on whether you are using packaging that is subject to system participation to distribute your goods, or packaging that is not, you have different obligations under packaging law to fulfil.\n\nYou will then be automatically prompted to enter the brand names. Check whether you have to adjust the packaging category for existing brand names (packaging subject to system participation or not subject to system participation). Add new brand names, or remove brand names that are no longer valid.\n\nHeads-up: If you only need to adjust your brand names, you can click directly on the 'Brand names' tile. For further information and notes please refer to the explainer video on editing packaging types and brand names.\n\nCheck our knowledge base on 'Brand names' to find out what details to enter in the LUCID Packaging Register.\n\nUse your login credentials to sign in to the LUCID Packaging Register. Then click the 'Edit' button in the 'Master data' tile. Depending on the information you want to change, click the edit icon on the right of the relevant section (e.g. producer data, contact details, VAT number/taxpayer reference number). Enter your changes. Scroll down to the 'Declarations' section and check the boxes, then click 'Send'.\n\nFirst, you need to enter the new e-mail address and contact person as a recovery contact in your master data. If you would like to change the e-mail address but not the contact person, you can re-enter the previous login owner and then enter a new e-mail address. Save the updates. Then go back to your master data, click 'Transfer login' at the bottom of the page and select the new e-mail address. The recovery contact selected for the login transfer will receive an e-mail instructing them to set up a new password. They will then be the new login owner for the registration.\n\nThe public register of producers is updated once a day. The changes you have made will be published by the following day at the latest. Please note that some of your registration's components are not published in the register. This includes your e-mail address.\n\nIf you are ceasing your business activities and will no longer be distributing packaged goods (market exit), then you have to terminate your registration with the LUCID Packaging Register. This is what you need to do:\n\nUse your login credentials to sign in to the LUCID Packaging Register.\n\nClick the 'Edit' button in the 'Master data' tile. Scroll all the way down.\n\nClick the 'Terminate registration' button. Enter the termination date. Confirm your entries by clicking the green button 'Terminate registration'.\n\nYour registration will end on the day that you have chosen, which can be up to 31 days in the future. Please note that you cannot select a past date for termination. On the day after your chosen date has passed, the ZSVR will send you an e-mail to confirm that your registration has been terminated.\n\nOnce a registration is terminated, it cannot be reactivated.\n\nTerminating your registration with the LUCID Packaging Register does not cancel your existing system participation agreement. If you have any questions about your system participation agreement, please contact your system operator.\n\nIt is essential that you receive the administrative act confirming your registration termination. To make sure it reaches you, please verify that the e-mail address on file in the LUCID Packaging Register is current and accessible.\n\nAfter your registration has been terminated, you can continue to access the LUCID Packaging Register and use it to retrospectively submit data reports, if needed.\n\nAre you uncertain about the implications for your registration in the LUCID Packaging Register? In our knowledge base dedicated to legal entities you will find all the information you need.\n\nClick here for the LUCID Packaging Register.\n\nSystem participation – yes or no? What types of packaging are there? What are the obligations that come with each of them?\n\nThe brand names that you use to distribute your packaged goods commercially in Germany for the first time must be entered in the LUCID Packaging Register.\n\nPlease refer to the support contact page for more information.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to change your registration in the LUCID Packaging Register",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Heads-up",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Changing packaging types or brand names",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Can't find any brand name on the packaging?",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "What you need to know",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How do I change my master data?",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How do I change my login e-mail address?",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Why can't I see my changes in the public register?",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "I have ceased or am in the process of ceasing my business activities. What does that mean for my registration?",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Has your company's legal structure changed because of a sale, acquisition or merger?",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Do you want to change your master data, brand names and/or packaging types?",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Packaging types and categories",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Brand names",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Do you have IT-related or general questions?",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsregister.org/en/",
+    "https://www.verpackungsregister.org/en/i-would-like-to-change-my-registration#c329",
+    "https://www.verpackungsregister.org/en/registration/brand-names",
+    "https://www.verpackungsregister.org/en/change-in-legal-entity",
+    "https://www.verpackungsregister.org/en/knowledge-bases/packaging-types",
+    "https://www.verpackungsregister.org/en/registration/brand-names",
+    "https://www.verpackungsregister.org/en/contact-the-zsvrs-support-hotline"
+  ]
+}

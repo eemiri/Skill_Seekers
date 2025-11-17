@@ -1,0 +1,136 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+  "title": "Release Planning: How To Coordinate Releases Across Teams",
+  "content": "Organize and facilitate a brainstorming session.\n\nReview and adjust product strategy as a team.\n\nMake the time you spend as a team productive.\n\nWhen organizing a release, think about all the jobs that need to be done to provide customers with a great new experience — from design and go-to-market activities to sales enablement and support documentation. The cross-functional product team includes representatives from each of these key functions. Members of the cross-functional team own the work of their functional group and ultimately are responsible for the release’s success. These team members should be strong leaders and subject matter experts in their field. They should also have the authority to make decisions for the functions they represent.\n\nThese are the departments and roles that participate on a cross-functional team at a standard midsize or large company:\n\nTeam role or function\n\nWrites and updates technical documentation, such as release notes or support content\n\nOwns the work of development teams, including estimation, sprint planning, and acceptance criteria\n\nRepresents the financials and resource allocation — will likely not attend every meeting\n\nRepresents product and company legal interests — will likely not attend every meeting\n\nCommunicates product positioning and awareness — may include product marketing, field marketing, and public and analyst relations\n\nAssists with deployment of the release features\n\nHandles day-to-day advancement of work and unblocks team members (could also be scrum master)\n\nLeads the product team in planning, managing, and delivering the new product experience\n\nEnsures product quality\n\nPrepares the sales team to communicate changes in the value proposition or demo flow\n\nPrepares messaging and training about the release experience in support of customers\n\nResearches and designs optimal customer interactions with the new product experience\n\nSo who plans and manages the release process? This can vary from company to company based on size and organization. Though large organizations often have designated project managers, release managers, delivery managers, or program managers who own this effort, the product manager will always have an instrumental role and often performs overarching project management tasks as well.\n\nCross-functional product teams work best when they feel invested in the product, have clear goals, are stable for the duration of the release, and meet regularly. Each member of the team is responsible for two-way communication: sharing perspective and bringing important information about the release back to their group. The product manager ensures that team members collaborate, work through dependencies, and meet target dates. Product managers are responsible for the success of the group, so it is incumbent on them to lead the product team with a clear vision and help resolve conflicts.\n\nHarnessing the participation of various stakeholders can be challenging, but the result is organizational support and better products that delight customers. Product managers can motivate their teams by defining the strategy behind their plans, collecting feedback, and communicating broadly and frequently.\n\n15 tips for running effective product team meetings\n\nHow to gather customer feedback\n\n6 questions product managers should ask every week\n\nLife is better when everyone on your team takes a consistent approach to release planning.\n\nAha! Director of product marketing\n\nIf great products start with a well-defined strategy, then coordination is the crux of a well-managed release. Managing a release means turning product strategy into planned work, then coordinating the work and the team against a timeline. Building an action-oriented and repeatable release management process requires carefully planning the scope and phases of work, identifying risks and dependencies, and setting clear expectations.\n\nA release plan is essential. This helps every member of the team know what they need to do and when. Regardless of development methodology, a release plan provides a concise way to manage work, while addressing the inevitable risks of bringing a product to market. Product managers can harness their team's input to develop a release plan that all members can commit to.\n\nPlanning a release starts with the end goal and launch date in mind. Teams that do effective planning are more likely to meet their release dates and deliver valuable experiences to customers. An effective release plan takes into account:\n\nThe product’s strategic goals and roadmap\n\nWhich features will deliver a delightful new customer experience\n\nFeature scope, estimates, and engineering capacity\n\nEstimates on deliverables from marketing, sales, and other groups\n\nThe ideal sequence of phases between work\n\nMilestones (fixed dates) that influence the release\n\nDependencies between the phases or groups\n\nIt is critical to have a single source of truth where the team can track all the work in the release plan — both technical and non-technical. A single, shared platform keeps everyone in sync, provides visibility into the release status, holds the product team members accountable for their commitments, and makes it easier for the product manager to coordinate and track the work.\n\nWhether planning release dates based on a regular cadence (e.g. monthly or quarterly) or based on time estimates for the work to be completed, it is necessary to communicate these dates both internally and externally. A release roadmap helps keep all the stakeholders informed of the plan and its progress. It gives the cross-functional team a guide for what needs to be discussed in weekly communications.\n\nA release roadmap can also help the team track important dependencies and milestones. For example, the team will need to know that if it takes a few days longer than estimated to complete the UX research, the development phase will slip by a few days too. Or maybe marketing will need to have its product messaging ready a week before the launch so it can be used during the scheduled day of sales training. For complex releases to succeed, it is crucial to make these dependencies and milestones visible so that the team can coordinate.\n\nAs product managers gain experience launching products that impact large groups of customers and a dynamic organization, you will develop a set of best practices for a successful release. A template or checklist that standardizes the release process builds trust on the cross-functional team and helps create happy customers. A template can also set expectations and facilitate communication with external stakeholders — who may not be active with the core product team but whose support is essential.\n\nIf your team wants a simple and repeatable way to coordinate dates and visualize release plans, you can also use an expert-crafted template like the release roadmap template in Aha! software. This Gantt-style template is useful for showing the \"what\" and \"when\" of your plans — including features, milestones, dependencies, and your timeline for delivery. This helps everyone on the team understand exactly what needs to be done and when in order to launch on schedule.\n\nS﻿tart using this template now\n\nA successful release can make all the difference between happy customers and disgruntled ones. Managing a successful release requires skillful coordination of dates, tasks, and people. Effective product managers build releases and lead their cross-functional product teams to move the work forward as planned and collaborate to deliver customer value.\n\nOrganize and facilitate a brainstorming session.\n\nReview and adjust product strategy as a team.\n\nMake the time you spend as a team productive.",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Popular templates",
+      "id": "popular-templates"
+    },
+    {
+      "level": "h5",
+      "text": "Brainstorming meeting",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product strategy meeting",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Meeting agenda",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Building the cross-functional release team",
+      "id": "building-the-cross-functional-release-team"
+    },
+    {
+      "level": "h2",
+      "text": "Managing the cross-functional team",
+      "id": "managing-the-cross-functional-team"
+    },
+    {
+      "level": "h2",
+      "text": "Managing the release",
+      "id": "managing-the-release"
+    },
+    {
+      "level": "h2",
+      "text": "Creating a repeatable process",
+      "id": "creating-a-repeatable-process"
+    },
+    {
+      "level": "h2",
+      "text": "Popular templates",
+      "id": "popular-templates"
+    },
+    {
+      "level": "h5",
+      "text": "Brainstorming meeting",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product strategy meeting",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Meeting agenda",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/designs/product-design-basics-every-product-manager-should-know",
+    "https://www.aha.io/roadmapping/guide/designs/product-design-basics-every-product-manager-should-know",
+    "https://www.aha.io/roadmapping/guide/how-to-build-a-product-knowledge-base",
+    "https://www.aha.io/roadmapping/guide/launch/how-to-write-excellent-release-notes",
+    "https://www.aha.io/roadmapping/guide/internal-vs-external-product-documentation",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/plans/how-to-use-a-digital-whiteboard-for-product-planning",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-user-experience-design",
+    "https://www.aha.io/roadmapping/guide/information-technology/release-manager",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-program-manager",
+    "https://www.aha.io/roadmapping/guide/product-management/are-you-a-new-product-manager",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-management/what-are-the-types-of-product-managers",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/marketing-idea-management/internal-feedback",
+    "https://www.aha.io/roadmapping/guide/product-management/15-meeting-tips-for-product-managers",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams#top",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/launch/what-is-a-go-to-market-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-user-experience-design",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams#top",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "url": "https://www.nngroup.com/articles/user-centric-language/",
+  "title": "User-centric vs. Maker-centric Language: 3 Essential Guidelines",
+  "content": "September 28, 2013 2013-09-28\n\nThe most effective web content is objective and neutral. Vague business terms, marketing language, and fluffy words are too hard for users to understand. However, writing clear, understandable copy is challenging. It’s much easier for writers to use the internal jargon and industry terms that are regularly used inside the company. Unfortunately, users are often stumped by these convoluted words and have a difficult time extracting meaning from the content. Users shouldn’t have to interpret content; they should be able to easily understand it.\n\nThis article offers tips for writing copy that focuses on users — and not on the company or organization.\n\nLists of service or product features don’t attract readers, because the terms and phrases used to describe them aren’t easily understandable — especially if the feature names include branded terms. Users want to know what the product or service will do for them, and they don’t care about the fancy name.\n\nFor example, a description of a hiking boot on the Merrell website is littered with features that fail to describe the benefits in a way that will appeal to potential buyers, including:\n\nThe benefits of these features aren’t clear based on these descriptions. A reader might discern that Ortholite® probably has something to do with the comfort of the sole, or as Merrell says, the “anatomical footbed.” And Aegis® will likely help keep the hiker’s feet cool, because it’s included with the “breathable mesh lining.” But these descriptions require the users to do too much work to understand their meaning.\n\nWe compared this description to the product description for the same hiking boot on REI’s website. The benefits of these features are better presented with the feature name, as shown below.\n\nThe benefit-driven copy highlights why it’s important that these features are included in the shoe. Ortholite® is a comfy foam insole that owners can take out and wash, and Aegis® will help keep the shoes from getting too stinky. (Now, “help deter odor development” isn’t exactly the most natural way to describe the benefit of Aegis®, but at least a benefit is listed.)\n\nWe can still improve REI’s description by removing the feature names altogether. For example:\n\nHowever, this solution may not work for all audiences. Some loyal customers may search for these specific feature names. In this situation, it’s best to pair the feature name with clearly articulated benefits. Like this:\n\nSadly, the writers likely started from the same seed copy. The REI writers chose to focus on benefits to connect with users, and the Merrell writers focused on features — which readers often skip over as they search for words with meaning.\n\nOn the web, users are task oriented. They are often looking to answer a question, solve a problem, or find information. Most users rely on search engines to get to this content. Using copy that contains the terms and phrases your users include in search queries will improve the chances that your site will appear on search-engine results pages.\n\nSomeone searching for a pair of hiking shoes will likely search for “comfortable hiking shoes” instead of “hiking shoes with Ortholite.\" In this case, the product description on REI’s website will display before the product description on Merrell’s website on search engine results pages. But again, brand — and feature — enthusiasts may still search for branded terms.\n\nUltimately, Merrell will make money if the shoe is purchased on their site or REI’s website, so why should they care? Well written, objective copy helps build customer loyalty, which means some will return to REI’s website — and potentially buy another company's product — before they go back to the Merrell site.\n\nWriters often use the language they are most familiar with when describing offerings on websites, without realizing that those terms are unknown to their readers. Unfortunately, site visitors often don’t understand those company- or industry-specific terms and phrases.\n\nFor example, many online data-backup services offer plans for small businesses. Jungle Disk’s site includes descriptions of the features included with each plan. These descriptions have unnecessary business and industry jargon, as shown below.\n\nThe writer has likely made the assumption that the reader is tech savvy and familiar with industry phrases like “reduces storage costs with compression” and “server-grade de-duplication technology.\" However, individuals at the small businesses considering an online backup service may not have the technical expertise — or the desire — to understand the description. Also, you can never assume that the expert is the person doing the research. It could be someone else — such as a buyer or an assistant collecting information for the expert in a B2B context.\n\nThe description of a similar feature offered in CrashPlan’s small business plan doesn’t include as many complex words and phrases. It simplifies the process for the reader by using plain language, as shown below. For example, instead of “de-duplication technology,” the CrashPlan service “checks for data that is already backed up and ignores it.\"\n\nWebsite copy often speaks “at” customers and includes phrases such as “our customers” and “Company X” to indirectly refer to the reader and the organization. Changing the perspective and using words such as “you” and “we” makes the organization — and the copy — more personable and accessible. The web is the perfect place to have a conversation with readers.\n\nFor example, the satisfaction guarantee on the Cox Communications website speaks at the reader and not with them, as shown below.\n\nCopy that does not contain industry or business jargon is not only easier for average users to understand, it’s often preferred by subject-matter experts as well. For example, an IT professional in one of our usability studies read a service description that was geared towards a technical audience and said, “I understand it, but I prefer not to think on those levels.”\n\nThe copy reads as: “30-day money-back satisfaction guarantee entitles customer to a refund of installation fees and first month’s Cox High Speed Internet service fee and modem charge if purchased from Cox and excludes other Cox service fees. Customer must claim refund within 30 days of service activation. Other restrictions may apply.”\n\nThe guarantee includes statements such as:\n\nAlso, displaying this information in the footer in tiny gray font on a black background reduces both findability and readability.\n\nCompare this to Comcast’s customer guarantee, which is written in a conversational manner, as shown below:\n\nThe guarantee is a two-way conversation, because the description uses words such as “we,” “you,” and “our.\" It also uses simpler words and phrases. For example, “in the first 30 days” is easier to understand than “within 30 days of service activation.\" Additionally, the site dedicates an entire page to their policy and does not hide it in the fine print.\n\nWriting for readers is hard work. It’s much easier to use industry words, business jargon, and features, because it’s familiar and comfortable.\n\nKeep the following three tips in mind to create user-centric copy:\n\nTechniques and tools for implementing an actionable content strategy\n\nUse UX writing to shape your content to meet your readers' needs\n\nCreate a seamless, cohesive cross-channel experience",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "User-centric vs. Maker-centric Language: 3 Essential Guidelines",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Focus on the Benefits of Using the Product or Service, not the Features",
+      "id": "toc-focus-on-the-benefits-of-using-the-product-or-service-not-the-features-1"
+    },
+    {
+      "level": "h2",
+      "text": "Use Words People Can Relate to, Instead of Industry or Business Jargon",
+      "id": "toc-use-words-people-can-relate-to-instead-of-industry-or-business-jargon-2"
+    },
+    {
+      "level": "h2",
+      "text": "Speak to Your Readers, not at Them",
+      "id": "toc-speak-to-your-readers-not-at-them-3"
+    },
+    {
+      "level": "h2",
+      "text": "Our Recommendation: Put Readers First",
+      "id": "toc-our-recommendation-put-readers-first-4"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Content Strategy and Governance",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Writing Compelling Digital Copy",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Omnichannel Journeys and Customer Experience",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/user-centric-language/",
+    "https://www.nngroup.com/articles/user-centric-language/",
+    "https://www.nngroup.com/articles/user-centric-language/#toc-focus-on-the-benefits-of-using-the-product-or-service-not-the-features-1",
+    "https://www.nngroup.com/articles/user-centric-language/#toc-use-words-people-can-relate-to-instead-of-industry-or-business-jargon-2",
+    "https://www.nngroup.com/articles/user-centric-language/#toc-speak-to-your-readers-not-at-them-3",
+    "https://www.nngroup.com/articles/user-centric-language/#toc-our-recommendation-put-readers-first-4"
+  ]
+}

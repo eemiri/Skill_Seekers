@@ -1,0 +1,84 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/acronyms",
+  "title": "Acronyms",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nAcronyms and abbreviations can have an adverse effect on clarity, voice, and findability. Although some acronyms are widely understood and preferred to the spelled-out term, others aren't well known or are familiar only to a specific group of customers.\n\nAlways spell out Microsoft product and feature names.\n\nThe A–Z word list has guidelines for many common acronyms, and some acronyms are so widely used that they're in Merriam-Webster Dictionary.\n\nIn general, include the acronym in parentheses following the spelled-out term. On subsequent mentions in the same article, page, or screen, you can use the acronym without spelling it out.\n\nSome acronyms, like USB, FAQ, and URL, are more well known than the spelled-out term. Don't spell out the term if the acronym is listed in Merriam-Webster Dictionary or if the A–Z word list says to use the acronym without spelling it out. If you're sure your audience is familiar with an acronym, it's OK to use it without spelling it out.\n\nExamples Conversation as a platform (CaaP) has the potential to make booking a flight as easy as sending a text message. Developers are also looking to CaaP to make computing more accessible to users of all abilities. Learn how to connect a USB device to your Microsoft Surface.\n\nIf an acronym will appear only once in your content, just spell out the term. Don't introduce it in parentheses after the spelled-out version.\n\nException It's OK to use both the spelled-out term and the acronym if both are needed for SEO, even if the acronym is used only once.\n\nAvoid using an acronym for the first time in a title or heading, unless it's a keyword that you need to place in the title or heading for SEO. If the first use of the acronym is in a title or heading, introduce the acronym (in parentheses, following the spelled-out term) in the following body text.\n\nLowercase all words in the spelled-out form of an acronym except for proper nouns. The names of many protocols and specifications are considered proper nouns and are capitalized when spelled out.\n\nExamples infrastructure as a service (IaaS) dynamic-link library (DLL)High-Definition Multimedia Interface (HDMI)\n\nWhich article (a or an) you use depends on whether you pronounce the acronym like a word or pronounce each letter.\n\nExamples a DLL an ISP a URL a SQL database\n\nAdd s to make an acronym plural\n\nForm the plural of an acronym like you would any other noun. If the acronym stands for a singular noun, add a lowercase s to make it plural. If an acronym stands for a plural noun, don’t add an s.\n\nExamples three APIs Microsoft Foundation Classes (MFC)\n\nUnless an acronym refers to a person or an organization, avoid using the possessive form.\n\nExamples the IDE enhancements the purpose of the FAQ the CEO’s blog\n\nGlobal tip In machine-translated content, be careful with acronyms that form common English words, like RAM. If the acronym appears outside of the parentheses and without the spelled-out version, it might be translated incorrectly.\n\nSee also Bits and bytes term collection, Units of measure term collection\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Acronyms",
+      "id": "acronyms"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Don't create acronyms from product or feature names",
+      "id": "dont-create-acronyms-from-product-or-feature-names"
+    },
+    {
+      "level": "h2",
+      "text": "Only use acronyms that your audience is familiar with",
+      "id": "only-use-acronyms-that-your-audience-is-familiar-with"
+    },
+    {
+      "level": "h2",
+      "text": "If you have to use an acronym, also spell out the term for clarity",
+      "id": "if-you-have-to-use-an-acronym-also-spell-out-the-term-for-clarity"
+    },
+    {
+      "level": "h2",
+      "text": "Don't introduce acronyms that are used just once",
+      "id": "dont-introduce-acronyms-that-are-used-just-once"
+    },
+    {
+      "level": "h2",
+      "text": "Be careful with acronyms in titles and headings",
+      "id": "be-careful-with-acronyms-in-titles-and-headings"
+    },
+    {
+      "level": "h2",
+      "text": "Lowercase the spelled-out term",
+      "id": "lowercase-the-spelled-out-term"
+    },
+    {
+      "level": "h2",
+      "text": "Use a or an, depending on pronunciation",
+      "id": "use-a-or-an-depending-on-pronunciation"
+    },
+    {
+      "level": "h2",
+      "text": "Avoid the possessive form",
+      "id": "avoid-the-possessive-form"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/acronyms",
+    "https://learn.microsoft.com/en-us/style-guide/acronyms",
+    "https://learn.microsoft.com/en-us/style-guide/acronyms",
+    "https://learn.microsoft.com/en-us/style-guide/acronyms",
+    "https://learn.microsoft.com/en-us/style-guide/acronyms",
+    "https://learn.microsoft.com/en-us/style-guide/acronyms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms"
+  ]
+}

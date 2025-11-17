@@ -1,0 +1,50 @@
+{
+  "url": "https://www.nngroup.com/articles/breadcrumb-navigation-useful/",
+  "title": "Breadcrumb Navigation Increasingly Useful",
+  "content": "April 9, 2007 2007-04-09\n\nNot all design decisions are a matter of website survival. Of course, it's important to get the big things right, or you won't have any users. But getting the small things right enhances usability and fosters user comfort. A perfect example here is the breadcrumb trail.\n\nBreadcrumbs won't help a site answer users' questions or fix a hopelessly confused information architecture. All that breadcrumbs do is make it easier for users to move around the site, assuming its content and overall structure make sense. That's sufficient contribution for something that takes up only one line in the design.\n\nBreadcrumbs have always been a secondary navigation aid. They share this humble status with site maps. To navigate, site visitors mainly use the primary menus and the search box, which are certainly more important for usability. But from time to time, people do turn to the site map or the breadcrumbs, particularly when the main navigation doesn't quite meet their needs.\n\nDespite their secondary status, I've recommended breadcrumbs since 1995 for a few simple reasons:\n\nSo, despite the merely mid-sized benefits, the overall cost-benefit analysis comes out quite strongly in favor of breadcrumbs. Their downside is incredibly small: while they do take up space, that space is minute. When you divide a mid-sized numerator by a tiny denominator, the resulting fraction is substantial.\n\nThe main argument against breadcrumbs is that many users overlook them. So, why do something that only benefits a minority?\n\nAs I've long argued, breadcrumbs are different than most other little-used design elements for the simple reason that they don't hurt users who ignore them.\n\nThe case against breadcrumbs is crumbling. Every year we see more people use breadcrumbs in our studies. Because breadcrumbs are not important enough for a dedicated study, I don't have an exact number for the current percentage of breadcrumb users. But it's definitely growing over time.\n\nIn testing an e-commerce site last month, for example, one user complained: \"This is missing a feature to go back to the previous page.\"\n\nI found this apparent request for a Back button puzzling, since the button was featured prominently in the browser and the person had easily used it earlier in the test session. Also, for six years, it's been an established guideline to avoid duplicating browser functionality in the page design.\n\nIt quickly became clear, however, that the user wasn't asking for a duplicate Back button. Elaborating on the previous complaint, she pointed to the place on the page where breadcrumbs typically appear and said she wanted the list of links to higher-level pages.\n\nIn other words, the user wanted breadcrumbs. She'd seen them before, but didn't know what they were called, so she asked for them using words that — if taken literally — would have been easily misinterpreted.\n\nThis is a great example of the hard-won lesson of usability: don't comply with user requests. Give more attention to what study participants do than to what they say .\n\nHuman behavior doesn't change much over the years. My recent book documents a few cases where Web design guidelines from the mid-1990s have changed. But mainly, usability guidelines stay the same decade after decade.\n\nWhy are people now using breadcrumbs to the extent that they actually miss them when sites don't offer them?\n\nIt's exactly because of breadcrumbs' modest nature that people are becoming accustomed to them. There aren't too many ways to mess up breadcrumbs in a design. No fancy stuff, just a line of textual links.\n\nBreadcrumbs are almost always implemented the same way, with a horizontal line that\n\nThis consistency means that people know a breadcrumb trail when they see one, and immediately know how to use it. Consistency breeds familiarity and predictability, which breed usability. This again means that you must comply with conventions in the design of your own breadcrumbs.\n\nBreadcrumbs are also useful for intranets: 80% of this year's award-winning intranets use breadcrumbs. [See separate article on intranet information architecture (IA).]\n\nI'm sometimes asked whether website breadcrumbs should follow the fairytale model of Hansel and Gretel. In that story, the children walk through a bewildering forest, dropping breadcrumbs behind them in hopes that they might later find their way out.\n\nIn user interface design, it's often dangerous to take metaphors too far, and breadcrumbs are again the perfect example. Offering users a Hansel-and-Gretel-style history trail is basically useless, because it simply duplicates functionality offered by the Back button, which is the Web's second-most-used feature.\n\nA history trail can also be confusing: users often wander in circles or go to the wrong site sections. Having each point in a confused progression at the top of the current page doesn't offer much help.\n\nFinally, a history trail is useless for users who arrive directly at a page deep within the site. This scenario is when breadcrumbs show their greatest usability benefit, but only if you implement them correctly — as a way to visualize the current page's location in the site's information architecture.\n\nFor non-hierarchical sites, breadcrumbs are useful only if you can find a way to show the current page's relation to more abstract or general concepts. For example, if you allow users to winnow a large product database by specifying attributes (of relevance to users, of course), the breadcrumb trail can list the attributes that have been selected so far. A toy site might have breadcrumbs like these: Home > Girls > 5-6 years > Outdoor play (note that the links should be colored as well as underlined, but I don't do this here to avoid confusion with these dummy links).\n\nLooking ahead, people will use breadcrumbs even more because they're an important navigation tool in Windows Vista. Most users don't distinguish clearly between the operating system, applications, and content or websites. Users will thus transfer their understanding of Vista's interaction techniques to your website.\n\nIf you don't have breadcrumbs, it's time to start planning for them. They'll improve your usability a bit now, meet increasing user expectations in the future, and — most importantly — they won't hurt.\n\nSee also: update with 11 Design Guidelines for Breadcrumbs on Desktop and Mobile.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Breadcrumb Navigation Increasingly Useful",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Growing Popularity",
+      "id": "toc-growing-popularity-1"
+    },
+    {
+      "level": "h2",
+      "text": "Consistency Breeds Familiarity",
+      "id": "toc-consistency-breeds-familiarity-2"
+    },
+    {
+      "level": "h2",
+      "text": "Hierarchy or History?",
+      "id": "toc-hierarchy-or-history-3"
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/breadcrumb-navigation-useful/",
+    "https://www.nngroup.com/articles/design-priorities/",
+    "https://www.nngroup.com/articles/breadcrumb-navigation-useful/",
+    "https://www.nngroup.com/articles/breadcrumb-navigation-useful/#toc-growing-popularity-1",
+    "https://www.nngroup.com/articles/breadcrumb-navigation-useful/#toc-consistency-breeds-familiarity-2",
+    "https://www.nngroup.com/articles/breadcrumb-navigation-useful/#toc-hierarchy-or-history-3",
+    "https://www.nngroup.com/articles/guidelines-for-visualizing-links/",
+    "https://www.nngroup.com/articles/breadcrumbs/"
+  ]
+}

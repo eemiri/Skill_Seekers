@@ -1,0 +1,69 @@
+{
+  "url": "https://www.nngroup.com/articles/utility-navigation/",
+  "title": "Utility Navigation: What It Is and How to Design It",
+  "content": "October 4, 2015 2015-10-04\n\nUtilities shape how people interact with your organization, website, and content.\n\nTools that websites provide vary with their size and mission, but many utility-navigation areas include:\n\nAlthough the shopping cart is a core feature of e-commerce sites (you could say that it’s the defining feature), convention calls for the shopping cart icon to be found in the utility navigation as well. And, as we all know, following conventions is an easy way to improve usability and increase conversion rates. Search, another core feature, is also quite often found in the main utility area.\n\nEven though most utilitity navigation features are secondary in nature, they are important for people under certain circumstances. Being secondary, they can be relegated to a secondary (less prominent) visual placement as long as this is done in compliance with ruling web conventions so that users can quickly find a utility when they need it.\n\nIn the past, the items in the utility navigation have been embedded in the content area, put in a sidebar, or stuck in a navigation bar. In recent years, however, many of the tools have migrated to the top-right corner of web pages. This prominent placement makes them always visible, and, in general, easier to notice. We often see users looking in that area for tools, especially for items such as Log in, Search, and My Account.\n\nInformational websites (and site sections dedicated to news and articles) often split utilities, with sitewide tools placed top-right, and article tools top-center in the content area. Subscribe tools (newsletters, RSS, social media, etc.) are often placed in bottom navigation areas. Sharing tools frequently appear at the beginning and/or end of articles, recipes, lists, and other informational pages that people are most likely to want to share.\n\n(At first, it might seem confusing to place utility navigation in 4 different areas, but remember that it’s only information architecture geeks who think of these things in terms of “utility navigation” vs. other forms of navigation. To the average user, tools that are used for different things are therefore different beasts and can be found in different parts of the zoo without causing confusion.)\n\nSome organizations try to hide utility navigation under hamburger menus (3 horizontal lines) or other click-to-display elements, such as gear icons and slide-out drawers. This tidy-screen approach can backfire, though, so it’s best to test and monitor to make sure your visitors actually use these new interaction conventions and that you haven’t hidden important tools too well. It's a bad idea to ignore principles of design, even when big companies are doing that.\n\nUtility navigation is becoming more mature in its conventions and placement. Whenever that happens on the web, it’s tempting to take advantage of people’s familiarity with popular websites by following their lead. In the end, though, the most usable solutions will win, so test to ensure that your navigation works for your users and that you’re not hiding tools they need.\n\nWe offer several courses on user testing, navigation, and visual design that count toward UX Certification.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Utility Navigation: What It Is and How to Design It",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "User Tools",
+      "id": "toc-user-tools-1"
+    },
+    {
+      "level": "h2",
+      "text": "Placement",
+      "id": "toc-placement-2"
+    },
+    {
+      "level": "h2",
+      "text": "Recommendations",
+      "id": "toc-recommendations-3"
+    },
+    {
+      "level": "h2",
+      "text": "Examples of Utility Navigation",
+      "id": "toc-examples-of-utility-navigation-4"
+    },
+    {
+      "level": "h2",
+      "text": "Test With Your Visitors",
+      "id": "toc-test-with-your-visitors-5"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/utility-navigation/",
+    "https://www.nngroup.com/articles/utility-navigation/",
+    "https://www.nngroup.com/articles/utility-navigation/#toc-user-tools-1",
+    "https://www.nngroup.com/articles/utility-navigation/#toc-placement-2",
+    "https://www.nngroup.com/articles/utility-navigation/#toc-recommendations-3",
+    "https://www.nngroup.com/articles/utility-navigation/#toc-examples-of-utility-navigation-4",
+    "https://www.nngroup.com/articles/utility-navigation/#toc-test-with-your-visitors-5",
+    "https://www.nngroup.com/articles/copying-a-famous-sites-design/"
+  ]
+}

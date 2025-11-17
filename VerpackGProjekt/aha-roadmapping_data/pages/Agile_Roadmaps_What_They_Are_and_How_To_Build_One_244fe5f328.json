@@ -1,0 +1,203 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/agile-roadmap",
+  "title": "Agile Roadmaps: What They Are and How To Build One",
+  "content": "Last updated: March 2025\n\nAn agile roadmap is a flexible planning tool that helps teams map out key initiatives, releases, and features over time. It provides structure for agile teams while allowing for adaptation as priorities evolve. Taking an agile approach to creating a roadmap means focusing on iterative development and being ready to adjust your plans based on evolving priorities.\n\nIt is informed by high-level strategy and provides transparency for stakeholders and teammates, typically including components like upcoming product releases, epics, and features. Unlike a backlog (which is a catchall list of new product updates and bug fixes) or a sprint plan (which is just about development work), an agile roadmap captures how you will ship a holistic customer experience.\n\nAgile roadmaps are most useful when you are working on something new. You need to have a plan for the \"why,\" the \"what,\" and the \"how\" of what your team will build. This could be the release of a new application version, a new feature set, or an entirely new product.\n\nIn looks and in purpose, agile roadmaps closely resemble most other product roadmaps. So, what really makes an agile roadmap \"agile\"? The key difference is in how you use it. The idea is to emphasize adaptability so you can respond rapidly to real-time feedback and changing needs. To accommodate this approach, agile roadmaps are often shorter-term and more lightweight than traditional product roadmaps.\n\nThis guide includes examples and best practices to help you learn how to build agile roadmaps — so you can drive more value, faster.\n\nHow do product roadmaps work with agile development?\n\nAgile roadmap examples\n\nHow to build an agile roadmap\n\nAgile roadmap templates\n\nFAQs about agile roadmaps\n\nYou might be thinking: Our plans are constantly changing. We move too fast to roadmap! But the idea that agile teams can eschew long-term planning is no longer accurate.\n\nOf course, a propensity for speed is essential to any product development team. But it can also create whiplash. When upfront planning is ignored, horizon lines shift constantly. Others can be left wondering what is happening and when they lack clarity about what the team is working on or prioritizing. And in the end, you might not reach where you intended to go (and it will not matter how fast you went).\n\nYou need to act quickly while making sure that you pursue the right work to support your strategy. This is why an agile roadmap matters. In reality, roadmaps complement — rather than conflict with — a fast and iterative workflow. Plenty of agile teams rely on roadmaps to align everyone around what you are planning to deliver, when, and why it matters to customers and the business.\n\nAgile roadmaps can also be super adaptable. With the right tools, you can create lightweight versions of your product roadmap that are quick to update as plans evolve. You can also keep things high level without firm dates, focusing on key initiatives or themes of work versus specific features.\n\nSo no matter what type of agile methodology you use or how strictly your team follows it, you can benefit from creating an agile roadmap. In addition to making sure you are investing in the most impactful work, it will help you make better trade-off decisions, measure progress, and ultimately deliver more value.\n\nWhat is agile product management?\n\nWhat is agile transformation?\n\nIn general, most agile roadmaps include these components (see the visual examples below):\n\nStrategic initiatives (also called agile themes)\n\nReleases and/or epics\n\nFeatures or user stories\n\nTime frame for delivery (including sprints)\n\nProgress or status indicators\n\nBut the details of your agile roadmap will depend on your company — both in terms of planning and aesthetic. For example, a startup working to deliver a new product to market will have agile roadmaps that look very different from those of a larger enterprise. The table below outlines how key elements might vary:\n\nFounders, product manager, engineering lead\n\nLarger cross-functional product teams\n\nDelivering disruptive functionality and incorporating feedback as quickly as possible\n\nBalancing new product innovation with enhancements to existing products (which might be captured on a separate product roadmap)\n\nBroad, theme-based agile roadmap for investors\n\nInternal, time-based agile roadmap with very short release cycles once the team starts building\n\nLonger-term agile roadmaps to account for scale and complexity (can be theme-based or time-based)\n\nBelow are a few different examples of agile roadmaps that show varying levels of detail. Your agile team might use one type or all three depending on your organization's maturity and the product development phase. If you are curious to try these agile roadmaps yourself, check out the templates later in this guide.\n\nStrategic agile roadmap\n\nA strategic roadmap can help clarify the \"why\" behind what you are building. In this example, the roadmap shows business goals, success metrics, and progress on the left. Major development efforts, or strategic initiatives, are visualized as bars within swimlanes on the right. Progress on goals can be updated in this view as agile development gets underway.\n\nYou can customize a strategic agile roadmap in Aha! Roadmaps.\n\nAgile teams often use epics to group related user stories together into one large body of work. An epics roadmap shows these major areas of work on a timeline in addition to the goals they support, plus the individual features or user stories that comprise each epic. The time range can be as general as needed, from weeks to months to quarters. The epics roadmap below shows a few months' worth of agile product development.\n\nYou can build an epics roadmap in Aha! Roadmaps.\n\nNow, Next, Later agile roadmap\n\nThis type of agile roadmap displays work based on status, grouping items into general \"now,\" \"next,\" or \"later\" buckets. Teams that use kanban often use a version of this with work categorized as either \"planned,\" \"in progress,\" or \"done.\" In this roadmap example, features are also grouped horizontally by strategic initiative. This is one of the simplest (but still highly effective) agile roadmaps you can create.\n\nViewing agile work is easy on a Now, Next, Later roadmap in Aha! Roadmaps.\n\nThe way you build your agile roadmap greatly impacts the success of any new launch. Executives, cross-functional teammates, partners, and customers all want to know when to expect new functionality. Sharing an accurate and visually compelling roadmap can help foster transparency and rally everyone around what you want to achieve.\n\nMost product teams already have established workflows for adding bug fixes and general improvements to sprints. So you do not need to include ongoing development on your agile roadmap. Instead, you want to capture a mix of shorter-term efforts that support longer-term goals.\n\nRemember: What truly makes your roadmap agile is your approach to defining each element and your willingness to adapt when plans change. Here are some best practices for building an agile roadmap:\n\nStrategy is the backbone of an agile roadmap. Without it, it is impossible for fast-moving agile teams to determine whether you are making meaningful progress on the problems you want to solve for customers. Goals help define what you plan to achieve over a period of time, with clear metrics for measuring success. In an agile environment, you will likely set monthly or quarterly goals.\n\nInitiatives (also called themes) are the bodies of work that will support your strategy and help you achieve your goals. Initiatives are broken down into features and user stories, often spanning multiple releases or epics. When your agile team wants to pivot based on new data or customer feedback, make sure the new plan aligns with your initiatives before you define new features to pursue.\n\nDistill your large themes of work into features or user stories for your agile roadmap. Development teams can then break down those features into technical requirements and organize them into sprints. Use your product strategy, goals, and initiatives as a guide for which features to prioritize. This will help tell a coherent product story and iterate quickly without veering off course.\n\nBefore you begin working against or circulating your roadmap, ask the broader cross-functional team for input. This is critical for building an agile roadmap that is accurate, comprehensive, and realistic. You also need folks' support to gain traction and secure resources. And do not forget your customers, either — for example, agile teams often collect ideas via user interviews, usability testing, and usage data to help inform the roadmap direction.\n\nOrganize the features on your agile roadmap into releases. Your release cadence can be daily, weekly, monthly, or quarterly — it is up to you. Just remember that a release differs from a sprint or iteration in that it delivers a new customer experience (rather than just shipping code) and encompasses all the cross-functional work necessary to do so. In an agile environment, releases are still important because they communicate what to expect and when to teammates and customers.\n\nAs you progress and new information emerges, evaluate and update your agile product roadmap when necessary. For most teams, a quarterly cadence will work. You might need more or less time, but be sure to set regular checkpoints. Evaluate how each release or feature impacts the metrics you care about — this can help you make more informed decisions about what to build next.\n\nHow to build a brilliant roadmap\n\nHow to customize the right roadmap for your audience\n\nHow to report on progress against your product roadmap\n\nNow that you have a better idea of what goes into building an agile roadmap, it is a good idea to consider the tool you will use to build it.\n\nA good agile roadmap should be easy to manage and update. That is why using static spreadsheets is impossible for any forward-thinking team. You do not want to spend your time on version control — you want to keep building. Instead, choose tools that give your agile team the flexibility to set plans and shift in real time.\n\nA simple way to do this is by creating an agile roadmap on a whiteboard. That way, you can move things around (literally) as you adjust your plans and easily share your roadmap with collaborators. Plus, templates can help you get started fast. Check out a few of the agile roadmap templates available in Aha! software below. Each one can help you build lightweight versions of the roadmap examples we shared earlier.\n\nIntroduction to the Aha! suite of product development tools\n\nStart using this template now\n\nS﻿tart using this template now\n\nStart using this template now\n\nFor more robust agile roadmaps, consider purpose-built roadmap software. You can work with more complex data across multiple products and agile teams and create multiple versions of your agile roadmap, all while remaining as nimble as possible. Even better, some roadmap software connects to agile development tools — streamlining the connection and visibility between product management and engineering.\n\nWhat is the difference between an agile roadmap and a traditional roadmap?\n\nBoth agile and traditional roadmaps serve as strategic planning tools, but they may differ in how they handle change. Agile roadmaps are designed for frequent iteration, allowing teams to adjust plans based on real-time feedback and shifting priorities. Traditional roadmaps, while they can and should be flexible, often emphasize longer-term planning with more structured time frames and dependencies. The key distinction is that agile roadmaps focus on adaptability, prioritizing near-term work while keeping future plans high-level and open to adjustment.\n\nHow often should you update an agile roadmap?\n\nManu agile teams update their roadmaps monthly or quarterly, but the right cadence depends on the pace of development and how often priorities shift. Frequent iteration is key, so teams should review the roadmap regularly to ensure it reflects current goals, customer feedback, and business needs. If major changes arise — such as a strategic shift or new market insights — teams may need to revise their roadmap sooner.\n\nWhat tools are best for creating an agile roadmap?\n\nAn agile roadmap should be easy to update, share, and adjust as priorities evolve. Roadmap software like Aha! Roadmaps allows teams to dynamically plan and connect strategy with delivery. Digital whiteboards can be useful for brainstorming and early-stage planning, while spreadsheets may work for teams with simpler needs. However, static tools can quickly become outdated, making purpose-built roadmap software the best choice for maintaining agility.\n\nCan an agile roadmap have deadlines?\n\nYes, but in an agile roadmap, deadlines are usually flexible time frames rather than fixed dates. Teams often plan work in target windows — such as quarters, months, or sprints — rather than rigid delivery dates. This ensures teams stay focused on delivering value while allowing room to adjust as priorities shift. When deadlines are necessary, they should be tied to customer or business needs rather than arbitrary dates set too far in advance.\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to build an agile roadmap",
+      "id": "how-to-build-an-agile-roadmap"
+    },
+    {
+      "level": "h4",
+      "text": "Build an agile roadmap in Aha! Roadmaps — with a free trial.",
+      "id": "build-an-agile-roadmap-in-aha-roadmaps-"
+    },
+    {
+      "level": "h2",
+      "text": "How do product roadmaps work with agile development?",
+      "id": "how-do-product-roadmaps-work-with-agile-development"
+    },
+    {
+      "level": "h2",
+      "text": "What does an agile roadmap look like?",
+      "id": "what-does-an-agile-roadmap-look-like"
+    },
+    {
+      "level": "h3",
+      "text": "Agile roadmap examples: What they look like",
+      "id": "agile-roadmap-examples-what-they-look-like"
+    },
+    {
+      "level": "h2",
+      "text": "How to build an agile roadmap (step by step)",
+      "id": "how-to-build-an-agile-roadmap-step-by-step"
+    },
+    {
+      "level": "h3",
+      "text": "1. Start with product strategy and goals",
+      "id": "1-start-with-product-strategy-and-goals"
+    },
+    {
+      "level": "h3",
+      "text": "2. Connect goals to initiatives",
+      "id": "2-connect-goals-to-initiatives"
+    },
+    {
+      "level": "h3",
+      "text": "3. Define product features",
+      "id": "3-define-product-features"
+    },
+    {
+      "level": "h3",
+      "text": "4. Gather feedback",
+      "id": "4-gather-feedback"
+    },
+    {
+      "level": "h3",
+      "text": "5. Plan your product releases",
+      "id": "5-plan-your-product-releases"
+    },
+    {
+      "level": "h3",
+      "text": "6. Measure results regularly",
+      "id": "6-measure-results-regularly"
+    },
+    {
+      "level": "h2",
+      "text": "Agile roadmap templates",
+      "id": "agile-roadmap-templates"
+    },
+    {
+      "level": "h3",
+      "text": "Strategic roadmap template",
+      "id": "strategic-roadmap-template"
+    },
+    {
+      "level": "h3",
+      "text": "Epics roadmap template",
+      "id": "epics-roadmap-template"
+    },
+    {
+      "level": "h3",
+      "text": "Now, Next, Later roadmap template",
+      "id": "now-next-later-roadmap-template"
+    },
+    {
+      "level": "h3",
+      "text": "FAQs about agile roadmaps",
+      "id": "faqs-about-agile-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/new-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap#how-do-product-roadmaps-work-with-agile-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap#agile-roadmap-examples-what-they-look-like",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap#how-to-build-an-agile-roadmap-step-by-step",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap#agile-roadmap-templates",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap#faqs-about-agile-roadmaps",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/plans2",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-roadmap-tools-work",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/agile-transformation",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap#agile-roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/roadmap/innovation-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap#agile-roadmap-templates",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-issue-tracking",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/pi-planning-vs-release-planning",
+    "https://www.aha.io/roadmapping/guide/what-are-product-metrics",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/3-starter-roadmap-examples-on-a-whiteboard",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap#agile-roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-roadmap-tools-work",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/business-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/innovation-roadmap",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/go-to-market-roadmap",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap",
+    "https://www.aha.io/roadmapping/guide/technology-roadmap",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

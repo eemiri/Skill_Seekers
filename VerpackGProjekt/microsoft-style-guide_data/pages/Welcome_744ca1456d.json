@@ -1,0 +1,50 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/welcome/",
+  "title": "Welcome",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nWelcome to the Microsoft Writing Style Guide, your guide to writing style and terminology for all communication—whether an app, a website, or a white paper. If you write about computer technology, this guide is for you.\n\nToday, lots of people are called upon to write about technology. We need a simple, straightforward style guide that everyone can use, regardless of their role. And it needs to reflect Microsoft's modern approach to voice and style: warm and relaxed, crisp and clear, and ready to lend a hand.\n\nHere's what you will find in the Microsoft Writing Style Guide:\n\nTop 10 tips for mastering Microsoft style and voice\n\nBias-free communication\n\nGlobal communications\n\nWe welcome your feedback about the Microsoft Writing Style Guide. Contact us at msstyle@microsoft.com.\n\n© 2024 Microsoft. All rights reserved.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Welcome",
+      "id": "welcome"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Make every word matter",
+      "id": "make-every-word-matter"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/welcome/",
+    "https://learn.microsoft.com/en-us/style-guide/welcome/",
+    "https://learn.microsoft.com/en-us/style-guide/welcome/",
+    "https://learn.microsoft.com/en-us/style-guide/welcome/",
+    "https://learn.microsoft.com/en-us/style-guide/welcome/",
+    "https://learn.microsoft.com/en-us/style-guide/welcome/",
+    "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice",
+    "https://learn.microsoft.com/en-us/style-guide/bias-free-communication",
+    "https://learn.microsoft.com/en-us/style-guide/global-communications/"
+  ]
+}

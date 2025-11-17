@@ -1,0 +1,88 @@
+{
+  "url": "https://www.nngroup.com/articles/information-foraging-leave-site/",
+  "title": "Information Foraging: Why Google Makes People Leave Your Site Faster",
+  "content": "June 29, 2003 2003-06-29\n\nInformation foraging is the most important concept to emerge from human-computer interaction research since 1993. Developed at the Palo Alto Research Center (previously Xerox PARC) by Stuart Card, Peter Pirolli, and colleagues, information foraging uses the analogy of wild animals gathering food to analyze how humans collect information online.\n\nTo say that web users behave like wild beasts in the jungle sounds like a joke, but there's substantial data to support this claim. Animals make decisions on where, when, and how to eat on the basis of highly optimized formulas. Not that critters run mathematical computations, but rather that suboptimal behaviors result in starvation, and thus there are fewer offspring that follow those behaviors in subsequent generations. After thousands of generations, optimal food-gathering behavior is all that's left.\n\nHumans are under less evolutionary pressure to improve their web use, but basic laziness is a human characteristic that might be survival-related (don't exert yourself unless you have to). In any case, people like to get maximum benefit for minimum effort. That's what makes information foraging a useful tool for analyzing online media.\n\nInformation foraging's most famous concept is information scent: users estimate a given hunt's likely success from the spoor: assessing whether their path exhibits cues related to the desired outcome. Informavores will keep clicking as long as they sense (to mix metaphors) that they're \"getting warmer\" — the scent must keep getting stronger and stronger, or people give up. Progress must seem rapid enough to be worth the predicted effort required to reach the destination.\n\nThe most obvious design lesson from information scent is to ensure that links and category descriptions explicitly describe what users will find at the destination. Faced with several navigation options, it's best if users can clearly identify the trail to the prey and see that other trails are devoid of anything edible.\n\nDon't use made-up words or your own slogans as navigation options, since they don't have the scent of the sought-after item. Plain language also works best for search engine visibility: searching provides a literal match between the words in the user's mind and the words on your site.\n\nSecondly, as users drill down the site, each page should clearly indicate that they're still on the path to the food. In other words, provide feedback about the current location and how it relates to users' tasks.\n\nA fox lives in a forest with two kinds of rabbits: big ones and small ones. Which should it eat? The answer is not always \"the big rabbits.\"\n\nWhether to eat big or small depends on how easy a rabbit is to catch. If big rabbits are very difficult to catch, the fox is better off letting them go and concentrating exclusively on hunting and eating small ones. If the fox sees a big rabbit, it should let it pass: the probability of a catch is too low to justify the energy consumed by the hunt.\n\nThe big difference between websites and rabbits is that websites want to be caught. So how can you design a site to make your content attractive to ravenous beasts?\n\nThe two main strategies are to make your content look like a nutritious meal and signal that it's an easy catch. These strategies must be used in combination: users will leave if the content is good but hard to find, or if it's easy to find but offers only empty calories.\n\nThis dual strategy is the reason I recommend that you showcase sample content on the homepage (appear nutritious) and prominently display navigation and search features (demonstrate that users can easily find what they're looking for). Diet selection also supports the traditional advice against splash screens and vacuous content. These elements convey to users that they're in for a tedious ordeal that serves up only scrawny rodents as rewards.\n\nPatchy environments often feature several different areas where game congregate. So where should predators hunt? In whatever patch has the most prey, of course. But after they've eaten some of that game, then what? Continue to hunt in the same patch, or move to another one? The answer depends on how far is it to the next patch.\n\nIf getting to the next patch is easy, predators are better off moving on. No need to deplete all the game in the current patch; once their next morsel becomes a bit difficult to find, they can move to richer hunting grounds. On the other hand, if it's difficult to move (say, if they have to cross a river), they're likely to hunt each patch more extensively before going to the next one.\n\nOn the web, each site is a patch, and each site's information is its tasty venison.\n\nMoving between sites has always been easy. But, from an information foraging perspective, it used to be best if users stayed put because the vast majority of websites were horrible and the probability that the next site would be any good was extremely low. I thus advised early website designers to follow two design strategies:\n\nIn the last few years, Google has reversed this equation by emphasizing quality in its sorting of search results. It is now extremely easy for users to find other good sites.\n\nInformation foraging predicts that the easier it is to find good patches, the quicker users will leave a patch. Thus, the better search engines get at highlighting quality sites, the less time users will spend on any one site.\n\nThe growth of always-on broadband connections also encourages this trend toward shorter visits. With dial-up, connecting to the internet is somewhat difficult, and users mainly do it in big time chunks. In contrast, always-on connections encourage information snacking, where users go online briefly, looking for quick answers. The upside is that users will visit more frequently, since they have more sessions, will find you more often, and will leave other sites faster.\n\nThe patch-leaving model thus predicts that visits will become ever shorter. Google and always-on connections have changed the most fruitful design strategy to one with three components:\n\nBetter intra-site navigation and better site maps may tip the balance slightly back in favor of longer stays, but it's safest to assume that users' visits to any individual website will become ever shorter.\n\nInformation foraging presents many interesting metaphors and mathematical models for analyzing user behavior. The most important concept is simply that of cost-benefit analysis for navigation, where users have to make tradeoffs based on two questions:\n\nBoth questions involve estimates, which users can make either from experience or from design cues. Website designers can thus influence the analysis by designing to enhance user expectations of gains and reduce their expectations of costs. Ultimately, of course, what the site actually delivers is more important, but you'll never get experienced repeat visitors unless their first encounter is fruitful.\n\nAs the patch-leaving model demonstrates, users optimize cost-benefit relative to personal criteria and within a system that's larger than any single website. In addition to the detailed insights offered by individual models, it's healthy to remember that users are selfish, lazy, and ruthless in applying their cost-benefit analyses.\n\nCreate delightful experiences that touch, convince, or excite your audience\n\nUse psychology to predict and explain how your customers think and act\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Information Foraging: Why Google Makes People Leave Your Site Faster",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Information Scent: Predicting a Path's Success",
+      "id": "toc-information-scent-predicting-a-paths-success-1"
+    },
+    {
+      "level": "h2",
+      "text": "Diet Selection: What to Eat",
+      "id": "toc-diet-selection-what-to-eat-2"
+    },
+    {
+      "level": "h2",
+      "text": "Patch Leaving: When to Hunt Elsewhere",
+      "id": "toc-patch-leaving-when-to-hunt-elsewhere-3"
+    },
+    {
+      "level": "h2",
+      "text": "Informavore Navigation Behavior",
+      "id": "toc-informavore-navigation-behavior-4"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Persuasive and Emotional Design",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "The Human Mind and Usability",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/information-foraging-leave-site/",
+    "https://www.nngroup.com/articles/information-foraging/",
+    "https://www.nngroup.com/articles/satisficing/",
+    "https://www.nngroup.com/articles/information-foraging-leave-site/",
+    "https://www.nngroup.com/articles/information-foraging-leave-site/#toc-information-scent-predicting-a-paths-success-1",
+    "https://www.nngroup.com/articles/information-foraging-leave-site/#toc-diet-selection-what-to-eat-2",
+    "https://www.nngroup.com/articles/information-foraging-leave-site/#toc-patch-leaving-when-to-hunt-elsewhere-3",
+    "https://www.nngroup.com/articles/information-foraging-leave-site/#toc-informavore-navigation-behavior-4",
+    "https://www.nngroup.com/articles/wrong-information-scent/",
+    "https://www.nngroup.com/articles/information-scent/",
+    "https://www.nngroup.com/articles/category-names-suck/",
+    "https://www.nngroup.com/articles/web-writing-use-search-keywords/",
+    "https://www.nngroup.com/articles/top-ten-guidelines-for-homepage-usability/",
+    "https://www.nngroup.com/articles/four-bad-designs/",
+    "https://www.nngroup.com/articles/communicating-trustworthiness/",
+    "https://www.nngroup.com/articles/navigation-ia-tests/",
+    "https://www.nngroup.com/articles/return-visits-not-bounce/",
+    "https://www.nngroup.com/articles/email-newsletters-pick-up-where-websites-leave-off/",
+    "https://www.nngroup.com/articles/frequency-recency/",
+    "https://www.nngroup.com/articles/site-map-usability/",
+    "https://www.nngroup.com/articles/perceived-value/"
+  ]
+}

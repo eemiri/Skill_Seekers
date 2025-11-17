@@ -1,0 +1,438 @@
+{
+  "url": "https://basecamp.com/shapeup/2.3-chapter-09#rd-mode",
+  "title": "Place Your Bets | Shape Up",
+  "content": "Heads up! This page uses features your browser doesn’t support. Try a modern browser like Firefox or Chrome for the best experience.\n\nNext: Hand Over Responsibility\n\nDepending on whether we’re improving an existing product or building a new product, we’re going to set different expectations about what happens during the six-week cycle.\n\nThis invites us to reflect on where we are in the arc of our product’s development and bet accordingly.\n\nWhen we add features to an existing product, we follow the standard Shape Up process: shape the work, bet on it, and give it to a team to build. We expect the team to finish and ship some version of the shaped work by the end of the cycle.\n\nOn an existing product, all of the existing code and design that isn’t going to change defines a kind of empty space that the new feature will fit into. Shaping and building is like crafting a piece of furniture for a house that is already built.\n\nNew products are different. Whereas adding to an existing product is like buying a couch for a room with fixed dimensions, new product development is like figuring out where the walls and the foundation should go so the building will stand.\n\nWe’ve noticed three phases of work when we build a new product from scratch. In each phase, the way that we shape and our expectations for how the team will work together during the cycle are different. These phases unfold over the course of multiple cycles, but we still only bet one cycle at a time.\n\nAt the very earliest stages of a new product, our idea is just a theory or a glimmer. We don’t know if the bundle of features we imagine will hold together in reality, and the technical decisions about how to model them in code are even less clear.\n\nThis means there is a lot of scrapwork. We might decide half-way to standing up a feature that it’s not what we want and try another approach instead.\n\nIn other words, we can’t reliably shape what we want in advance and say: “This is what we want. We expect to ship it after six weeks.” We have to learn what we want by building it.\n\nWe call this stage R&D mode and adjust for it in three ways.\n\nWe can’t ship anything to customers with just a single cycle of R&D work. But we still don’t commit to more than one cycle at a time. We may learn from the first cycle that we aren’t ready to tackle the product yet. Or we may discover that our intuition rang true and the product is coming together. Depending on how it goes, we’ll decide cycle-by-cycle whether to continue spending informal time in R&D mode.\n\nIf we continue to get warmer after some R&D cycles, we’ll eventually reach a point where the most important architectural decisions are settled. The product does those few essential things that define it, and the foundation is laid for the dozens of other things we’ll have to do before we can ship to customers.\n\nWith this structure in place, the senior team can bring in other people to contribute. This is the flip to production mode, where we work in formal cycles with clear-cut shaping, betting, and building phases. Production mode is like working on an existing product: the precedent set by the R&D work enables new contributors to identify where new functionality belongs and how it fits into the whole.\n\nSince we aren’t shipping to customers at the end of each cycle, we maintain the option to remove features from the final cut before launch. This means we can still be experimental. We can bet six weeks on a feature without knowing if we’ll want it in the final product. That’s not a problem as long as we set expectations to the build team: we can’t predict what we’ll want in the final cut, and we’re willing to risk this cycle to take our best swing at the idea.\n\nIn the final phase before launching the new product, we throw all structure out the window. We call this cleanup mode. It’s a free-for-all. We’ve built enough new products to learn that there are always things we forget, things we miss, details that aren’t right, and bugs that creep in over the course of the R&D and production mode cycles.\n\nThere’s something about putting your finger near the launch button that makes your hair stand up. Everything suddenly gets “real.” Things we dismissed before pop out at us with new importance.\n\nThat’s why we reserve some capacity at the end for the unexpected. In cleanup mode:\n\nDiscipline is still important. We have to check ourselves to make sure these are must-haves we’re working on, not just our cold feet begging us to delay launch. Cleanup shouldn’t last longer than two cycles.\n\nCleanup is also the phase where leadership makes those “final cut” decisions. A smaller surface area on a V1 means fewer questions to answer, less to support, and less we’re committing to maintain indefinitely. Sometimes we need to see all the features working as a whole to judge what we can live without and what might require deeper consideration before shipping it to customers.\n\nWe built the Dot Grid Calendar (see Chapter 2) for Basecamp, an existing product. We shaped the project, bet six weeks on it, a team built it, and then we shipped it straight to customers.\n\nIn 2020, after two years of development, we launched a new email app and service called HEY. HEY was in R&D mode for the first year of its development. A team of three, Jason (CEO), David (CTO), and Jonas (senior designer) explored a wide variety of ideas before settling on the core. Nearly a year of production mode cycles followed, where all of Basecamp’s teams fleshed out HEY’s feature set. We ended with two cycles of cleanup and significantly cut back the feature set to launch in July 2020.\n\nTo be precise, there was some overlap between R&D and production mode after that first year. Basecamp was big enough as a company that the senior team could shape and delegate production-mode projects around parts of the app that were settled while continuing to explore new territory in R&D mode themselves.\n\nEvery bet on HEY was placed one at a time. The betting table didn’t know they would be working on HEY for two years during those first few R&D cycles. Gradually they gained confidence in the idea and grew a big-picture appetite for how many cycles they were willing to spend on HEY. But they made no specific commitments about what would go into those cycles. And flipping attention back to Basecamp, our existing product, was always on the table.\n\nA third example shows some grey area. When we built the Hill Charts feature in Basecamp (see Chapter 13), we had no idea if it was going to work out or not. Basecamp was an existing product, and it felt too risky to bet on releasing this experimental feature to customers. So we framed the project more like a production mode bet on a new product. We shaped a first version that was just functional enough to use ourselves. We didn’t expect to ship it to customers without doing an additional cycle on it. This was a risk: we bet one cycle, not two. If it didn’t work out, we’d scrap it. If something more important came up, we might not ever schedule the second cycle. But we ended up feeling confident after the first cycle. We shaped a project to round it out, decided to bet another cycle, and then shipped it to customers.\n\nHere are some common questions you might hear when people at the betting table are debating which bets to place.\n\nJust like in pitch write-ups, we always take care to separate problem and solution. The solution doesn’t matter if the problem isn’t worth solving.\n\nOf course, any problem that affects customers matters. But we have to make choices because there will always be more problems than time to solve them. So we weigh problems against each other. Is this problem more important than that problem right now?\n\nHow the people at the table judge problems depends on their perspective, role, and knowledge. For example, a problem might impact a small segment of customers but put a disproportionate burden on support. Depending on your exposure to support and which aspect of the business you’re focused on, you may weigh that differently.\n\nSometimes a solution that is too complicated or too sweeping may invite questions about the problem. Do we really need to make so many changes across the app? Have we understood the problem specifically enough? Maybe there’s a way to narrow it down so that we get 80% of the benefit from 20% of the change.\n\nIt’s good when we have a solution shaped to a reasonable time frame, like two or six weeks. But we might still debate whether it’s worth the time. Suppose a stakeholder says they aren’t interested in spending six weeks on a given pitch. The negotiation could go a couple directions from there:\n\nThe problem may be important and the appetite fair, but there can be differences about the solution.\n\nFor example, adding interface elements to the screen carries an invisible cost: giving up the real estate. A button in the corner of the home page might perfectly solve the problem. But that real estate is valuable. If we give it up now, we won’t be able to use it in the future. Are we selling it too cheaply to solve this particular problem?\n\nIf someone offers an immediate design solution, like “how about we move that button to an action menu instead,” we might discuss it. But generally we’ll avoid doing design work or discussing technical solutions for longer than a few moments at the betting table. If we catch ourselves spending too much time in the weeds we’ll remind ourselves “okay, we’re not doing design here” and move back up to the high level.\n\nThe kind of project we want to do next can depend on which projects we’ve done recently. Maybe it’s been too long since we’ve made a splash of news with a new feature. Or perhaps we’ve been building too many new features and feel overdue to fix some long-standing customer requests. Or if the teams spent the last couple cycles in the same area of the app, their morale may dip if we plan yet another project doing the same kind of work.\n\nThose are all reasons that we might pass on a project even though it’s perfectly well shaped and valuable. The project’s great; it’s just not the right time.\n\nAs part of the betting process we choose who specifically will play which role on each team. That is, we’ll pair a project with a specific small team of a designer and one or two programmers. We have a “Core Product” team of designers and programmers and we select from that pool when planning teams for each cycle. The team will work with each other for the whole cycle and then the next cycle can be a different combination of people.\n\nDifferent projects require different expertise. Maybe we need some more front-end programming on this one. Or this other one is going to invite a lot of scope creep so we need someone who’s good with the scope hammer.\n\nThe type of work each person has been doing is another factor. Someone who’s done a long string of small batch projects might prefer to take on a big batch, or vice versa.\n\nAnd lastly there’s always a little Calendar Tetris with peoples’ availability. Vacations or sabbaticals affect which projects we can schedule in the coming cycle.\n\nWe’ve seen some other companies use a different model where instead of assigning the projects to people, they let the team members choose which projects they want to work on. Culturally, we are too meeting-averse for this extra step. But we’ve heard it can work well for some teams because the project teams have a little more buy-in.\n\nAfter the bets are made, someone from the betting table will write a message that tells everyone which projects we’re betting on for the next cycle and who will be working on them.\n\nJason announces the bets for the next cycle with a Basecamp message\n\nCopyright ©1999-2025 37signals LLC. All rights reserved.\n\nStop Running in Circles and Ship Work that Matters\n\nBuy the print edition",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Place Your Bets",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Look where you are",
+      "id": "look-where-you-are"
+    },
+    {
+      "level": "h2",
+      "text": "Existing products",
+      "id": "existing-products"
+    },
+    {
+      "level": "h2",
+      "text": "New products",
+      "id": "new-products"
+    },
+    {
+      "level": "h2",
+      "text": "R&D mode",
+      "id": "rd-mode"
+    },
+    {
+      "level": "h2",
+      "text": "Production mode",
+      "id": "production-mode"
+    },
+    {
+      "level": "h2",
+      "text": "Cleanup mode",
+      "id": "cleanup-mode"
+    },
+    {
+      "level": "h2",
+      "text": "Examples",
+      "id": "examples"
+    },
+    {
+      "level": "h3",
+      "text": "The Dot Grid Calendar",
+      "id": "the-dot-grid-calendar"
+    },
+    {
+      "level": "h3",
+      "text": "A new product: HEY",
+      "id": "a-new-product-hey"
+    },
+    {
+      "level": "h3",
+      "text": "An experimental feature: Hill Charts",
+      "id": "an-experimental-feature-hill-charts"
+    },
+    {
+      "level": "h2",
+      "text": "Questions to ask",
+      "id": "questions-to-ask"
+    },
+    {
+      "level": "h3",
+      "text": "Does the problem matter?",
+      "id": "does-the-problem-matter"
+    },
+    {
+      "level": "h3",
+      "text": "Is the appetite right?",
+      "id": "is-the-appetite-right"
+    },
+    {
+      "level": "h3",
+      "text": "Is the solution attractive?",
+      "id": "is-the-solution-attractive"
+    },
+    {
+      "level": "h3",
+      "text": "Is this the right time?",
+      "id": "is-this-the-right-time"
+    },
+    {
+      "level": "h3",
+      "text": "Are the right people available?",
+      "id": "are-the-right-people-available"
+    },
+    {
+      "level": "h2",
+      "text": "Post the kick-off message",
+      "id": "post-the-kick-off-message"
+    },
+    {
+      "level": "h1",
+      "text": "Shape Up",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Preface",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Foreword by Jason Fried",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Acknowledgements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Introduction",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 1: Shaping",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Principles of Shaping",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Set Boundaries",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Find the Elements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Risks and Rabbit Holes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Write the Pitch",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 2: Betting",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Bets, Not Backlogs",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "The Betting Table",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Place Your Bets",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 3: Building",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Hand Over Responsibility",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Get One Piece Done",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Map the Scopes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Show Progress",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Decide When to Stop",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Move On",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Conclusion",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Appendices",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Implement Shape Up in Basecamp",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Adjust to Your Size",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Begin to Shape Up",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Glossary",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "About the Author",
+      "id": ""
+    }
+  ],
+  "code_samples": [
+    {
+      "code": "production mode",
+      "language": "plaintext"
+    },
+    {
+      "code": "cleanup mode",
+      "language": "plaintext"
+    },
+    {
+      "code": "production mode",
+      "language": "plaintext"
+    },
+    {
+      "code": "scope hammer",
+      "language": "plaintext"
+    },
+    {
+      "code": "small batch",
+      "language": "plaintext"
+    }
+  ],
+  "patterns": [],
+  "links": [
+    "https://basecamp.com/shapeup/2.3-chapter-09",
+    "https://basecamp.com/shapeup/2.3-chapter-09#look-where-you-are",
+    "https://basecamp.com/shapeup/2.3-chapter-09#existing-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#new-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#rd-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#production-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#cleanup-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#examples",
+    "https://basecamp.com/shapeup/2.3-chapter-09#questions-to-ask",
+    "https://basecamp.com/shapeup/2.3-chapter-09#does-the-problem-matter",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-appetite-right",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-solution-attractive",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-this-the-right-time",
+    "https://basecamp.com/shapeup/2.3-chapter-09#are-the-right-people-available",
+    "https://basecamp.com/shapeup/2.3-chapter-09#post-the-kick-off-message",
+    "https://basecamp.com/shapeup/3.1-chapter-10",
+    "https://basecamp.com/shapeup/1.1-chapter-02#case-study-the-dot-grid-calendar",
+    "https://basecamp.com/shapeup/3.1-chapter-10",
+    "https://basecamp.com/shapeup/4.0-appendix-01",
+    "https://basecamp.com/shapeup",
+    "https://basecamp.com/shapeup/0.1-foreword",
+    "https://basecamp.com/shapeup/0.2-acknowledgements",
+    "https://basecamp.com/shapeup/0.3-chapter-01",
+    "https://basecamp.com/shapeup/0.3-chapter-01#growing-pains",
+    "https://basecamp.com/shapeup/0.3-chapter-01#six-week-cycles",
+    "https://basecamp.com/shapeup/0.3-chapter-01#shaping-the-work",
+    "https://basecamp.com/shapeup/0.3-chapter-01#making-teams-responsible",
+    "https://basecamp.com/shapeup/0.3-chapter-01#targeting-risk",
+    "https://basecamp.com/shapeup/0.3-chapter-01#how-this-book-is-organized",
+    "https://basecamp.com/shapeup/1.1-chapter-02",
+    "https://basecamp.com/shapeup/1.1-chapter-02#wireframes-are-too-concrete",
+    "https://basecamp.com/shapeup/1.1-chapter-02#words-are-too-abstract",
+    "https://basecamp.com/shapeup/1.1-chapter-02#case-study-the-dot-grid-calendar",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-1-its-rough",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-2-its-solved",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-3-its-bounded",
+    "https://basecamp.com/shapeup/1.1-chapter-02#who-shapes",
+    "https://basecamp.com/shapeup/1.1-chapter-02#two-tracks",
+    "https://basecamp.com/shapeup/1.1-chapter-02#steps-to-shaping",
+    "https://basecamp.com/shapeup/1.2-chapter-03",
+    "https://basecamp.com/shapeup/1.2-chapter-03#setting-the-appetite",
+    "https://basecamp.com/shapeup/1.2-chapter-03#fixed-time-variable-scope",
+    "https://basecamp.com/shapeup/1.2-chapter-03#good-is-relative",
+    "https://basecamp.com/shapeup/1.2-chapter-03#responding-to-raw-ideas",
+    "https://basecamp.com/shapeup/1.2-chapter-03#narrow-down-the-problem",
+    "https://basecamp.com/shapeup/1.2-chapter-03#case-study-defining-calendar",
+    "https://basecamp.com/shapeup/1.2-chapter-03#watch-out-for-grab-bags",
+    "https://basecamp.com/shapeup/1.2-chapter-03#boundaries-in-place",
+    "https://basecamp.com/shapeup/1.3-chapter-04",
+    "https://basecamp.com/shapeup/1.3-chapter-04#move-at-the-right-speed",
+    "https://basecamp.com/shapeup/1.3-chapter-04#breadboarding",
+    "https://basecamp.com/shapeup/1.3-chapter-04#fat-marker-sketches",
+    "https://basecamp.com/shapeup/1.3-chapter-04#elements-are-the-output",
+    "https://basecamp.com/shapeup/1.3-chapter-04#room-for-designers",
+    "https://basecamp.com/shapeup/1.3-chapter-04#not-deliverable-yet",
+    "https://basecamp.com/shapeup/1.3-chapter-04#no-conveyor-belt",
+    "https://basecamp.com/shapeup/1.4-chapter-05",
+    "https://basecamp.com/shapeup/1.4-chapter-05#different-categories-of-risk",
+    "https://basecamp.com/shapeup/1.4-chapter-05#look-for-rabbit-holes",
+    "https://basecamp.com/shapeup/1.4-chapter-05#case-study-patching-a-hole",
+    "https://basecamp.com/shapeup/1.4-chapter-05#declare-out-of-bounds",
+    "https://basecamp.com/shapeup/1.4-chapter-05#cut-back",
+    "https://basecamp.com/shapeup/1.4-chapter-05#present-to-technical-experts",
+    "https://basecamp.com/shapeup/1.4-chapter-05#de-risked-and-ready-to-write-up",
+    "https://basecamp.com/shapeup/1.5-chapter-06",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-1-problem",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-2-appetite",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-3-solution",
+    "https://basecamp.com/shapeup/1.5-chapter-06#help-them-see-it",
+    "https://basecamp.com/shapeup/1.5-chapter-06#embedded-sketches",
+    "https://basecamp.com/shapeup/1.5-chapter-06#annotated-fat-marker-sketches",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-4-rabbit-holes",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-5-no-gos",
+    "https://basecamp.com/shapeup/1.5-chapter-06#examples",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ready-to-present",
+    "https://basecamp.com/shapeup/1.5-chapter-06#how-we-do-it-in-basecamp",
+    "https://basecamp.com/shapeup/2.1-chapter-07",
+    "https://basecamp.com/shapeup/2.1-chapter-07#no-backlogs",
+    "https://basecamp.com/shapeup/2.1-chapter-07#a-few-potential-bets",
+    "https://basecamp.com/shapeup/2.1-chapter-07#decentralized-lists",
+    "https://basecamp.com/shapeup/2.1-chapter-07#important-ideas-come-back",
+    "https://basecamp.com/shapeup/2.2-chapter-08",
+    "https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles",
+    "https://basecamp.com/shapeup/2.2-chapter-08#cool-down",
+    "https://basecamp.com/shapeup/2.2-chapter-08#team-and-project-sizes",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-betting-table",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-meaning-of-a-bet",
+    "https://basecamp.com/shapeup/2.2-chapter-08#uninterrupted-time",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-circuit-breaker",
+    "https://basecamp.com/shapeup/2.2-chapter-08#what-about-bugs",
+    "https://basecamp.com/shapeup/2.2-chapter-08#keep-the-slate-clean",
+    "https://basecamp.com/shapeup/2.3-chapter-09",
+    "https://basecamp.com/shapeup/2.3-chapter-09#look-where-you-are",
+    "https://basecamp.com/shapeup/2.3-chapter-09#existing-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#new-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#rd-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#production-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#cleanup-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#examples",
+    "https://basecamp.com/shapeup/2.3-chapter-09#questions-to-ask",
+    "https://basecamp.com/shapeup/2.3-chapter-09#does-the-problem-matter",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-appetite-right",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-solution-attractive",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-this-the-right-time",
+    "https://basecamp.com/shapeup/2.3-chapter-09#are-the-right-people-available",
+    "https://basecamp.com/shapeup/2.3-chapter-09#post-the-kick-off-message",
+    "https://basecamp.com/shapeup/3.1-chapter-10",
+    "https://basecamp.com/shapeup/3.1-chapter-10#assign-projects-not-tasks",
+    "https://basecamp.com/shapeup/3.1-chapter-10#done-means-deployed",
+    "https://basecamp.com/shapeup/3.1-chapter-10#getting-oriented",
+    "https://basecamp.com/shapeup/3.1-chapter-10#imagined-vs-discovered-tasks",
+    "https://basecamp.com/shapeup/3.2-chapter-11",
+    "https://basecamp.com/shapeup/3.2-chapter-11#integrate-one-slice",
+    "https://basecamp.com/shapeup/3.2-chapter-11#case-study-clients-in-projects",
+    "https://basecamp.com/shapeup/3.2-chapter-11#programmers-dont-need-to-wait",
+    "https://basecamp.com/shapeup/3.2-chapter-11#affordances-before-pixel-perfect-screens",
+    "https://basecamp.com/shapeup/3.2-chapter-11#program-just-enough-for-the-next-step",
+    "https://basecamp.com/shapeup/3.2-chapter-11#start-in-the-middle",
+    "https://basecamp.com/shapeup/3.3-chapter-12",
+    "https://basecamp.com/shapeup/3.3-chapter-12#organize-by-structure-not-by-person",
+    "https://basecamp.com/shapeup/3.3-chapter-12#the-scope-map",
+    "https://basecamp.com/shapeup/3.3-chapter-12#the-language-of-the-project",
+    "https://basecamp.com/shapeup/3.3-chapter-12#case-study-message-drafts",
+    "https://basecamp.com/shapeup/3.3-chapter-12#discovering-scopes",
+    "https://basecamp.com/shapeup/3.3-chapter-12#how-to-know-if-the-scopes-are-right",
+    "https://basecamp.com/shapeup/3.3-chapter-12#layer-cakes",
+    "https://basecamp.com/shapeup/3.3-chapter-12#icebergs",
+    "https://basecamp.com/shapeup/3.3-chapter-12#chowder",
+    "https://basecamp.com/shapeup/3.3-chapter-12#mark-nice-to-haves-with-",
+    "https://basecamp.com/shapeup/3.4-chapter-13",
+    "https://basecamp.com/shapeup/3.4-chapter-13#the-tasks-that-arent-there",
+    "https://basecamp.com/shapeup/3.4-chapter-13#estimates-dont-show-uncertainty",
+    "https://basecamp.com/shapeup/3.4-chapter-13#work-is-like-a-hill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#scopes-on-the-hill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#status-without-asking",
+    "https://basecamp.com/shapeup/3.4-chapter-13#nobody-says-i-dont-know",
+    "https://basecamp.com/shapeup/3.4-chapter-13#prompts-to-refactor-the-scopes",
+    "https://basecamp.com/shapeup/3.4-chapter-13#build-your-way-uphill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#solve-in-the-right-sequence",
+    "https://basecamp.com/shapeup/3.5-chapter-14",
+    "https://basecamp.com/shapeup/3.5-chapter-14#compare-to-baseline",
+    "https://basecamp.com/shapeup/3.5-chapter-14#limits-motivate-trade-offs",
+    "https://basecamp.com/shapeup/3.5-chapter-14#scope-grows-like-grass",
+    "https://basecamp.com/shapeup/3.5-chapter-14#cutting-scope-isnt-lowering-quality",
+    "https://basecamp.com/shapeup/3.5-chapter-14#scope-hammering",
+    "https://basecamp.com/shapeup/3.5-chapter-14#qa-is-for-the-edges",
+    "https://basecamp.com/shapeup/3.5-chapter-14#when-to-extend-a-project",
+    "https://basecamp.com/shapeup/3.6-chapter-15",
+    "https://basecamp.com/shapeup/3.6-chapter-15#let-the-storm-pass",
+    "https://basecamp.com/shapeup/3.6-chapter-15#stay-debt-free",
+    "https://basecamp.com/shapeup/3.6-chapter-15#feedback-needs-to-be-shaped",
+    "https://basecamp.com/shapeup/3.7-conclusion",
+    "https://basecamp.com/shapeup/3.7-conclusion#key-concepts",
+    "https://basecamp.com/shapeup/3.7-conclusion#get-in-touch",
+    "https://basecamp.com/shapeup/4.0-appendix-01",
+    "https://basecamp.com/shapeup/4.0-appendix-01#a-basecamp-team-for-shaping",
+    "https://basecamp.com/shapeup/4.0-appendix-01#basecamp-projects-for-the-cycle-projects",
+    "https://basecamp.com/shapeup/4.0-appendix-01#to-do-lists-for-scopes",
+    "https://basecamp.com/shapeup/4.0-appendix-01#track-scopes-on-the-hill-chart",
+    "https://basecamp.com/shapeup/4.1-appendix-02",
+    "https://basecamp.com/shapeup/4.1-appendix-02#basic-truths-vs-specific-practices",
+    "https://basecamp.com/shapeup/4.1-appendix-02#small-enough-to-wing-it",
+    "https://basecamp.com/shapeup/4.1-appendix-02#big-enough-to-specialize",
+    "https://basecamp.com/shapeup/4.2-appendix-03",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-a-one-six-week-experiment",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-b-start-with-shaping",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-c-start-with-cycles",
+    "https://basecamp.com/shapeup/4.2-appendix-03#fix-shipping-first",
+    "https://basecamp.com/shapeup/4.2-appendix-03#focus-on-the-end-result",
+    "https://basecamp.com/shapeup/4.5-appendix-06",
+    "https://basecamp.com/shapeup/4.6-appendix-07"
+  ]
+}

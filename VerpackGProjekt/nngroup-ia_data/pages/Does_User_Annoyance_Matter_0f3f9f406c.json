@@ -1,0 +1,65 @@
+{
+  "url": "https://www.nngroup.com/articles/does-user-annoyance-matter/",
+  "title": "Does User Annoyance Matter?",
+  "content": "March 25, 2007 2007-03-25\n\nSo far this year, we've watched users shop on about 50 e-commerce sites. All but one of the sites violated a documented guideline for checkout design: they required users to manipulate a drop-down menu to enter their state abbreviations, rather than simply let them type in the two characters.\n\nThe exception was Amazon.com, which offered the faster and more pleasant typing option. Amazon thus confirmed that even though the average e-commerce site should not copy its overall design it continues to be the leader in complying with usability guidelines for individual design elements.\n\nKnowing a better design exists made it painful to sit, day after day, and watch users fight with the mouse to scroll through the huge menu. Sometimes users selected the wrong menu option and then had to waste even more time with the drop-down. And, in this study, we mainly tested young, able-bodied users; the situation is even worse for elderly users, who have more difficulty with extensive, fine-tuned mouse manipulations. And it's worse yet for users with disabilities.\n\nWe observed the same problem again earlier this month when watching Chinese users shop on international sites: users suffered a lot of needless interaction overhead when trying to select \"Hong Kong\" from immense drop-downs containing hundreds of countries and territories.\n\nSites offer drop-downs for state abbreviations under the theory that doing so prevents input errors. But that's not true: menus are more error prone than typing because the mouse scroll wheel often makes users inadvertently change the state field's content after they've moved their gaze elsewhere on the screen. In contrast, everybody knows how to type their own state's two letters, and it's always faster to enter this information through the keyboard than the mouse.\n\n(Regarding input errors: whatever the input method, sites should validate that the ZIP code/postal code corresponds to the state, province, or other locality entered by the user. Because postal codes are more error prone, you must use validation code on the backend, regardless of whether or not you use a drop-down for the state.)\n\nNow to the headline question: Does it matter that most e-commerce sites annoy their customers during the checkout process?\n\nThe drop-down menu is unpleasant, and we sometimes hear users sigh when they encounter it. That said, they know how to beat it into submission, because other sites have similarly annoyed them before.\n\nTherefore, it's unlikely that many sales are lost due to this user experience degradation. The drop-down does cost sites money: given the scroll wheel's revenge, it's inevitable that companies will ship packages to the wrong state or — more commonly — that they'll have to call users to resolve state/ZIP discrepancies.\n\nSo, why go on about a design mistake if it doesn't cost a company sales? It's certainly an error we'd classify as a low-priority issue in a client report. But it's still a usability problem, because — as nearly every test session confirmed again this year — state drop-downs annoy customers.\n\nAnnoyances matter, because they compound. If the offending state-field drop-down were a site's only usability violation, I'd happily award the site a gold star for great design. But sites invariably have a multitude of other annoyances, each of which delays users, causes small errors, or results in other unpleasant experiences.\n\nA site that has many user-experience annoyances:\n\nEven if no single annoyance stops users in their tracks or makes them leave the site, the combined negative impact of the annoyances will make users feel less satisfied. Next time they have business to conduct, users are more likely to go to other sites that make them feel better.\n\nIn many ways, repeated annoyances are like slow response times: one slow page, and you'll stick with a site; many slow pages, and it's toast.\n\nFixing annoyances won't double your business metrics the way fixing usability catastrophes will. But, eliminating annoyances increases customer satisfaction and user loyalty, and thus improves the long-term business value of the site.\n\nUse psychology to predict and explain how your customers think and act\n\nCreate a seamless, cohesive cross-channel experience\n\nStrategically combine content, visuals, and interactive components to design successful web pages",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Does User Annoyance Matter?",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "One Annoyance? Irritating, But Bearable",
+      "id": "toc-one-annoyance-irritating-but-bearable-1"
+    },
+    {
+      "level": "h2",
+      "text": "Many Annoyances? Disruptive",
+      "id": "toc-many-annoyances-disruptive-2"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "The Human Mind and Usability",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Omnichannel Journeys and Customer Experience",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Web Page UX Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/does-user-annoyance-matter/",
+    "https://www.nngroup.com/articles/beyond-accessibility-treating-users-with-disabilities-as-people/",
+    "https://www.nngroup.com/articles/does-user-annoyance-matter/",
+    "https://www.nngroup.com/articles/does-user-annoyance-matter/#toc-one-annoyance-irritating-but-bearable-1",
+    "https://www.nngroup.com/articles/does-user-annoyance-matter/#toc-many-annoyances-disruptive-2",
+    "https://www.nngroup.com/articles/drop-down-menus-use-sparingly/",
+    "https://www.nngroup.com/articles/the-need-for-speed/",
+    "https://www.nngroup.com/articles/usability-roi-declining-but-still-strong/"
+  ]
+}

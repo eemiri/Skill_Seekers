@@ -1,0 +1,109 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+  "title": "Feature Prioritization: How to Prioritize the Right Features",
+  "content": "Last updated: February 2025\n\nFeature prioritization is the process of deciding what to build next. This exercise helps product managers assess potential features based on value, urgency, and feasibility. Your prioritization work informs development decisions and enables you to organize the product backlog.\n\nThere are many frameworks and tools to help with feature prioritization, such as MoSCoW, RICE, and the Aha! product value scorecard.\n\nThese can help you juggle ideas from many sources — customer ideas, requests from the sales team, and feedback from leadership. There are always plenty of opinions about what should be built and when. It can be disorienting to be pulled in many directions at once. Internal squabbles about what to build next can cloud your objectivity.\n\nWhiteboards can help you prioritize what to work on next based on value and effort.\n\nStart using this template now\n\nTo cut down on guesswork, take a goal-first approach. Start with strategy — including measurable goals that align with your product vision. Doing so will bring clarity to feature prioritization and, ideally, create a repeatable process that the entire product team can follow.\n\nThe best product managers take the goal-first approach even further and use quantifiable metrics to score ideas and features based on potential value. Assigning a tangible score makes it easier to engage in feature prioritization and decide what to build next, sharing the reasoning with others.\n\nJump ahead to any section to learn more:\n\nOrganize your features backlog\n\nScore and rank features in your backlog\n\nSome product teams use static spreadsheets, email, or even development tools to track and organize ideas and features. This type of ad-hoc process can be labor-intensive and difficult to keep information organized and up to date. Teams that use purpose-built product management software are able to manage idea backlogs, planned features, and product roadmaps all within one system.\n\nIn either case, it is important to start the prioritization process by reviewing all submissions and requests that you receive from customers and other stakeholders. When an idea aligns with your product strategy, it becomes a key candidate in the feature prioritization process and can be added to your product backlog. This backlog serves as an inventory of features that you want to pursue — but have not yet scheduled or begun defining.\n\nBefore prioritizing features in your backlog, it can be helpful to sort out what you have. Here are a few ways to organize features:\n\nBy theme or area of your product: Organize front-end features versus back-end features. Or mobile versus desktop features. You could also organize features based on the user persona who benefits most from the enhancement.\n\nBased on a user story map: User story mapping is a visual exercise that creates a dynamic outline of a user's interactions with a product. Organizing features based on a user story map gives you groups of features at each step of the customer journey.\n\nBased on how features roll up to product strategy: For example, some features may help you reach your revenue goals. Others differentiate your product in the marketplace. Sorting features in this way ensures that you are keeping top-level goals in mind.\n\nThe features board above is available in Aha! Roadmaps.\n\nNow that you have organized your features, it is time to prioritize. There are many prioritization frameworks — choose one that can be adjusted to best support your strategic goals. Apply the framework to a product scorecard.\n\nFor example, some product managers use the RICE scoring model. RICE stands for reach, impact, confidence, and effort. You could easily apply the factors below to a scorecard:\n\nReach: How many users will this feature benefit?\n\nImpact: How much will this feature impact those users?\n\nConfidence: How confident are you in these estimates?\n\nEffort: What is the time investment for this feature?\n\nScorecards are essential for feature prioritization because you can choose metrics, scales, and weightings to assign an objective value to each feature. In general, metrics should address considerations such as customer impact, revenue increase, effort to develop, and cost to implement.\n\nRegardless of what prioritization framework you follow, these questions should be asked when scoring features:\n\nHow many customers will benefit?\n\nWhat kind of value does this feature add?\n\nWill this feature impact new users or existing users?\n\nHow much will sales increase?\n\nHow many hours will it take to implement?\n\nHow much do these hours cost?\n\nScorecards can get quite complex depending on the number of variables, but you can keep it simple too. For example, you might use a 2x2 prioritization matrix comparing value and effort. Subtract effort from value to identify an overall score.\n\nThis is an example of a features board in Aha! Roadmaps with one feature's drawer open. It has its own product value score — making it easier to prioritize.\n\nNow that you have prioritized your backlog of features, you can move high-priority work to a current release or save for the future. Once assigned to a release, the requirements for each feature are typically defined by product managers in more detail.\n\nYou may work cross-functionally with an engineering manager or scrum leader to make these decisions. For agile teams who are continuously iterating, product managers are regularly reviewing and reprioritizing their backlogs.\n\nA transparent, metrics-based approach helps you assess incoming requests. And you provide a predictable evaluation process for your team too. When everyone is reviewing features and making decisions using the same method, you can remove emotion from the process and make more informed decisions.\n\nRead more: What is a features roadmap?\n\nWhich cross-functional teams do product managers work with to prioritize features?\n\nProduct managers collaborate with several teams to prioritize features. You work closely with the engineering team to understand technical constraints and feasibility. You partner with the design team to ensure that prioritized features align with the product's design principles and will enhance user satisfaction. You gain valuable feedback from customer success around what your users need most. And you also collaborate with executive leaders, marketing, finance, and legal — ensuring everyone is aligned on upcoming work and how it connects to your company's strategic goals.\n\nHow do you manage feature requests from sales to close deals?\n\nThe sales team hears firsthand what customers are struggling with — which is why it is wise to approach feature requests with curiosity and openness. After all, what you learn from sales can reveal new pain points and opportunities to create value. But fielding several feature requests that all feel urgent and unvetted can be overwhelming.\n\nWhile you may be tempted to ignore or shut the conversation down, resist the urge. Ask questions that help you understand what your customer really wants. What did the customer ask for and what was promised? What were they hoping to achieve? What specific problem did they cite as the reason for the request?\n\nListen closely and lead with strategy. This will allow you to have tough and objective conversations about why a request aligns (or does not align) with the company and product goals. And remember that you may already have work planned on your roadmap that will solve the customer's pain.\n\nHow does product management software streamline the feature prioritization process?\n\nProduct management software helps you make informed decisions about which features to prioritize and why. Use purpose-built software like Aha! Roadmaps to aggregate customer feedback, market research, and internal input all in one place — providing a comprehensive view of all feature requests. Take a goal-first approach, using quantifiable metrics to score ideas and features based on strategic value. Then visualize your feature ranking within the software to identify high-priority items and promote them to your product backlog (or directly to your roadmap). Throughout the entire process, engineers, UX designers, and product marketers can stay updated and contribute their insights in real time.\n\nWhat is a product backlog?\n\nA product backlog is a prioritized inventory of features, defects, or technical work that has yet to be worked on. It should be work that is considered valuable from the product owner’s perspective. It can also include ideas that have been identified and, in some cases, prioritized to include in future releases.\n\nA strategy roadmap showcases how you will accomplish your goals through specific efforts in a given time frame. Learn more here.\n\nMake adjustments as plans change, show progress, and create tailored views for different audiences.\n\nVisualize high-level initiatives to communicate your product direction and timelines for major bodies of work.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to prioritize product features",
+      "id": "how-to-prioritize-product-features"
+    },
+    {
+      "level": "h2",
+      "text": "Organize your features backlog",
+      "id": "organize-your-features-backlog"
+    },
+    {
+      "level": "h2",
+      "text": "Score and rank features in your backlog",
+      "id": "score-and-rank-features-in-your-backlog"
+    },
+    {
+      "level": "h2",
+      "text": "Plan and prioritize features for your releases",
+      "id": "plan-and-prioritize-features-for-your-releases"
+    },
+    {
+      "level": "h4",
+      "text": "Frequently asked questions on how to prioritize product features",
+      "id": "frequently-asked-questions-on-how-to-prioritize-product-features"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "What is a strategy roadmap?",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "How to build a strategy roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Strategic roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/idea-management",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features#organize-your-features-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features#score-and-rank-features-in-your-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features#plan-and-prioritize-features-for-your-releases",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features#top",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/what-are-product-metrics",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features#top",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-grooming",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-user-experience-design",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-the-jobs-to-be-done-framework",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap"
+  ]
+}

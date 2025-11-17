@@ -1,0 +1,42 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design",
+  "title": "Colors and patterns in text, graphics, and design",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nChoose colors and patterns carefully. High contrast may improve readability for people who have low vision. For people with some types of color blindness, certain color combinations are difficult to distinguish.\n\nDon’t convey information with color alone. For example, use both color and underlined text for links, and use pattern and color to differentiate information in charts and graphs. Remember that high-contrast personalization themes in Windows alter text color.\n\nDon’t hard-code colors. They can become illegible in high-contrast themes.\n\nChoose color combinations with a minimum contrast ratio of 4.5:1. Don’t use low-contrast or hard-to-read color combinations, such as light green and white or red and green.\n\nDon’t use screens or tints in art.\n\nDon’t use screened or shaded backgrounds, watermarks, or other images behind text. Reduced contrast makes text harder to read and hinders screen readers.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Colors and patterns in text, graphics, and design",
+      "id": "colors-and-patterns-in-text-graphics-and-design"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/colors-patterns-text-graphics-design"
+  ]
+}

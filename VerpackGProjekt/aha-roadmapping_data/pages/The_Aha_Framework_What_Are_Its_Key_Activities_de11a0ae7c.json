@@ -1,0 +1,448 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+  "title": "The Aha! Framework: What Are Its Key Activities?",
+  "content": "Last updated: September 2025\n\nThe Aha! Framework is a practical, scalable approach to product development. It guides teams through 10 core stages with repeatable activities to help you align strategy, prioritize customer needs, and deliver lovable products faster.\n\nThe Aha! Framework reflects the way our team approaches product development. It includes a series of discrete activities organized around the 10 core stages of product development.\n\nThe Aha! Framework is a flexible approach to product development that can scale to teams of all sizes. You can benefit from our proven method by organizing your product development work around these activities. For teams who use Aha! Roadmaps, we provide a template for The Aha! Framework that you can leverage for maximum efficiency.\n\nEach activity below includes a brief description and a link to relevant guides for further reading, video tutorials, and (where applicable) additional Aha! software templates you can use to accelerate your team's efforts. Even if your organization does not yet use Aha! software, you can reference the materials below and gain inspiration from the templates that you can incorporate into your team's workflow.\n\nIf you want to learn more about The Aha! Framework's activities within a specific stage of the product development process, feel free to jump ahead:\n\nWhat is The Aha! Framework?\n\nThe Aha! Framework is based on our team's decades of experience developing products customers love — and supporting fellow product builders who rely on our product development software to do the same. The framework starts with prescribed biannual strategic alignment and supports continuous deployment through ongoing sprints.\n\nUnlike other popular product development methodologies, The Aha! Framework does not include copious ceremonies or unnecessary complexity. Its activities are easy to understand and adapt to your organization's unique needs.\n\nAlthough presented sequentially here, many of the activities (outside of setting strategy) repeat frequently and concurrently to support continuous deployment. The frequency for each activity is a suggestion for how often you should engage in that activity at a minimum. For example, a \"weekly\" activity might actually happen several times each week ad hoc as new information emerges and progress happens. Your timing will vary depending on what you are building and how frequently you deliver new customer experiences.\n\nProduct success hinges on a vision and strategy. The first stage of any product development process is to establish what you want to achieve and the associated goals you need to reach in order to get there. Defining your product strategy is essential work that requires research and deep thought.\n\nMap out your product's strategic vision so you can tie your work back to high-level goals.\n\nThe Aha! Framework prescribes strategic planning twice a year, which includes the following activities:\n\nFrequency: Semiannually\n\nYour product vision outlines the purpose and direction of what you are building. A clear, concise product vision helps the entire organization understand the larger purpose of the product and makes the future more tangible. Solidifying product positioning is also part of this activity.\n\nWhat is product vision?\n\nNo one has a vision for your product — now what?\n\nWhat is product positioning?\n\nProduct vision template\n\nProduct positioning template\n\nFrequency: Semiannually\n\nMarket shifts can impact your company and product. Survey market conditions and take note of any meaningful movements — positive or negative. Use this information to update your business model, target personas, and competitor profiles. All of this will ultimately inform your product strategy.\n\nWhat is a business model?\n\nThe 10 main components of a business model\n\nHow product managers should define customer personas\n\nHow product managers should research competitors\n\nBusiness model template\n\nCompetitive analysis template\n\nFrequency: Semiannually\n\nCompany-level goals inform your product planning, so be sure that you have a clear understanding of company strategy before you draft product goals. Consider how product goals will both support company goals and help you achieve your product vision. The final objectives should be ambitious, measurable, and time bound.\n\nStrategic thinking vs. strategic planning\n\nHow to set product goals\n\nFrequency: Semiannually\n\nWhat will you do to achieve your product goals? Think big picture — capture the major areas of investment or large bodies of work you will pursue. These are your product initiatives, which help you connect the team's work to high-level strategy.\n\nHow to set product initiatives\n\nInitiatives vs. epics vs. features: What is the difference?\n\nFrequency: Semiannually\n\nYou want to ensure everyone is aligned on the \"why\" before you jump into the \"how.\" Get input from the people who are invested in your product. Circulate your draft goals and initiatives with leadership and other stakeholders — and be sure to have open conversations and listen deeply (even if you do not agree with what they are saying). These folks will bring a unique perspective and might offer insights you have not yet considered.\n\nHow to ask for what you need to be successful\n\nPresentation slides template\n\nFrequency: Semiannually\n\nYou know where you are going. So give the team the true north it needs to realize the product vision. Formalize product goals and initiatives, then share them with the team and explain how they support the product vision as well as overarching company goals. Make other strategy artifacts available (such as product positioning) to help everyone internalize the way forward.\n\nIntroduction to product strategy\n\nVision vs. mission vs. strategy\n\nBest practices for setting product strategy\n\nProduct strategy meeting template\n\nBy deeply understanding what customers need, you can begin to create an offering they love. Conducting customer interviews is a key part of product discovery — you are engaging directly with end users to uncover valuable product insights. Then you add the most compelling insights to your product roadmap, so that what the team builds is aligned with actual user feedback. (While we consider this the second stage of product development, product discovery is really an ongoing process that allows teams to pivot based on evolving customer needs.)\n\nBuild your own customer database to facilitate better interviews. With Aha! Discovery, you can track participants, record transcripts, and share learnings with the team.\n\nLet's take a look at the activities in the discover stage of product development:\n\nCapture key product discovery assumptions and objectives for your research study. You can summarize what you want to learn and define key goals and assumptions. This helps you validate initiatives and gather relevant feedback and insights.\n\nHow product managers should do market research\n\nThe product discovery process: Steps, tools, and benefits\n\nCustomer research plan template\n\nDetermine which customers you need to interview to gain the most valuable insights. Establish a participant research database so you can quickly identify which end users to engage based on their persona or interests. Keep track of previous conversations to avoid reaching out to the same customers repeatedly.\n\nHow to define customer personas\n\nA complete guide to customer research — with templates\n\nBrainstorming session template\n\nDefine outreach emails and invite research participants to meet with you. You will want to draft discussion topics and script a set of questions that invite thoughtful answers. Crafting a strong interview script ensures the team asks the same set of probing questions and (hopefully!) receives insightful responses.\n\nHow to build a customer database for product discovery\n\nHow product teams gather feedback\n\nCustomer empathy map template\n\nCustomer journey map template\n\nEngage in discussions with customers to gather information about their challenges, needs, and aspirations. (If you use a tool like Aha! Discovery, you can record video interviews in your meeting service of choice, such as Zoom, Microsoft Teams, or Google Meet.) Store all your customer interviews in one place so everyone can benefit from your research.\n\n6 tips for better user interviews\n\nAsking the right questions to drive innovation\n\nCustomer interview template\n\nAfter each interview, review the video recording and transcript to uncover key quotes, sentiments, and insights. These are the gems that will help inform your product strategy and roadmap decisions. Highlight key takeaways and quotes from interviews so everyone can see them in a single view.\n\n6 product discovery skills you need right now\n\n5 AI prompts to power up your product team\n\nNow it is time to link your insights directly to initiatives, ideas, and features. If you use Aha! software, you can convert findings into new Aha! records to feed your learnings directly into the strategic planning process. By connecting studies and interviews directly to your work, you validate the team's direction and encourage everyone to have a customer-driven mindset.\n\nHow to refine the product backlog\n\nHow to prioritize product features\n\n12 most common product prioritization frameworks\n\nJobs to be done template\n\nOpportunity canvas template\n\nWith product strategy in place and discovery underway, you are ready to collect feedback. Customers, colleagues, partners — lots of people will have ideas and opinions about what you should do next with your product. Welcome the inundation. You need to review and parse all of that feedback to discover the opportunities that will deliver the most value to your users. Feedback is easier to review consistently when you have an idea management tool (such as Aha! Ideas) that makes it possible to centralize feedback with an ideas portal.\n\nStore the ideas you receive in one place with a dedicated ideas portal.\n\nThe capture stage of product development in The Aha! Framework includes the following activities:\n\nStart with the most important people. Of course, you want to know what matters most to your customers. Make reviewing new ideas submitted to your ideas portal (or through other channels) a weekly part of your team's responsibilities. Organize ideas by theme to uncover areas where you can make the most impact.\n\nHow to gather customer feedback\n\n5 product experts explain how to get clearer customer feedback\n\nBest practices for reviewing customer feedback\n\nVideo tutorial: Launch an ideas portal for your customers\n\nCustomer journey map template\n\nCustomer research plan template\n\nIdeas portal guide template\n\nTeammates bring different perspectives, so encourage colleagues to share their ideas with you regularly. You can create a private ideas portal to be sure those ideas do not get lost in emails or one-off conversations. Ask marketing, sales, support, and other relevant internal teams to provide feedback on what they think customers need most.\n\nHow can product managers effectively work with other teams?\n\nWhat will bring the most value to customers and the business? We recommend a value-based approach. For example, you could score ideas based on the potential product value they would bring. The product value scorecard in Aha! software includes default metrics (such as strategic alignment, customer impact, and effort to develop). But you can update it to include whatever makes sense for your company and product.\n\nWhat is value-based product development?\n\nIntroduction to the product value score\n\nHow to estimate the value of new product ideas\n\nHow to prioritize product ideas and features\n\nVideo tutorial: Learn the newest way to score features\n\nBefore you take any action on those ideas, you will want to review the best ones with stakeholders. Get their input to better understand priorities. Once you have a good sense of what will generate the most revenue and customer delight, you can quickly turn those ideas into features. Do not worry about implementation details yet — you will have plenty of time to refine potential features during the next stage and can prioritize them on your roadmap as part of stage four.\n\nVideo: How to promote ideas to your roadmap\n\nIdeas rarely arrive fully formed. You want to expand what you know and venture into what is possible — so harness the power of visual thinking to explore different directions. The product team will further refine ideas during this stage, meaning a whiteboard really comes in handy here. This is also a good moment to begin mocking up how a new user experience might actually work.\n\nA live brainstorming session in Aha! software\n\nTo most efficiently explore possibilities, The Aha! Framework includes the following activities:\n\nIdeas transform into new user experiences. To best understand how that might happen, use a whiteboard to brainstorm and refine your thinking. Aha! Whiteboards offers a variety of templates and ensures teams can collaborate asynchronously. Because it is seamless to use with Aha! Roadmaps, you will not lose information as you move between ideation and planning.\n\nWhy product teams need whiteboard software\n\nBrainstorming techniques for product teams\n\nBrainstorming session template\n\nBrainstorming meeting template\n\nProof of concept template\n\nDo not wait to wireframe possible solutions. Get everyone thinking about the desired solution. You want to do this early in the planning process so the team can think through what it will take to implement an idea before you commit to it fully.\n\nWireframe vs. mockup vs. prototype\n\nHow to use a wireframe in product management\n\n18 expert tips for wireframing\n\nBe sure to understand what others think to help validate your approach. Share those early concepts with relevant stakeholders to gather different perspectives.\n\nStakeholder feedback (and other new learnings) will help you continue to refine your ideas. Update early wireframes with the information you think will improve the overall user experience and create the most value. Early wireframes are obviously not final — but they will help inform detailed designs once you get to implementation.\n\nProduct planning is a holistic concept. All of the upfront strategy and ideation will help you create a roadmap that is actionable and impactful. This stage is action-packed: It is now time to prioritize features, estimate value, and manage capacity. But you are not done with ideas. As you draft and update your roadmap, you will continue to refine what you want to implement based on your product goals, estimated product value, and practicality (based on available resources).\n\nOrganize features based on their priority. This is made easy with the prioritization matrix template and prioritization view in Aha! software.\n\nFurther developing your product plan using The Aha! Framework includes the following activities:\n\nYou are ready to begin mapping out a high-level plan for what you will deliver. Create a prioritized list of the features you have already begun to vet. Pull those onto a draft version of your roadmap and organize potential work on a visual timeline. This view is helpful for thinking about what you want to deliver and in what order — as well as beginning to ponder dates.\n\nWhat to include on your product roadmap\n\nBest practices for creating a product roadmap\n\nHow to build a roadmap in five steps\n\nFeatures roadmap template\n\nGet clarity with an initial scope. Document each feature's essential information, and center your feature description around what the end user needs to accomplish. Along with your early wireframes, you can use this information to engage engineering. Work together to understand technical requirements (focus on the major points/avoid getting into implementation details) and put together an initial estimate.\n\nTips for effective collaboration between product managers and engineers\n\nFeature requirement template\n\nNow, you have a better understanding of what it will take to implement each feature. Update their product value scores to reflect the latest information. Once you score every feature, you can create a list ranking them from the highest to the lowest value to understand what should take priority.\n\nYour product plans are beginning to coalesce. You might need to adjust the sequencing, duration, and target delivery dates of the features you prioritized. This fine-tuning will continue each week as you gain new insights and make progress against what you have planned. As you refine your initial roadmap, start to define releases in parallel.\n\nThe product roadmap vs. the release plan\n\nRelease roadmap template\n\nNow comes circulating your plans. The purpose of this stage is not merely to share the roadmap and communicate timelines and planned features. Instead, showcasing is an opportunity for you to solicit and answer questions — rallying support for your product plan. The goal is to gather feedback from relevant stakeholders so you can address and update your roadmap as needed.\n\nYou also want to get ahead of potential areas of confusion, so be sure everyone understands the product direction. This is the product team's moment to shine and showcase product expertise.\n\nAn example of a strategic roadmap created in Aha! software\n\nThe showcase stage of The Aha! Framework includes the following activities:\n\nGive folks a chance to review the roadmap. Remember: Stakeholders will benefit from understanding the strategic direction behind what you have planned. There are always trade-off decisions, so be sure to explain the \"why\" behind those choices ahead of time. Providing that context will encourage their support as you work toward finalizing your product plans.\n\nHow to customize the right roadmap for your audience\n\nHow to craft a winning product roadmap presentation\n\nVideo tutorial: Build your best roadmap presentation\n\nEnsure everyone is aligned before you move forward. Encourage people to share their perspectives about your plans. Feedback is not to be feared here — you do not have to incorporate everything that everyone shares. Some points will be valid and easily integrated into your plan. Others might not. Use your product strategy as a guide for decision-making, because you must now hold true to that direction.\n\nHow product managers achieve stakeholder alignment\n\nVideo tutorial: Gain executive alignment on your product roadmap\n\nUpdate your plans and make any final adjustments. For the feedback that you will not incorporate, be sure you can articulate the reasoning and how it relates to the overall strategic direction for your product before you recirculate the roadmap. To close the feedback loop, share the latest version with the individuals you solicited feedback from and preempt questions with the rationale behind your decisions. You will want to continually keep folks informed and share the latest version of your roadmap as progress happens.\n\nHow to report on progress against your product roadmap\n\nDecision log template\n\nNow it is time to turn plans into action. A successful delivery relies on cross-functional coordination and collaboration. Product managers work with engineering, operations, IT, and marketing teams to deliver new functionality and experiences.\n\nEngineering leads the technical development work. They estimate work, plan sprints, and define acceptance criteria. Operations and IT teams make sure that new functionality is implemented and supported internally. Marketing focuses on all the go-to-market activities required for launch. And the product manager oversees it all — ensuring that everything is aligned with the product goals and roadmap.\n\nMany product development teams take an agile-ish approach to work. (In other words, organizing and prioritizing the work with sprints). The Aha! Framework includes options for both one- and two-week sprints, but you can customize as needed to suit your organization's workflow. We go-to-market with new functionality at least once a week for the various products in our software suite — your cadence might be different. You can adjust the timing for each activity in the template just as you can with the other activities in The Aha! Framework.\n\nA kanban board in Aha! Develop with work items in swimlanes\n\nThe deliver stage in The Aha! Framework includes the following activities:\n\nYou already have your list of features sorted by their product value scores. Now, you can give those features a bit more attention — simply update the feature definitions to include Minimum Lovable Product (MLP) requirements.\n\nThe concept of the MLP was first developed by Aha! co-founder and CEO Brian de Haaff in 2013. It directly counters the concept of a Minimum Viable Product, which focuses on delivering only what is necessary for customers to tolerate your product. The MLP puts the emphasis on delivering what customers will love (and not merely like).\n\nWhat is a Minimum Lovable Product (MLP)?\n\nWhat is a Minimum Viable Product (MVP)?\n\nTips for managing and prioritizing features\n\nFeature requirement template\n\nOrganize your learnings from the design review and choose what you will incorporate. Identify any open questions and generate wireframes in whiteboards to visualize concepts. Once the requirements are ready for development, you will send the details to engineering so that they can begin bringing the new customer experience to life.\n\nIntroduction to requirements\n\nUse wireframes in Aha! Whiteboards\n\nApproaches table template\n\nSchedule a meeting with design and engineering to align on the MLP feature. Prepare an agenda and plan to walk through the feature and prototype together. Make sure to take notes so everyone can refer back to what you discussed.\n\nAha! Teamwork: The flexible project management tool\n\nTips for running effective product team meetings\n\nMeeting agenda template\n\nMeeting notes template\n\nBack in the explore stage, you started with early wireframes to show how new functionality might work. You will now move toward high-fidelity designs that show how features will actually look and feel. This visual inspiration will guide the engineering team as it works toward delivering a new customer experience.\n\nWhat is user experience design?\n\nProduct design basics every product manager should know\n\nWhat is the difference between a wireframe, mockup, and prototype?\n\n18 expert tips for wireframing\n\nStakeholders and teammates who are invested in your product will be able to provide design input. But you should not exclude customers. If appropriate, this is a good time to engage users and source early feedback. The goal is to integrate relevant input and get everyone aligned on the design direction.\n\nBest practices for stakeholder alignment: Review customer feedback\n\nHow can product managers effectively work with other teams?\n\nBest practices for stakeholder alignment: Manage product launches\n\nStakeholder map template\n\nStakeholder analysis template\n\nOnce designs are finalized, be sure to update the feature definition to reflect any adjustments or last-minute changes. Your goal? Updated and clearly defined feature requirements that everyone understands and can rally around.\n\nManage requirements in Aha! Roadmaps\n\nFrequency: Weekly or biweekly\n\nSprints are the way you group work that is ready for implementation. These time-bound units of work originated in agile methodologies such as scrum and are integral to product development in The Aha! Framework. Plan your sprints based on the most important features in the prioritized backlog. (Note that a release usually contains multiple sprints, and sprints should happen in your engineering team's development tool. But if you prefer a kanban approach, that is workable as well.)\n\nSprint planning template\n\nSprint planning meeting template\n\nBringing your MLP to life requires a deep partnership with the engineering team. You want to deliver the most value as quickly as possible. When you sync Aha! Roadmaps with your development tool, you can send releases and associated features over to that development tool and receive real-time updates as work progresses.\n\nAgile best practices for development teams\n\nYou are responsible for delivering what customers love. This means working with the core product team and ensuring what you have built meets your MLP requirements. After PM and UX review what has been built and document requirements for improvements and bugs, you can give the final sign-off.\n\n10 essential product management skills for success\n\nCommunication becomes even more important at this stage of product development. Everyone should be informed of progress against your roadmap. Err on the side of overcommunicating (weekly, if not daily). There should be no surprises — share any delivery risks that might impact dates for the launch work that other teams are working on now. If priorities changed during development, be sure that everyone who needs to know ... knows.\n\nBest practices for communicating roadmap progress\n\nLaunch day is just around the corner. Depending on what you are delivering, you might choose to deploy the new customer experience to production for all users to engage with immediately or deploy it behind a feature flag. While the engineering team works its magic, be sure you are ready for the launch activities ahead.\n\nBest practices for managing product launches\n\nProduct launch plan template\n\nYou know the old saying: If a tree falls in the woods and no one is around to hear it, does it make a sound? The same goes for delivering new customer experiences. Unless the broader cross-functional team knows about what you are delivering so that they can share the news, what you have built will not make an impact. As part of launch readiness (and ongoing support), you will want to gather all documentation in a central place. Then, create customized product resources for customers and colleagues.\n\nShare documentation with customers and colleagues alike in a dedicated space (like this knowledge base!).\n\nDocumenting product resources as part of The Aha! Framework includes the following activities:\n\nYou should have an existing product knowledge base. (If you do not, create one today.) Then, update existing content or create new materials. Some examples of what you might publish include user guides, internal team FAQs, and best practices surrounding how to successfully support and use the new customer experience.\n\nHow to build a customer support knowledge base\n\nInternal vs. external product documentation\n\nWhat to include in an internal product documentation hub\n\nHow to write excellent release notes\n\nKnowledge base article template\n\nProduct updates template\n\nWahoo! All of that research, planning, and development work is finally coming to fruition, and you can announce the news to the world. Crafting a new customer experience involves more than shipping software. You want to translate the technical details into messages that resonate with the market and inspire your audience. Launch activities should drive awareness and encourage adoption of your product.\n\nAs part of our recent launch of Aha! Whiteboards and Aha! Knowledge, we took a more wide-ranging approach than our usual go-to-markets — including this blog post from our CEO and co-founder.\n\nThe launch stage of The Aha! Framework includes the following activities:\n\nLet's prep for launch! First, you will want to organize a kickoff call with the cross-functional launch team to align on a go-live date and what go-to-market materials you need to produce. Before you meet, finalize positioning for the new customer experience — marketing teammates will need this to communicate the value of your new functionality to end users.\n\nWhat is a go-to-market strategy?\n\nWhat is a go-to-market roadmap?\n\nHow to plan a marketing launch\n\nWhat is a good product launch checklist?\n\n10Ps marketing matrix template\n\nCreative brief template\n\nMarketing strategy template\n\nPricing strategies (Kotler) template\n\nPricing plan chart template\n\nValue proposition template\n\nShare the excitement and celebrate the new functionality. As part of your go-to-market strategy, the broader marketing team will have identified different channels for communicating the news to prospective and existing customers.\n\nBest practices for managing product launches\n\nThe product manager's launch checklist\n\nProduct launch plan template\n\nMarketing calendar template\n\nTarget audience template\n\nTo fully understand the value of what you delivered, you must analyze and assess. You can track customer usage, feedback, and love (yes, love) to assess realized product value following the launch. Reporting on delivery metrics and monitoring ongoing product KPIs will help you understand how that value evolves over time. This stage is also when you should reflect on what went well during the process of delivering the new customer experience and what can be improved for next time.\n\nKeep track of your most important performance metrics with tailored dashboard views.\n\nReporting and improving the overall process in The Aha! Framework includes the following activities:\n\nDid you create the value you expected when you first began product planning? Product and feature adoption metrics can help you evaluate whether or not you achieved your product goals. Depending on what you delivered, you might also want to engage mechanisms for tracking customer sentiment (we call this \"love\"). Update the product value score and compare the actuals against the projection.\n\nWhat are product metrics?\n\nHow to measure product value\n\nNever stop improving. There is always an opportunity to keep raising the standard. You can engage teams at different levels to understand what went well and what could be improved for next time. Ask stakeholders if there are ways you could streamline reviews and feedback. Work with the core product team to understand where hiccups and hurdles happened. Everything you learn can help you make changes that boost efficiency for the next iteration.\n\nWhat is an agile retrospective?\n\nBeyond the 'product mindset'\n\nProcess flow diagram template\n\nProcess improvement template\n\nIt offers the product development guidelines you need — with more flexibility.\n\nThe Aha! Framework for product development is defined, yet adaptable.\n\nWe bet you will check off at least a few items in this list.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Key activities that drive The Aha! Framework",
+      "id": "key-activities-that-drive-the-aha-framework"
+    },
+    {
+      "level": "h4",
+      "text": "The Aha! Framework explained — your blueprint for building lovable products",
+      "id": "the-aha-framework-explained--your-blueprint-for-building-lovable-products"
+    },
+    {
+      "level": "h2",
+      "text": "What is The Aha! Framework?",
+      "id": "what-is-the-aha-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Stage 1: Strategize",
+      "id": "stage-1-strategize"
+    },
+    {
+      "level": "h3",
+      "text": "Define product vision",
+      "id": "define-product-vision"
+    },
+    {
+      "level": "h3",
+      "text": "Review market conditions",
+      "id": "review-market-conditions"
+    },
+    {
+      "level": "h3",
+      "text": "Draft product goals",
+      "id": "draft-product-goals"
+    },
+    {
+      "level": "h3",
+      "text": "Identify key product initiatives",
+      "id": "identify-key-product-initiatives"
+    },
+    {
+      "level": "h3",
+      "text": "Gather feedback",
+      "id": "gather-feedback"
+    },
+    {
+      "level": "h3",
+      "text": "Set product strategy",
+      "id": "set-product-strategy"
+    },
+    {
+      "level": "h2",
+      "text": "Stage 2: Discover",
+      "id": "stage-2-discover"
+    },
+    {
+      "level": "h3",
+      "text": "Define research goals",
+      "id": "define-research-goals"
+    },
+    {
+      "level": "h3",
+      "text": "Identify your audience",
+      "id": "identify-your-audience"
+    },
+    {
+      "level": "h3",
+      "text": "Schedule customer interviews",
+      "id": "schedule-customer-interviews"
+    },
+    {
+      "level": "h3",
+      "text": "Conduct customer interviews",
+      "id": "conduct-customer-interviews"
+    },
+    {
+      "level": "h3",
+      "text": "Analyze transcripts",
+      "id": "analyze-transcripts"
+    },
+    {
+      "level": "h3",
+      "text": "Connect insights to work",
+      "id": "connect-insights-to-work"
+    },
+    {
+      "level": "h2",
+      "text": "Stage 3: Capture",
+      "id": "stage-3-capture"
+    },
+    {
+      "level": "h3",
+      "text": "Review customer feedback",
+      "id": "review-customer-feedback"
+    },
+    {
+      "level": "h3",
+      "text": "Review colleague feedback",
+      "id": "review-colleague-feedback"
+    },
+    {
+      "level": "h3",
+      "text": "Score ideas",
+      "id": "score-ideas"
+    },
+    {
+      "level": "h3",
+      "text": "Promote ideas to features",
+      "id": "promote-ideas-to-features"
+    },
+    {
+      "level": "h2",
+      "text": "Stage 4: Explore",
+      "id": "stage-4-explore"
+    },
+    {
+      "level": "h3",
+      "text": "Whiteboard new user experiences",
+      "id": "whiteboard-new-user-experiences"
+    },
+    {
+      "level": "h3",
+      "text": "Create wireframes",
+      "id": "create-wireframes"
+    },
+    {
+      "level": "h3",
+      "text": "Gather feedback",
+      "id": "gather-feedback"
+    },
+    {
+      "level": "h3",
+      "text": "Update wireframes",
+      "id": "update-wireframes"
+    },
+    {
+      "level": "h2",
+      "text": "Stage 5: Plan",
+      "id": "stage-5-plan"
+    },
+    {
+      "level": "h3",
+      "text": "Draft roadmap",
+      "id": "draft-roadmap"
+    },
+    {
+      "level": "h3",
+      "text": "Scope features",
+      "id": "scope-features"
+    },
+    {
+      "level": "h3",
+      "text": "Score features",
+      "id": "score-features"
+    },
+    {
+      "level": "h3",
+      "text": "Update draft roadmap",
+      "id": "update-draft-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "Stage 6: Showcase",
+      "id": "stage-6-showcase"
+    },
+    {
+      "level": "h3",
+      "text": "Share roadmap",
+      "id": "share-roadmap"
+    },
+    {
+      "level": "h3",
+      "text": "Gather feedback",
+      "id": "gather-feedback"
+    },
+    {
+      "level": "h3",
+      "text": "Complete roadmap",
+      "id": "complete-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "Stage 7: Deliver",
+      "id": "stage-7-deliver"
+    },
+    {
+      "level": "h3",
+      "text": "Focus on high-priority features",
+      "id": "focus-on-high-priority-features"
+    },
+    {
+      "level": "h3",
+      "text": "Draft MLP requirements",
+      "id": "draft-mlp-requirements"
+    },
+    {
+      "level": "h3",
+      "text": "Kickoff feature",
+      "id": "kickoff-feature"
+    },
+    {
+      "level": "h3",
+      "text": "Complete designs",
+      "id": "complete-designs"
+    },
+    {
+      "level": "h3",
+      "text": "Gather feedback",
+      "id": "gather-feedback"
+    },
+    {
+      "level": "h3",
+      "text": "Update MLP requirements",
+      "id": "update-mlp-requirements"
+    },
+    {
+      "level": "h3",
+      "text": "Organize sprints",
+      "id": "organize-sprints"
+    },
+    {
+      "level": "h3",
+      "text": "Develop functionality",
+      "id": "develop-functionality"
+    },
+    {
+      "level": "h3",
+      "text": "Confirm built as designed",
+      "id": "confirm-built-as-designed"
+    },
+    {
+      "level": "h3",
+      "text": "Communicate progress",
+      "id": "communicate-progress"
+    },
+    {
+      "level": "h3",
+      "text": "Ship functionality",
+      "id": "ship-functionality"
+    },
+    {
+      "level": "h2",
+      "text": "Stage 8: Document",
+      "id": "stage-8-document"
+    },
+    {
+      "level": "h3",
+      "text": "Update knowledge base",
+      "id": "update-knowledge-base"
+    },
+    {
+      "level": "h2",
+      "text": "Stage 9: Launch",
+      "id": "stage-9-launch"
+    },
+    {
+      "level": "h3",
+      "text": "Set go-to-market activities",
+      "id": "set-go-to-market-activities"
+    },
+    {
+      "level": "h3",
+      "text": "Announce new functionality",
+      "id": "announce-new-functionality"
+    },
+    {
+      "level": "h2",
+      "text": "Stage 10: Analyze",
+      "id": "stage-10-analyze"
+    },
+    {
+      "level": "h3",
+      "text": "Assess product value",
+      "id": "assess-product-value"
+    },
+    {
+      "level": "h3",
+      "text": "Improve overall process",
+      "id": "improve-overall-process"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "The Aha! Framework for product development",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Balance strategic planning and agile delivery using The Aha! Framework",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Is The Aha! Framework right for you? Use this new checklist.",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-1-strategize",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-1-strategize",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/stages-of-product-development",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#what-is-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-1-strategize",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-2-discover",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-3-capture",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-4-explore",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-5-plan",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-6-showcase",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-7-deliver",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-8-document",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-9-launch",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#stage-10-analyze",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/marketing-strategy/market-research",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-some-examples-of-a-business-model",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-research-competitors",
+    "https://www.aha.io/roadmapping/guide/plans2",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/marketing-strategy/market-research",
+    "https://www.aha.io/roadmapping/guide/what-is-product-discovery",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas",
+    "https://www.aha.io/roadmapping/guide/discovery/how-to-build-a-customer-database-for-product-discovery",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/idea-management/customer-questions-for-product-innovation",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/product-management/product-managers-other-teams",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/product-management/wireframe-mockup-prototype",
+    "https://www.aha.io/roadmapping/guide/how-to-choose-virtual-whiteboard-software",
+    "https://www.aha.io/roadmapping/guide/brainstorming-techniques-for-product-builders",
+    "https://www.aha.io/roadmapping/guide/brainstorming-techniques-for-product-builders",
+    "https://www.aha.io/roadmapping/guide/product-management/wireframe-mockup-prototype",
+    "https://www.aha.io/roadmapping/guide/requirements-management/how-should-product-managers-use-wireframes",
+    "https://www.aha.io/roadmapping/guide/product-management/how-to-create-better-wireframes",
+    "https://www.aha.io/roadmapping/guide/how-to-use-an-online-whiteboard-in-product-management",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-management/work-with-engineers",
+    "https://www.aha.io/roadmapping/guide/product-management/work-with-engineers",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-product-roadmap-presentation-templates-do-product-managers-use",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/launch/what-is-a-go-to-market-strategy",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/product-management/15-meeting-tips-for-product-managers",
+    "https://www.aha.io/roadmapping/guide/product-management/wireframe-mockup-prototype",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-user-experience-design",
+    "https://www.aha.io/roadmapping/guide/designs/product-design-basics-every-product-manager-should-know",
+    "https://www.aha.io/roadmapping/guide/product-management/wireframe-mockup-prototype",
+    "https://www.aha.io/roadmapping/guide/product-management/how-to-create-better-wireframes",
+    "https://www.aha.io/roadmapping/guide/product-management/product-managers-other-teams",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/best-practices",
+    "https://www.aha.io/roadmapping/guide/product-management/what-skills-are-required-to-be-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/release-management/test-product-before-launch",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/use-cases-for-knowledge-base-software",
+    "https://www.aha.io/roadmapping/guide/how-to-build-a-product-knowledge-base",
+    "https://www.aha.io/roadmapping/guide/what-is-product-documentation",
+    "https://www.aha.io/roadmapping/guide/your-internal-product-documentation-what-is-in-and-what-is-out",
+    "https://www.aha.io/roadmapping/guide/launch/how-to-write-excellent-release-notes",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/launch/what-is-a-go-to-market-strategy",
+    "https://www.aha.io/roadmapping/guide/launch/what-is-a-go-to-market-strategy",
+    "https://www.aha.io/roadmapping/guide/launch/what-is-a-go-to-market-strategy",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/go-to-market-roadmap",
+    "https://www.aha.io/roadmapping/guide/marketing-launches/how-to-plan-marketing-launch",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-good-product-launch-checklist",
+    "https://www.aha.io/roadmapping/guide/marketing-launches/how-to-plan-marketing-launch",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/what-are-product-metrics",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-to-measure-product-value",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development"
+  ]
+}

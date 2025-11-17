@@ -1,0 +1,59 @@
+{
+  "url": "https://www.verpackungsregister.org/en/foundation-authority/public-registers",
+  "title": "At a glance: the public registers",
+  "content": "In accordance with its statutory mandate, the Zentrale Stelle Verpackungsregister (Central Agency Packaging Register – ZSVR) publishes a list of registered producers and initial distributors as well as a list of experts and auditors. The former is called the 'register of producers', the latter has two divisions and is known as the 'register of auditors'. The ZSVR also publishes a list of producers and initial distributors that have submitted a declaration of completeness.\n\nThe register of producers lists the registered companies, along with their registration number, packaging types, brand names and additional information.\n\nThis register publicly lists the companies that have submitted a declaration of completeness to the ZSVR.\n\nThis division lists the experts who audit declarations of completeness and volume flow records of systems and sector-specific solutions.\n\nThis division lists registered auditors, tax advisers and sworn accountants who audit declarations of completeness.\n\nWhatever type of packaging a company uses to distribute its goods commercially for the first time, the producer or initial distributor is required to register with the ZSVR's LUCID Packaging Register before commencing distribution. This applies equally to goods in packaging that is subject to system participation (retail, grouped or shipment packaging) and to goods in packaging that is not subject to system participation (transport packaging, industrial packaging, reusable packaging, single-use beverage packaging or packaging of hazardous contents).\n\nFailing to register results in a distribution ban for the goods in question that also applies to downstream distributors. These goods must not be offered for sale.\n\nFor further information about the term 'producer', the different packaging types or what it means to place packaged goods on the German market, please have a look at our 'Producer under German packaging law' page.\n\nThe Verpackungsgesetz (Packaging Act) distinguishes between first-time registration and reports of any changes to master data already stored with the LUCID Packaging Register. The ZSVR publishes the registered producers with the following details as required by section 9 VerpackG (Packaging Act):\n\nRegistration number (remains the same in the register, even where changes are reported)\n\nName, address and contact details (postcode, town/city, street address, country, telephone number)\n\nEuropean or national taxpayer reference number\n\nDetails about the packaging types in which the respective goods are placed on the German market\n\nBrand names under which the producer places their packaged goods on the German market\n\nAuthorised representative, if applicable. (International companies without a branch in Germany may appoint an authorised representative to fulfil their obligations under German packaging law for them.)\n\nWhen a company terminates its registration, the termination date is published in the LUCID Packaging Register. The information that had been published is then deleted three years after the end of the year in which the registration was terminated.\n\nThe publication of registered producers allows consumers, distributors and competitors to search for specific producers or brand names and to check if the producer or initial distributor has met their registration requirement. The register cannot be used to check if business partners have participated their packaging subject to system participation with a system. System participation has to be verified by other means – and the legislator has left it up to the individual to choose how. System operators can provide their clients with a confirmation that they have entered into a system participation agreement.\n\nThe ZSVR offers an automated register excerpt. The European or national taxpayer reference number provided during registration can be used to search for the registration status (yes/no). In order to use this function for checking the registration status of business partners, electronic marketplaces, fulfilment service providers, drop shipping sellers or other redistributors must first register with the LUCID Packaging Register and request the register excerpt there.\n\nAs part of its statutory duties, the ZSVR compiles a register of auditors that includes experts and other auditors who have indicated their intention to conduct the audits provided for by the Verpackungsgesetz.\n\nThe register of auditors is made up of two divisions:\n\nDivision 1 lists the following experts:\n\nPublicly appointed experts\n\nEnvironmental verifiers or organisations\n\nExperts accredited by a national accreditation body\n\nForeign experts (experts in another EU Member State or another country in the European Economic Area)\n\nThese registered experts are authorised to audit the volume flow records of systems and sector-specific solutions. They are also authorised to audit declarations of completeness.\n\nDivision 2 lists the following other types of auditors:\n\nThese auditors are authorised to audit the declarations of completeness.\n\nPublication of the register of auditors fosters transparency and makes it easier for systems, sector-specific solutions, producers and other distributors to find experts and other auditors.\n\nThe ZSVR may reject listing an expert or other auditor in the register of auditors if the respective expert or other auditor cannot produce suitable evidence of their professional certification upon request. This certification may be evidenced, for example, by a relevant certificate or confirmation of an appointment.Each year, the ZSVR offers a training course on using the audit guidelines. The course also deals with the use of the LUCID Packaging Register, including technical requirements for electronic signatures and file formats, and covers the public register of auditors.\n\nRegistered experts are required to complete one of these training courses within one year of being added to division 1 of the register of auditors, and then once every five years. If they do not comply with this obligation, the ZSVR can remove them from the register of auditors until they have attended the course.\n\nThe ZSVR can also remove a registered expert or other registered auditor from the register for up to three years if they repeatedly breach the audit guidelines in gross dereliction of duty.\n\nAs part of its statutory duties, the ZSVR keeps a list of producers known as the ‘DoC list’. The list is public and includes all producers who have filed a declaration of completeness by no later than 15 May of any given year for the previous year.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "At a glance: the public registers",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Register of producers",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Register of declarations of completeness",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Register of auditors – division 1",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Register of auditors – division 2",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "The registers in detail",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Register of producers",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Register of auditors",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Declaration of completeness register (DoC list)",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsregister.org/en/",
+    "https://www.verpackungsregister.org/en/foundation-authority/about-us",
+    "https://www.verpackungsregister.org/en/first-steps/producer-under-german-packaging-law"
+  ]
+}

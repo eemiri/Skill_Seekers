@@ -1,0 +1,44 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles",
+  "title": "Formatting titles",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nIn general, use sentence-style casing (that is, only capitalize the first word of a title, like at the beginning of a sentence), as this makes content more readable and ensures better localizability.\n\nUse bold font instead of italics for titles to enhance readability and accessibility.\n\nThere are some notable exceptions to sentence-casing. These include:\n\nUnraveling HTML5, CSS3, and JavaScript\n\nBackup and Recovery Overview for Azure Customers\n\nSome of the top games on Microsoft Store include Sea of Thieves 2023 Edition and Stardew Valley.\n\nThe Microsoft Envision AI Tour is for decision-makers and developers, with events curated for each audience.\n\nOneNote Best Practices for Educators and Students with Mike Tholfsen\n\nSee also Capitalization, Headings\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Formatting titles",
+      "id": "formatting-titles"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles",
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/headings"
+  ]
+}

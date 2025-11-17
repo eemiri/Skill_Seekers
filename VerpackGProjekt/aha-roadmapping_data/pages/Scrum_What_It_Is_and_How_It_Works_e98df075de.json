@@ -1,0 +1,162 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+  "title": "Scrum: What It Is and How It Works",
+  "content": "Scrum is a process framework primarily used in agile software development. Scrum is based on empiricism, with an emphasis on iterative and incremental work based on experience and experiments. As with most other agile workflows, scrum leverages lean concepts — self-managing teams working collectively to consistently deliver value at a sustainable pace.\n\nIf you work in product development you are likely familiar with scrum. But did you know that scrum is not an acronym? The word comes from the English sport of rugby. Short for “scrummage,” scrum is a method for restarting play either as a result of a minor infraction or when the ball has gone out of bounds. Players huddle with their heads down and jockey for control of the ball. Rugby scrums involve specific players who execute coordinated moves.\n\nThis idea of quickly moving back into play through an organized team effort is where rugby overlaps with software. Within agile development, scrum teams have no imposed hierarchy within the group. Two defined roles support the team through sprint planning and development cycles. There is the scrum master, who acts as a coach, and the product owner, who represents business and user interests.\n\nScrum teams are self-organizing, meaning that they decide who works on what and when. Teams are accountable for managing and completing the work within each sprint. The intention is to create room for focused bursts of work at a sustainable pace. At the end of each sprint, the team comes together for a retrospective to review what went well and where incremental improvements can be made.\n\nS﻿tart using this template now\n\nYour own experience with scrum will be impacted by your company, your team, and what you are working on. Whether you are interested in learning more about scrum, are considering implementing scrum in your organization, or want to gut-check the processes on your current team, this guide offers a broad overview of scrum essentials. With that in mind, you can always jump ahead to the section that most applies to you:\n\nDifference between scrum and agile\n\nTheory and values of scrum\n\nScrum events and artifacts\n\nPros and cons of scrum\n\nScrum certifications and courses\n\nWhile concepts of self-organizing teams and iterative development were bandied about as early as the 1950s, the principles at the heart of scrum really took off in the 1980s. In January 1986, Professors Hirotaka Takeuchi and Ikujiro Nonaka published an in-depth think piece in Harvard Business Review titled “The New New Product Development Game.” Takeuchi and Nonaka explained their “rugby method” using case studies from companies such as Epson, Canon, Fuji-Xerox, and Honda.\n\nTakeuchi and Nonaka compared the old way of product development to a relay race. As a product moved through cycles of development, each phase was passed to a functional specialist. With functional specialists typically applied across various projects, this virtual baton passing could impact the speed of delivery. Each function was also segmented, with limited knowledge sharing across groups.\n\nCompare that to the rugby approach. Instead of passing a baton from one player to the next, the team would pass the ball back and forth as they moved up the field together. In development, this meant a smaller cross-functional team would tackle new product development holistically — from concept to delivery.\n\nThe professors wrote about the concept of multilearning. Individuals would share knowledge (aka pass the ball) at critical phases of development. Any gaps would be filled through acquiring new skills along the way or bringing in new teammates while others dropped off. Takeuchi and Nonaka posited that the rugby method had the potential to revolutionize how organizations brought new products to market. They also included some cautions, including managerial implications and the potential for overworked teams.\n\nMomentum around the rugby approach increased with broader implementation at many forward-thinking companies in the late 1980s. Software engineers Ken Schwaber and Jeff Sutherland, and original signers of the Agile Manifesto, proposed an initial framework for what would become scrum in 1995. (Although they stylized the word in all capital letters, lowercase is common today.) In 2010 they co-authored and published the Scrum Guide, an online resource documenting the basics and evolution of scrum. Both Schwaber and Sutherland have gone on to found nonprofits that offer scrum training and certification.\n\nRelated: The Beginning Of Scrum by Scrum.org\n\nToday, scrum is inarguably the most popular agile framework in business and IT organizations. The 16th annual \"State of Agile\" report for 2022 showed that scrum far outpaced any other framework or method — 87 percent said they leverage scrum, compared to 50 percent who leverage kanban. The report surveys more than 3,000 IT and business professionals about trends, milestones, and challenges.\n\nRelated: Best practices for configuring Aha! Develop to support scrum\n\nScrum has been a process improvement buzzword since the 1990s, but the scrum framework has since expanded well beyond developer communities into other disciplines. Marketing teams, sales teams, and even healthcare teams find value in incorporating scrum into their workflow management. A survey of more than 1,300 IT and business leaders published by Harvard Business Review revealed that four-fifths of respondents were using agile practices in core functional groups outside of engineering or development:\n\nResearch and development: 83 percent\n\nProduction and operations: 82 percent\n\nCustomer service and support: 79 percent\n\nMarketing and communications: 79 percent\n\nHR, finance, and administration: 78 percent\n\nThat is a lot of scrum. As we all know, however, popularity can be polarizing. Unlike other agile methods that do not have fixed processes, scrum is a defined framework. There are rules to follow and certifications to obtain. People can be pedantic about both. Simply following a specific framework does not guarantee immunity from the challenges that lead many organizations to adopt a particular methodology in the first place — from dysfunctional company culture to fast changing business markets. There is also always the risk that you spend more time focusing on the method than on the work itself.\n\nThe differences between scrum and agile are not always obvious. Add to that the fact that many companies will adopt scrum and refer to it as “going agile” — well, you can see where the field gets muddy. Questions and confusion abound.\n\nThe key to answering these questions is to remember that agile is a philosophy, not a methodology. Scrum is a process framework. You can embody agile values without following a specific framework.\n\nRelated: Reasons to agile with a little \"a\"\n\nScrum was founded on empiricism. In philosophy, empiricism refers to the idea that rational beliefs are only proven through experience. The prevailing theory behind scrum is that knowledge is gained through experience and decisions are made based on what is known. In practice it is informed by lean principles — less waste, with a focus on the most essential work.\n\nScrum teams build their processes on three core pillars:\n\nTransparency: Facts are presented with clarity and everyone collaborates openly.\n\nInspection: Work, processes, and practices are examined often to understand progress and uncover flaws.\n\nAdaptation: Adjustments happen as a result of what is discovered during inspection.\n\nThe first pillar is common in agile methods — the team responsible for completing work must have a shared understanding of the process for doing so (e.g. “definition of done”).\n\nThe second two pillars are unique to scrum. There are four formal events for inspection and adaptation throughout a sprint (we will cover these in more detail later in this guide):\n\nIn order to successfully follow and benefit from the empirical pillars of scrum, the originators of the framework suggested a shared set of values that every scrum team should embody:\n\nCommitment: Teammates are committed to progress within a sprint, as a team, and as individuals.\n\nCourage: Teammates have the inner fortitude to solve hard problems and improve over time.\n\nFocus: Teammates focus on the sprint and the goals of the team.\n\nOpenness: Teammates are open to working with each other, giving and receiving feedback, and sharing issues.\n\nRespect: Teammates respect each other's experiences, knowledge, decisions, and insight.\n\nThe benefit of a process framework is that you have a defined structure. Scrum does not disappoint in this regard. There are distinct roles, events, and artifacts that teams must organize and follow.\n\nNote the word “must.” According to scrum practitioners, scrum is an excellent container for other methodologies or practices. But scrum is not possible unless implemented in its entirety. You cannot pick and choose elements buffet-style.\n\nThe sections below outline the general elements of scrum — the team roles, events, and artifacts. For detailed definitions, check out the scrum glossary.\n\nThe scrum team is a cross-functional group — everyone on the team contributes to developing the product at every phase. Scrum teams have a few other attributes in addition to embodying the values outlined earlier. Each team consists of a product owner, scrum master, and developers.\n\nA scrum team product owner serves as a representative of internal and external stakeholders. Product owners are responsible for maximizing the value that a product delivers by communicating product goals, translating business and functional needs into product backlog items, and organizing the product backlog.\n\nThere are certifications and advanced training paths that can help product owners grasp all facets of the scrum framework. However, there are broader skills needed to be a successful product owner such as technical knowledge, customer awareness, and business acumen.\n\nA scrum master serves as a scrum team's coach and guide, facilitating full adherence to the scrum framework. Typically this person has obtained certification or advanced training in scrum and possesses a complete understanding of scrum values and practices.\n\nDepending on the maturity of the scrum team, the scrum master may be deeply involved in all aspects of development (from leading daily standups to holding 1:1 meetings with individual teammates) or have a more lightweight hand in steering a seasoned scrum team.\n\nDevelopers are members of a scrum team who contribute to any aspect (regardless of the person’s technical specialty) of delivering usable increments in a sprint.\n\nScrum teams are small. They typically have no more than 10 people, with no sub-groups or hierarchies. Scrum teams may grow larger depending on the scope of what they are working on. In these situations it is recommended to split the group into multiple scrum teams that share the same product owner and product backlog with a different scrum master for each team.\n\nYou may have noticed one critical role in product development that is missing from the table above. Where is the product manager? Product managers do have a role in agile organizations and, yes, even in scrum. So it is important to understand role definitions here.\n\nProduct managers are outwardly focused — experts in the market, customers, positioning, and pricing. These folks are responsible for setting the vision, goals, and major initiatives for the product. They own the Complete Product Experience, from forecasting to realizing business value to end of life. Product managers do high-level product planning and own the product roadmap.\n\nProduct owners are inwardly focused. They may influence certain areas of the product manager’s responsibilities, such as release planning and feature definition. But their main focus is to serve as a representative of the customer and advocate for the business case on the scrum team. They are the only people who can change the order of features in the product backlog and who decide whether to release a sprint.\n\nRelated: What is the role of a product manager in scrum?\n\nIn some organizations, the product manager assumes the responsibilities of the product owner. This is not ideal. These are discrete roles that require different skill sets and full attention. When you try to get two for the price of one, you can easily end up with a person who has an unrealistic workload and compromised priorities.\n\nRelated: Product manager vs. scrum master\n\nSprints are critical to successful scrum implementation. A sprint is a fixed duration of work. The time range will vary, but to truly follow scrum you should aim for less than a month for each sprint. Many scrum teams work in two- or three-week sprints. Once a sprint is finished, the next one begins.\n\nIf the problem that the team is trying to solve is too complex and requires more time than one month to deliver real value, that problem should be broken down into smaller increments for faster learning. Things can get unwieldy otherwise since, according to scrum principles, major changes should not occur during the sprint. Scope can be reviewed and revised by the product owner during a sprint as new learnings occur. However, quality should not decrease and the goal of the sprint should not be adjusted during the sprint.\n\nHere is a summary of the four scrum ceremonies that take place during each sprint:\n\nSprint planning — The product owner and development team meet to agree on the goals of the sprint and prioritize upcoming work.\n\nDaily scrum — The scrum team gathers for a quick meeting (also called a daily standup) to share what they worked on yesterday, what they plan to work on today, and any obstacles they face.\n\nSprint review — The development team demos their work and gathers feedback from the product owner and other cross-functional teammates.\n\nSprint retrospective — The scrum team evaluates what went well and what did not go according to plan. Then they collectively decide how to improve future sprints.\n\nThese scrum events help the team stay aligned on goals, track progress, and adjust processes — so everyone is productive and upcoming sprints go more smoothly.\n\nRelated: What is an agile retrospective?\n\nThere are a few basic artifacts in scrum — the product backlog, sprint backlog, and increments. Each one reflects work to be done or value to be delivered. We will start with the first two since they are related.\n\nThe product backlog is an organized list of work that can be prioritized into a sprint as part of sprint planning. These items have been identified as necessary enhancements or new functionalities that bring value to the product. Refinement (sometimes called “grooming”) of the backlog can occur, where the work items are further broken down into smaller units. Product owners may influence estimates, but developers are ultimately responsible for sizing items in the product backlog since they are the ones who will do the work.\n\nThe sprint backlog is more than just a list of work — it is a plan. It includes the goal for the sprint, the collection of items selected from the product backlog, and an actionable outline for how the team will complete the work. The sprint backlog is created and managed by developers on the scrum team.\n\nNow onto the increments. These are the usable features that support your overarching product goal. Or said another way, increments are the sum of all the items in your sprint backlog. You might deliver one increment in a sprint or several — an increment can be delivered to stakeholders during the sprint (rather than at the end) if it is ready. No need to wait. For a sprint to be successful, each increment must meet the team’s definition of done regardless of whether the product owner releases it or not.\n\nScrum and kanban are two very different approaches to managing work. While scrum is a defined framework that requires teammates to follow the structure explicitly, kanban does not have the same level of definition and can be a flexible solution for any team structure. (If you are interested in learning more about kanban, we also have an in-depth guide to kanban.)\n\nThe one thing that both approaches have in common is that work is managed on a board. Some organizations might have a physical board (you are probably picturing a white board covered in colorful sticky notes) but most sophisticated teams today use purpose-built software that offers digital scrum and/or kanban board functionality.\n\nScrum boards are more intensive than kanban boards, and require more upfront investment to configure as a result. The table below explains the basic differences between a scrum board and a kanban board.\n\nScrum boards are owned by one scrum team and managed by a scrum master.\n\nKanban boards can be used by many teams since the board is mostly about workflow, not what you are working on.\n\nThe scrum board has its own backlog of items that have been organized and prioritized from the product backlog into the sprint backlog.\n\nThe kanban board has a backlog of items. Each has an assigned level of importance and clear objectives.\n\nItems on the scrum board are prioritized according to resource estimation by the scrum team during daily scrums.\n\nItems on a kanban board do not have a prescribed prioritization method, but may be weighted by urgency.\n\nWork-in-progress (WIP) limits\n\nScrum boards limit WIP by sprint, but not by progress. There is no limit, for example, to how many items can be “in progress” at once.\n\nKanban boards limit WIP by workflow status.\n\nThe scrum team is responsible for all tasks on the scrum board.\n\nPeople are responsible for completing their steps within the workflow, but not responsible for all tasks on the kanban board.\n\nOnly members of the scrum team can edit or change the scrum board. Product owners should not make changes to a sprint in progress.\n\nAnyone can make changes to the kanban board. Since kanban is not associated with a fixed timeline, changes can happen at any time.\n\nScrum boards are reset at the end of each sprint.\n\nKanban boards represent ongoing workflows and are continuous without any fixed timelines.\n\nScrum boards are measured by reporting against velocity with burndown and velocity charts.\n\nKanban boards are primarily measured by average cycle time of items — how long it takes for each item to go from being added to the backlog to completion.\n\nScrum is incredibly popular within the agile software development community. Something must be going well with this framework, right? Followers say that scrum ensures high-quality work, increased efficiency, and adaptability — each important in often unpredictable software development environments.\n\nScrum can illuminate challenges early on. Daily scrums provide a forum for tracking progress and spotting surprises that could derail development. These meetings can also keep teams motivated and encouraged, since the tasks that each teammate accomplishes are showcased often.\n\nSince teams work in fixed intervals, changes can be incorporated into the next sprint. It is possible to consistently deliver value without holding back functionality for code clean up or bug fixes. There are two sides to that flexibility though.\n\nScrum projects do not have a fixed timeline. That might be confusing at first, since we have repeated often that sprints are a specific duration. Remember, that a sprint is just a container and you might have many sprints before you achieve the overall product goal. In scrum there is no specific end date for projects, so you can end up with delays or scope creep. It is tempting to keep adding functionality knowing that you can always put it in the next sprint.\n\nScrum teams test their own software — so you may be able to catch and fix defects early on. But when many scrum teams are working on the same product, you can end up with a single point of failure: testing. Remember that an increment must be usable to fit the definition of done.\n\nThere is another major limitation that comes with any methodology or process framework. You are reliant on people. At its essence, a company is a collective of people working together against a shared goal. Implementing scrum successfully requires buy-in from everyone in the organization.\n\nScrum teams should not have hierarchies. But there can be tensions between the product owner, scrum master, and development team. Without openness and trust, infighting and an “us vs. them” mentality can emerge. Developers might be tempted to exclude product owners or scrum masters from meetings thinking that it is up to them to figure out the “how” of the sprint.\n\nScrum can be shocking to people who are set in particular work patterns. Organizational barriers may need to be removed and that kind of transformation can be painful. Scrum teams work independently, which requires a huge amount of trust — both from stakeholders, in the product owner and scrum master, and within the team. People may resist perceived roadblocks introduced by the new structure.\n\nThese issues are not unique to scrum. Most of these issues are the result of negative company culture. That is why the best scrum teams hold true to those five scrum values of commitment, focus, openness, respect, and courage. Think of the values as a touchstone that centers your team and keeps you focused on why you want to build software in the first place — to create something that brings value to the world.\n\nScrum teams embrace incremental, ongoing improvement in order to deliver value to customers and the business. Tracking scrum metrics allows you to objectively measure performance — typically a specific aspect of your team's productivity, predictability, quality, or value.\n\nThe following scrum metrics are examples of data points you can use to increase efficiency, refine processes, and make decisions on when to pivot:\n\nBurndown: A burndown captures the amount of work you have completed against the amount of work remaining in the sprint. Most scrum teams measure work in time, story points, or number of tasks. Display burndown as a trend line on a burndown chart to easily visualize the team's progress.\n\nProgress towards sprint goals: Remember the goals you set during sprint planning? Keep these objectives top of mind by evaluating the team's progress towards achieving each goal. You can measure progress via a percentage completed or some other numerical ranking.\n\nTeam capacity: Successful sprints rely on accurate capacity planning — otherwise you will commit to accomplishing more than is possible during the sprint. This is why many scrum teams add up each team member's availability for the next several sprints to calculate total team capacity. Be sure to build in extra time for vacation, illness, and any unexpected absences.\n\nVelocity: Velocity refers to the average amount of work the team can complete during a sprint. By measuring finished work against time, you can better estimate progress and plan future sprints more accurately.\n\nWorkload distribution: How much work is each scrum team member responsible for in a given time frame? Workload distribution shows how much work is assigned to each team member for the sprint — so everyone can see each person's workload and capacity.\n\nThis sprint burndown report built in Aha! Develop helps you analyze your entire team's progress or focus on individual team members.\n\nWhile these metrics are commonly associated with scrum, keep in mind that they can be useful no matter which methodology you follow. For example, teams that subscribe to kanban or another agile philosophy may frequently rely on burndown charts and velocity estimates. This can be highly valuable information whether or not you are part of a scrum team.\n\nThere are many online scrum training courses and certifications you can pursue. These are not always required to practice scrum, but some organizations will require certification for a particular role and many will sponsor employees who are interested in obtaining one. Hands-on instruction can be especially helpful if you are new to software development.\n\nYou can find plenty of scrum workshops and courses on free educational platforms, such as Coursera and LinkedIn Learning. Some give attendees an in-depth overview of the topics covered in this guide. Others offer preparation courses for people who want to obtain a certification.\n\nThere are a few organizations that offer scrum certifications, with varying costs, levels of competency, and coursework required:\n\nProject Management Institute\n\nRelated: How to choose a scrum certification",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "W﻿hat is scrum?",
+      "id": "w-hat-is-scrum"
+    },
+    {
+      "level": "h4",
+      "text": "Try the sprint retrospective template in Aha! software. Start a free trial.",
+      "id": "try-the-sprint-retrospective-template-in-aha-software"
+    },
+    {
+      "level": "h2",
+      "text": "The history and evolution of scrum",
+      "id": "the-history-and-evolution-of-scrum"
+    },
+    {
+      "level": "h2",
+      "text": "Difference between scrum and agile",
+      "id": "difference-between-scrum-and-agile"
+    },
+    {
+      "level": "h2",
+      "text": "What are the theories, values, and practices of scrum?",
+      "id": "what-are-the-theories-values-and-practices-of-scrum"
+    },
+    {
+      "level": "h3",
+      "text": "Three pillars of scrum",
+      "id": "three-pillars-of-scrum"
+    },
+    {
+      "level": "h3",
+      "text": "Five values of scrum",
+      "id": "five-values-of-scrum"
+    },
+    {
+      "level": "h2",
+      "text": "What are scrum roles?",
+      "id": "what-are-scrum-roles"
+    },
+    {
+      "level": "h3",
+      "text": "Scrum team",
+      "id": "scrum-team"
+    },
+    {
+      "level": "h3",
+      "text": "Product manager vs. product owner",
+      "id": "product-manager-vs-product-owner"
+    },
+    {
+      "level": "h2",
+      "text": "What are scrum events and artifacts?",
+      "id": "what-are-scrum-events-and-artifacts"
+    },
+    {
+      "level": "h3",
+      "text": "Scrum artifacts",
+      "id": "scrum-artifacts"
+    },
+    {
+      "level": "h3",
+      "text": "Scrum board vs. kanban board",
+      "id": "scrum-board-vs-kanban-board"
+    },
+    {
+      "level": "h2",
+      "text": "Pros and cons of scrum",
+      "id": "pros-and-cons-of-scrum"
+    },
+    {
+      "level": "h2",
+      "text": "Common scrum metrics",
+      "id": "common-scrum-metrics"
+    },
+    {
+      "level": "h2",
+      "text": "Scrum certifications and courses",
+      "id": "scrum-certifications-and-courses"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#the-history-and-evolution-of-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#difference-between-scrum-and-agile",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#what-are-the-theories-values-and-practices-of-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#what-are-scrum-events-and-artifacts",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#pros-and-cons-of-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#common-scrum-metrics",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#scrum-certifications-and-courses",
+    "https://www.aha.io/roadmapping/guide/marketing/marketing-org-structure",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#Top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#Top",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/agile/agile-glossary",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#Top",
+    "https://www.aha.io/roadmapping/guide/agile/agile-glossary",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/product-strategy/complete-product-experience",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#Top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-burndown-chart",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#Top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#Top",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum#Top",
+    "https://www.aha.io/roadmapping/guide/agile/scrum-certifications",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

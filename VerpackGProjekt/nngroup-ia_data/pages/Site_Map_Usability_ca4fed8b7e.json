@@ -1,0 +1,66 @@
+{
+  "url": "https://www.nngroup.com/articles/site-map-usability/",
+  "title": "Site Map Usability",
+  "content": "September 1, 2008 2008-09-01\n\nOne of the oldest hypertext usability principles is to offer a visual representation of the information space in order to help users understand where they can go. Site maps can provide such a visualization, offering a useful supplement to the primary navigation features on a website or intranet.\n\nA site map's main benefit is to give users an overview of the site's areas in a single glance . It does this by dedicating an entire page to a visualization of the information architecture (IA). If designed well, this overview can include several levels of hierarchy, and yet not be so big that users lose their grasp of the map as a whole.\n\nWe define a site map as a special page intended to act as a website guide . The site maps we studied took a variety of forms, including alphabetical site indexes, dynamic diagrams, and two-dimensional lists. The term \"site map\" here thus encompasses a wide array of features, appearances, and names, including \"guide,\" \"overview,\" \"index,\" and \"directory.\"\n\nTo find out how people use site maps, we conducted two rounds of usability research, testing a range of site map designs with users as they performed representative tasks.\n\nA total of 30 users participated in our site map testing, with 15 in each of the two research rounds.\n\nWe tested the following 20 websites, which included a mix of e-commerce and marketing-oriented sites, high-tech companies, B2B sites, content sites, non-profit organizations, and government agencies.\n\nDocumentum (high-tech product)\n\nInterwoven (high-tech product)\n\nMercedes Benz USA (marketing site for cars)\n\nMuseum of Modern Art (non-profit)\n\nNew Jersey Transit (local transportation)\n\nSalon (online magazine)\n\nSiemens Medical Solutions (B2B)\n\nUnited States Treasury Department (government)\n\nAdministration on Aging (government)\n\nBMW USA (marketing site for cars)\n\nCitysearch Boston (visitor info)\n\nHarvard Pilgrim (health insurance)\n\niRobot Corporation (high-tech/e-commerce)\n\nThe Knot (wedding information/e-commerce)\n\nMarriott (hotels, with online booking)\n\nScholastic (children's books)\n\nTexas Roadhouse (restaurant chain)\n\nTiVo (high-tech product)\n\nIn both studies, we first took users to a site's homepage and gave them a task without any special mention of the site map. This part of the research assessed the extent to which users naturally turn to site maps. Later in each study, we specifically asked users to go to the site map if they hadn't already gone there on their own.\n\nStudy 1 was conducted 7 years ago . Comparing the two studies thus allows us to assess long-term trends in site map usability.\n\nPeople rarely use site maps. In Study 2, only 7% of users turned to the site map when asked to learn about a site's structure. This is down from 27% of users in Study 1.\n\nThe good news is that users can actually find the site map in those few cases where they want to. In Study 2, 67% of the users successfully found the site map when we asked them to \"Find a page that lists every part of the website.\"\n\nThe two main usability guidelines for site maps are:\n\nThese guidelines are unchanged from the report's first edition. Dynamic or interactive site maps caused horrible failures 7 years ago, and they still caused trouble in Study 2. The site map's goal is to give users a single overview of the information space. If users have to work to reveal different parts of the map, they lose that benefit.\n\nA site map is, after all, a map ; it should not be a navigational challenge of its own.\n\nAs we've found repeatedly, users hate non-standard user interfaces that force them to learn a special way of doing things for the sake of a single website. Site maps should be simple, compact layouts of links, and they should show everything in a single view.\n\nThe one small complexity we recommend is to use a multi-column layout . In Study 2, users easily succeeded with 61% of tasks involving multi-column site maps compared to 47% of tasks with single-column site maps.\n\nMulti-column site maps worked better because users needed less scrolling to get an overview of the site's structure. People were more likely to become lost within long, scrolling site maps. They typically scrolled up and down the map multiple times, often accidentally or purposefully skipping content. In fact, users often started with one quick scan of high-level categories, then scrolled back up and did a more detailed search, sometimes repeating this process multiple times with more and more focus each time. In contrast, multi-column site maps made it easier for users to quickly glance at all categories and subcategories, and thereby get a lay of the land before digging deeper.\n\nSeven years ago, 48% of the 50 websites we surveyed had site maps. Today, 71% of the 150 websites we surveyed had site maps and 59% of the 56 intranets analyzed in our report on Intranet Information Architecture had site maps. Also, most site maps have become somewhat more usable during the time between our two research rounds.\n\nDespite the prevalence of good site maps these days, users don't use them very much. So why bother making a site map for your website? Because it can help users understand your site and what it offers.\n\nI still recommend site maps because they're the only feature that gives users a true overview of everything on a site. One could argue that a site's navigation serves the same purpose. For example, some navigation offers mega drop-down menus that let users see the options available in each site section. But even with these menus, users can see only one section of content at a time.\n\nA site map lets users see all available content areas on one page, and gives them instant access to those site pages. Site maps can also help users find information on a cluttered site, providing a clean, simple view of the user interface and the available content. Site maps are not a cure-all, however. No site map can fix problems inherent in a site's structure, such as poor navigational organization, poorly named sections, or poorly coordinated subsites.\n\nIf site maps required a major investment to design, they wouldn't offer sufficient ROI to be worth doing. But because all of our guidelines call for site map simplicity, making a good one doesn't require a lot of work, and it will help some of your users. More importantly, it will help users at a critical time : When they are lost and might abandon your site if they don't get that last piece of assistance to find their way around.\n\nSite maps are a secondary navigation feature — a humble role that they share with breadcrumbs. Indeed, the arguments in favor of site maps are the same as the arguments for breadcrumbs :\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Site Map Usability",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Two Research Studies",
+      "id": "toc-two-research-studies-1"
+    },
+    {
+      "level": "h2",
+      "text": "Site Maps are Used Rarely",
+      "id": "toc-site-maps-are-used-rarely-2"
+    },
+    {
+      "level": "h2",
+      "text": "Keep It Simple",
+      "id": "toc-keep-it-simple-3"
+    },
+    {
+      "level": "h2",
+      "text": "Why Have a Site Map?",
+      "id": "toc-why-have-a-site-map-4"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/site-map-usability/",
+    "https://www.nngroup.com/articles/site-map-usability/",
+    "https://www.nngroup.com/articles/site-map-usability/#toc-two-research-studies-1",
+    "https://www.nngroup.com/articles/site-map-usability/#toc-site-maps-are-used-rarely-2",
+    "https://www.nngroup.com/articles/site-map-usability/#toc-keep-it-simple-3",
+    "https://www.nngroup.com/articles/site-map-usability/#toc-why-have-a-site-map-4",
+    "https://www.nngroup.com/articles/site-map-usability-1st-study",
+    "https://www.nngroup.com/articles/mega-menus-work-well",
+    "https://www.nngroup.com/articles/breadcrumb-navigation-useful"
+  ]
+}

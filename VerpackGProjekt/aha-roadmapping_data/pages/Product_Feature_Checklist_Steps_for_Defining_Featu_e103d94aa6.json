@@ -1,0 +1,135 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist",
+  "title": "Product Feature Checklist: Steps for Defining Features",
+  "content": "What do users need? And what do you actually give them? The features you are building should solve customer pain. But if you do not clearly define what you are building and why, the team may end up creating something that users do not actually need. This is why it is essential to describe product features upfront, so the team can deliver something of real value.\n\nFeature definition is all about accuracy, transparency, and communication. You have to include the key information necessary for the team to understand who your user is, how the feature will address their problem, and how the team will work together to build the feature. Defining features should be an ongoing process throughout the product lifecycle, so you can continually improve your offering as customer needs evolve.\n\nThis guide illustrates each step of the feature definition process and includes a checklist to help establish consistency. Jump ahead to any section to get started:\n\nWhat are product features?\n\nWhy is it important to define product features?\n\nStep-by-step process for defining features\n\nA comprehensive checklist\n\nThink of product features as the building blocks of your product. Each feature is a discrete unit of functionality — such as a capability, component, or performance upgrade.\n\nIt is worth noting that some teams use terms like user stories and tasks to refer to the same concept. But no matter what you call it, a feature is simply a benefit that you will deliver to end users.\n\nYou need a deep understanding of who your users are and what they struggle with to build valuable products. Seek opportunities to gather their feedback — via direct conversations, ideas portals, surveys, support tickets, user forums, and even forwarded messages from customer-facing teams. You need to internalize the problems that customers are trying to solve and develop empathy for the full customer experience. This makes it easier to identify which features they will love.\n\nAt the simplest level, clearly defining a feature helps you articulate the customer need and explain what needs to be built. You might also create user story maps or mockups as part of feature definition. All of this work ultimately helps the development team determine the best approach for implementation.\n\nFrom a strategic standpoint, building features that resonate with customers and align with product goals is how you achieve the product vision and differentiate your product in the market. When product features support the strategy, you know that you are making a real impact on the business and in people's lives.\n\nThe screenshot below illustrates the format we use at Aha! for defining features. This is a feature record view in Aha! Roadmaps. Take a closer look and you will see that we have captured the \"why,\" \"what,\" and \"when\" in the feature record — to help the team align around the big picture.\n\nRecords in Aha! Roadmaps can be linked to one another to create relationships between work. The feature above is linked to an initiative, release, and epic.\n\nLet's continue using the feature example above in order to illustrate each step of the feature definition process. It is easy to capture all this information in Aha! Roadmaps, then link it to the actual feature you are building. But even if you do not use our roadmapping software, you can follow a similar format for defining features.\n\nAlign the feature you are building to the strategic goal or initiative it supports. This is useful so that the team understands why you are building the feature and so that you can easily report on strategic progress to executives and stakeholders.\n\nEveryone has an opinion on which features you should add to a product. While you need to listen to the input you receive from executives, cross-functional teams, and customers, you are ultimately responsible for deciding what should be built. To help you determine the impact of your features, create a scorecard to rank each feature based on the criteria that matter most, such as sales potential or customer retention.\n\nThe product value scorecard in Aha! software includes criteria for population, need, strategy, effort, and confidence.\n\nWrite a sentence or two to explain what the user needs to accomplish and how the feature helps them do this. Many agile teams use a user story template for this. A simple structure is as follows: As a [type of user], I want to achieve X so that I can do Y. But what is more important than the structure is that everyone understands exactly what the feature will deliver.\n\nAddress the pain point that the user is experiencing, then describe how the feature alleviates this pain. Clarity is your goal — use straightforward language and be as specific as possible. For example: The user is struggling to X, and the feature addresses this challenge by Y.\n\nWhile a feature describes functionality, a benefit refers to the value that a user will gain from using that functionality. So define the value that the feature will bring to the user. Articulating the benefit will help you build something that truly empowers your customers.\n\nIf you have not already done so, create user personas to capture who your customers are and the challenges they face. Then connect each feature to a persona so the team can visualize who you are actually trying to help. Some teams also rely on user story mapping to better understand how each feature impacts the customer journey.\n\nCapture the specific requirements needed to build the feature. Breaking the work into smaller chunks helps you visualize everything that must be completed and helps the engineering team understand how to implement the feature. Remember that your job as a product manager is not to define the technical details of how a feature should be implemented — that is the engineering team's responsibility.\n\nYou have used words to express the challenge you are trying to solve — now it is time to add visuals if needed. Create a wireframe or sketch of the desired user experience, then collaborate with the UX team to make a mockup of what the feature will look like. These visuals give the engineering team additional information so they can best implement the feature.\n\nDetermine the resources involved in building and supporting the feature. You will likely want to figure out effort, cost, and team capacity. Most teams use days to measure the time required to build a feature, but you may want to use weeks for a larger effort.\n\nAssign dates so everyone knows when you will deliver the feature. If your feature is part of a larger release, you will also need to keep a separate release date in mind. Be sure to think through how the new feature will impact the rest of the customer experience — including when you will need to complete additional work (such as updating other features or providing support materials).\n\nYou may also want to add anything that is out of scope for the feature as well as conditions for acceptance. Consult the product team to find out which information is most essential in your situation.\n\nYou may have hundreds of features that you could conceivably define. A prioritization process is necessary so you can focus on those that will bring the most business value. You may use a simple scale of value versus effort to decide which features to define first. Or choose those that you have already identified as next in the backlog.\n\nEstablish a consistent method for capturing the essential information, from target persona and challenge to visuals and timing. Below is a checklist you can refer to:\n\nWhat is a features roadmap?\n\nTips for managing and prioritizing features in Aha! Roadmaps\n\nThe features prioritization page in Aha! Roadmaps\n\nThe checklist above will get you started, but consider creating your own product feature checklist template. This will allow you to capture the specific needs of your product and customers and provide clarity for the entire team. Once you are happy with the features you have defined, it is time to prioritize what the engineering team will develop. Features are foundational — it is always worthwhile to take the time to describe exactly what you are building and why.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Product feature checklist template for product teams",
+      "id": "product-feature-checklist-template-for-product-teams"
+    },
+    {
+      "level": "h2",
+      "text": "What are product features?",
+      "id": "what-are-product-features"
+    },
+    {
+      "level": "h2",
+      "text": "Why is it important to define product features?",
+      "id": "why-is-it-important-to-define-product-features"
+    },
+    {
+      "level": "h2",
+      "text": "Step-by-step process for defining features",
+      "id": "step-by-step-process-for-defining-features"
+    },
+    {
+      "level": "h3",
+      "text": "1. Goals and initiatives",
+      "id": "1-goals-and-initiatives"
+    },
+    {
+      "level": "h3",
+      "text": "2. Score",
+      "id": "2-score"
+    },
+    {
+      "level": "h3",
+      "text": "3. Overview",
+      "id": "3-overview"
+    },
+    {
+      "level": "h3",
+      "text": "4. User challenge",
+      "id": "4-user-challenge"
+    },
+    {
+      "level": "h3",
+      "text": "5. Benefit",
+      "id": "5-benefit"
+    },
+    {
+      "level": "h3",
+      "text": "6. Persona",
+      "id": "6-persona"
+    },
+    {
+      "level": "h3",
+      "text": "7. Requirements",
+      "id": "7-requirements"
+    },
+    {
+      "level": "h3",
+      "text": "8. Visuals",
+      "id": "8-visuals"
+    },
+    {
+      "level": "h3",
+      "text": "9. Estimate",
+      "id": "9-estimate"
+    },
+    {
+      "level": "h3",
+      "text": "10. Timing",
+      "id": "10-timing"
+    },
+    {
+      "level": "h2",
+      "text": "A comprehensive checklist",
+      "id": "a-comprehensive-checklist"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist#what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist#why-is-it-important-to-define-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist#step-by-step-process-for-defining-features",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist#a-comprehensive-checklist",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist#top",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/product-management/wireframe-mockup-prototype",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/product-management/wireframe-mockup-prototype",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist#top",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-product-requirements-document-template",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist",
+    "https://www.aha.io/roadmapping/guide/marketing-templates/marketing-plan-templates",
+    "https://www.aha.io/roadmapping/guide/marketing-templates/calendar-templates",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

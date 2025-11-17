@@ -1,0 +1,104 @@
+{
+  "url": "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-participants-2",
+  "title": "Qualitative Usability Testing: Study Guide",
+  "content": "July 20, 2023 · Updated Jul. 24, 2024 2024-07-24\n\nIn the following list, we group together some of our articles and videos on topics related to qualitative usability testing. Within each section, the resources are shown in recommended reading order.\n\nIn a usability-testing session, a researcher (called a “facilitator” or a “moderator”) asks a participant to perform tasks, usually using one or more specific user interfaces. While the participant completes each task, the researcher observes the participant’s behavior and listens for feedback.\n\nIf you’re totally new to usability testing, we recommend you explore the following resources in order. If you have some prior experience, feel free to pick a subtopic and start there.\n\nUsability Testing 101\n\nA basic introduction to the concept of qualitative usability testing\n\nUser Testing: Why & How\n\nA short explanation of why you’d want to conduct a usability test (sometimes called “user testing”) and how these tests are typically performed\n\nHow to Setup a Desktop Usability Test\n\nThe equipment typically used for in-person usability testing (on desktop/laptop or mobile devices) and how to arrange that equipment\n\nHow to Set Up a Mobile Usability Test\n\nUsability Testing for Content\n\nTips for using usability testing to evaluate content\n\nQuantitative vs. Qualitative Usability Tests\n\nHow different types of study goals inform the setup of usability tests\n\nThis list of resources covers:\n\nUsability Testing 101\n\nA basic introduction to the concept of usability testing\n\n1st Pillar of Usability Testing: Typical Users\n\nWhy having realistic (“typical”) users is critical to your research\n\nRecruiting Test Participants for Usability Studies\n\nTips for finding people and convincing them to participate\n\nHow Many Test Users in a Usability Study?\n\nWhy we recommend conducting qualitative usability testing with about 5 participants per user group\n\nUsability Testing with 5 Users: Design Process\n\nMore detail about the logic behind the 5-participant recommendation\n\nUsability Testing with 5 Users: ROI Criteria\n\nUsability Testing with 5 Users: Information Foraging\n\nEmployees as Usability-Test Participants\n\nWhen it’s okay to use coworkers as usability-testing participants\n\nUsing Usability-Test Participants Multiple Times\n\nUsing the same participants for multiple usability tests\n\nThis list of resources covers:\n\n2nd Pillar of Usability Testing: Appropriate Tasks\n\nWhy task instructions are so important\n\nTurning User Goals into Task Scenarios for Usability Testing\n\nHow to decide which tasks you might want to write\n\nWriting Tasks for Quantitative and Qualitative Usability Studies\n\nHow writing tasks for qualitative usability testing differs from writing tasks for quantitative studies\n\nEyetracking Shows How Task Scenarios Influence Where People Look\n\nAn illustration of how the exact way you write your task will influence your user’s behavior\n\nHow to Maximize Insights in User Testing: Stepped User Tasks\n\nThe stepped task strategy — starting with open-ended tasks and then moving to directed, focused tasks\n\nWrite Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid\n\nThe most common task-writing mistakes and how avoid them\n\nThis list of resources covers:\n\n3rd Pillar of Usability Testing: Skilled Facilitator\n\nWhy it’s important to have an experienced facilitator run the test\n\nUser Testing Facilitation Techniques\n\nSome useful techniques for facilitating usability testing\n\nTalking with Participants During a Usability Test\n\nHow to communicate with participants without influencing or distracting them from the study\n\nThinking Aloud: The #1 Usability Tool\n\nWhy thinking out loud (sometimes called the “think-aloud protocol”) is useful\n\nTeam Members Behaving Badly During Usability Tests\n\nHow to handle observers — people who watch your study\n\nThis list of resources covers remote usability testing. There are two primary types of remote usability testing:\n\nFor more resources, check out our separate study guide on remote usability testing.\n\nRemote Usability Tests: Moderated and Unmoderated\n\nAn introduction and comparison of these two types of remote usability testing\n\nRemote Moderated Usability Tests: How and Why to Do Them\n\nWhen it’s a good idea to use moderated instead of unmoderated tested and how to conduct a remote moderated study\n\nRemote Unmoderated User Tests: How and Why to Do Them\n\nWhen it’s a good idea to use unmoderated instead of moderated testing and how to conduct a remote unmoderated study\n\nTools for Unmoderated Usability Testing\n\nTips for choosing among the many unmoderated testing tools and a spreadsheet comparing popular tools\n\nSometimes we need to modify our methodology when we’re testing with special groups of users or within special contexts. These resources cover some common special situations you might encounter.\n\nInternational Usability Testing\n\nLanguage and cultural challenges related to testing with people who live in different countries\n\nUsability Testing with Minors\n\nModifying the testing setup to make teens and children comfortable and focused during the study\n\nConducting Usability Testing with Real Users’ Real Data\n\nExtra steps needed to ensure the participants’ comfort, privacy, and security in studies involving personal information (particularly health or financial information)\n\nUsability Testing with Users' Personal Information\n\nHow to Conduct Usability Studies for Accessibility\n\nHow to adapt usability-testing practices to test with participants who use assistive technology (This report isn’t free, unlike the other resources listed in this study guide.)\n\nUsability Testing With Older Adults\n\nHow to adjust usability-testing practices to test older (65+) participants\n\nPlan, conduct, and analyze your own studies, whether in person or remote\n\nCollect insights without leaving your desk",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Qualitative Usability Testing: Study Guide",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Qualitative Usability Testing: The Method",
+      "id": "toc-qualitative-usability-testing-the-method-1"
+    },
+    {
+      "level": "h2",
+      "text": "Participants",
+      "id": "toc-participants-2"
+    },
+    {
+      "level": "h2",
+      "text": "Tasks",
+      "id": "toc-tasks-3"
+    },
+    {
+      "level": "h2",
+      "text": "Facilitating a Usability Test",
+      "id": "toc-facilitating-a-usability-test-4"
+    },
+    {
+      "level": "h2",
+      "text": "Remote Usability Testing",
+      "id": "toc-remote-usability-testing-5"
+    },
+    {
+      "level": "h2",
+      "text": "Special Usability Testing Studies or User Groups",
+      "id": "toc-special-usability-testing-studies-or-user-groups-6"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Usability Testing",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Remote User Research",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/kate-moran/",
+    "https://www.nngroup.com/articles/qual-usability-testing-study-guide/",
+    "https://www.nngroup.com/articles/qual-usability-testing-study-guide/",
+    "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-qualitative-usability-testing-the-method-1",
+    "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-participants-2",
+    "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-tasks-3",
+    "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-facilitating-a-usability-test-4",
+    "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-remote-usability-testing-5",
+    "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-special-usability-testing-studies-or-user-groups-6",
+    "https://www.nngroup.com/articles/usability-testing-101/",
+    "https://www.nngroup.com/articles/quant-vs-qual/",
+    "https://www.nngroup.com/articles/usability-testing-101/",
+    "https://www.nngroup.com/articles/recruiting-test-participants-for-usability-studies/",
+    "https://www.nngroup.com/articles/how-many-test-users/",
+    "https://www.nngroup.com/articles/employees-user-test/",
+    "https://www.nngroup.com/articles/informed-consent/",
+    "https://www.nngroup.com/articles/task-scenarios-usability-testing/",
+    "https://www.nngroup.com/articles/test-tasks-quant-qualitative/",
+    "https://www.nngroup.com/articles/user-testing-stepped-tasks/",
+    "https://www.nngroup.com/articles/better-usability-tasks/",
+    "https://www.nngroup.com/articles/talking-to-users/",
+    "https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/",
+    "https://www.nngroup.com/articles/team-members-user-test/",
+    "https://www.nngroup.com/articles/usability-checklist/",
+    "https://www.nngroup.com/articles/remote-usability-testing-study-guide/",
+    "https://www.nngroup.com/articles/remote-usability-tests/",
+    "https://www.nngroup.com/articles/moderated-remote-usability-test/",
+    "https://www.nngroup.com/articles/unmoderated-usability-testing/",
+    "https://www.nngroup.com/articles/unmoderated-user-testing-tools/",
+    "https://www.nngroup.com/articles/international-usability-testing/",
+    "https://www.nngroup.com/articles/usability-testing-minors/",
+    "https://www.nngroup.com/articles/users-real-data/",
+    "https://www.nngroup.com/articles/usability-testing-older-adults/"
+  ]
+}

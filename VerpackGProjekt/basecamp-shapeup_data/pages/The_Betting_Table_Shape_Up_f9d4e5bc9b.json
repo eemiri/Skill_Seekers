@@ -1,0 +1,384 @@
+{
+  "url": "https://basecamp.com/shapeup/2.2-chapter-08#uninterrupted-time",
+  "title": "The Betting Table | Shape Up",
+  "content": "Heads up! This page uses features your browser doesn’t support. Try a modern browser like Firefox or Chrome for the best experience.\n\nNext: Place Your Bets\n\nNow that we have some good potential bets in the form of pitches, it’s time to make decisions about which projects to schedule.\n\nCommitting time and people is difficult if we can’t easily determine who’s available and for how long. When people are available at different times due to overlapping projects, project planning turns into a frustrating game of Calendar Tetris. Working in cycles drastically simplifies this problem. A cycle gives us a standard project size both for shaping and scheduling.\n\nSome companies use two-week cycles (aka “sprints”). We learned that two weeks is too short to get anything meaningful done. Worse than that, two-week cycles are extremely costly due to the planning overhead. The amount of work you get out of two weeks isn’t worth the collective hours around the table to “sprint plan” or the opportunity cost of breaking everyone’s momentum to re-group.\n\nThis led us to try longer cycles. We wanted a cycle that would be long enough to finish a whole project, start to end. At the same time, cycles need to be short enough to see the end from the beginning. People need to feel the deadline looming in order to make trade-offs. If the deadline is too distant and abstract at the start, teams will naturally wander and use time inefficiently until the deadline starts to get closer and feel real.\n\nAfter years of experimentation we arrived at six weeks. Six weeks is long enough to finish something meaningful and still short enough to see the end from the beginning.\n\nIf we were to run six-week cycles back to back, there wouldn’t be any time to breathe and think about what’s next. The end of a cycle is the worst time to meet and plan because everybody is too busy finishing projects and making last-minute decisions in order to ship on time.\n\nTherefore, after each six-week cycle, we schedule two weeks for cool-down. This is a period with no scheduled work where we can breathe, meet as needed, and consider what to do next.\n\nDuring cool-down, programmers and designers on project teams are free to work on whatever they want. After working hard to ship their six-week projects, they enjoy having time that’s under their control. They use it to fix bugs, explore new ideas, or try out new technical possibilities.\n\nIn addition to standardizing the length of our cycles, we also roughly standardize the types of projects and teams that we bet on.\n\nOur project teams consist of either one designer and two programmers or one designer and one programmer. They’re joined by a QA person who does integration testing later in the cycle.\n\nThese teams will either spend the entire cycle working on one project, or they’ll work on multiple smaller projects during the cycle. We call the team that spends the cycle doing one project the big batch team and the team working on a set of smaller projects the small batch team. Small batch projects usually run one or two weeks each. Small batch projects aren’t scheduled individually. It’s up to the small batch team to figure out how to juggle the work so they all ship before the end of the cycle.\n\nNow that we have a standard way to think about capacity, we can talk about how we decide what to schedule.\n\nThe betting table is a meeting held during cool-down where stakeholders decide what to do in the next cycle. The potential bets to consider are either new pitches shaped during the last six weeks, or possibly one or two older pitches that someone specifically chose to revive. As we said last chapter, there’s no “grooming” or backlog to organize. Just a few good options to consider.\n\nOur betting table at Basecamp consists of the CEO (who in our case is the last word on product), CTO, a senior programmer, and a product strategist (myself).\n\nC-level time is only available in small slices, so there’s an atmosphere of “waste no time” and the call rarely goes longer than an hour or two. Everyone has had a chance to study the pitches on their own time beforehand. Ad-hoc one-on-one conversations in the weeks before usually establish some context too. Once the call starts, it’s all about looking at the options that made it to the table and making decisions.\n\nThe output of the call is a cycle plan. Between everyone present, there’s knowledge of who’s available, what the business priorities are, and what kind of work we’ve been doing lately. All of this feeds into the decision-making process about what to do and who to schedule (more on this below).\n\nThe highest people in the company are there. There’s no “step two” to validate the plan or get approval. And nobody else can jump in afterward to interfere or interrupt the scheduled work.\n\nThis buy-in from the very top is essential to making the cycles turn properly. The meeting is short, the options well-shaped, and the headcount low. When these criteria are met, the betting table becomes a place to exercise control over the direction of the product instead of a battle for resources or a plea for prioritization. With cycles long enough to make meaningful progress and shaped work that will realistically ship, the betting table gives the C-suite a “hands on the wheel” feeling they haven’t had since the early days.\n\nWe talk about “betting” instead of planning because it sets different expectations.\n\nFirst, bets have a payout. We’re not just filling a time box with tasks until it’s full. We’re not throwing two weeks toward a feature and hoping for incremental progress. We intentionally shape work into a six-week box so there’s something meaningful finished at the end. The pitch defines a specific payout that makes the bet worth making.\n\nSecond, bets are commitments. If we bet six weeks, then we commit to giving the team the entire six weeks to work exclusively on that thing with no interruptions. We’re not trying to optimize every hour of a programmer’s time. We’re looking at the bigger movement of progress on the whole product after the six weeks.\n\nThird, a smart bet has a cap on the downside. If we bet six weeks on something, the most we can lose is six weeks. We don’t allow ourselves to get into a situation where we’re spending multiples of the original estimate for something that isn’t worth that price.\n\nLet’s look at these last two points more closely.\n\nIt’s not really a bet if we say we’re dedicating six weeks but then allow a team to get pulled away to work on something else.\n\nWhen you make a bet, you honor it. We do not allow the team to be interrupted or pulled away to do other things. If people interrupt the team with requests, that breaks our commitment. We’d no longer be giving the team a whole six weeks to do work that was shaped for six weeks of time.\n\nWhen people ask for “just a few hours” or “just one day,” don’t be fooled. Momentum and progress are second-order things, like growth or acceleration. You can’t describe them with one point. You need an uninterrupted curve of points. When you pull someone away for one day to fix a bug or help a different team, you don’t just lose a day. You lose the momentum they built up and the time it will take to gain it back. Losing the wrong hour can kill a day. Losing a day can kill a week.\n\nWhat if something comes up during that six weeks? We still don’t interrupt the team and break the commitment. The maximum time we’d have to wait is six weeks before being able to act on the new problem or idea. If the cycle passes and that thing is still the most important thing to do, we can bet on it for that cycle. This is why it’s so important to only bet one cycle ahead. This keeps our options open to respond to these new issues. And of course, if it’s a real crisis, we can always hit the brakes. But true crises are very rare.\n\nWe combine this uninterrupted time with a tough but extremely powerful policy. Teams have to ship the work within the amount of time that we bet. If they don’t finish, by default the project doesn’t get an extension. We intentionally create a risk that the project—as pitched—won’t happen. This sounds severe but it’s extremely helpful for everyone involved.\n\nFirst, it eliminates the risk of runaway projects. We defined our appetite at the start when the project was shaped and pitched. If the project was only worth six weeks, it would be foolish to spend two, three or ten times that. Very few projects are of the “at all costs” type and absolutely must happen now. We think of this like a circuit breaker that ensures one project doesn’t overload the system. One project that’s taking too long will never freeze us or get in the way of new projects that could be more important.\n\nSecond, if a project doesn’t finish in the six weeks, it means we did something wrong in the shaping. Instead of investing more time in a bad approach, the circuit breaker pushes us to reframe the problem. We can use the shaping track on the next six weeks to come up with a new or better solution that avoids whatever rabbit hole we fell into on the first try. Then we’ll review the new pitch at the betting table to see if it really changes our odds of success before dedicating another six weeks to it.\n\nFinally, the circuit breaker motivates teams to take more ownership over their projects. As we’ll see in the next chapter, teams are given full responsibility for executing projects. That includes making trade-offs about implementation details and choosing where to cut scope. You can’t ship without making hard decisions about where to stop, what to compromise, and what to leave out. A hard deadline and the chance of not shipping motivates the team to regularly question how their design and implementation decisions are affecting the scope.\n\nIf the teams aren’t interrupted in the six week cycle, how do we handle bugs that come up?\n\nFirst we should step back and question our assumptions about bugs.\n\nThere is nothing special about bugs that makes them automatically more important than everything else. The mere fact that something is a bug does not give us an excuse to interrupt ourselves or other people. All software has bugs. The question is: how severe are they? If we’re in a real crisis—data is being lost, the app is grinding to a halt, or a huge swath of customers are seeing the wrong thing—then we’ll drop everything to fix it. But crises are rare. The vast majority of bugs can wait six weeks or longer, and many don’t even need to be fixed. If we tried to eliminate every bug, we’d never be done. You can’t ship anything new if you have to fix the whole world first.\n\nThat said, nobody likes bugs. We still want ways to deal with them. Three strategies have worked for us.\n\nThe key to managing capacity is giving ourselves a clean slate with every cycle. That means only betting one cycle at a time and never carrying scraps of old work over without first shaping and considering them as a new potential bet.\n\nIt is crucial to maximize our options in the future. We don’t know what will happen in the next six weeks. We don’t know what brilliant idea will emerge or what urgent request might appear.\n\nEven if we have some kind of road map in our heads at the time scale above cycles, we keep it in our heads and in our side-channel discussions. Each six weeks we learn what’s working and what isn’t, what’s important and what’s not. There’s no downside to keeping the option open and massive upside from being available to act on the unexpected.\n\nWhat about projects that just can’t be done in one cycle? In that case we still only bet six weeks at a time. Suppose we envision a feature that takes two cycles to ship. We reduce our risk dramatically by shaping a specific six week target, with something fully built and working at the end of that six weeks. If that goes as expected, we’ll feel good about betting the next six weeks the way we envisioned in our heads. But if it doesn’t, we could define a very different project. Or we could put the multi-cycle thing on pause and do something urgent that came up. The important thing is that we always shape what the end looks like for that cycle and that we keep our options open to change course.\n\nCopyright ©1999-2025 37signals LLC. All rights reserved.\n\nStop Running in Circles and Ship Work that Matters\n\nBuy the print edition",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "The Betting Table",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Six-week cycles",
+      "id": "six-week-cycles"
+    },
+    {
+      "level": "h2",
+      "text": "Cool-down",
+      "id": "cool-down"
+    },
+    {
+      "level": "h2",
+      "text": "Team and project sizes",
+      "id": "team-and-project-sizes"
+    },
+    {
+      "level": "h2",
+      "text": "The betting table",
+      "id": "the-betting-table"
+    },
+    {
+      "level": "h2",
+      "text": "The meaning of a bet",
+      "id": "the-meaning-of-a-bet"
+    },
+    {
+      "level": "h2",
+      "text": "Uninterrupted time",
+      "id": "uninterrupted-time"
+    },
+    {
+      "level": "h2",
+      "text": "The circuit breaker",
+      "id": "the-circuit-breaker"
+    },
+    {
+      "level": "h2",
+      "text": "What about bugs?",
+      "id": "what-about-bugs"
+    },
+    {
+      "level": "h2",
+      "text": "Keep the slate clean",
+      "id": "keep-the-slate-clean"
+    },
+    {
+      "level": "h1",
+      "text": "Shape Up",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Preface",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Foreword by Jason Fried",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Acknowledgements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Introduction",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 1: Shaping",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Principles of Shaping",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Set Boundaries",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Find the Elements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Risks and Rabbit Holes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Write the Pitch",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 2: Betting",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Bets, Not Backlogs",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "The Betting Table",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Place Your Bets",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 3: Building",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Hand Over Responsibility",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Get One Piece Done",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Map the Scopes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Show Progress",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Decide When to Stop",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Move On",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Conclusion",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Appendices",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Implement Shape Up in Basecamp",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Adjust to Your Size",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Begin to Shape Up",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Glossary",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "About the Author",
+      "id": ""
+    }
+  ],
+  "code_samples": [
+    {
+      "code": "small batch",
+      "language": "plaintext"
+    },
+    {
+      "code": "betting table",
+      "language": "plaintext"
+    },
+    {
+      "code": "circuit breaker",
+      "language": "plaintext"
+    }
+  ],
+  "patterns": [],
+  "links": [
+    "https://basecamp.com/shapeup/2.2-chapter-08",
+    "https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles",
+    "https://basecamp.com/shapeup/2.2-chapter-08#cool-down",
+    "https://basecamp.com/shapeup/2.2-chapter-08#team-and-project-sizes",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-betting-table",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-meaning-of-a-bet",
+    "https://basecamp.com/shapeup/2.2-chapter-08#uninterrupted-time",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-circuit-breaker",
+    "https://basecamp.com/shapeup/2.2-chapter-08#what-about-bugs",
+    "https://basecamp.com/shapeup/2.2-chapter-08#keep-the-slate-clean",
+    "https://basecamp.com/shapeup/2.3-chapter-09",
+    "https://basecamp.com/shapeup/2.3-chapter-09",
+    "https://basecamp.com/shapeup/4.0-appendix-01",
+    "https://basecamp.com/shapeup",
+    "https://basecamp.com/shapeup/0.1-foreword",
+    "https://basecamp.com/shapeup/0.2-acknowledgements",
+    "https://basecamp.com/shapeup/0.3-chapter-01",
+    "https://basecamp.com/shapeup/0.3-chapter-01#growing-pains",
+    "https://basecamp.com/shapeup/0.3-chapter-01#six-week-cycles",
+    "https://basecamp.com/shapeup/0.3-chapter-01#shaping-the-work",
+    "https://basecamp.com/shapeup/0.3-chapter-01#making-teams-responsible",
+    "https://basecamp.com/shapeup/0.3-chapter-01#targeting-risk",
+    "https://basecamp.com/shapeup/0.3-chapter-01#how-this-book-is-organized",
+    "https://basecamp.com/shapeup/1.1-chapter-02",
+    "https://basecamp.com/shapeup/1.1-chapter-02#wireframes-are-too-concrete",
+    "https://basecamp.com/shapeup/1.1-chapter-02#words-are-too-abstract",
+    "https://basecamp.com/shapeup/1.1-chapter-02#case-study-the-dot-grid-calendar",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-1-its-rough",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-2-its-solved",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-3-its-bounded",
+    "https://basecamp.com/shapeup/1.1-chapter-02#who-shapes",
+    "https://basecamp.com/shapeup/1.1-chapter-02#two-tracks",
+    "https://basecamp.com/shapeup/1.1-chapter-02#steps-to-shaping",
+    "https://basecamp.com/shapeup/1.2-chapter-03",
+    "https://basecamp.com/shapeup/1.2-chapter-03#setting-the-appetite",
+    "https://basecamp.com/shapeup/1.2-chapter-03#fixed-time-variable-scope",
+    "https://basecamp.com/shapeup/1.2-chapter-03#good-is-relative",
+    "https://basecamp.com/shapeup/1.2-chapter-03#responding-to-raw-ideas",
+    "https://basecamp.com/shapeup/1.2-chapter-03#narrow-down-the-problem",
+    "https://basecamp.com/shapeup/1.2-chapter-03#case-study-defining-calendar",
+    "https://basecamp.com/shapeup/1.2-chapter-03#watch-out-for-grab-bags",
+    "https://basecamp.com/shapeup/1.2-chapter-03#boundaries-in-place",
+    "https://basecamp.com/shapeup/1.3-chapter-04",
+    "https://basecamp.com/shapeup/1.3-chapter-04#move-at-the-right-speed",
+    "https://basecamp.com/shapeup/1.3-chapter-04#breadboarding",
+    "https://basecamp.com/shapeup/1.3-chapter-04#fat-marker-sketches",
+    "https://basecamp.com/shapeup/1.3-chapter-04#elements-are-the-output",
+    "https://basecamp.com/shapeup/1.3-chapter-04#room-for-designers",
+    "https://basecamp.com/shapeup/1.3-chapter-04#not-deliverable-yet",
+    "https://basecamp.com/shapeup/1.3-chapter-04#no-conveyor-belt",
+    "https://basecamp.com/shapeup/1.4-chapter-05",
+    "https://basecamp.com/shapeup/1.4-chapter-05#different-categories-of-risk",
+    "https://basecamp.com/shapeup/1.4-chapter-05#look-for-rabbit-holes",
+    "https://basecamp.com/shapeup/1.4-chapter-05#case-study-patching-a-hole",
+    "https://basecamp.com/shapeup/1.4-chapter-05#declare-out-of-bounds",
+    "https://basecamp.com/shapeup/1.4-chapter-05#cut-back",
+    "https://basecamp.com/shapeup/1.4-chapter-05#present-to-technical-experts",
+    "https://basecamp.com/shapeup/1.4-chapter-05#de-risked-and-ready-to-write-up",
+    "https://basecamp.com/shapeup/1.5-chapter-06",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-1-problem",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-2-appetite",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-3-solution",
+    "https://basecamp.com/shapeup/1.5-chapter-06#help-them-see-it",
+    "https://basecamp.com/shapeup/1.5-chapter-06#embedded-sketches",
+    "https://basecamp.com/shapeup/1.5-chapter-06#annotated-fat-marker-sketches",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-4-rabbit-holes",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-5-no-gos",
+    "https://basecamp.com/shapeup/1.5-chapter-06#examples",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ready-to-present",
+    "https://basecamp.com/shapeup/1.5-chapter-06#how-we-do-it-in-basecamp",
+    "https://basecamp.com/shapeup/2.1-chapter-07",
+    "https://basecamp.com/shapeup/2.1-chapter-07#no-backlogs",
+    "https://basecamp.com/shapeup/2.1-chapter-07#a-few-potential-bets",
+    "https://basecamp.com/shapeup/2.1-chapter-07#decentralized-lists",
+    "https://basecamp.com/shapeup/2.1-chapter-07#important-ideas-come-back",
+    "https://basecamp.com/shapeup/2.2-chapter-08",
+    "https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles",
+    "https://basecamp.com/shapeup/2.2-chapter-08#cool-down",
+    "https://basecamp.com/shapeup/2.2-chapter-08#team-and-project-sizes",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-betting-table",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-meaning-of-a-bet",
+    "https://basecamp.com/shapeup/2.2-chapter-08#uninterrupted-time",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-circuit-breaker",
+    "https://basecamp.com/shapeup/2.2-chapter-08#what-about-bugs",
+    "https://basecamp.com/shapeup/2.2-chapter-08#keep-the-slate-clean",
+    "https://basecamp.com/shapeup/2.3-chapter-09",
+    "https://basecamp.com/shapeup/2.3-chapter-09#look-where-you-are",
+    "https://basecamp.com/shapeup/2.3-chapter-09#existing-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#new-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#rd-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#production-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#cleanup-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#examples",
+    "https://basecamp.com/shapeup/2.3-chapter-09#questions-to-ask",
+    "https://basecamp.com/shapeup/2.3-chapter-09#does-the-problem-matter",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-appetite-right",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-solution-attractive",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-this-the-right-time",
+    "https://basecamp.com/shapeup/2.3-chapter-09#are-the-right-people-available",
+    "https://basecamp.com/shapeup/2.3-chapter-09#post-the-kick-off-message",
+    "https://basecamp.com/shapeup/3.1-chapter-10",
+    "https://basecamp.com/shapeup/3.1-chapter-10#assign-projects-not-tasks",
+    "https://basecamp.com/shapeup/3.1-chapter-10#done-means-deployed",
+    "https://basecamp.com/shapeup/3.1-chapter-10#getting-oriented",
+    "https://basecamp.com/shapeup/3.1-chapter-10#imagined-vs-discovered-tasks",
+    "https://basecamp.com/shapeup/3.2-chapter-11",
+    "https://basecamp.com/shapeup/3.2-chapter-11#integrate-one-slice",
+    "https://basecamp.com/shapeup/3.2-chapter-11#case-study-clients-in-projects",
+    "https://basecamp.com/shapeup/3.2-chapter-11#programmers-dont-need-to-wait",
+    "https://basecamp.com/shapeup/3.2-chapter-11#affordances-before-pixel-perfect-screens",
+    "https://basecamp.com/shapeup/3.2-chapter-11#program-just-enough-for-the-next-step",
+    "https://basecamp.com/shapeup/3.2-chapter-11#start-in-the-middle",
+    "https://basecamp.com/shapeup/3.3-chapter-12",
+    "https://basecamp.com/shapeup/3.3-chapter-12#organize-by-structure-not-by-person",
+    "https://basecamp.com/shapeup/3.3-chapter-12#the-scope-map",
+    "https://basecamp.com/shapeup/3.3-chapter-12#the-language-of-the-project",
+    "https://basecamp.com/shapeup/3.3-chapter-12#case-study-message-drafts",
+    "https://basecamp.com/shapeup/3.3-chapter-12#discovering-scopes",
+    "https://basecamp.com/shapeup/3.3-chapter-12#how-to-know-if-the-scopes-are-right",
+    "https://basecamp.com/shapeup/3.3-chapter-12#layer-cakes",
+    "https://basecamp.com/shapeup/3.3-chapter-12#icebergs",
+    "https://basecamp.com/shapeup/3.3-chapter-12#chowder",
+    "https://basecamp.com/shapeup/3.3-chapter-12#mark-nice-to-haves-with-",
+    "https://basecamp.com/shapeup/3.4-chapter-13",
+    "https://basecamp.com/shapeup/3.4-chapter-13#the-tasks-that-arent-there",
+    "https://basecamp.com/shapeup/3.4-chapter-13#estimates-dont-show-uncertainty",
+    "https://basecamp.com/shapeup/3.4-chapter-13#work-is-like-a-hill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#scopes-on-the-hill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#status-without-asking",
+    "https://basecamp.com/shapeup/3.4-chapter-13#nobody-says-i-dont-know",
+    "https://basecamp.com/shapeup/3.4-chapter-13#prompts-to-refactor-the-scopes",
+    "https://basecamp.com/shapeup/3.4-chapter-13#build-your-way-uphill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#solve-in-the-right-sequence",
+    "https://basecamp.com/shapeup/3.5-chapter-14",
+    "https://basecamp.com/shapeup/3.5-chapter-14#compare-to-baseline",
+    "https://basecamp.com/shapeup/3.5-chapter-14#limits-motivate-trade-offs",
+    "https://basecamp.com/shapeup/3.5-chapter-14#scope-grows-like-grass",
+    "https://basecamp.com/shapeup/3.5-chapter-14#cutting-scope-isnt-lowering-quality",
+    "https://basecamp.com/shapeup/3.5-chapter-14#scope-hammering",
+    "https://basecamp.com/shapeup/3.5-chapter-14#qa-is-for-the-edges",
+    "https://basecamp.com/shapeup/3.5-chapter-14#when-to-extend-a-project",
+    "https://basecamp.com/shapeup/3.6-chapter-15",
+    "https://basecamp.com/shapeup/3.6-chapter-15#let-the-storm-pass",
+    "https://basecamp.com/shapeup/3.6-chapter-15#stay-debt-free",
+    "https://basecamp.com/shapeup/3.6-chapter-15#feedback-needs-to-be-shaped",
+    "https://basecamp.com/shapeup/3.7-conclusion",
+    "https://basecamp.com/shapeup/3.7-conclusion#key-concepts",
+    "https://basecamp.com/shapeup/3.7-conclusion#get-in-touch",
+    "https://basecamp.com/shapeup/4.0-appendix-01",
+    "https://basecamp.com/shapeup/4.0-appendix-01#a-basecamp-team-for-shaping",
+    "https://basecamp.com/shapeup/4.0-appendix-01#basecamp-projects-for-the-cycle-projects",
+    "https://basecamp.com/shapeup/4.0-appendix-01#to-do-lists-for-scopes",
+    "https://basecamp.com/shapeup/4.0-appendix-01#track-scopes-on-the-hill-chart",
+    "https://basecamp.com/shapeup/4.1-appendix-02",
+    "https://basecamp.com/shapeup/4.1-appendix-02#basic-truths-vs-specific-practices",
+    "https://basecamp.com/shapeup/4.1-appendix-02#small-enough-to-wing-it",
+    "https://basecamp.com/shapeup/4.1-appendix-02#big-enough-to-specialize",
+    "https://basecamp.com/shapeup/4.2-appendix-03",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-a-one-six-week-experiment",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-b-start-with-shaping",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-c-start-with-cycles",
+    "https://basecamp.com/shapeup/4.2-appendix-03#fix-shipping-first",
+    "https://basecamp.com/shapeup/4.2-appendix-03#focus-on-the-end-result",
+    "https://basecamp.com/shapeup/4.5-appendix-06",
+    "https://basecamp.com/shapeup/4.6-appendix-07"
+  ]
+}

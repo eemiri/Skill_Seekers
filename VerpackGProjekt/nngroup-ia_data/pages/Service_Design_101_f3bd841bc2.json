@@ -1,0 +1,114 @@
+{
+  "url": "https://www.nngroup.com/articles/service-design-101/",
+  "title": "Service Design 101",
+  "content": "July 9, 2017 2017-07-09\n\nTraditional economics draws a clear distinction between goods and services. Goods are tangible and consumable — pens, sunglasses, or shoes. Services are instantaneous exchanges that are intangible and do not result in ownership—medical treatment, the postal service, or public transportation.\n\nToday, there is no longer a clear distinction between goods and services. A continuum of goods–services exists with a plethora of combined products and services in the middle. For example, a song (an mp3 file) is a product that can be accessed via a service like Spotify or Apple Music. To the user, the difference between a product and service—owning the sound file versus streaming the song—can be close to identical while behind the scenes they are quite different.\n\nAs services grow in sophistication, so does the need to support them. Complex user experiences often break due to an internal organizational shortcoming — a weak link in the ecosystem. For example, when was the last time you called a support hotline, gave your personal information, only to be transferred to another agent asking you to repeat the exact information you had already provided? This pain point stems from an internal process flaw that was produced by a lack of service design.\n\nMost organizations are centered around products and delivery channels. Many of the organizations’ resources (time, budget, logistics) are spent on customer-facing outputs, and the internal processes (including the experience of the organization’s employees) are overlooked; service design focuses on these internal processes.\n\nService design: The activity of planning and organizing a business’s resources (people, props, and processes) in order to (1) directly improve the employee’s experience, and (2) indirectly, the customer’s experience.\n\nImagine a restaurant where there are a range of employees: hosts, servers, busboys, and chefs. Service design focuses on how the restaurant operates and delivers the food it promises—from sourcing and receiving ingredients, to on-boarding new chefs, to server-chef communication regarding a diner’s allergies. Each moving part plays a role in the food that arrives on the diner’s plate, even though it is not directly part of their experience. Service design can be mapped using a service blueprint.\n\nIn user experience design multiple components must be designed: visuals, features and commands, copywriting, information architecture, and more. Not only must each component be designed correctly, but they also must be integrated to create a total user experience. Service design follows the same basic idea. There are several components, each one should be designed correctly, and all of them should be integrated.\n\nThe three main components of service design are people, props, and processes.\n\nThis component includes anyone who creates or uses the service, as well as individuals who may be indirectly affected by the service.\n\nThis component refers to the physical or digital artifacts (including products) that are needed to perform the service successfully.\n\nThese are any workflows, procedures, or rituals performed by either the employee or the user throughout a service.\n\nReturning to the restaurant example, people would be farmers growing the produce, restaurant managers, chefs, hosts, and servers. Props would include (amongst others): the kitchen, ingredients, POS software, and uniforms. Processes would include: employees clocking in, servers entering orders, cleaning dishes, and storing food.\n\nService components are broken down into frontstage and backstage, depending on whether the customers see them or not. Think of a theater performance. The audience sees everything in front of the curtain: the actors, costumes, orchestra, and set. However, behind the curtain there is a whole ecosystem: the director, stage hands, lighting coordinators, and set designers.\n\nThough not ever seen by the audience, the backstage plays a critical part in shaping the audience’s experience. In a restaurant, what happens in the kitchen dictates what appears on your table.\n\nFrontstage components include:\n\nBackstage components includes:\n\nService design is not simply designing a service.\n\nAs a parallel, every software application has a user interface, no matter how rudimentary. However, writing code that creates an interface as a bi-product would not be called a ‘user interface design process’. Similarly, even if the user interface were created from a deliberate design process, it would not be a product of ‘user experience design’ unless the experience of the user is taken into account.\n\nWhy do we need to care about service design and the “experience of the employee” as UX Designers? An organization’s backstage processes (how we do things internally) have as much, if not more, impact on the overall user experience as the visible points of interaction that users encounter. If a server does not successfully communicate allergies to the chef, a diner could consume food with severe consequences. If a restaurant is overcrowded, but has a systematic process for clearing tables and assigning seating, customers never have to wait or know its overcrowded in the first place.\n\nMost organizations’ resources (time, budget, logistics) are spent on customer-facing outputs, while internal processes (including the experience of the organization’s employees) are overlooked. This disconnect triggers a common, widespread sentiment that one hand does not know what the other is doing.\n\nService design bridges such organizational gaps by:\n\nThe term “service design” was coined by Lynn Shostack in 1982. Shostack proposed that organizations develop an understanding of how behind-the-scenes processes interact with each other because “leaving services to individual talent and managing the pieces rather than the whole make a company more vulnerable and creates a service that reacts slowly to market needs and opportunities.”\n\nThis is still true today, but the responsibility does not fall on only operations and management, as it did twenty years ago. Practicing service design is the responsibility of the organization as a whole.\n\nKalbach, Jim. “Mapping Experiences.” O’Reilly Media, Inc, 2016.\n\nShostack, Lynn. “Designing Services that Deliver.” Harvard Business Review, 1984.\n\nOrchestrate people, props, and processes that are core to your digital experience\n\nStrategies to stay user-centered in fast-paced Agile environments\n\nCapture and communicate UX insights across complex interactions",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Service Design 101",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "What Is a Service?",
+      "id": "toc-what-is-a-service-1"
+    },
+    {
+      "level": "h2",
+      "text": "Definition of Service Design",
+      "id": "toc-definition-of-service-design-2"
+    },
+    {
+      "level": "h2",
+      "text": "Components of ‘Service Design’",
+      "id": "toc-components-of-service-design-3"
+    },
+    {
+      "level": "h3",
+      "text": "People",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Props",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Processes",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Frontstage vs. Backstage",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Service Design vs. Designing a Service",
+      "id": "toc-service-design-vs-designing-a-service-4"
+    },
+    {
+      "level": "h2",
+      "text": "Benefits of Service Design",
+      "id": "toc-benefits-of-service-design-5"
+    },
+    {
+      "level": "h2",
+      "text": "History of Service Design",
+      "id": "toc-history-of-service-design-6"
+    },
+    {
+      "level": "h2",
+      "text": "References",
+      "id": "toc-references-7"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Service Blueprinting",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Lean UX and Agile",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Journey Mapping to Understand Customer Needs",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/sarah-gibbons/",
+    "https://www.nngroup.com/articles/service-design-101/",
+    "https://www.nngroup.com/articles/service-design-101/",
+    "https://www.nngroup.com/articles/service-design-101/#toc-what-is-a-service-1",
+    "https://www.nngroup.com/articles/service-design-101/#toc-definition-of-service-design-2",
+    "https://www.nngroup.com/articles/service-design-101/#toc-components-of-service-design-3",
+    "https://www.nngroup.com/articles/service-design-101/#toc-service-design-vs-designing-a-service-4",
+    "https://www.nngroup.com/articles/service-design-101/#toc-benefits-of-service-design-5",
+    "https://www.nngroup.com/articles/service-design-101/#toc-history-of-service-design-6",
+    "https://www.nngroup.com/articles/service-design-101/#toc-references-7",
+    "https://www.nngroup.com/articles/service-blueprints-definition/",
+    "https://www.nngroup.com/articles/channels-devices-touchpoints/",
+    "https://www.nngroup.com/articles/channels-devices-touchpoints/"
+  ]
+}

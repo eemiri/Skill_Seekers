@@ -1,0 +1,79 @@
+{
+  "url": "https://www.nngroup.com/articles/flat-design-best-practices/",
+  "title": "Flat-Design Best Practices",
+  "content": "March 12, 2017 2017-03-12\n\nSince its rise to popularity around 2012, flat design has had an influence on visual-design taste across the web. Flat is everywhere now — Apple, Amazon, Microsoft, and even IBM are flat. This isn’t just a simple web-design trend anymore.\n\nFlat design, especially when combined with strategic minimalism, can be a powerful aesthetic tool. It can convey a sense of luxury or trendiness, and in some cases can be used to appeal to young adult users. It’s a lightweight UI, and can be easier to support across a range of device sizes.\n\nUnfortunately, flat design has a major flaw: it often leads to click uncertainty and decreased user efficiency. When designers flatten the UI, they tend to remove many signifiers that normally tell users where to click. But flat doesn’t have to fail — take advantage of the following strategies to make sure your users don’t become victims of a faulty flat design.\n\nBefore you jump on the flat-design bandwagon, consider whether this style is best for your organization’s goals. Several factors will influence your potential success:\n\nEven if your organization’s characteristics fit that list, we usually advise against a totally flat UI in most situations. There are some cases where a totally flat design won’t do much harm — in designer portfolios or very simple marketing sites, for example. Such sites those can benefit from the cool factor of a flat design without sacrificing much usability — because there isn’t much to ‘use’ there in the first place.\n\nMost digital products are much more complicated than a single-page marketing site. For those interfaces, we recommend using a semiflat or flat 2.0 aesthetic instead — an evolution of the style which looks much like flat design, but incorporates subtle shadows, highlights, and layers to create some depth in the UI.\n\nOne last word of caution: Just because flat designs appear simple doesn’t necessarily mean they’re easier to design. Pulling off a flat design to any degree, from ultra-flat to flat 2.0, will require a talented visual designer.\n\nIf you’re sure a flat design is right for your product, think carefully about how you’ll communicate the clickability of every interactive element — links, buttons, form fields, sliders, and so on.\n\nNever use the same visual treatment for static text and linked text. Don’t use the same color for primary-action buttons and the background on a static heading. Use your visual design to clue users into what’s clickable on your site and what isn’t. Consistency is crucial.\n\nFollow our guidelines for signaling the clickability of text, buttons, images, graphics, tabs, and icons:\n\nUse traditional layouts and standard UI patterns as much as possible. With a standard layout, users will easily understand the purpose of each element — even without traditional, strong signifiers. Combining a standard layout with a clean visual design and ample white space helps even more, by making each section of the site more salient and understandable.\n\nPay attention to contrast. Make sure your text and elements are clearly legible and noticeable. Light grey on dark grey is a popular approach for flat design, but it rarely works well. Also, be careful when using background images beneath text.\n\nAdd back in some depth. Flat doesn’t have to be totally flat. Add back in some subtle 3D shadows or layering effects to clarify the relationships between elements.\n\nGoogle’s Material Design, which has been around since 2014, took an admirable stab at this concept. The best thing about Material Design was that it defined a carefully considered framework with specific rules, behaviors, and visual properties. Unfortunately, it’s not always implemented correctly — often shadows and layers are used just to improve aesthetics instead of supporting user mental models and building signifiers. You don’t have to adopt Material Design to get its benefits — create your own design language with semi3D properties.\n\nWhen in doubt, link it out. In situations where users could reasonably assume something is a link, it should be. For example, if a link has some descriptive text, a title, and a thumbnail image all presented together, all of those associated elements should lead to the same page.\n\nFlat design is a popular and powerful design aesthetic — when used correctly. Remember that click uncertainty isn’t just a problem for users trying to accomplish their tasks, it also means they’re liable to miss important actions that contribute to business goals. Never sacrifice usability to suit a specific design aesthetic, and always test with your users to make sure they understand your UI.\n\nReview any flat UI against this checklist to check its usability:\n\nFor more on the issues with flat design, check out our one-hour online course, The Fundamental Flaw in Flat Design.\n\nFor more general website design guidelines, please see our full-day courses, Web Page UX Design and Emerging Patterns for Web Design.\n\nUse psychology to predict and explain how your customers think and act\n\nStrategically combine content, visuals, and interactive components to design successful web pages",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Flat-Design Best Practices",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Is a Totally Flat Design Right for You?",
+      "id": "toc-is-a-totally-flat-design-right-for-you-1"
+    },
+    {
+      "level": "h2",
+      "text": "Strategies for Avoiding Click Uncertainty",
+      "id": "toc-strategies-for-avoiding-click-uncertainty-2"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-3"
+    },
+    {
+      "level": "h3",
+      "text": "Checklist",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "The Human Mind and Usability",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Web Page UX Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/kate-moran/",
+    "https://www.nngroup.com/articles/flat-design-best-practices/",
+    "https://www.nngroup.com/articles/flat-design/",
+    "https://www.nngroup.com/articles/roots-minimalism-web-design/",
+    "https://www.nngroup.com/articles/young-adults-flat-design/",
+    "https://www.nngroup.com/articles/flat-ui-less-attention-cause-uncertainty/",
+    "https://www.nngroup.com/articles/flat-design-long-exposure/",
+    "https://www.nngroup.com/articles/flat-design-best-practices/",
+    "https://www.nngroup.com/articles/flat-design-best-practices/#toc-is-a-totally-flat-design-right-for-you-1",
+    "https://www.nngroup.com/articles/flat-design-best-practices/#toc-strategies-for-avoiding-click-uncertainty-2",
+    "https://www.nngroup.com/articles/flat-design-best-practices/#toc-conclusion-3",
+    "https://www.nngroup.com/articles/flat-design/",
+    "https://www.nngroup.com/articles/clickable-elements/",
+    "https://www.nngroup.com/articles/icon-usability/",
+    "https://www.nngroup.com/articles/tabs-used-right/",
+    "https://www.nngroup.com/articles/low-contrast/",
+    "https://www.nngroup.com/articles/text-over-images/",
+    "https://www.nngroup.com/articles/response-times-3-important-limits/"
+  ]
+}

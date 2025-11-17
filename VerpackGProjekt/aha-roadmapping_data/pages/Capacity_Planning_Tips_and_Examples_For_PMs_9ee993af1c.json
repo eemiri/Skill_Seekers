@@ -1,0 +1,141 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+  "title": "Capacity Planning: Tips and Examples For PMs",
+  "content": "Last updated: September 2024\n\nCapacity planning is the process of estimating work to be completed and comparing it to the team's availability. It is a critical part of translating product plans into reality.\n\nTime and people. Product managers need to keep both in mind when planning what it will take to achieve the product roadmap. Capacity planning can help you accomplish this. During capacity planning, you estimate the effort required for upcoming work and weigh that against the cross-functional team's availability. The goal is to balance resources with the timing of your product plans — so everyone has a realistic workload and you can deliver what you say you will.\n\nThis might sound idealistic. Maybe you feel jaded at the thought of capacity planning. What is the point when plans will inevitably change? Why invest time in details that might become outdated or inaccurate?\n\nBut capacity planning is not about perfection. Your estimates will not be definitive — nor should they be (unless you can predict the future!). What matters is making the best prediction with the information you have and confirming or adjusting when needed. That way, team members can proceed with confidence and rally around one another to deliver on time.\n\nThis guide will walk you through the benefits and challenges of capacity planning, with step-by-step instructions to get started. Use the following links to jump ahead to a specific section:\n\nWhat is capacity planning?\n\nCapacity planning vs. resource planning\n\nAdvantages of capacity planning\n\nChallenges with capacity planning\n\nCapacity planning in six steps\n\nCapacity planning tools\n\nCapacity planning is the process of estimating work to complete and comparing it to the team's availability. It helps you prioritize work that will add the most value to your customers and business — in a manageable way for the team.\n\nDuring capacity planning, you are aiming to answer questions such as:\n\nIn what time frame can we complete the proposed development work?\n\nWhat must we deliver for the required features to be lovable?\n\nDo we need to make any scope adjustments to meet upcoming delivery dates?\n\nUnderstanding everyone's availability to work on a new initiative or feature can occur at both the team and individual levels. Organizations might elect to capacity plan using one or both approaches, and the choice is typically dependent on company size, team structure, and roadmap complexity. Here are some key ways to differentiate between the two.\n\nProduct development phase\n\nTeam-based capacity planning\n\nEnables you to estimate work by team and set plans based on each team’s availability\n\nHelpful in the early stages of product planning and thinking through large chunks of work. You might not know who will do the work, but you know which teams will tackle it.\n\nLarge enterprise organizations with many strategic workstreams. You can align your plans with the capacity of each team to effectively allocate resources.\n\nIndividual capacity planning\n\nHelps you analyze and track the workload for individual team members at every level of your roadmap\n\nHappens as you get closer to implementation and plan out the releases or critical features within a given time frame\n\nAny size organization. For smaller organizations, estimating capacity at the individual level might be all that is required to ensure a realistic roadmap.\n\nTeams can measure effort in people, hours, cost, or story points over weeks, months, quarters, and so on. Your approach will vary based on several factors, such as the timeline for achieving your roadmap, team structure, and product development methodology. There is no right or wrong way to go about it if you gather inputs consistently across teams.\n\nUse Aha! Roadmaps to visualize each team's availability in time, story points, or people — as pictured above.\n\nCapacity planning might seem complex (and it can be), but it is a shared responsibility. As a product manager, you will focus on creating a high-level plan for an initiative or release. A project manager or engineering manager will then dive into the precise scheduling details as the start date gets closer. Although you might not manage each initiative at a granular level, you still ensure product plans are achievable and realistic.\n\nTutorial: Is bad capacity planning destroying your roadmap?\n\nGetting started with capacity planning\n\nIntroduction to capacity planning\n\nCapacity planning and resource planning are often used interchangeably, but they address different aspects of managing your team's workload. Capacity planning focuses on the \"what,\" determining how much work can be done within a specific time frame based on team availability. On the other hand, resource planning focuses on the \"who,\" allocating specific people to tasks and ensuring you have the right skills available to meet a project's needs.\n\nCapacity planning helps you set realistic expectations by assessing your team’s overall workload and availability. It is crucial for aligning work with strategic goals and ensuring nobody is overloaded.\n\nResource planning matches individual team members to tasks based on their skills and availability — optimizing how work is executed day to day.\n\nBoth are essential for effective product development. But capacity planning provides the big-picture view you need to make informed decisions about what your team can realistically achieve.\n\nBalancing available resources with the workload and timing of your plans is fundamental to roadmap success.\n\nDirector of product marketing\n\nMissing a deadline does not feel great. Same goes for feeling unsure whether the team's talents and time are being used to their full potential. You want the entire team to feel confident in the amount of work scheduled so the product roadmap is within reach. This is possible when you strike the right balance between jobs to be done and team availability.\n\nDone well, capacity planning boosts efficiency and helps everyone derive value from their contributions. Here are a few additional benefits to consider:\n\nSet achievable plans: When you know the effort needed to deliver, you can better predict delivery dates and ensure fewer delays, bottlenecks, and surprises.\n\nAnticipate resourcing problems: Based on what you discover with capacity planning, you can identify features that are at risk, realign tasks, adapt the scope of an initiative, or hire more people to support the roadmap.\n\nMake better tradeoff decisions: Measuring work against team availability encourages more informed choices about where to invest effort and what to build next.\n\nMost importantly, capacity planning helps you put people first. You want to ensure you have enough time to deliver against your business objectives. But understanding team capacity is what will help you create a plan that empowers everyone to do their best work.\n\n\"Important\" does not mean \"easy.\" The most critical tasks on your to-do list are often the hardest to accomplish, and capacity planning is no different. Accurately estimating the effort required to complete upcoming work is a huge challenge. Even the most seasoned product managers struggle to set realistic estimations. Here are a few reasons why:\n\nUnclear strategy or goals\n\nWithout a guiding framework, it is nearly impossible to prioritize tasks and allocate resources effectively. Ambiguous goals create uncertain priorities, making it hard to align team efforts with overall objectives. This leads to a lack of focus and unreliable estimates.\n\nComplex projects involve careful consideration of time, skills, risks, and dependencies. In large organizations, multiple teams often work on various initiatives simultaneously. This makes it difficult to anticipate availability and calculate delivery dates.\n\nMarket shifts or unforeseen events can disrupt capacity planning. Changes in demand or unexpected regulatory and economic changes might also force teams to adjust plans, impacting workflows and resource needs.\n\nThe planning fallacy describes our tendency to underestimate how long tasks take. This optimism bias leads teams to (wrongly) believe current plans are realistic, despite prior experiences to the contrary.\n\nPlanning capacity through ad hoc meetings can be chaotic. And documenting the outcomes within spreadsheets, presentations, or emails can be equally messy. This disorganized approach makes it difficult for stakeholders to understand and for you to clearly communicate resource needs.\n\nMany teams use Aha! Roadmaps to estimate capacity accurately and communicate painlessly. You can set team-based estimates, experiment with different scenarios, visualize each cross-functional team’s workload, and share detailed capacity reports. This helps you determine whether you have enough people to deliver your big plans on time. And you can easily reallocate and reschedule work across teams directly from the report to fine-tune your approach. Let's look at how to do that in the next section.\n\nAha! Roadmaps offers capacity planning for both individuals and teams.\n\nEach company and team approaches capacity planning differently. If you are doing high-level planning — using initiatives, let's say — you will most likely estimate work by team. You will create different scenarios based on what you want to complete, then use this information to get feedback and allocate resources.\n\nLet's walk through an example. Even though the focus below is on team-based capacity planning, many of the steps outlined apply at the individual level as well.\n\n1. Decide the level of detail\n\nFigure out which level of work you want to estimate. For example, you could create only high-level estimates of an initiative as part of your roadmap planning. Then, as you get closer to delivery, you can estimate in greater detail at the release or feature level.\n\n2. Choose an estimation unit\n\nCommon ways to estimate include people, hours, cost, or story points. You can use different timelines and estimation methods to create multiple versions of your plan — so you can pick the best scenario for your needs. Stay consistent once you select a unit to ensure accurate estimation across teams and projects.\n\nChoose a period for estimates. For example, you could view capacity per half, quarter, month, or week. Be mindful to use the same time frame when comparing different planning scenarios.\n\nHow many people will be doing the work? And when are they able to do it? Collaborate with your cross-functional team leads to understand team availability within your given time frame. Pay attention to variables such as team members' scheduled vacation time, holidays, and so forth. (And remember: Do not let the planning fallacy disrupt your plans!)\n\nBegin to set target completion dates, estimate work, and allocate resources. Instead of doing complex calculations on your own, you can use a tool such as Aha! Roadmaps to configure a scenario and forecast how much effort will be required to complete the work (in your estimation unit of choice).\n\nConfirm which plan is the best by creating alternative scenarios to understand trade-offs. For instance, you might want to see how changing dates, assigning work to another team, or reducing scope impacts the allocation of work and deadlines. Scenario planning helps you explore different ways of working — so you can understand exactly what it will take to deliver against your roadmap. (Scenario-based capacity planning does not apply at the individual level.)\n\nEstimate work for capacity planning\n\nIndividual capacity planning\n\nThere are a variety of capacity planning tools available, each offering different features depending on your team's needs. Choosing the best one comes down to what you want to emphasize — whether it is overall capacity planning or more targeted resource management.\n\nTeams that do capacity planning in Aha! Roadmaps can visualize workloads using a dynamic team or individual capacity report. Select timelines and estimation units to match your strategic planning process, then evaluate team feasibility. You can edit estimates and reassign work directly from the capacity report, driving confidence in your roadmap plans.\n\nYou do not have to be a capacity planning expert to be a successful product manager. But the more knowledge you have, the more informed you will be about future product plans. Understanding how capacity planning works can help you make better trade-off decisions, align the team around realistic plans, and build more of what matters for customers.\n\nHow often should capacity planning be done?\n\nCapacity planning should be an ongoing activity, not a one-time task. Regular reviews (ideally during every sprint or planning cycle) allow you to adjust for changes in workload, team availability, and priorities. The goal is to keep your planning aligned with current realities.\n\nHow does capacity planning improve team performance?\n\nCapacity planning helps ensure your team is neither overburdened nor underutilized. By matching team capacity with work demands, you can better balance workloads and avoid burnout. As a result, overall productivity (and happiness) increases.\n\nHow do I handle capacity constraints or bottlenecks?\n\nAddress capacity constraints by identifying and prioritizing the most critical work. You might need to reassign tasks, adjust timelines, or bring in additional resources. Close collaboration and transparent communication across teams is essential. That way, you can make everyone apprised of any constraints and keep progress moving.\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Capacity planning for product managers",
+      "id": "capacity-planning-for-product-managers"
+    },
+    {
+      "level": "h4",
+      "text": "Explore capacity reports in Aha! Roadmaps. Sign up for a free trial.",
+      "id": "explore-capacity-reports-in-aha-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "What is capacity planning?",
+      "id": "what-is-capacity-planning"
+    },
+    {
+      "level": "h2",
+      "text": "Capacity planning vs. resource planning",
+      "id": "capacity-planning-vs-resource-planning"
+    },
+    {
+      "level": "h2",
+      "text": "Advantages of capacity planning",
+      "id": "advantages-of-capacity-planning"
+    },
+    {
+      "level": "h2",
+      "text": "If capacity planning is so good, why is it so hard to do?",
+      "id": "if-capacity-planning-is-so-good-why-is-it-so-hard-to-do"
+    },
+    {
+      "level": "h2",
+      "text": "Capacity planning in 6 steps",
+      "id": "capacity-planning-in-6-steps"
+    },
+    {
+      "level": "h2",
+      "text": "Capacity planning tools",
+      "id": "capacity-planning-tools"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about capacity planning",
+      "id": "faqs-about-capacity-planning"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/plans2",
+    "https://www.aha.io/roadmapping/guide/product-management/what-does-a-product-manager-do-each-day",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/product-management/product-managers-other-teams",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#what-is-capacity-planning",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#capacity-planning-vs-resource-planning",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#advantages-of-capacity-planning",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#if-capacity-planning-is-so-good-why-is-it-so-hard-to-do",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#capacity-planning-in-six-steps",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#capacity-planning-tools",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/how-to-prepare-and-run-an-effective-pi-planning-event",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/product-strategy/product-management-enterprise-transformation",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/product-management/how-can-i-learn-to-be-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#top",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-the-jobs-to-be-done-framework",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+  "title": "SAFe®: A Guide for Product Development Teams",
+  "content": "Last updated: January, 2025\n\nTransforming an organization to embrace agile principles at scale is a significant challenge. Many teams start strong with agile practices like standups and sprints, but scaling those practices across departments and aligning multiple teams can quickly become overwhelming. That is where the Scaled Agile Framework® (SAFe®) comes in.\n\nSAFe offers a structured approach to scaling agile principles across an organization. Developed by Scaled Agile in 2011, the framework has been adopted by more than one million practitioners and is used by 70% of Fortune 100 companies. It provides tested methods for bringing order to complexity — but its structured nature also sparks debate.\n\nSome product managers view SAFe as overly rigid, citing hefty planning processes and frequent ceremonies. But for others, it provides the clarity and alignment needed to deliver at scale. Whether you are skeptical or intrigued, it is worth understanding what SAFe is and how it works before deciding if it fits your team's needs. Then, you can assess whether to adopt (or adapt) SAFe practices for your team or explore more flexible methodologies.\n\nThis guide provides a walkthrough of SAFe fundamentals. If you want to dive right into SAFe with a hands-on approach, this collection of program increment (PI) planning whiteboard templates in Aha! Whiteboards will help you get started. And when you are ready to formalize your PI plans, consider using Aha! Develop to streamline delivery.\n\nKeep reading or jump ahead to any section of the guide:\n\n10 principles of SAFe\n\nSAFe levels and roles\n\nSAFe planning and implementation\n\nSAFe vs. other agile frameworks\n\nIs SAFe right for your organization?\n\nSAFe is a methodology designed to help organizations implement agile practices across multiple teams and leadership levels. It provides a structured set of principles and workflows to align teams around shared goals, coordinate cross-functional work, and deliver value efficiently.\n\nBuilt on agile and lean principles, SAFe emphasizes iterative planning, continuous delivery, and customer-centric thinking. Its goal is to ensure consistency and alignment in even the most complex organizational environments.\n\nHowever, SAFe's structured nature sparks debate. Critics argue that it can feel overly rigid — potentially stifling the flexibility and innovation agile is known for. But supporters contend that SAFe offers order and alignment to large-scale efforts where chaos can stifle progress.\n\nThis tension highlights an important question: How do you balance agility with the complexity of scaling across an entire organization?\n\nWhat is the role of a SAFe product manager?\n\nPI planning basics for SAFe product teams\n\nAgile software development best practices\n\nTo understand how SAFe aims to balance agility and structure, it helps to start with the core principles that guide the framework. Just as the Agile Manifesto laid the foundation for common agile practices, these ten principles provide the basis for scaling agile across teams and organizations while maintaining alignment and delivering value:\n\n1. Take an economic view: Delivering the best products quickly benefits both customers and the organization's bottom line, leading to faster return on value through incremental delivery.\n\n2. Apply systems thinking: Borrowing insights from American business management expert and engineer W. Edwards Deming, SAFe views organizations as interconnected systems. Optimizing means focusing on the whole system rather than its individual parts.\n\n3. Assume variability; preserve options: Acknowledge that not everything is known upfront. Maintain flexibility in design and planning to better accommodate change.\n\n4. Build incrementally with fast integrated learning cycles: Iterative development enables quick feedback loops and course correction, leading to continuous improvement.\n\n5. Base milestones on objective evaluation of working systems: Instead of phase-gate milestones (such as traditional waterfall processes), frequent milestones for delivering working software provide clear, objective measures of progress.\n\n6. Make value flow without interruptions: SAFe defines flow as occurring \"when there is a smooth, linear, and fast movement of work product from step to step in a relevant value stream.\" Because the concept of flow is so central, any interruptions must be identified and addressed.\n\n7. Apply cadence; synchronize with cross-domain planning: Regular cadence creates predictability, while synchronization across groups such as product, engineering, marketing, and sales speeds decision-making and reduces risk.\n\n8. Unlock the intrinsic motivation of knowledge workers: Employees thrive in creative, complex jobs when given autonomy, mastery, and purpose, leading to better outcomes.\n\n9. Decentralize decision-making: Decisions should be made by those closest to the data; only strategic long-term decisions are centralized to prevent delays.\n\n10. Organize around value: Focus on delivering end-to-end value to customers, making it a competitive advantage and enabling faster response to market changes.\n\nThe principles of SAFe provide the philosophical foundation for the framework, but putting them into practice requires a clear structure. SAFe organizes work across multiple levels and defines specific roles to establish alignment and accountability as teams collaborate to deliver value. There are four configurations (with the latest 6.0 version released in 2023), each building upon the previous to address varying organizational needs:\n\nWithin every configuration, SAFe emphasizes measuring success through flow, value, and alignment. Teams use specific metrics to assess their performance. These include lead time, predictability, customer satisfaction, and return on investment. The goal is to ensure teams deliver high-quality outcomes quickly and strategically.\n\nHere is a snapshot of each level. (For more in-depth information, we suggest exploring the SAFe Studio.)\n\nAgile team and agile release train (ART)\n\nAgile teams: Small, cross-functional teams using frameworks like scrum or kanban\n\nART: Five to 12 agile teams sharing a synchronized cadence and PI planning. These teams rely on iteration planning, weighted shortest job first (WSJF) prioritization, and continuous delivery.\n\nDelivering value at the team and program level\n\nMultiple ARTs and external suppliers\n\nSolution train: Aligns multiple ARTs to deliver complex systems\n\nSolution train engineer role: Ensures coordination across ARTs\n\nEvents: Pre- and post-PI planning for cross-ART alignment\n\nManaging large multi-ART solutions and reducing complexity in delivery across ARTs and suppliers\n\nStrategic alignment across multiple ARTs\n\nPortfolio kanban: Visualizes epics and progress\n\nLean budgeting: Allocates funding to value streams\n\nEpic-level prioritization: Supports high-level forecasting and alignment with strategy\n\nAligning programs with business strategy and prioritizing large-scale initiatives\n\nEntire enterprise with multiple value streams\n\nCombines all levels of SAFe. Synchronizes essential practices (teams and ARTs), large solution coordination, and portfolio management. Adds enterprise-level roles and governance.\n\nManaging enterprise-level organizations with highly complex systems\n\nEssential SAFe has two levels: the agile team and the ART. Let's begin with the team level: the simplest starting point for SAFe implementation.\n\nEach agile team has five to nine cross-functional members, including a scrum master and product owner. Teams focus on delivering features or components using frameworks like scrum, kanban, or XP. At the team level, work is mapped out through iteration planning, where teams commit to specific tasks for a short iteration (typically two to three weeks). Teams prioritize work using a shared backlog and prioritization frameworks like WSJF, which ranks backlog items based on their cost of delay divided by the work's duration.\n\nThe next step up from agile teams is the ART. An ART is a group of five to 12 agile teams (50–150 people) working toward a shared mission. All teams on the ART share a synchronized PI planning process and cadence.\n\nSo whereas agile teams focus on iteration planning for their individual tasks, the ART uses PI planning to align all teams on a shared set of objectives for a PI (which is typically eight to 12 weeks). PI planning ensures work is coordinated across teams, dependencies are identified and managed, and progress toward the ART's shared goals remains visible. By operating at this higher level of coordination, the ART enables teams to deliver value together — incrementally and predictably — while retaining the flexibility to adapt as priorities shift.\n\nLarge Solution SAFe builds on Essential SAFe by adding roles, events, and tools needed to deliver complex systems, applications, or networks that require coordination across multiple ARTs and external suppliers (but without portfolio-level concerns, which comes later with Portfolio SAFe).\n\nThis configuration introduces a solution train that aligns multiple ARTs and external suppliers. Teams and ARTs still follow the practices in Essential SAFe, with the additional roles and events in Large Solution SAFe designed to manage dependencies and encourage collaboration across ARTs.\n\nFor example, there are new roles within the solution train such as the solution train engineer, who ensures multiple ARTs stay aligned and coordinated throughout the PI. There are also additional events, such as pre-and post-PI planning, which require ARTs and suppliers to refine objectives before PI planning and review the outcomes afterward.\n\nPortfolio SAFe extends the framework further by connecting multiple programs and ARTs. It focuses on aligning work with strategic goals through lean budgeting, funding value streams instead of individual projects, and prioritizing cost-cutting initiatives (epics).\n\nAt the portfolio level, a portfolio kanban provides transparency into epics and their progress. Tools like agile forecasting and epic estimates help portfolio managers create high-level roadmaps.\n\nFull SAFe is the most comprehensive configuration, combining all levels of SAFe into an integrated framework. It includes the team-level practices of Essential SAFe, the multi-ART coordination of Large Solution SAFe, and the strategic alignment of Portfolio SAFe. It is popular among very large organizations with multiple value streams and highly complex systems requiring tight coordination.\n\nFull SAFe enables organizations to synchronize efforts across the entire enterprise, ensuring that every level — from teams to portfolios — is aligned toward delivering maximum value in the face of complexity and change.\n\nPlanning and implementation are central to SAFe's success. After selecting the right configuration, the focus shifts to how work is planned, executed, and tracked across teams and organizational levels. At the core of this are two key elements: PI planning, which aligns ART teams around shared objectives, and the spanning palette, which provides tools and practices that promote alignment and visibility at every level. Together, these elements create a structured, yet adaptable framework for delivering value.\n\nPI planning is a key SAFe practice that brings together ART teams to align on priorities and commit to a shared plan for the next increment. This collaborative event typically occurs every eight to 12 weeks, aligning with quarterly business cycles.\n\nPI planning provides a structured way to translate high-level goals into actionable work for teams. Key stakeholders — including development, product management, and leaders — align on the increment's business vision, technical priorities, and objectives.\n\nHere is how PI planning typically unfolds:\n\nDefine and prioritize work: Product management presents features and priorities for the increment.\n\nBreak down work: Development teams decompose features into user stories, estimate capacity, and identify risks and dependencies.\n\nResolve risks: Release train engineers (RTEs) and scrum masters collaborate to address identified risks and ensure dependencies are managed.\n\nReview and adjust: Leadership reviews the proposed plan, making adjustments to scope or objectives as needed.\n\nCommit to the plan: Teams vote on the finalized plan to discern shared confidence and alignment.\n\nOnce the plan is set, teams execute it using agile practices, including iteration planning, delivering to acceptance criteria, and continuously improving through demos and retrospectives. ART-wide synchronization enhances predictability and agility, while release timing remains flexible (whether based on PI completion, continuous delivery, or another cadence suited to business needs).\n\nPI planning is foundational in SAFe and adapts to the scale of each configuration:\n\nEssential ART: Focuses on aligning teams within a single ART around shared objectives\n\nLarge Solution: Expands coordination to multiple ARTs supported by solution train engineers to manage dependencies across teams\n\nPortfolio: Connects ART-level planning to portfolio objectives, creating alignment with strategic goals\n\nFull SAFe: Orchestrates planning and alignment across solution trains, ARTs, and portfolios to establish enterprisewide coordination\n\nHow to prepare and run a PI planning event\n\nHow to run SAFe PI planning with whiteboards\n\nPI planning vs. release planning\n\nWhat is the role of a product manager in SAFe?\n\nThe spanning palette provides roles, artifacts, and practices that apply across all SAFe configurations, from individual teams to large portfolios. It acts as a unifying framework — ensuring all levels of the organization stay aligned and focused on delivering value.\n\nIn Essential SAFe, the spanning palette includes foundational elements that guide and support PI planning and execution:\n\nVision: Defines the broader business objectives and provides context for each PI, helping teams stay aligned and motivated\n\nRoadmap: Offers a high-level plan across multiple PIs, enabling long-term planning and coordination with strategic goals\n\nBacklogs: Translate roadmap objectives into actionable work, making sure prioritized features and tasks flow seamlessly into PI planning\n\nIn Large Solution SAFe and Full SAFe, the spanning palette expands to support coordination across multiple ARTs and solution trains. These elements ensure that work remains visible and aligned at every organizational level, even in highly complex systems.\n\nBy combining vision, roadmap, and backlog, the spanning palette helps teams balance strategic alignment with agile execution. It allows teams to stay focused on long-term objectives while adapting to change, making it a critical tool for scaling agile effectively.\n\nSAFe is a popular framework for scaling agile across large organizations, but it is not the right fit for everyone. Some teams find it too complex or resource-intensive to implement effectively. As a result, many organizations explore alternative frameworks to scale agile while tailoring practices to their specific needs.\n\nThe best framework for your organization depends on your goals, team structure, and desired level of flexibility — whether you aim to improve workflow efficiency or align strategy with execution.\n\nBelow, we compare several frameworks at scale, including SAFe, scrum, kanban, and The Aha! Framework for product development. This comparison highlights the primary focus, practices, and suitability of each approach for large organizations.\n\nTeam size and structure\n\nScaling agile across large teams, aligning development with business strategy, and managing dependencies\n\nAgile release trains (ARTs), PIs, lean portfolio management\n\nLarge-scale cross-functional teams (50-150+ people)\n\nLarge organizations managing complex products and systems, or portfolios requiring strategic alignment\n\nOptimizing workflow efficiency and visibility across multiple teams or departments\n\nContinuous flow, work-in-progress (WIP) limits, advanced analytics, and visual boards\n\nFlexible; suitable for teams or enterprise-level adoption\n\nOrganizations prioritizing operational efficiency and flexibility without a rigid structure\n\nScaling scrum practices to coordinate multiple teams and deliver iterative value\n\nTime-boxed sprints, scaled ceremonies, scrum of scrums coordination\n\nMultiple scrum teams working in synchronized iterations\n\nCompanies focused on iterative delivery, team collaboration, and frequent customer feedback\n\nIntegrating strategy and execution with a simple, efficient approach to agile work\n\nBiannual strategic alignment, one- to two-week sprints, continuous delivery\n\nSuitable for small teams or large cross-functional organizations\n\nProduct-driven organizations seeking strategic alignment without unnecessary complexity\n\nYou might have noticed The Aha! Framework included in the table above. As a newer approach, it is likely less familiar than frameworks like SAFe or Scrum@Scale. The Aha! Framework for product development is designed to meet the needs of enterprise organizations managing multiple portfolios, but it takes a simpler, more intuitive approach.\n\nUnlike SAFe, it aligns with the natural stages of product development — avoiding complex terminology and costly certifications that can create barriers to adoption. Its flexibility allows product teams to incorporate its practices into existing workflows and meetings with minimal disruption.\n\nFor large organizations seeking to scale agile practices efficiently (without the added complexity of traditional frameworks), The Aha! Framework offers a streamlined and accessible alternative.\n\nSee if The Aha! Framework is right for you\n\nThe Aha! Framework vs. scrum vs. SAFe vs. kanban\n\nThe activities in The Aha! Framework\n\nHow to adopt The Aha! Framework\n\nSAFe's prescriptive nature can be its greatest strength and biggest challenge. Although it brings order to complex multiteam efforts, it can also feel confining. For example, imagine your company is finalizing a product update when a sudden shift in customer demand requires immediate prioritization of a new feature. With SAFe, pivoting might involve multiple layers of approval — from portfolio managers to product owners to RTEs. Each layer must assess the change, recalibrate priorities, and account for dependencies within existing PI plans. This thorough process ensures alignment, but it can slow response times and make it harder to seize new opportunities.\n\nThe best methodologies are liberating — not constricting. They empower the team with the structure needed to accomplish more, faster.\n\nAha! co-founder and CEO\n\nNo framework is perfect, but teams deserve one that enables rather than restricts. If these challenges with SAFe resonate, it might be time to explore alternatives. Frameworks such as The Aha! Framework for product development offer a more flexible approach, enhancing or complementing your current methods. With its simplified structure, The Aha! Framework allows teams to focus on impactful work rather than process constraints. Tools like Frameworks in Aha! Roadmaps further support this flexibility by enabling teams to customize workflows to fit their specific needs.\n\nUltimately, scaling agile is not about rigidly adhering to a playbook. It is about finding the right balance between structure and adaptability. SAFe is a powerful framework for organizations requiring high levels of coordination and strategic alignment, but it is not the only option. The best choice is the one that aligns with your goals, team dynamics, and appetite for change. This empowers your teams to deliver value with speed and clarity.\n\nWhat is the difference between SAFe and other frameworks for scaling agile?\n\nDisciplined Agile Delivery, Large Scale Scrum, Nexus, and Scrum@Scale offer similar approaches to scaling agile practices. The main differences between these frameworks and SAFe are popularity and complexity. SAFe is by far the most widely practiced large-scale agile framework. It is also the most sophisticated, with many explicit guidelines and processes. Smaller early-stage organizations might prefer the more flexible, less-prescriptive approaches of alternate frameworks. But for major enterprises coordinating full-scale business agility, SAFe provides the steadiest foundation to build upon.\n\nWhat is new in SAFe 6.0?\n\nSAFe is always evolving. SAFe 6.0 is the latest iteration of the framework and was announced in 2023. Overall, SAFe 6.0 provides more guidance for business agility and adaptability — enabling organizations to respond to changing environments with greater speed and clarity (as well as to integrate emerging technologies like AI).\n\nWhat are SAFe certifications?\n\nSAFe offers a variety of certification programs for learning, leading, and implementing the framework. You can train to become a SAFe-certified product owner, scrum master, product manager, software engineer, and more with dedicated courses. Many SAFe practitioners pursue certifications to cement their knowledge of the framework and expand their career opportunities. Getting SAFe certified as a team can also set you up to be more successful in your agile transformation.\n\nIt offers the product development guidelines you need — with more flexibility.\n\nThe Aha! Framework for product development is defined, yet adaptable.\n\nWe bet you will check off at least a few items in this list.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "A guide to the Scaled Agile Framework® for product development",
+      "id": "a-guide-to-the-scaled-agile-framework-for-product-development"
+    },
+    {
+      "level": "h4",
+      "text": "Coordinate agile delivery at scale — start a free trial of Aha! software.",
+      "id": "coordinate-agile-delivery-at-scale-"
+    },
+    {
+      "level": "h2",
+      "text": "What is SAFe®?",
+      "id": "what-is-safe"
+    },
+    {
+      "level": "h2",
+      "text": "10 principles of SAFe®",
+      "id": "10-principles-of-safe"
+    },
+    {
+      "level": "h2",
+      "text": "SAFe® levels and roles",
+      "id": "safe-levels-and-roles"
+    },
+    {
+      "level": "h3",
+      "text": "Essential SAFe®",
+      "id": "essential-safe"
+    },
+    {
+      "level": "h4",
+      "text": "Team",
+      "id": "team"
+    },
+    {
+      "level": "h4",
+      "text": "ART",
+      "id": "art"
+    },
+    {
+      "level": "h3",
+      "text": "Large Solution SAFe®",
+      "id": "large-solution-safe"
+    },
+    {
+      "level": "h3",
+      "text": "Portfolio SAFe®",
+      "id": "portfolio-safe"
+    },
+    {
+      "level": "h3",
+      "text": "Full SAFe®",
+      "id": "full-safe"
+    },
+    {
+      "level": "h2",
+      "text": "SAFe® planning and implementation",
+      "id": "safe-planning-and-implementation"
+    },
+    {
+      "level": "h3",
+      "text": "PI planning",
+      "id": "pi-planning"
+    },
+    {
+      "level": "h3",
+      "text": "SAFe® spanning palette",
+      "id": "safe-spanning-palette"
+    },
+    {
+      "level": "h2",
+      "text": "How does SAFe® compare to other agile frameworks?",
+      "id": "how-does-safe-compare-to-other-agile-frameworks"
+    },
+    {
+      "level": "h4",
+      "text": "The Aha! Framework for product development is a repeatable process for building lovable products. Learn more.",
+      "id": "the-aha-framework-for-product-development-is-a-repeatable-process-for-building-lovable-products"
+    },
+    {
+      "level": "h2",
+      "text": "Is SAFe® right for your organization?",
+      "id": "is-safe-right-for-your-organization"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about SAFe®",
+      "id": "faqs-about-safe"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "The Aha! Framework for product development",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Balance strategic planning and agile delivery using The Aha! Framework",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Is The Aha! Framework right for you? Use this new checklist.",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-the-role-of-pm-in-safe",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#what-is-safe",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#10-principles-of-SAFe",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#SAFe-levels-and-roles",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#safe-planning-and-implementation",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#how-does-safe-compare-to-other-agile-frameworks",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#is-safe-right-for-your-organization",
+    "https://www.aha.io/roadmapping/guide/agile/an-introductory-guide-to-agile-project-management",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-the-role-of-pm-in-safe",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-pi-planning",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#top",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile-development/what-is-the-role-of-a-software-engineer",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#top",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-a-portfolio-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#essential-safe",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#large-solution-safe",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#portfolio-safe",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#full-safe",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-the-role-of-pm-in-safe#which-roles-do-safe-product-managers-work-with",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/kanban-product-management",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-pi-planning",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#portfolio-safe",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#top",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-pi-planning",
+    "https://www.aha.io/roadmapping/guide/product-management",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-pi-planning",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/how-to-prepare-and-run-an-effective-pi-planning-event",
+    "https://www.aha.io/roadmapping/guide/pi-planning-vs-release-planning",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-the-role-of-pm-in-safe",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/product-management/product-management-certifications",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/agile/agile-transformation",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-the-role-of-pm-in-safe",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-pi-planning",
+    "https://www.aha.io/roadmapping/guide/pi-planning-vs-release-planning",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/how-to-prepare-and-run-an-effective-pi-planning-event",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development"
+  ]
+}

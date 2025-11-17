@@ -1,0 +1,43 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/periods",
+  "title": "Periods",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nDon’t use end punctuation in headlines, headings, subheadings, UI titles, UI text, or simple lists (three or fewer words per item).\n\nEnd all sentences with a period, even if they're only two words. Put one space, not two, after a period.\n\nFor information about how to use periods in bulleted lists and numbered lists, see Lists.\n\nHeadline example Be brief—make every word count\n\nText example Be brief. Make every word count.\n\nWhen a phrase ending with a colon introduces a bulleted list:\n\nIf one or more list elements complete the introductory phrase preceding the colon, use a period after every list element.\n\nIf all list elements are short phrases (three words or fewer), don’t end them with periods, even if they form a complete sentence together with the list introduction.\n\nIf one or more list elements are complete sentences, use a period after every element, even if a list element contains three or fewer words.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Periods",
+      "id": "periods"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/periods",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/periods",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/periods",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/periods",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/periods",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/periods",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists"
+  ]
+}

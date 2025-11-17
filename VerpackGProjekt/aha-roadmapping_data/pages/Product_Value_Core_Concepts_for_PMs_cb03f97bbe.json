@@ -1,0 +1,142 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+  "title": "Product Value: Core Concepts for PMs",
+  "content": "Product value is an aggregate of all the work that a company does to strategize, build, launch, market, sell, and support an offering. Teams that follow value-based product development create a shared definition of product value that informs the metrics used to vet what gets built and understand performance.\n\nThink about how you determine the true value of a product. You might think it is the monetary amount that customers are willing to pay for it. Or you might focus on basic profitability: the total revenue minus the cost to develop. Other methods of product value measurement could include how well the product solves an intended problem, customer affinity or NPS scores, and market position in comparison to similar offerings. All of the above are valuable considerations.\n\nValue is as value does. Meaning: You can say that your product has a specific worth, but it is only true if it delivers on that promise. There is the value that a product brings to the company, the team that develops it, and the user. There is tangible and intangible value. Understanding the nuances can help you create a more fulsome definition of your product’s value — so that you can make better choices and keep the team focused on what matters most.\n\nUse the following links to jump ahead to a specific section:\n\nHow is the value of a product determined?\n\nWhat are different types of product value?\n\nWhat is a product value proposition?\n\nWhat is a product value statement?\n\nWhy measure product value?\n\nValue differs from product to product, industry to industry. There is no universal formula for determining the exact value of a product. This is why most product teams spend time evaluating all factors that impact how a customer perceives the worth of a product — from initial concept to well after launch.\n\nThe work of documenting product value begins by mapping company, product, and customer attributes to different types of value. Usually this happens as a follow-up to a broader business strategy. Senior product leaders will distill this research into a product value proposition and product value statement — both of which can be used as a north star for the product team during roadmap planning and feature prioritization. Other functional groups such as marketing, sales, and support can use a product value statement to inform messaging and customer-facing materials.\n\nValue is not one-dimensional. There are layers to how we evaluate and perceive the benefits of using a particular product. Remember that a customer's experience with a product is contextualized. Every touchpoint they have, from the first advertisement they see to the customer support they receive, combines to inform their value assessment.\n\nRelated: What is the Complete Product Experience?\n\nAlthough a product delivers value to an organization (through market share, revenue, etc.) it is best to start from the customer perspective when you think about determining the true value of your product. Traditionally there are four categories that relate to customer-perceived value:\n\nFunctional value: The practical benefit of using a product — how effectively it solves an intended problem.\n\nMonetary value: The price of a product relative to its perceived worth — how much a customer is willing to pay.\n\nSocial value: The way a product enables customers to connect with others — how being associated with the product impacts them.\n\nPsychological value: The way a product makes a customer feel — how it aligns with their identity.\n\nOnce you have explored these areas, you can further organize the different types of value into two categories: tangible and intangible.\n\nExamples of tangible value for a SaaS product:\n\nConvenience: You can access a full version of the software on a mobile device.\n\nReliability: The product works quickly and performance outages are rare.\n\nCost: Pricing plans offer more affordable options (or more features) than other solutions.\n\nExamples of intangible value for a SaaS product:\n\nStatus: You gain respect in your community by association with the product.\n\nCauses: You align yourself with social actions the company takes.\n\nEmotions: Interacting with the product or company gives you a boost.\n\nA product value proposition summarizes why a customer would choose your product over any other. It is a succinct statement that reveals the value customers will enjoy when they buy from your company, use your product, and interact with your team.\n\nA product value proposition is typically an output of the overall business strategy. There will be a separate session to ideate and capture all aspects of the company, product, and customer to inform the eventual product value proposition. While you are capturing a wide swath of information, the goal of this exercise is to answer one question — what are people really buying?\n\nProduct-focused questions:\n\nHow does it look and feel?\n\nWhat unmet need does your product fill?\n\nWhat is the benefit to choosing your product over others?\n\nCustomer-focused questions:\n\nWhat is the problem you are trying to solve?\n\nHow are you currently solving this problem?\n\nWhat are the practical criteria for choosing a new solution?\n\nWhat emotions drive purchase decisions?\n\nWhat will you lose by not buying?\n\nCompany-focused questions:\n\nWhat policies impact buying?\n\nHow do we support the user post-purchase?\n\nWhat other products or services do we offer?\n\nIf you are writing a product value proposition, it can be helpful to start with the main challenge your product solves and then create a list of features and benefits that customers will gain. Use a template like this one in Aha! software to organize your information.\n\nStart using this template now\n\nA product value proposition is sweeping in scope. It is the overall promise of what customers will gain when using your product. Positioning is more targeted. You can write positioning for specific components or aspects of a product and you can write positioning that targets discrete users. Product marketing will typically write positioning for a launch of new functionality — along with core messaging, these are the basis of most marketing efforts. Put simply: You only have one product value proposition, but you could easily create multiple positioning documents over the lifetime of your product.\n\nWhat is product positioning\n\n7 product positioning templates\n\nA product value statement encapsulates exactly what makes your product special. Once you have documented all of the customer challenges, how the product features solve those challenges, and the benefits the user gains from purchasing from your company, you can refine your list down to a sentence or two:\n\nCompany-led product value proposition: “[Company] helps [target audience] [solve X challenge] with [features offered].\n\nCustomer-led product value proposition: “[Target audience] use [features offered] to [solve problem] with [product name]”\n\nFor emerging companies that are not yet well-known (and where the product may have the same name as the company), it is typical to choose a company-led structure to help build awareness. For larger enterprises that may have a portfolio of many products across many customer segments, it is much more common to drop the company name and focus on the target audience.\n\nA mission statement encompasses everything the company stands for — the reason that it exists and what it hopes to achieve. A product value statement is specific to an individual product, of which a company may have many. Unlike a mission statement, a product value statement is typically internal only. This means that it is a reference guide available to functional teams who impact the success of a product (such as marketing, sales, and support) but is not communicated externally to customers.\n\nRelated: Vision vs. mission vs. strategy\n\nA product value statement deeply informs the creation of a product’s slogan or tagline. Marketing teams and external advertising agencies will rely on the product value statement along with a creative brief to conceive of an original and attention-grabbing slogan. This is because the product value statement conveys the full picture of why a customer would choose a product. However, that comprehensiveness is why a product value statement may be a few sentences — way too long for a tagline.\n\nWhat is a creative brief\n\nCreative brief templates\n\nYou may have heard the phrase “what gets measured gets managed.” If you are able to define what value is then you will be able to estimate, measure, and increase your product’s value over time. This is the basis of value-based product development — assigning an initial value score pre-development then updating and tracking how that score changes through the development process, ultimately through to delivery. Once you have determined the value of your product you will be able to select metrics that can be used to track that value over time.\n\nRelated: How to measure product value?\n\nIf your team is still using static tools like spreadsheets to manage product work, it can be challenging to keep scores updated from version to version of your roadmap and backlog. That is why most modern product development teams rely on purpose-built software that includes dynamic value scoring functionality — you can track the initial value estimate all the way through and measure how it changes over time.\n\nEvaluate options to make better tradeoff decisions.\n\nArticulate the key benefits of your product and what you solve.\n\nSketch the complete user journey to understand customer touch points more deeply.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is product value?",
+      "id": "what-is-product-value"
+    },
+    {
+      "level": "h4",
+      "text": "Deliver more product value with Aha! software — free for 30 days.",
+      "id": "deliver-more-product-value-with-aha-software-"
+    },
+    {
+      "level": "h2",
+      "text": "How is the value of a product determined?",
+      "id": "how-is-the-value-of-a-product-determined"
+    },
+    {
+      "level": "h2",
+      "text": "What are different types of product value?",
+      "id": "what-are-different-types-of-product-value"
+    },
+    {
+      "level": "h2",
+      "text": "What is a product value proposition?",
+      "id": "what-is-a-product-value-proposition"
+    },
+    {
+      "level": "h3",
+      "text": "Product value proposition template",
+      "id": "product-value-proposition-template"
+    },
+    {
+      "level": "h3",
+      "text": "Product value proposition vs. positioning",
+      "id": "product-value-proposition-vs-positioning"
+    },
+    {
+      "level": "h2",
+      "text": "What is a product value statement?",
+      "id": "what-is-a-product-value-statement"
+    },
+    {
+      "level": "h3",
+      "text": "Product value statement vs. mission",
+      "id": "product-value-statement-vs-mission"
+    },
+    {
+      "level": "h3",
+      "text": "Product value statement vs. slogan or tagline",
+      "id": "product-value-statement-vs-slogan-or-tagline"
+    },
+    {
+      "level": "h2",
+      "text": "Why measure product value?",
+      "id": "why-measure-product-value"
+    },
+    {
+      "level": "h2",
+      "text": "Popular templates",
+      "id": "popular-templates"
+    },
+    {
+      "level": "h5",
+      "text": "2x2 prioritization matrix",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product positioning",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Customer journey map",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-research-competitors",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value#how-is-the-value-of-a-product-determined",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value#what-are-different-types-of-product-value",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value#what-is-a-product-value-proposition",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value#what-is-a-product-value-statement",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value#why-measure-product-value",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-some-examples-of-a-business-model",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/complete-product-experience",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value#top",
+    "https://www.aha.io/roadmapping/guide/marketing/what-skills-do-i-need-to-be-a-product-marketer",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value#top",
+    "https://www.aha.io/roadmapping/guide/marketing/marketing-org-structure",
+    "https://www.aha.io/roadmapping/guide/marketing-strategy/creative-brief",
+    "https://www.aha.io/roadmapping/guide/marketing-templates/creative-brief-templates",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#how-to-measure-value-throughout-product-development",
+    "https://www.aha.io/roadmapping/guide/what-are-product-metrics",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-to-measure-product-value",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-market-fit",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-differentiation",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-i-price-my-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

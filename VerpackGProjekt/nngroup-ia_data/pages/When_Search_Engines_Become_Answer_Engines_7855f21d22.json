@@ -1,0 +1,70 @@
+{
+  "url": "https://www.nngroup.com/articles/search-engines-become-answer-engines/",
+  "title": "When Search Engines Become Answer Engines",
+  "content": "August 15, 2004 2004-08-15\n\nIncreasingly, the Internet user experience is becoming one of dipping a toe into websites rather than truly \"visiting\" them. Using search engines as their Web interface, people simply grab query-related nuggets from sites, but don't engage with the sites themselves.\n\nThe search engine has always been an important tool for users. Ten years ago, when I was trying to understand why people used the early web despite its lousy usability, I asked everyone who came by our lab two questions: What were they doing online? What were their favorite websites? Answers were strikingly diverse: I found no common interests or websites. People's pursuits ranged from golf to knitting to Linux to military history, and their favorite sites varied just as widely. In fact, there was only one commonality among the answers: every user nominated a search engine among their top two or three sites.\n\nThe conclusion was clear: the Web's strength comes from narrowly targeted sites that provide users with highly specialized information that they need or care about passionately. It was also clear that search was a hugely important general-interest service, because even back when the Web had only 30,000 sites, locating specialized ones was nearly impossible without help.\n\nSubsequent studies have confirmed these early conclusions: users continue to pursue their own idiosyncratic goals and depend on a generic service — search — for guidance. In recent testing, we found that users started at a search engine 88% of the time when we gave them a new task to complete on the Web.\n\nA major change over the years has been a declining emphasis on using search to identify good sites as such (which used to be known as \"resource discovery\"). Rather than hunt for sites to explore and use in depth, users now hunt for specific answers. The Web as a whole has thus become one agglomerated resource for people who use search engines to dredge up specific pages related to specific needs, without caring which sites supply the pages.\n\nSearch engines have essentially become answer engines. Their job is no longer resource discovery, but rather to answer users' questions. Ask Jeeves was on to something with its original Q&A interface and now has an interesting approach to showing answers directly on the SERP (search engine results page).\n\nThis changing behavior is explained by information foraging theory: the easier it is to track down new resources, the less time users will spend at each resource. Thus, the increasing improvement in search quality over time is driving the trend toward the answer engine. Always-on connections have a similar effect, because they encourage information snacking and shorter sessions. Finally, Web browsers' despicably weak support for bookmarks/favorites has contributed to the decline in users' interest in building a list of favorite sites.\n\nIt's a testament to the Web's growth that users can now view it as integrated whole and not have to bother with websites; they assume that anything they want to know is available somewhere. They just have to ask.\n\n\"Websites\" weren't really a tangible concept until 1993 anyway. The pre-Mosaic Web in 1991 and 1992 was exactly that: a web of information where the fundamental unit was the article, not the server hosting a particular webpage. This new user behavior is therefore a reversion to the Web's original vision to some extent, though not completely because users still have some favorite sites that they treat as resources in their own right.\n\nFor search engines, becoming the user interface to the Web's embarrassment of riches is good news. It's also good news for users, who can find answers by visiting a few search hits rather than enduring the obscure design and poor navigation found on many sites.\n\nBut is this good for websites? No.\n\nThere is very little value in giving answers to users who don't know or care who provides the service.\n\nEcommerce sites are somewhat of an exception, because they often get a sale from users dipping a toe into their catalog. Ecommerce differs from other websites in having confirmation and fulfillment stages that follow up on users' initial visit, and these steps can grow the site's mindshare. Thus, closing the first sale is one of the most important drivers of subsequent ecommerce sales.\n\nIt would be self-defeating for ecommerce sites to refuse shopbots, prohibit deep links, or employ other tricks that require users to enter at the homepage and spend time navigating the site. Any barrier between the customer and the product translates into lost sales.\n\nAnd, even sites that don't sell must accept the trend toward users' answer-seeking behavior. Walling yourself off from the Web's web-like nature won't solve the problem.\n\nSo what should you do?\n\nPeople who dip into your website are basically worthless to you, but they don't do much harm either. At current prices for Web hosting, it costs 0.003 cents to serve a pageview. To do the math, we'll use a simple example:\n\nIf you already have the content, there's no economic benefit to turning freeloaders away because the marginal cost of serving up extra pageviews is so low.\n\nEven so, your Internet strategy should include two elements to discourage freeloaders:\n\nIt's unfortunate that users now care less about websites, and mainly treat them as an undifferentiated pool of answers. But, that's the new Internet. As always, recognizing users' actual behavior is the way to prosper.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "When Search Engines Become Answer Engines",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Answer-Focused Search: Resource Discovery Gives Way to Information Snacking",
+      "id": "toc-answer-focused-search-resource-discovery-gives-way-to-information-snacking-1"
+    },
+    {
+      "level": "h2",
+      "text": "Implications for Websites",
+      "id": "toc-implications-for-websites-2"
+    },
+    {
+      "level": "h2",
+      "text": "Avoiding Freeloaders",
+      "id": "toc-avoiding-freeloaders-3"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/search-engines-become-answer-engines/",
+    "https://www.nngroup.com/articles/diversity-is-power-for-specialized-sites/",
+    "https://www.nngroup.com/articles/search-engines-become-answer-engines/",
+    "https://www.nngroup.com/articles/search-engines-become-answer-engines/#toc-answer-focused-search-resource-discovery-gives-way-to-information-snacking-1",
+    "https://www.nngroup.com/articles/search-engines-become-answer-engines/#toc-implications-for-websites-2",
+    "https://www.nngroup.com/articles/search-engines-become-answer-engines/#toc-avoiding-freeloaders-3",
+    "https://www.nngroup.com/articles/information-scent/",
+    "https://www.nngroup.com/articles/search-engines-as-leeches-on-the-web/",
+    "https://www.nngroup.com/articles/transactional-and-confirmation-email/",
+    "https://www.nngroup.com/articles/after-the-buy-button-in-e-commerce/",
+    "https://www.nngroup.com/articles/deep-linking-is-good-linking/",
+    "https://www.nngroup.com/articles/loyalty-on-the-web/",
+    "https://www.nngroup.com/articles/microcontent-how-to-write-headlines-page-titles-and-subject-lines/",
+    "https://www.nngroup.com/articles/related-content-pageviews/",
+    "https://www.nngroup.com/articles/related-content-pageviews/",
+    "https://www.nngroup.com/articles/product-links-on-informational-pages/",
+    "https://www.nngroup.com/articles/email-newsletters-pick-up-where-websites-leave-off/",
+    "https://www.nngroup.com/articles/cost-of-web-hosting-services/"
+  ]
+}

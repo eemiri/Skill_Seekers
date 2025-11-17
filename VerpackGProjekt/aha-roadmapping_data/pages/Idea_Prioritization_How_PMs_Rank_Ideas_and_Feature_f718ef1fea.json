@@ -1,0 +1,88 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas",
+  "title": "Idea Prioritization: How PMs Rank Ideas and Features",
+  "content": "Almost every idea has potential. Suggestions for new features and enhancements come from many sources — customers, partners, executives, colleagues, and the product development team. If you are fortunate, those product ideas flow as a continuous stream. (It might not always feel like a good thing, but trust us … the only thing worse than too many ideas is too few.)\n\nLet’s assume the flow is strong. Maybe it even feels like a deluge at times. Requests can pile up with stakeholders eagerly asking when their idea will be implemented. And the longer it takes you to review and evaluate those ideas, the longer your customers will have to wait for improvements that could make their lives easier. You want to identify and prioritize the ones that are worth developing.\n\nProduct managers are always looking for ways to improve the various stages of product development. Often attention is focused on the development phase — how the core product development team can work better together. But a lot of the challenges that pop up during that phase can be mitigated when you are intentional about what happens at the very beginning, before any user stories are written or roadmaps are shared.\n\nIdea prioritization infers that you have an idea management process in place. Meaning: You have an established method for collecting, organizing, and evaluating requests for new features and enhancements. Raw concepts must then be refined and vetted before you can choose what to invest in next.\n\nThis guide reveals some of the best ways to prioritize ideas and identify the most valuable features. But before before we get into how product managers do that work, it is worth revisiting the fundamentals of idea management — the backbone of your product development process. You can always skip ahead to the section that your team needs the most help with now:\n\nThe importance of idea management in prioritizing features\n\nHow to choose the best features for your product\n\nScoring ideas by value\n\nPrioritization frameworks\n\nHow to turn a list of ideas into a product roadmap\n\nWhy is it that you can never find the item you need when you most need it? Anyone who has completed a DIY home project can relate. There are always more trips to the hardware store than you expected, to buy things you likely already own (but cannot locate). Building a product can feel that way at times, especially when you are working across different tools.\n\nEmail, instant message, bug tracking tools, customer feedback polls, and passing comments in meetings — these are all common channels for folks to share product input. With ideas scattered like this, it is impossible to create a repeatable process for evaluation and prioritization. And as a result you are missing out on real insights, such as trending themes across feedback. The result is a “black box” effect.\n\nMany product development teams solve this with purpose-built idea management software. A tool like Aha! Ideas offers everything needed to streamline the process — with customizable collection portals, prioritization templates, and rich reporting functionality. (Teams looking for a more all-encompassing product development solution can also use Aha! Roadmaps, which includes the basic functionality of Aha! Ideas.)\n\nSoftware like Aha! Ideas makes it easy to create repeatable processes and consolidate idea collection. But even if your team is stuck in the mess of scattered submissions, you can follow idea management best practices:\n\nDefine the workflow: Develop a checklist that product managers can follow when reviewing ideas and set a goal for idea review — one week or less is a good timeframe.\n\nCentralize collection: Create one repository or channel for submitting and reviewing ideas. This cuts down on time spent searching across different tools.\n\nWeed out bugs: Product fixes should immediately be moved to your backlog to be investigated.\n\nMerge duplicates: Merge similar ideas so each one is unique — while retaining any details or nuances from the separate entries. Existing functionality should be culled here too.\n\nAlign with strategy: Map every idea to a strategic goal or initiative, if possible. (Ideas that do not support current strategy may still be worth pursuing.)\n\nAdd a rough score: Give an initial high-level score using consistent criteria that you will use throughout the product development process — such as strategic alignment, effort to build, and customer need.\n\nOrganize by theme: Group related ideas into categories based on areas of functionality or customer segments so that you can see a high-level view of trends.\n\nUpdate the status: Using all of the information above, decide whether this idea is something you are likely to build, unlikely to build, will not build, or already exists.\n\nRespond quickly: Whether you respond directly or send automated messages or notifications, keep submitters updated on the status of their idea — if you do not plan to implement the idea, share why.\n\nOnce you have reviewed, scored, and categorized every idea, your product team should be ready to add a few to your product backlog — where you can further define and eventually add to your product roadmap or next release.\n\n7 tips for reviewing every customer idea within 24 hours\n\nVideo: How to customize an ideas portal\n\nCustomer requests and ideas may seem synonymous. But there is a subtle distinction that is worth understanding. A request is a desire for something specific — such as a new feature or enhancement. It usually calls for a ‘yes’ or ‘no’ answer. An idea is a suggestion or a possible solution to a problem. It is typically broader and more open-ended than a request.\n\nAha! co-founder and CEO\n\nProduct teams trade in requests and ideas. Whether you are looking at a broad-stroke big idea or a request that is somewhat narrow in scope, you need to be consistent about the way that you estimate the potential value and measure the realized value of what you build.\n\nRemember that the value of both will change over time. You will need to repeat much of the same evaluation and prioritization work before these features cycle through development. An idea that initially seemed lightweight to develop could end up being much more intensive once you connect with engineering to spec it out. Something that appeared to be aligned with a strategic imperative could be revealed as unnecessary once you dig deeper.\n\nThis is why it is imperative that you use a consistent method. There are two main areas of focus: scoring and prioritizing.\n\nScoring brings a level of objectivity to the process. The nice thing about scoring is that it is methodology and product agnostic — you can benefit no matter how your team works or what it is that you are building. For example, the Aha! product value scorecard uses a weighted formula that measures factors such as customer demand, strategic alignment, and effort to build as well as your confidence in each score.\n\nThis product value score gives a holistic perspective since you take into account all aspects of product development — from the effort to build to the benefit to users and the business. With Aha! Roadmaps, you can quickly score the value of incoming ideas and then prioritize work based on potential value. Closely tracking how the value score changes from intake through to development also gives you a sense of how well your team estimates work and where they can improve.\n\nEvery team will tackle prioritization differently. Some opt for prioritization frameworks to help visualize and communicate their approach. Below are a few examples of the most common ones. The framework you choose will reflect how your organization operates and the complexity of your product.\n\n2x2 matrix: If you are working with a lean team on a relatively simple product, then you will likely be able to use something lightweight like the 2x2 matrix shown below. Plotting your scored ideas can be a shared effort if you use a collaborative tool like Aha! software — the team can quickly jump into this shared whiteboard template. Mapping out ideas and requests is a great way to visualize work before you get started. You can update the labels for the axes in the template below to whatever you like. (Value and effort are the default.)\n\nStart using this template now\n\nKano model: Classify customer preferences into five categories — from basic need to something that delights.\n\nMoSCoW method: Categorize product ideas as must-have, should-have, could-have, and will not have at this time.\n\nRICE framework: Give a high-level score based on key inputs. Similar to a product value score, this acronym stands for \"reach, impact, confidence, and effort.\"\n\nUser story map: User story maps are helpful for visualizing ideas within the context of a user’s interactions with the product. With this user story map template in Aha! software, you can outline the flow of user stories to get a better idea of what to build next from the user's perspective.\n\nStart using this template now\n\nFeature prioritization templates\n\nWhat is user story mapping?\n\nA list of prioritized ideas does not make a product roadmap. The next step is to decide the timing for what you will build. This is about more than dates though. You will want to consider the complete story.\n\nSince you have already vetted the ideas against strategic direction, you can highlight how would-be features support specific goals or initiatives. What about how these features relate to each other? What is the new experience you are delivering to customers? Organizing groups of features in swimlanes that reflect areas of functionality or “jobs to be done” is a great way to visualize the breadth of what you will deliver.\n\nWhat you prioritize today represents the future of your product. Taking a disciplined approach to idea prioritization leads to better decisions for you and your customers. And you can carry this approach from idea to feature and beyond — keeping the team focused on building and delivering the most value.\n\nFrom ideation to launch, better product development happens with Aha! — try it free for 30 days.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to prioritize product ideas and features",
+      "id": "how-to-prioritize-product-ideas-and-features"
+    },
+    {
+      "level": "h4",
+      "text": "Prioritize product ideas using Aha! Ideas — free for 30 days.",
+      "id": "prioritize-product-ideas-using-aha-ideas-"
+    },
+    {
+      "level": "h2",
+      "text": "Importance of idea management in prioritizing features",
+      "id": "importance-of-idea-management-in-prioritizing-features"
+    },
+    {
+      "level": "h2",
+      "text": "How to prioritize the best ideas for your product",
+      "id": "how-to-prioritize-the-best-ideas-for-your-product"
+    },
+    {
+      "level": "h3",
+      "text": "Scoring ideas using a product value score",
+      "id": "scoring-ideas-using-a-product-value-score"
+    },
+    {
+      "level": "h3",
+      "text": "Prioritization frameworks",
+      "id": "prioritization-frameworks"
+    },
+    {
+      "level": "h2",
+      "text": "How to turn a list of ideas into a product roadmap",
+      "id": "how-to-turn-a-list-of-ideas-into-a-product-roadmap"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/stages-of-product-development",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/idea-management",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas#importance-of-idea-management-in-prioritizing-features",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas#how-to-choose-the-best-features-for-your-product",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas#scoring-ideas-using-a-product-value-score",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas#prioritization-frameworks",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas#how-to-turn-a-list-of-ideas-into-a-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas#top",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas#top",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/idea-management",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-come-up-with-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas",
+    "https://www.aha.io/roadmapping/guide/idea-management/what-is-idea-management-software",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.nngroup.com/articles/accordions-complex-content/",
+  "title": "Accordions Are Not Always the Answer for Complex Content on Desktops",
+  "content": "May 18, 2014 2014-05-18\n\nAn accordion menu is a vertically stacked list of headers that can be clicked to reveal or hide content associated with them. It is one of many ways you can expose content to users in a progressive manner. Allowing people to have control over the content by expanding it or deferring it for later lets them decide what to read and what to ignore. Giving people control is #3 on the list of the top heuristics for usable design. In theory, this concept sounds reasonably human centered.\n\nThere are other advantages to applying accordions to long, content-rich pages:\n\nWhile accordions sound ideal for presenting complex content, like with many other widgets and implementations, they are not a one-size-fits-all solution. There are major downsides to accordions.\n\nPrinting is another consideration that a reader correctly points out. Accordions are often not well suited for printing documents and require people to print snippets of content at a time. Make sure to optimize your pages for printing.\n\nMany website owners implement accordions for the wrong reasons.\n\nThe best place to start when deciding to use an accordion is to evaluate common and critical use cases for your audience. Understanding people’s scenarios will help you determine whether or not accordions are appropriate. Some of the most important considerations are listed below:\n\nAccordions should be avoided when your audience needs most or all of the content on the page to answer their questions. Better to show all page content at once when the use case supports it. In such cases, don’t worry too much about page length. Relevance trumps page length. Save people the hassle of clicking on links needlessly if their intention is to consume all of the content in the same session. As long as the content on a page is related, relevant, and formatted properly for the web, people will eagerly scroll the page.\n\nIf your pages are extremely long, perhaps the accordion is not the appropriate widget. You many need a different navigational approach, such as presenting the information across several, more digestible pages. However, avoid the temptation to go extreme by cutting up content into short tiny pages.\n\nIf you do use accordions, make sure to give people the capability to open multiple sections at a time so that different chunks of content are readily available. Items that are opened or closed should remain in that state until the user changes it.\n\nAccordions are more suitable when people need only a few key pieces of content on a single page. By hiding most of the content, users can spend their time more efficiently focused on the few topics that matter.\n\nAnother situation in which accordions are helpful is when the information is restricted to very small spaces, such as on mobile devices. On small screens people often stop scrolling before reaching the end of an extremely long page. If the page has several loosely related pieces of information, users often cannot guess if the information in which they are interested will be found somewhere down the page and they quit before scanning it all. In such cases, extremely long pages are detrimental to the user experience. Collapsing the information is a better alternative: it minimizes excessive scrolling and gives users an overview of the content available on the page. Reading on mobile is twice as difficult, and the mini-IA provided by the accordions helps readers understand the structure of the page and lets them focus on the relevant pieces.\n\nAccordions may seem to be a good solution for shortening long content pages. However, in many situations when all the page content is relevant to users, it is more advantageous to show all the content at once, even if doing so results in longer pages. On the desktop it is easier to simply scroll the page than to decide on which topics to click on. Our usability studies and eyetracking research show that people scroll when information is valuable and properly formatted for scanning.\n\nTechniques and tools for implementing an actionable content strategy\n\nUse UX writing to shape your content to meet your readers' needs\n\nCreate a seamless, cohesive cross-channel experience",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Accordions Are Not Always the Answer for Complex Content on Desktops",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Major Usability Issues with Accordions",
+      "id": "toc-major-usability-issues-with-accordions-1"
+    },
+    {
+      "level": "h2",
+      "text": "Myths about Scrolling and Long Content Pages on the Desktop",
+      "id": "toc-myths-about-scrolling-and-long-content-pages-on-the-desktop-2"
+    },
+    {
+      "level": "h2",
+      "text": "Criteria for Applying Accordions",
+      "id": "toc-criteria-for-applying-accordions-3"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-4"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Content Strategy and Governance",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Writing Compelling Digital Copy",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Omnichannel Journeys and Customer Experience",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/hoa-loranger/",
+    "https://www.nngroup.com/articles/accordions-complex-content/",
+    "https://www.nngroup.com/articles/progressive-disclosure/",
+    "https://www.nngroup.com/articles/accordions-complex-content/",
+    "https://www.nngroup.com/articles/accordions-complex-content/#toc-major-usability-issues-with-accordions-1",
+    "https://www.nngroup.com/articles/accordions-complex-content/#toc-myths-about-scrolling-and-long-content-pages-on-the-desktop-2",
+    "https://www.nngroup.com/articles/accordions-complex-content/#toc-criteria-for-applying-accordions-3",
+    "https://www.nngroup.com/articles/accordions-complex-content/#toc-conclusion-4",
+    "https://www.nngroup.com/articles/mobile-accordions/"
+  ]
+}

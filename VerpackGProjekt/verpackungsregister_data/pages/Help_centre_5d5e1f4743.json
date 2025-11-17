@@ -1,0 +1,29 @@
+{
+  "url": "https://www.verpackungsregister.org/en/help",
+  "title": "Help centre",
+  "content": "Do you have questions about the ZSVR, your statutory obligations or German packaging law? We're happy to help. A comprehensive FAQ page has the answers to the most frequent questions. For technical and general questions, please contact our support team.\n\nExplore our FAQs for answers to the most common questions about German packaging law and how to fulfil your obligations. We've sorted the questions by topic for easy navigation.\n\nClick here for contact details to help you find answers to technical and general questions.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Help centre",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "FAQs",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Get in touch",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsregister.org/en/",
+    "https://www.verpackungsregister.org/en/faq",
+    "https://www.verpackungsregister.org/en/contact-the-zsvrs-support-hotline"
+  ]
+}

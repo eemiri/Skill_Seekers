@@ -1,0 +1,103 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+  "title": "Daily Standups: What They Are and Why They Matter",
+  "content": "Last updated: February 2025\n\nIn the context of agile methodology, daily standup meetings are short team gatherings. Attendees assemble for about 15 minutes to discuss progress, plans, and blockers. They are quick and actionable — giving everyone the chance to share progress updates and keep individual work connected to overall team efforts.\n\nDaily standups usually happen at the same time each working day. Folks take turns sharing what they worked on yesterday, what they plan to work on today, and any challenges. While daily standups have become popular with teams outside of engineering and development, we will focus on standups as scrum events in this guide.\n\nThink of daily standups like a team huddle during a sporting event. They provide the opportunity for a quick exchange of vital information — so teams can share approaches and coordinate next steps.\n\nDaily standups are one of the standard scrum events (also called ceremonies), along with sprint planning, sprint review, and sprint retrospectives. They help teams stay agile — quickly adapting to changing circumstances and new information so work can progress efficiently. Standups also reinforce the self-organizing nature of scrum teams. When you are responsible as a team for managing how and when work gets done, it is vital to stay in close contact.\n\nKeep reading to learn more about daily standups. Use the links below to skip ahead.\n\nHow to run a daily standup\n\nBenefits of daily standup meetings\n\nCommon mistakes and best practices for daily standup meetings\n\nStart using this template now\n\nDo not let the simplicity of daily standups fool you — they are critical to keeping scrum operations running smoothly. But it can be easy to slip into a routine of stale status updates.\n\nFirst things first. Who attends a daily standup? The scrum team. While your development team and scrum master should always attend, product owners are optional. This event is a peer-to-peer discussion — members of the development team can take turns facilitating the meeting. And although scrum masters attend, they are not there as a manager but as a resource for the team.\n\nOnce the meeting begins, each member of the development team takes turns answering the three standup questions:\n\nWhat did you work on yesterday?\n\nWhat are you working on today?\n\nWhat issues are blocking you?\n\nYou may find it helpful to establish a talking order to keep things moving — with a meeting this short, efficiency is key. Here are some ways to maintain standup momentum:\n\nPopcorn: Each person ends their turn by calling on a new person. This one works particularly well for remote teams who are not in the same room together.\n\nRound robin: Go from person to person around the circle.\n\nToken: Pass an object from person to person. This has the added benefit of reminding team members to give the floor to whomever is holding the object.\n\nCards: Each person takes a numbered card as they enter the meeting. Go in numerical order with each person speaking when their number comes up.\n\nWalk the board: Instead of going person to person, address each card on your scrum or kanban board in order — from closest to being completed to the newest card.\n\nFor such short events, standup meetings can bring major benefits to your team. These can include:\n\nImproved communication: By simply answering the three standard standup questions, teams can develop the habit of conveying need-to-know information quickly and with a mind to group understanding. And daily updates provide the transparency required for effective collaboration. Teams spend less time throughout the week checking on status and trying to pinpoint who is working on what.\n\nIncreased alignment: Spending a few minutes together every day can do wonders for team alignment. Standups help everyone stay clear on sprint goals, what has been accomplished, and what needs to happen next.\n\nEarly identification of problems: The third standup question (\"What issues are blocking you?\") is all about catching issues early. Roadblocks, bottlenecks, and other problems can be addressed before they become major issues.\n\nEnhanced team morale: Daily standups should leave everyone feeling motivated and ready to tackle the day's challenges. Individual contributors feel connected to the larger team and can see their work in the context of the overall goals and initiatives. Daily standups are also a great opportunity to spotlight individual wins and make sure each team member's contributions are valued.\n\nWhile standups are meant to be simple events, it can take some time to refine how you run these meetings. Your daily standups will also evolve over time — reflecting shifts in the size, dynamics, and goals of your team. Here are some common issues teams run into with their daily standup meetings, plus solutions for overcoming those challenges.\n\nCommon daily standup mistakes\n\nDaily standup best practices\n\nDefaulting to a status report\n\nIt can be tempting to simply go through the motions of this meeting or to address updates to the scrum master or product owner. Avoid the reporting trap by keeping the conversations peer-to-peer and focusing on the sprint goals you are trying to accomplish as a team.\n\nWith a meeting this short, it is essential to start on time. Those lost minutes add up. Rather than thinking of punishments for latecomers, make a point of discussing the impact of wasted time with the team. Ask the attendees what they plan to do to ensure every standup begins on time and that all goals are met.\n\nMaking it a social event\n\nIt is natural for team members to chat during these meetings, especially if it is the one time each day when everyone gets to see one another. And team connection is a good thing. But if you are facilitating the meeting, gently remind participants that this meeting is meant to be brief.\n\nWhen you are sharing work updates with teammates who do similar work, it can be easy to give too many details. But standups have a specific scope — updates should be pointed and purposeful. Scrum masters can help by creating a meeting template that provides a simple visual cue for participation.\n\nKeeping quiet about obstacles\n\nNot everyone feels comfortable sharing obstacles or setbacks with a group. Find ways to build an environment of trust outside of daily standups. This can be done in 1:1 meetings, your team messaging platform, or even team activities. Then regularly take a minute during team meetings to remind everyone that transparency drives efficiency — the sooner roadblocks are identified, the less likely they are to become bigger issues. The benefits of openly sharing will soon outweigh any prior discomfort.\n\nProblem solving in the moment\n\nYour team is made up of problem solvers. When faced with a challenge, you are likely quick to start thinking of possible solutions. This impulse is what makes you a great developer. While it is important to identify problems and roadblocks during daily standups, it is beyond the scope of these meetings to attempt to resolve issues during the meeting itself. Flag the issues and then work on resolving them outside of the meeting.\n\nDaily standups are important facets of agile teamwork. When done well, they can provide a daily boost of energy, motivation, and team connection. And they can help your team stay aligned on the work that matters most to customers and the business.\n\nA strategy roadmap showcases how you will accomplish your goals through specific efforts in a given time frame. Learn more here.\n\nMake adjustments as plans change, show progress, and create tailored views for different audiences.\n\nVisualize high-level initiatives to communicate your product direction and timelines for major bodies of work.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is a daily standup?",
+      "id": "what-is-a-daily-standup"
+    },
+    {
+      "level": "h4",
+      "text": "Try this daily standup template below — with a free trial.",
+      "id": "try-this-daily-standup-template-below-"
+    },
+    {
+      "level": "h2",
+      "text": "How to run a daily standup",
+      "id": "how-to-run-a-daily-standup"
+    },
+    {
+      "level": "h2",
+      "text": "Benefits of daily standup meetings",
+      "id": "benefits-of-daily-standup-meetings"
+    },
+    {
+      "level": "h2",
+      "text": "Common mistakes and best practices for daily standup meetings",
+      "id": "common-mistakes-and-best-practices-for-daily-standup-meetings"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "What is a strategy roadmap?",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "How to build a strategy roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Strategic roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-retrospective-templates",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup#how-to-run-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup#benefits-of-daily-standup-meetings",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup#common-mistakes-and-best-practices-for-daily-standup-meetings",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup#top",
+    "https://www.aha.io/roadmapping/guide/agile/scrum-glossary#s",
+    "https://www.aha.io/roadmapping/guide/agile/best-practices",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap"
+  ]
+}

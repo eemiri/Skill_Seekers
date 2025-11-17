@@ -1,0 +1,116 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+  "title": "Setting Product Initiatives: A Guide for PMs",
+  "content": "Last updated: April 2024\n\nProduct managers understand what customers want and how to build a better product. You are committed to investing in bold ideas and enhancing existing product features. And you know that everything that you do has to support the overall product strategy. That is what product initiatives are for — creating a clear connection between the work you are planning and the goals you want to achieve.\n\nThis view of initiatives in Aha! Roadmaps displays goals, releases, epics, and features.\n\nYour product strategy rests on three core components:\n\nProduct vision: The core essence of what you are building and where you want your product to be in the future.\n\nProduct goals: Measurable objectives that can be achieved within a fixed time frame and that will help you reach your vision.\n\nProduct initiatives: High-level efforts or themes of work that you will complete in order to achieve each goal.\n\nThis guide will explore that final piece. Jump ahead to any section to learn more:\n\nWhat are product initiatives?\n\nPractical examples of product initiatives\n\nWhy define product initiatives?\n\nWhat is included in a product initiative?\n\nHow to visualize product initiatives on a roadmap\n\nProduct initiatives are the major areas of investment or focused areas of delivery needed to achieve your product goals. You typically set product goals first and then tie initiatives to goals. From there, you can group features or activities under each initiative. This approach helps you prioritize the work that will bring the most value to customers and the business. Organizing around strategic imperatives like this makes it easier to push aside distractions that do not support the product vision.\n\nThe time frame for initiatives will vary depending on scope, team capacity, and other factors. It is common to align initiative timelines with strategic planning periods — such as half-yearly or quarterly. Each initiative usually spans multiple releases or sprints and contains many epics, user stories, or features.\n\nA complete guide to product strategy\n\nWhat is product vision?\n\nWhat are product goals and initiatives?\n\nWhat is product positioning?\n\nImagine you are a product portfolio manager for a software company that builds applications for athletes to track their workouts — one app for cyclists and another for runners. You might have a company-level goal to increase revenue by a certain percentage this year. Product goals that roll up to the company-level goal could be related to attracting new customers or reducing customer churn.\n\nYou know that page load times within the apps impact the customer experience and whether folks continue to use the apps. So you might set an initiative at the product line level to improve application performance across both apps. Individual product initiatives would then go a level deeper, such as automating performance monitoring so you can spot areas of concern quickly or optimizing a section within the app to improve responsiveness.\n\nThe table below illustrates this example:\n\nProduct line initiatives\n\nIncrease revenue by X% this year\n\nIncrease new customers by X% in 1H 2025\n\nReduce customer churn rate by X% in 1H 2025\n\nImprove application performance\n\nAutomate performance monitoring\n\nOptimize X section in the application\n\nIn the video below, you can see an example of how to write strategic initiatives in Aha! software. Knowledge Base Manager Erik Johnson wants to capture enough details to convey what the team hopes to accomplish by completing each initiative. Erik has key points in mind — he uses our AI assistant to speed up the process.\n\nEditor's note: Although the video below still shows core functionality within Aha! software, some of the interface might be out of date. View our knowledge base for the most updated insights into Aha! software.\n\nOnce you have captured initiatives, you would begin to detail the releases, epics, and features that support each workstream.\n\nReleases: The containers for work that will be delivered in a specific time frame\n\nEpics: Larger bodies of work that are comprised of many features\n\nFeatures: Functional components of the product that support specific use cases\n\nUsing this framework you create relationships between the initiative and the detailed work that underpins it — giving you a line from strategy to implementation.\n\nInitiatives vs. epics vs. features\n\nThe 6 principles of strategic product roadmapping\n\nThe difference between vision, strategy, and roadmapping\n\nWhy product launches fail (and how to fix yours)\n\nThe product features and functionality you will build vary in type, scope, and purpose. By defining initiatives or big themes of work, you can develop a structure that keeps requirements in order and allows you to prioritize what to deliver in upcoming releases. You also gain the following:\n\nClear roadmap direction\n\nCreating initiatives and bundling related features allows you to set a clear path forward. You can determine the balance of work across initiatives to deliver against your goals. A strategic roadmap that showcases initiatives is a great way to share timing and progress with stakeholders and customers.\n\nBetter decision-making\n\nWhen it comes to improving your product, you are likely inundated with ideas. Trying to pursue them all would be impractical and ineffective. Choosing top-priority initiatives helps you zero in on the work that is most strategic and deserves the most attention.\n\nCross-functional clarity\n\nGrouping work by initiatives helps leadership and stakeholders understand what you are working on at a high level — even if they do not need to dig into the details at the feature level. Initiatives allow them to see how various groupings of related work contribute to the overall business strategy.\n\nIntroduction to product planning\n\nStrategic planning process for product teams\n\nThe ultimate product roadmapping guide\n\nHow to build a brilliant product roadmap\n\n6 excellent product roadmap examples\n\nDepending on your organization and product portfolio, you may establish initiatives at the company, product line, or product level. The elements you include in each initiative will vary depending on its type. For instance, initiatives that impact customers directly, such as usability improvements, may include different elements than initiatives that align to company-wide goals, such as expanding market leadership.\n\nIn general, an initiative should communicate the who, what, when, and why behind the theme of work. Details could include the following:\n\nSummary: A description of the initiative, why you are prioritizing it, and what needs to be accomplished.\n\nGoals: The objectives that the initiative supports. Depending on its scope, an initiative may roll up to multiple goals.\n\nScope: Primary focus or deliverables within the initiative. It can also include details about what is out of scope.\n\nRoles: Team members involved — including initiative owners, collaborators, and stakeholders.\n\nTime frame: Internal start and end dates, milestones, and launch dates.\n\nRelated work: Important work associated with the initiative, such as releases, features, requirements, and dependencies.\n\nIn the example below, initiatives are grouped by status and labeled with an associated goal and the number of features within the initiative. For instance, the on-track initiative to \"Enhance the partner portal\" connects to the goal of building the largest partner ecosystem and includes 13 features.\n\nA view displaying strategic initiatives organized by status in Aha! Roadmaps\n\nOnce you have defined your initiatives, you can start prioritizing and assigning features within them. Visualize it all on a roadmap to highlight cross-functional work within each initiative.\n\nInitiatives mapped to goals: In the roadmap below, initiatives are represented as bars and goals are represented by the colored flags.\n\nInitiative time frames: This view is a Gantt-style chart with a timeline above. Of course, you can also build various roadmap views to serve your particular audience and situation.\n\nDependencies: Gray lines depict dependencies across the work items.\n\nThis roadmap displays goals and initiatives across an annual timeline.\n\nYou will likely want to create different roadmap views for different audiences. If you use Aha! software you can enter goals, initiatives, and other product data once and choose from a variety of templates to quickly build different views. Show off your plans and demonstrate how you are delivering against the initiatives you have invested in.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to set product initiatives",
+      "id": "how-to-set-product-initiatives"
+    },
+    {
+      "level": "h4",
+      "text": "S﻿et product initiatives in Aha! Roadmaps. Sign up for a trial.",
+      "id": "s-et-product-initiatives-in-aha-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "What are product initiatives?",
+      "id": "what-are-product-initiatives"
+    },
+    {
+      "level": "h2",
+      "text": "Practical examples of product initiatives",
+      "id": "practical-examples-of-product-initiatives"
+    },
+    {
+      "level": "h2",
+      "text": "Why define product initiatives?",
+      "id": "why-define-product-initiatives"
+    },
+    {
+      "level": "h2",
+      "text": "What is included in a product initiative?",
+      "id": "what-is-included-in-a-product-initiative"
+    },
+    {
+      "level": "h2",
+      "text": "How to visualize product initiatives on a roadmap",
+      "id": "how-to-visualize-product-initiatives-on-a-roadmap"
+    },
+    {
+      "level": "h4",
+      "text": "Build a roadmap in Aha! Roadmaps — with a free trial.",
+      "id": "build-a-roadmap-in-aha-roadmaps-"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives#what-are-product-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives#practical-examples-of-product-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives#why-define-product-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives#what-is-included-in-a-product-initiative",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives#how-to-visualize-product-initiatives-on-a-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives#top",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives#top",
+    "https://www.aha.io/roadmapping/guide/idea-management",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives#top",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/visualize-data",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-market-fit",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-differentiation",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-i-price-my-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "url": "https://basecamp.com/shapeup/0.3-chapter-01#targeting-risk",
+  "title": "Introduction | Shape Up",
+  "content": "Heads up! This page uses features your browser doesn’t support. Try a modern browser like Firefox or Chrome for the best experience.\n\nNext: Principles of Shaping\n\nThis book is a guide to how we do product development at Basecamp. It’s also a toolbox full of techniques that you can apply in your own way to your own process.\n\nWhether you’re a founder, CTO, product manager, designer, or developer, you’re probably here because of some common challenges that all software companies have to face.\n\nAs software teams start to grow, some common struggles appear:\n\nTeam members feel like projects go on and on, with no end in sight.\n\nProduct managers can’t find time to think strategically about the product.\n\nFounders ask themselves: “Why can’t we get features out the door like we used to in the early days?”\n\nWe saw these challenges first-hand at Basecamp as we grew from four people to over fifty.\n\nBasecamp started off in 2003 as a tool we built for ourselves. At the time we were a consultancy designing websites for clients. Information would get lost in the game of telephone between the client, the designer, and the person managing the project. We wanted Basecamp to be a centralized place where all parties could see the work, discuss it, and know what to do next. It turned out lots of companies had this “information slipping through the cracks” problem. Today millions of people across all kinds of industries rely on Basecamp as their shared source of truth.\n\nThree of us built the first version. Jason Fried, Basecamp’s founder, led the design. His co-founder, David Heinemeier Hansson, programmed it (and created the well-known web framework Ruby on Rails as a by-product). At the time I was a web designer with a focus on usability and user interfaces. I executed Jason’s design direction for key features of the app and collaborated with him to fill in details of the concept.\n\nFrom the first prototypes in July 2003 to launch in February 2004, David only worked ten hours a week. We knew we wouldn’t get anywhere with those ten hours of programming unless we used them very deliberately. Our intense focus on “hammering” the scope to fit within a given time budget was born under these constraints.\n\nAs the business grew, I started widening my skills. Working with David and Ruby on Rails made the world of programming accessible to me. I learned the techniques programmers use to tame complexity: things like factoring, levels of abstraction, and separation of concerns. With one foot in the design world and one foot in the programming world, I wondered if we could apply these software development principles to the way we designed and managed the product.\n\nThe first test of this idea came in 2009. By then we had hired a few more programmers and offered four separate software-as-a-service products. We wanted to bundle the products together into a seamless suite with single-sign-on and unified billing. It was a massive technical undertaking with treacherous user-facing flows. Besides getting the underlying architecture right, we had to interrupt customers on their way in to the product and make them change their username and password for reasons that weren’t easy to explain. I wore the designer and product manager hats on the project and prototyped the breadboarding and scope mapping techniques described in this book to manage the complexity.\n\nWe had such good results that we decided to apply the same techniques again in 2012, when we redesigned Basecamp from scratch for version 2.0. Again there was a lot of surface area to manage and again the process was surprisingly smooth.\n\nBy 2015, we had a core team that had lived through these experiences and hit an impressive stride. But we found it hard to articulate what we were doing to new hires. Our product team had quadrupled and everyone worked remotely. That made it hard to pass on our intuitions. We needed language to describe what we were doing and more structure to keep doing it at our new scale.\n\nTo manage this new capacity, we switched from ad-hoc project lengths to repeating cycles. (It took some experimentation to find the right cycle length: six weeks. More on that later.) We formalized our pitching and betting processes. My role shifted again, from design and product management to product strategy. I needed new language, like the word “shaping”, to describe the up-front design work we did to set boundaries and reduce risks on projects before we committed them to teams.\n\nJust as we were getting better at articulating the way we work to ourselves, more and more of our friends and peers started coming to us to ask how we do it. Finally Jason pulled me aside one day and said, I think you should write a book about this.\n\nThis is the result. You can think of this as two books in one. First, it’s a book of basic truths. I want it to give you better language to describe and deal with the risks, uncertainties, and challenges that come up whenever you do product development. Second, the book outlines the specific processes we’re using to make meaningful progress on our products at our current scale.\n\nHere’s a short overview of the main ideas in the book.\n\nFirst, we work in six-week cycles. Six weeks is long enough to build something meaningful start-to-finish and short enough that everyone can feel the deadline looming from the start, so they use the time wisely. The majority of our new features are built and released in one six-week cycle.\n\nOur decisions are based on moving the product forward in the next six weeks, not micromanaging time. We don’t count hours or question how individual days are spent. We don’t have daily meetings. We don’t rethink our roadmap every two weeks. Our focus is at a higher level. We say to ourselves: “If this project ships after six weeks, we’ll be really happy. We’ll feel our time was well spent.” Then we commit the six weeks and leave the team alone to get it done.\n\nSecond, we shape the work before giving it to a team. A small senior group works in parallel to the cycle teams. They define the key elements of a solution before we consider a project ready to bet on. Projects are defined at the right level of abstraction: concrete enough that the teams know what to do, yet abstract enough that they have room to work out the interesting details themselves.\n\nWhen shaping, we focus less on estimates and more on our appetite. Instead of asking how much time it will take to do some work, we ask: How much time do we want to spend? How much is this idea worth? This is the task of shaping: narrowing down the problem and designing the outline of a solution that fits within the constraints of our appetite.\n\nThird, we give full responsibility to a small integrated team of designers and programmers. They define their own tasks, make adjustments to the scope, and work together to build vertical slices of the product one at a time. This is completely different from other methodologies, where managers chop up the work and programmers act like ticket-takers.\n\nTogether, these concepts form a virtuous circle. When teams are more autonomous, senior people can spend less time managing them. With less time spent on management, senior people can shape up better projects. When projects are better shaped, teams have clearer boundaries and so can work more autonomously.\n\nAt every step of the process we target a specific risk: the risk of not shipping on time. This book isn’t about the risk of building the wrong thing. Other books can help you with that (we recommend Competing Against Luck). Improving your discovery process should come after regaining your ability to ship. You can have the best strategy in the world, but if you can’t act on it, what good does it do?\n\nThis book is about the risk of getting stuck, the risk of getting bogged down with last quarter’s work, wasting time on unexpected problems, and not being free to do what you want to do tomorrow.\n\nWe reduce risk in the shaping process by solving open questions before we commit the project to a time box. We don’t give a project to a team that still has rabbit holes or tangled interdependencies.\n\nWe reduce risk in the planning process by capping our bets to six weeks. If a project runs over, by default it doesn’t get an extension. This “circuit breaker” ensures that we don’t invest multiples of the original appetite on a concept that needs rethinking first.\n\nAnd lastly we reduce risk in the building process by integrating design and programming early. Instead of building lots of disconnected parts and hoping they’ll fit together in the 11th hour, we build one meaningful piece of the work end-to-end early on and then repeat. The team sequences the work from the most unknown to the least worrisome pieces and learns what works and what doesn’t by integrating as soon as possible.\n\nPart One is all about Shaping — the pre-work we do on projects before we consider them ready to schedule. Each chapter explains a specific step of the process, from setting the appetite on a raw idea, to sketching out a solution, to writing a pitch that presents the potential project. Along the way you’ll learn specific techniques — like breadboarding and fat-marker sketching — to keep the design at the right level of abstraction.\n\nPart Two is about Betting — how we choose among the pitched projects and decide what to do six weeks at a time.\n\nPart Three is about Building — the expectations we place on the teams and the special practices they use to discover what to do. We’ll look at how the teams figure out what to do, how they integrate design and programming, how they track what’s known versus unknown, and finally how they make the hard calls to finish the project on time.\n\nLastly the Appendix gives you some help for when it’s time to make changes at your company. There’s some advice on how to try your first six-week experiment, tips on adjusting the methods to your company’s size, and specific guidance for how to implement Shape Up using Basecamp.\n\nCopyright ©1999-2025 37signals LLC. All rights reserved.\n\nStop Running in Circles and Ship Work that Matters\n\nBuy the print edition",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Introduction",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Growing pains",
+      "id": "growing-pains"
+    },
+    {
+      "level": "h2",
+      "text": "Six-week cycles",
+      "id": "six-week-cycles"
+    },
+    {
+      "level": "h2",
+      "text": "Shaping the work",
+      "id": "shaping-the-work"
+    },
+    {
+      "level": "h2",
+      "text": "Making teams responsible",
+      "id": "making-teams-responsible"
+    },
+    {
+      "level": "h2",
+      "text": "Targeting risk",
+      "id": "targeting-risk"
+    },
+    {
+      "level": "h2",
+      "text": "How this book is organized",
+      "id": "how-this-book-is-organized"
+    },
+    {
+      "level": "h1",
+      "text": "Shape Up",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Preface",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Foreword by Jason Fried",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Acknowledgements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Introduction",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 1: Shaping",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Principles of Shaping",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Set Boundaries",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Find the Elements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Risks and Rabbit Holes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Write the Pitch",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 2: Betting",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Bets, Not Backlogs",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "The Betting Table",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Place Your Bets",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Part 3: Building",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Hand Over Responsibility",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Get One Piece Done",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Map the Scopes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Show Progress",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Decide When to Stop",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Move On",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Conclusion",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Appendices",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Implement Shape Up in Basecamp",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Adjust to Your Size",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Begin to Shape Up",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Glossary",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "About the Author",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://basecamp.com/shapeup/0.3-chapter-01",
+    "https://basecamp.com/shapeup/0.3-chapter-01#growing-pains",
+    "https://basecamp.com/shapeup/0.3-chapter-01#six-week-cycles",
+    "https://basecamp.com/shapeup/0.3-chapter-01#shaping-the-work",
+    "https://basecamp.com/shapeup/0.3-chapter-01#making-teams-responsible",
+    "https://basecamp.com/shapeup/0.3-chapter-01#targeting-risk",
+    "https://basecamp.com/shapeup/0.3-chapter-01#how-this-book-is-organized",
+    "https://basecamp.com/shapeup/1.1-chapter-02",
+    "https://basecamp.com/shapeup/1.1-chapter-02",
+    "https://basecamp.com/shapeup/4.0-appendix-01",
+    "https://basecamp.com/shapeup",
+    "https://basecamp.com/shapeup/0.1-foreword",
+    "https://basecamp.com/shapeup/0.2-acknowledgements",
+    "https://basecamp.com/shapeup/0.3-chapter-01",
+    "https://basecamp.com/shapeup/0.3-chapter-01#growing-pains",
+    "https://basecamp.com/shapeup/0.3-chapter-01#six-week-cycles",
+    "https://basecamp.com/shapeup/0.3-chapter-01#shaping-the-work",
+    "https://basecamp.com/shapeup/0.3-chapter-01#making-teams-responsible",
+    "https://basecamp.com/shapeup/0.3-chapter-01#targeting-risk",
+    "https://basecamp.com/shapeup/0.3-chapter-01#how-this-book-is-organized",
+    "https://basecamp.com/shapeup/1.1-chapter-02",
+    "https://basecamp.com/shapeup/1.1-chapter-02#wireframes-are-too-concrete",
+    "https://basecamp.com/shapeup/1.1-chapter-02#words-are-too-abstract",
+    "https://basecamp.com/shapeup/1.1-chapter-02#case-study-the-dot-grid-calendar",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-1-its-rough",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-2-its-solved",
+    "https://basecamp.com/shapeup/1.1-chapter-02#property-3-its-bounded",
+    "https://basecamp.com/shapeup/1.1-chapter-02#who-shapes",
+    "https://basecamp.com/shapeup/1.1-chapter-02#two-tracks",
+    "https://basecamp.com/shapeup/1.1-chapter-02#steps-to-shaping",
+    "https://basecamp.com/shapeup/1.2-chapter-03",
+    "https://basecamp.com/shapeup/1.2-chapter-03#setting-the-appetite",
+    "https://basecamp.com/shapeup/1.2-chapter-03#fixed-time-variable-scope",
+    "https://basecamp.com/shapeup/1.2-chapter-03#good-is-relative",
+    "https://basecamp.com/shapeup/1.2-chapter-03#responding-to-raw-ideas",
+    "https://basecamp.com/shapeup/1.2-chapter-03#narrow-down-the-problem",
+    "https://basecamp.com/shapeup/1.2-chapter-03#case-study-defining-calendar",
+    "https://basecamp.com/shapeup/1.2-chapter-03#watch-out-for-grab-bags",
+    "https://basecamp.com/shapeup/1.2-chapter-03#boundaries-in-place",
+    "https://basecamp.com/shapeup/1.3-chapter-04",
+    "https://basecamp.com/shapeup/1.3-chapter-04#move-at-the-right-speed",
+    "https://basecamp.com/shapeup/1.3-chapter-04#breadboarding",
+    "https://basecamp.com/shapeup/1.3-chapter-04#fat-marker-sketches",
+    "https://basecamp.com/shapeup/1.3-chapter-04#elements-are-the-output",
+    "https://basecamp.com/shapeup/1.3-chapter-04#room-for-designers",
+    "https://basecamp.com/shapeup/1.3-chapter-04#not-deliverable-yet",
+    "https://basecamp.com/shapeup/1.3-chapter-04#no-conveyor-belt",
+    "https://basecamp.com/shapeup/1.4-chapter-05",
+    "https://basecamp.com/shapeup/1.4-chapter-05#different-categories-of-risk",
+    "https://basecamp.com/shapeup/1.4-chapter-05#look-for-rabbit-holes",
+    "https://basecamp.com/shapeup/1.4-chapter-05#case-study-patching-a-hole",
+    "https://basecamp.com/shapeup/1.4-chapter-05#declare-out-of-bounds",
+    "https://basecamp.com/shapeup/1.4-chapter-05#cut-back",
+    "https://basecamp.com/shapeup/1.4-chapter-05#present-to-technical-experts",
+    "https://basecamp.com/shapeup/1.4-chapter-05#de-risked-and-ready-to-write-up",
+    "https://basecamp.com/shapeup/1.5-chapter-06",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-1-problem",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-2-appetite",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-3-solution",
+    "https://basecamp.com/shapeup/1.5-chapter-06#help-them-see-it",
+    "https://basecamp.com/shapeup/1.5-chapter-06#embedded-sketches",
+    "https://basecamp.com/shapeup/1.5-chapter-06#annotated-fat-marker-sketches",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-4-rabbit-holes",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-5-no-gos",
+    "https://basecamp.com/shapeup/1.5-chapter-06#examples",
+    "https://basecamp.com/shapeup/1.5-chapter-06#ready-to-present",
+    "https://basecamp.com/shapeup/1.5-chapter-06#how-we-do-it-in-basecamp",
+    "https://basecamp.com/shapeup/2.1-chapter-07",
+    "https://basecamp.com/shapeup/2.1-chapter-07#no-backlogs",
+    "https://basecamp.com/shapeup/2.1-chapter-07#a-few-potential-bets",
+    "https://basecamp.com/shapeup/2.1-chapter-07#decentralized-lists",
+    "https://basecamp.com/shapeup/2.1-chapter-07#important-ideas-come-back",
+    "https://basecamp.com/shapeup/2.2-chapter-08",
+    "https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles",
+    "https://basecamp.com/shapeup/2.2-chapter-08#cool-down",
+    "https://basecamp.com/shapeup/2.2-chapter-08#team-and-project-sizes",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-betting-table",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-meaning-of-a-bet",
+    "https://basecamp.com/shapeup/2.2-chapter-08#uninterrupted-time",
+    "https://basecamp.com/shapeup/2.2-chapter-08#the-circuit-breaker",
+    "https://basecamp.com/shapeup/2.2-chapter-08#what-about-bugs",
+    "https://basecamp.com/shapeup/2.2-chapter-08#keep-the-slate-clean",
+    "https://basecamp.com/shapeup/2.3-chapter-09",
+    "https://basecamp.com/shapeup/2.3-chapter-09#look-where-you-are",
+    "https://basecamp.com/shapeup/2.3-chapter-09#existing-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#new-products",
+    "https://basecamp.com/shapeup/2.3-chapter-09#rd-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#production-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#cleanup-mode",
+    "https://basecamp.com/shapeup/2.3-chapter-09#examples",
+    "https://basecamp.com/shapeup/2.3-chapter-09#questions-to-ask",
+    "https://basecamp.com/shapeup/2.3-chapter-09#does-the-problem-matter",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-appetite-right",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-the-solution-attractive",
+    "https://basecamp.com/shapeup/2.3-chapter-09#is-this-the-right-time",
+    "https://basecamp.com/shapeup/2.3-chapter-09#are-the-right-people-available",
+    "https://basecamp.com/shapeup/2.3-chapter-09#post-the-kick-off-message",
+    "https://basecamp.com/shapeup/3.1-chapter-10",
+    "https://basecamp.com/shapeup/3.1-chapter-10#assign-projects-not-tasks",
+    "https://basecamp.com/shapeup/3.1-chapter-10#done-means-deployed",
+    "https://basecamp.com/shapeup/3.1-chapter-10#getting-oriented",
+    "https://basecamp.com/shapeup/3.1-chapter-10#imagined-vs-discovered-tasks",
+    "https://basecamp.com/shapeup/3.2-chapter-11",
+    "https://basecamp.com/shapeup/3.2-chapter-11#integrate-one-slice",
+    "https://basecamp.com/shapeup/3.2-chapter-11#case-study-clients-in-projects",
+    "https://basecamp.com/shapeup/3.2-chapter-11#programmers-dont-need-to-wait",
+    "https://basecamp.com/shapeup/3.2-chapter-11#affordances-before-pixel-perfect-screens",
+    "https://basecamp.com/shapeup/3.2-chapter-11#program-just-enough-for-the-next-step",
+    "https://basecamp.com/shapeup/3.2-chapter-11#start-in-the-middle",
+    "https://basecamp.com/shapeup/3.3-chapter-12",
+    "https://basecamp.com/shapeup/3.3-chapter-12#organize-by-structure-not-by-person",
+    "https://basecamp.com/shapeup/3.3-chapter-12#the-scope-map",
+    "https://basecamp.com/shapeup/3.3-chapter-12#the-language-of-the-project",
+    "https://basecamp.com/shapeup/3.3-chapter-12#case-study-message-drafts",
+    "https://basecamp.com/shapeup/3.3-chapter-12#discovering-scopes",
+    "https://basecamp.com/shapeup/3.3-chapter-12#how-to-know-if-the-scopes-are-right",
+    "https://basecamp.com/shapeup/3.3-chapter-12#layer-cakes",
+    "https://basecamp.com/shapeup/3.3-chapter-12#icebergs",
+    "https://basecamp.com/shapeup/3.3-chapter-12#chowder",
+    "https://basecamp.com/shapeup/3.3-chapter-12#mark-nice-to-haves-with-",
+    "https://basecamp.com/shapeup/3.4-chapter-13",
+    "https://basecamp.com/shapeup/3.4-chapter-13#the-tasks-that-arent-there",
+    "https://basecamp.com/shapeup/3.4-chapter-13#estimates-dont-show-uncertainty",
+    "https://basecamp.com/shapeup/3.4-chapter-13#work-is-like-a-hill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#scopes-on-the-hill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#status-without-asking",
+    "https://basecamp.com/shapeup/3.4-chapter-13#nobody-says-i-dont-know",
+    "https://basecamp.com/shapeup/3.4-chapter-13#prompts-to-refactor-the-scopes",
+    "https://basecamp.com/shapeup/3.4-chapter-13#build-your-way-uphill",
+    "https://basecamp.com/shapeup/3.4-chapter-13#solve-in-the-right-sequence",
+    "https://basecamp.com/shapeup/3.5-chapter-14",
+    "https://basecamp.com/shapeup/3.5-chapter-14#compare-to-baseline",
+    "https://basecamp.com/shapeup/3.5-chapter-14#limits-motivate-trade-offs",
+    "https://basecamp.com/shapeup/3.5-chapter-14#scope-grows-like-grass",
+    "https://basecamp.com/shapeup/3.5-chapter-14#cutting-scope-isnt-lowering-quality",
+    "https://basecamp.com/shapeup/3.5-chapter-14#scope-hammering",
+    "https://basecamp.com/shapeup/3.5-chapter-14#qa-is-for-the-edges",
+    "https://basecamp.com/shapeup/3.5-chapter-14#when-to-extend-a-project",
+    "https://basecamp.com/shapeup/3.6-chapter-15",
+    "https://basecamp.com/shapeup/3.6-chapter-15#let-the-storm-pass",
+    "https://basecamp.com/shapeup/3.6-chapter-15#stay-debt-free",
+    "https://basecamp.com/shapeup/3.6-chapter-15#feedback-needs-to-be-shaped",
+    "https://basecamp.com/shapeup/3.7-conclusion",
+    "https://basecamp.com/shapeup/3.7-conclusion#key-concepts",
+    "https://basecamp.com/shapeup/3.7-conclusion#get-in-touch",
+    "https://basecamp.com/shapeup/4.0-appendix-01",
+    "https://basecamp.com/shapeup/4.0-appendix-01#a-basecamp-team-for-shaping",
+    "https://basecamp.com/shapeup/4.0-appendix-01#basecamp-projects-for-the-cycle-projects",
+    "https://basecamp.com/shapeup/4.0-appendix-01#to-do-lists-for-scopes",
+    "https://basecamp.com/shapeup/4.0-appendix-01#track-scopes-on-the-hill-chart",
+    "https://basecamp.com/shapeup/4.1-appendix-02",
+    "https://basecamp.com/shapeup/4.1-appendix-02#basic-truths-vs-specific-practices",
+    "https://basecamp.com/shapeup/4.1-appendix-02#small-enough-to-wing-it",
+    "https://basecamp.com/shapeup/4.1-appendix-02#big-enough-to-specialize",
+    "https://basecamp.com/shapeup/4.2-appendix-03",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-a-one-six-week-experiment",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-b-start-with-shaping",
+    "https://basecamp.com/shapeup/4.2-appendix-03#option-c-start-with-cycles",
+    "https://basecamp.com/shapeup/4.2-appendix-03#fix-shipping-first",
+    "https://basecamp.com/shapeup/4.2-appendix-03#focus-on-the-end-result",
+    "https://basecamp.com/shapeup/4.5-appendix-06",
+    "https://basecamp.com/shapeup/4.6-appendix-07"
+  ]
+}

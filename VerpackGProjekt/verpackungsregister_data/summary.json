@@ -1,0 +1,799 @@
+{
+  "name": "verpackungsregister",
+  "total_pages": 198,
+  "base_url": "https://www.verpackungsregister.org/",
+  "pages": [
+    {
+      "title": "Datenmeldung",
+      "url": "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/datenmeldung"
+    },
+    {
+      "title": "Verpackungsarten im Überblick – Welche Verpackung, welche Pflicht?",
+      "url": "https://www.verpackungsregister.org/themen/verpackungsarten"
+    },
+    {
+      "title": "About the catalogue",
+      "url": "https://www.verpackungsregister.org/en/system-participation-data-reporting/about-the-catalogue"
+    },
+    {
+      "title": "FAQ",
+      "url": "https://www.verpackungsregister.org/faq"
+    },
+    {
+      "title": "Systembeteiligung und Datenmeldung",
+      "url": "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/"
+    },
+    {
+      "title": "Zentrale Stelle Verpackungsregister",
+      "url": "https://www.verpackungsregister.org/"
+    },
+    {
+      "title": "Systembeteiligung und Datenmeldung",
+      "url": "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/ueberblick"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Factsheet_Datenmeldung.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Anleitung_Datenmeldeprozess.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Praxisbeispiel_Onlinehaendler.pdf"
+    },
+    {
+      "title": "Pflicht zur Vollständigkeitserklärung bei hohen Verpackungsmengen",
+      "url": "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/vollstaendigkeitserklaerung"
+    },
+    {
+      "title": "Marktanteile",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/marktanteile"
+    },
+    {
+      "title": "Alles auf einen Blick: die Möglichkeit zur Bevollmächtigung",
+      "url": "https://www.verpackungsregister.org/themen/bevollmaechtigung"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Schaubild_Verpackungen_mit_und_ohne_Systembeteiligungspflicht.pdf"
+    },
+    {
+      "title": "Barrierefreiheitsbericht",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Anfallstellenliste.pdf"
+    },
+    {
+      "title": "Alles auf einen Blick zur Sonderregelung für Serviceverpackungen",
+      "url": "https://www.verpackungsregister.org/themen/serviceverpackungen/sonderregelung-serviceverpackungen"
+    },
+    {
+      "title": "Die Systembetreiber im Überblick – Ansprechpartner und Kontaktadressen",
+      "url": "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/uebersicht-systembetreiber"
+    },
+    {
+      "title": "Systembeteiligungspflicht mit der Katalogdatenbank prüfen",
+      "url": "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/katalogsuche"
+    },
+    {
+      "title": "Regelungen zur gesetzlichen Pfandpflicht für Einweggetränkeverpackungen",
+      "url": "https://www.verpackungsregister.org/themen/pfandpflicht-fuer-einweggetraenkeverpackungen"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Fachinformation_Abgrenzung_Verpackung_Nichtverpackung.pdf"
+    },
+    {
+      "title": "So registrieren Sie sich im Verpackungsregister LUCID",
+      "url": "https://www.verpackungsregister.org/registrierung/alle-informationen-zur-registrierung"
+    },
+    {
+      "title": "About the ZSVR",
+      "url": "https://www.verpackungsregister.org/en/"
+    },
+    {
+      "title": "System participation and data reporting",
+      "url": "https://www.verpackungsregister.org/en/system-participation-data-reporting/overview"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Overview_of_sources_of_waste_generation.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Guideline_catalogue.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Inhaltsverzeichnis_Katalog.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/Gesamtschau_Katalog.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/01-000_Getraenke_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-000_Molkereiprodukte_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-020_Konserven_Katalog_ZS__1_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-030_Tiefkuehlkost_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-040_Suesswaren__Knabberartikel_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-050_Fleisch__Wurst__Fisch_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-060_Agrarerzeugnisse_Katalog_ZS__4_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-080_Backwaren_Backvorprodukte_Katalog_ZS__1_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-090_Kaffee-Tee-Kakao_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-110_Trockenprodukte_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-120_Sonstige_Lebensmittel_Katalog_ZS__3_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/02-130_Fette_und_OEle_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/05-000_Heimtier_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/06-000_Pflanzenschutz-und-Agrarbedarf_Katalog_ZS__1_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/08-010_Bauchemie_Katalog_ZS__1_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/08-020_Baustoffe-und-Installation_Katalog_ZS__9_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/08-030_Bodenbelaege_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/08-040_Heimwerker-und-Garten_Katalog_ZS__11_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/12-000_Klebstoffe_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/13-010_Schmier-_Brennstoffe_Katalog_ZS__2_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/13-020_KFZ_Katalog_ZS__11_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/14-000_Koerperpflegemittel_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/15-000_Oberflaechenbehandlung_Katalog_ZS__2_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/16-000_Gewerbechemikalien_Katalog_ZS__2_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/17-000_Gewerbe-_Industrie-und-Streusalz_Katalog_ZS__1_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/18-000_Gesundheit_Katalog_ZS__4_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/19-000_Moebel_Katalog_ZS__1_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/21-000_Textilien-Schuhe-Lederwaren_Katalog_ZS__6_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/22-000_Haushalt_Katalog_ZS__6_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/23-000_Spiel-und-Sport_Katalog_ZS__3_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/24-000_Tabakwaren_Katalog_ZS__1_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/28-010_Weisse_Ware_Katalog_ZS__1_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/28-020_Elektrokleingeraete_Katalog_ZS__3_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/28-030_IT_Consumer_Electronics_Katalog_ZS__3_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/31-000_Buerobedarf_Katalog_ZS.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/33-000_Printmedien_Katalog_ZS__3_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Produktgruppenblaetter_2023/40-000_Sonstiger-technischer-Bedarf_Katalog_ZS__1_.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Methodology_for_developing_the_system_participation_requirement_catalogue.pdf"
+    },
+    {
+      "title": "All you need to know about service packaging",
+      "url": "https://www.verpackungsregister.org/en/knowledge-bases/service-packaging"
+    },
+    {
+      "title": "Das Verpackungsgesetz und die Pflichten – was gilt für Sie?",
+      "url": "https://www.verpackungsregister.org/ich-moechte-wissen-ob-ich-pflichten-habe-und-wie-ich-diese-erfuelle"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/FAQ/FAQ_Wann_sind_nachtraegliche_Abzuege_zulaessig.pdf"
+    },
+    {
+      "title": "Antragsverfahren",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/behoerdliches-handeln/antragsverfahren"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/FAQ/FAQ_Zeitungen_Zeitschriften_Postwurfsendungen_Werbematerial_Buecher.pdf"
+    },
+    {
+      "title": "Serviceverpackungen: Alles Wichtige auf einen Blick",
+      "url": "https://www.verpackungsregister.org/themen/serviceverpackungen"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/240815_Schaubild_Lohnabfueller.pdf"
+    },
+    {
+      "title": "Systembeteiligung",
+      "url": "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/systembeteiligung"
+    },
+    {
+      "title": "Einordnungsentscheidungen",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/einordnungsentscheidungen"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Checkliste_Weitere_Schritte_nach_der_Registrierung.pdf"
+    },
+    {
+      "title": "Registrierungspflicht – ja oder nein: Bin ich betroffen?",
+      "url": "https://www.verpackungsregister.org/ich-moechte-klaeren-ob-ich-mich-im-verpackungsregister-lucid-registrieren-muss"
+    },
+    {
+      "title": "So ändern Sie Ihre Registrierung im Verpackungsregister LUCID",
+      "url": "https://www.verpackungsregister.org/ich-moechte-meine-registrierung-aendern"
+    },
+    {
+      "title": "Verpackungsrechtliche Pflichten erfüllt? So fallen Verstöße auf!",
+      "url": "https://www.verpackungsregister.org/ich-moechte-wissen-wie-die-erfuellung-meiner-pflichten-kontrolliert-wird"
+    },
+    {
+      "title": "Die verpackungsrechtlichen Pflichten für Produzenten von Waren",
+      "url": "https://www.verpackungsregister.org/ich-bin-produzent-von-waren"
+    },
+    {
+      "title": "Verpackungsrechtliche Pflichten für Existenzgründer und Start-ups",
+      "url": "https://www.verpackungsregister.org/ich-bin-existenzgruender"
+    },
+    {
+      "title": "Registrieren, beteiligen, melden: Pflichten für Importeure",
+      "url": "https://www.verpackungsregister.org/themen/import"
+    },
+    {
+      "title": "Die verpackungsrechtlichen Pflichten für Gastronomen oder Caterer",
+      "url": "https://www.verpackungsregister.org/ich-bin-gastronom-oder-caterer"
+    },
+    {
+      "title": "Verpackungsrechtliche Pflichten für Versand- und Onlinehändler",
+      "url": "https://www.verpackungsregister.org/ich-bin-versand-und-onlinehaendler"
+    },
+    {
+      "title": "Verpackungsrechtliche Pflichten für Handelsgeschäfte",
+      "url": "https://www.verpackungsregister.org/ich-bin-betreiber-eines-handelsgeschaefts"
+    },
+    {
+      "title": "Verpackungsrechtliche Pflichten für Handwerksbetriebe",
+      "url": "https://www.verpackungsregister.org/ich-bin-betreiber-eines-handwerksbetriebs"
+    },
+    {
+      "title": "Informationen für Prüfer",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/informationen-fuer-pruefer"
+    },
+    {
+      "title": "Gut informiert: Presse, Zahlen, Materialien",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/presse-medienbereich"
+    },
+    {
+      "title": "Gremien",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/gremien"
+    },
+    {
+      "title": "Hilfebereich",
+      "url": "https://www.verpackungsregister.org/hilfe"
+    },
+    {
+      "title": "Auf einen Blick: Die Öffentlichen Register",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/oeffentliche-register"
+    },
+    {
+      "title": "Über uns",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/ueber-uns"
+    },
+    {
+      "title": "Über uns",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/ueber-uns#c1889"
+    },
+    {
+      "title": "Über uns",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/ueber-uns#c1890"
+    },
+    {
+      "title": "Über uns",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/ueber-uns#c1891"
+    },
+    {
+      "title": "Karriere",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/karriere"
+    },
+    {
+      "title": "Gerichtsentscheidungen",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/gerichtsentscheidungen"
+    },
+    {
+      "title": "Recyclingfähigkeit von Verpackungen",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/recyclingfaehigkeit-von-verpackungen"
+    },
+    {
+      "title": "Registrieren, beteiligen, melden: Pflichten für Versand- und Onlinehändler im Detail",
+      "url": "https://www.verpackungsregister.org/themen/versand-und-onlinehandel"
+    },
+    {
+      "title": "Marktanteile der Systeme für das vierte Quartal 2025 veröffentlicht",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/presse-medienbereich/newsdetail/marktanteile-der-systeme-fuer-das-vierte-quartal-2025-veroeffentlicht"
+    },
+    {
+      "title": "Marktanteile für Systeme und Branchenlösungen für 2024 veröffentlicht",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/presse-medienbereich/newsdetail/marktanteile-fuer-systeme-und-branchenloesungen-fuer-2024-veroeffentlicht"
+    },
+    {
+      "title": "Mindeststandard 2025 veröffentlicht: Frühzeitige Orientierung für Unternehmen zur Vorbereitung auf die Europäische Verpackungsverordnung (PPWR)",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/presse-medienbereich/newsdetail/mindeststandard-2025-veroeffentlicht"
+    },
+    {
+      "title": "Prüfleitlinien Vollständigkeitserklärung",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/informationen-fuer-pruefer/pruefleitlinien-vollstaendigkeitserklaerung"
+    },
+    {
+      "title": "Praktische Hinweise zur Prüfung von Vollständigkeitserklärungen",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/informationen-fuer-pruefer/praktische-hinweise-zur-pruefung-von-vollstaendigkeitserklaerungen"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/LUCID/Technische_Anleitung_DE.pdf"
+    },
+    {
+      "title": "Marktanteile",
+      "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/marktanteile#c247"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2025_Q4_Vorl%C3%A4ufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2025_Q3_Vorl%C3%A4ufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2025_Q2_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2025_Q1_SZM_Vorl%C3%A4ufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2025_Q1_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/20231110_Marktanteilsberechnungskonzept_2023.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Pr%C3%BCfleitlinien/2023_Pruefleitlinien_Systempruefer.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/202311_Hintergrundinformation_Marktanteilsberechnungskonzept_2023.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/20211209_Marktanteilsberechnungskonzept_2021.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Pr%C3%BCfleitlinien/2021_Pruefleitlinien_Systempruefer.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2024_Q5_Marktanteile_der_Systeme_und_Branchenl%C3%B6sungen.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2024_Q5_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2024_Q4_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2024_Q3_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2024_Q2_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2024_Q1_SZM_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2024_Q1_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/Ver%C3%B6ffentlichung_Marktanteil_Systeme_und_Branchenl%C3%B6sungen_Kalenderjahr_2023_f%C3%BCr_Finanzierungsvereinbarung.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2023_Q5_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2023_Q4_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2023_Q3_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2023_Q2_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2023_Q1_SZM_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2023_Q1_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2022_Q5_Marktanteile_der_Systeme_und_Branchenl%C3%B6sungen.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2022_Q5_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2022_Q4_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2022_Q3_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2022_Q2_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2022_Q1_SZM_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2022_Q1_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2021_Q5_Marktanteile_der_Systeme_und_Branchenl%C3%B6sungen.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2021_Q5_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2021_Q4_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2021_Q3_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2021_Q2_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2021_Q1_SZM_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2021_Q1_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2021_Q5_Statement_Marktanteilsberechnung.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2020_Q5_Marktanteile_der_Systeme_und_Branchenl%C3%B6sungen.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2020_Q5_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2020_Q4_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2020_Q3_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2020_Q2_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2020_Q1_SZM_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2020_Q1_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2019_Q5_Marktanteile_der_Systeme_und_Branchenl%C3%B6sungen.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2019_Q5_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2019_Q4_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2019_Q3_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2019_Q2_SZM_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2019_Q2_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2019_Q1_SZM_Vorlaeufig_zuzuordnende_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Marktanteile/2018_Marktanteile_der_Systeme.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Bevollmaechtigung_Hinweise_zur_Vertragsgestaltung.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Checkliste_Bevollm%C3%A4chtigung.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/katalogsuche/gesamtliste"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Katalog/Leitfaden_Katalog.pdf"
+    },
+    {
+      "title": "Informationen zum Katalog",
+      "url": "https://www.verpackungsregister.org/systembeteiligung-und-datenmeldung/informationen-zum-katalog"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Checkliste_Kl%C3%A4rung_der_Betroffenheit.pdf"
+    },
+    {
+      "title": "",
+      "url": "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Checkliste_Vorbereitung_auf_die_Registrierung.pdf"
+    },
+    {
+      "title": "Informationen zur Nutzung des Verpackungsregisters LUCID",
+      "url": "https://www.verpackungsregister.org/registrierung/alle-informationen-zur-registrierung/technische-informationen"
+    },
+    {
+      "title": "Datenupload per XML-Schnittstelle",
+      "url": "https://www.verpackungsregister.org/registrierung/alle-informationen-zur-registrierung/datenupload-xml-schnittstelle"
+    },
+    {
+      "title": "Markennamen angeben im Verpackungsregister LUCID",
+      "url": "https://www.verpackungsregister.org/registrierung/markennamen"
+    },
+    {
+      "title": "Your obligations under German packaging law",
+      "url": "https://www.verpackungsregister.org/en/i-would-like-to-know-if-i-have-obligations-and-how-to-fulfil-them"
+    },
+    {
+      "title": "Registration requirement – yes or no? Am I affected?",
+      "url": "https://www.verpackungsregister.org/en/i-would-like-to-find-out-if-i-have-to-register-with-the-lucid-packaging-register"
+    },
+    {
+      "title": "System participation",
+      "url": "https://www.verpackungsregister.org/en/system-participation-data-reporting/system-participation"
+    },
+    {
+      "title": "System participation requirement: using the catalogue data base to verify compliance",
+      "url": "https://www.verpackungsregister.org/en/system-participation-data-reporting/catalogue-search"
+    },
+    {
+      "title": "Data reporting",
+      "url": "https://www.verpackungsregister.org/en/system-participation-data-reporting/data-reporting"
+    },
+    {
+      "title": "Packaging types and obligations – at a glance",
+      "url": "https://www.verpackungsregister.org/en/knowledge-bases/packaging-types"
+    },
+    {
+      "title": "How to change your registration in the LUCID Packaging Register",
+      "url": "https://www.verpackungsregister.org/en/i-would-like-to-change-my-registration"
+    },
+    {
+      "title": "How packaging law breaches come to light",
+      "url": "https://www.verpackungsregister.org/en/i-would-like-to-know-how-my-compliance-with-obligations-is-monitored"
+    },
+    {
+      "title": "Packaging law obligations of manufacturers of goods",
+      "url": "https://www.verpackungsregister.org/en/i-am-a-manufacturer-of-goods"
+    },
+    {
+      "title": "Packaging law obligations of start-ups and new business founders",
+      "url": "https://www.verpackungsregister.org/en/i-am-a-start-up-founder"
+    },
+    {
+      "title": "Importer obligations in detail: registration, participation, reporting",
+      "url": "https://www.verpackungsregister.org/en/knowledge-bases/imports"
+    },
+    {
+      "title": "Packaging law obligations of food and beverage businesses",
+      "url": "https://www.verpackungsregister.org/en/i-am-running-a-food-and-beverage-business"
+    },
+    {
+      "title": "Packaging law obligations of mail order companies and online retailers",
+      "url": "https://www.verpackungsregister.org/en/i-am-a-mail-order-company-or-online-retailer"
+    },
+    {
+      "title": "Packaging law obligations of retail stores",
+      "url": "https://www.verpackungsregister.org/en/i-am-running-a-retail-store"
+    },
+    {
+      "title": "Packaging law obligations of craft enterprises",
+      "url": "https://www.verpackungsregister.org/en/i-am-running-a-craft-enterprise"
+    },
+    {
+      "title": "Information for auditors",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/information-for-auditors"
+    },
+    {
+      "title": "Stay informed: press releases, data and resources",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/press-media-section"
+    },
+    {
+      "title": "Market shares",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/market-shares"
+    },
+    {
+      "title": "Bodies & committees",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/bodies-committees"
+    },
+    {
+      "title": "System operator contacts at a glance",
+      "url": "https://www.verpackungsregister.org/en/system-participation-data-reporting/overview-of-system-operators"
+    },
+    {
+      "title": "Help centre",
+      "url": "https://www.verpackungsregister.org/en/help"
+    },
+    {
+      "title": "At a glance: the public registers",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/public-registers"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/about-us"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/about-us#c2128"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/about-us#c2132"
+    },
+    {
+      "title": "About us",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/about-us#c2136"
+    },
+    {
+      "title": "Career page",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/careers"
+    },
+    {
+      "title": "Court decisions",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/court-decisions"
+    },
+    {
+      "title": "Recyclability of packaging",
+      "url": "https://www.verpackungsregister.org/en/foundation-authority/recyclability-of-packaging"
+    }
+  ]
+}

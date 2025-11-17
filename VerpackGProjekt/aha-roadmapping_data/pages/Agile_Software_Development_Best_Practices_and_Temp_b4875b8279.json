@@ -1,0 +1,208 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+  "title": "Agile Software Development: Best Practices and Templates",
+  "content": "Last updated: January 2025\n\nAgile software development is oriented around delivering customer value as quickly as possible. Instead of focusing on a final output — the finished product — teams practicing agile software development prioritize working in short increments with frequent release cycles. Other hallmarks of agile software development include empowering developers through self-organizing teams and a commitment to continuous improvement, both in the software you ship and how you work.\n\nWhether you are an experienced teammate looking for a refresher, standing up an agile development group, or are entirely new to agile workflows, this guide offers a high-level overview of agile software development topics:\n\nWhat is agile software development?\n\nAgile values and principles\n\nExtending agile beyond the development team\n\nPopular agile methodologies and frameworks\n\nCommon metrics for measuring agile software development\n\nTemplates for agile software development teams\n\nDaily standup meeting template\n\nSAFe framework template\n\nPI planning template bundle\n\nScrum framework template\n\nSprint planning template\n\nSprint retrospective template\n\nAgile software development refers to a collection of methodologies and frameworks that promote adaptive planning, evolutionary development, and continuous delivery. Agile encourages cross-functional collaboration, where teams work closely with stakeholders to ensure each release delivers meaningful improvements. As teams iterate, they refine both their products and processes, staying aligned with user needs and business goals.\n\nAgile is an umbrella term for a philosophical approach to work. The term emerged in the early aughts when a group of forward-thinking software developers gathered to document a growing shift towards fluid and dynamic development practices. This meeting resulted in what we now refer to colloquially as the “Agile Manifesto.”\n\nThere are four values at the core of agile software development approaches, as stated in the Agile Manifesto:\n\nIndividuals and interactions over processes and tools\n\nWorking software over comprehensive documentation\n\nCustomer collaboration over contract negotiation\n\nResponding to change over following a plan\n\nIn addition to these core values, the Agile Manifesto spelled out 12 principles:\n\nOur highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n\nWelcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n\nDeliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n\nBusiness people and developers must work together daily throughout the project.\n\nBuild projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n\nThe most efficient and effective method of conveying information to and within the development team is face-to-face conversation.\n\nWorking software is the primary measure of progress.\n\nAgile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n\nContinuous attention to technical excellence and good design enhances agility.\n\nSimplicity — the art of maximizing the amount of work not done — is essential.\n\nThe best architectures, requirements, and designs emerge from self-organizing teams.\n\nAt regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.\n\nFollowing agile values and principles can encourage greater productivity and alignment for software development teams. You can achieve faster results and deliver a better customer experience. When you are flexible and willing to pivot quickly, you reduce risk — it is possible to move fast, deliver the functionality that customers need, and enjoy doing it.\n\nHowever, there is often a disconnect with how much different areas of an organization are willing to modify their thinking and behavior to adopt agile. Results from Digital.ai's most recent State of Agile report revealed that a major barrier to successful agile transformation was resistance to change, particularly from the business side of organizations. Specifically, 47% of survey respondents reported general organizational resistance to change, 41% indicated there was not enough leadership participation in agile adoption, and 37% shared that business teams lacked understanding of what agile does and/or can do.\n\nRemember that building and delivering a winning product requires cross-functional collaboration across the entire organization: leadership, product, engineering, marketing, sales, and support. An agile approach should extend beyond the core development team to those cross-functional groups as much as possible, especially in customer orientation and dedication to continuous improvement. Individual developers can act as agile stewards and evangelizers within the organization.\n\nWhat is the history of agile?\n\nWhat is agile transformation?\n\nSince the Agile Manifesto was published in 2001, agile has evolved and grown to include many different formal (and informal) methodologies and frameworks. Most of the people behind these methodologies and frameworks were themselves software developers and many were authors of the original manifesto. Some agile methodologies have become incredibly widespread (see: scrum) while others remain more niche — all draw on agile values and principles.\n\nThe list below is presented not by popularity but in alphabetical order:\n\nCrystal is a collection of agile software development approaches developed by Alastair Cockburn, who was one of the original authors of the Agile Manifesto. During his time at IBM in the 1990s, Cockburn studied and interviewed software development teams to identify better approaches to software development. His findings eventually coalesced into Crystal. Unlike other agile methods which apply one framework to many situations, Crystal emphasizes that every software development team and project is unique and requires a custom process.\n\nLightweight and customizable, with little overhead\n\nTeams are encouraged to problem-solve and develop their own way of working.\n\nFreeform structure may not be suitable for all organizations.\n\nLittle documentation and lack of plans may increase risk.\n\nExtreme programming, or XP, is an agile software development framework developed by Kent Beck in the late 1990s. Another original author of the Agile Manifesto, Beck’s framework differentiates from others in its specificity about development practices — not just workflows. This specificity makes XP suitable for some, but not all software development projects.\n\nSome of the practices spring from pair programming. For example, there is a focus on face-to-face communication (preferably in person, without walls between teammates). There is an emphasis on small releases, collective ownership, and continuous integration — reducing feedback cycles so that developers can more quickly identify and resolve issues, ultimately shipping cleaner code.\n\nFocus on practice excellence encourages team discipline.\n\nVisibility and feedback loops reduce risk of bugs.\n\nSome practices may not be possible or desirable for all teams.\n\nEmphasis on code may come at expense of design and user experience.\n\nLean software development (LSD) draws on lean manufacturing (specifically, the Toyota Production System) and translates those practices to software products. While many software teams had been borrowing lean manufacturing methods, LSD was formally introduced in 2003 in a book by Mary and Tom Poppendieck that details the approach, including the slogan \"Think big, act small, fail fast; learn rapidly.”\n\nLean is different than agile but incredibly similar — think fraternal, not identical twins. The principles of LSD emphasize reducing waste, team learning, rapid decision-making, and conceptual integrity of the software system. LSD practices mirror other agile frameworks with a focus on value-stream mapping, pull systems, and test-driven development.\n\nPros of lean software development:\n\nStreamlined work may shorten time to market.\n\nFocus on eliminating waste reduces risks and cost.\n\nCons of lean software development:\n\nRequires detailed documentation and metrics to reduce waste\n\n“Optimize the whole” principle may be challenging depending on organizational structure.\n\nThe Scaled Agile Framework, also known as SAFe, is a set of guidelines for implementing agile and lean principles at scale. SAFe was first released in 2011 by Dean Leffingwell, an author and lean-agile expert. The framework draws upon agile software development, lean product development, and systems thinking. SAFe promotes regular planning and scheduled integration points so large numbers of agile teams can deliver in sync and on cadence.\n\nIt is a highly structured approach best suited to very large enterprises with portfolios of complex products. There are four configurations of SAFe: Essential SAFe, Large Solution SAFe, Portfolio SAFe, and Full SAFe. SAFe coordinates agile teams into an Agile Release Train that shares a commitment to delivering value in each release. Scaled Agile (the company behind SAFe) maintains a comprehensive website full of knowledge resources related to the framework, as well as professional training and certifications.\n\nFocus on both business and development agility\n\nEnables large enterprises to adopt agile principles in a structured way\n\nHigh level of complexity with many disparate activities\n\nExtensive level of knowledge required, which may require paid training\n\nWhat is the Scaled Agile Framework?\n\nWhat is the role of a SAFe product manager?\n\nScrum is an agile framework that focuses on delivering work in time-boxed efforts called sprints. It was co-created by Ken Schwaber and Jeff Sutherland in the early 1990s. Both were original contributors to and authors of the Agile Manifesto as well. Scrum is founded on empiricism, with iterative and incremental software development that is informed by experience and experiments.\n\nThe framework prescribes small teams of less than nine people organized around sprints (typically two-week iterations). At the start of each sprint, the team sets a sprint goal, selects items from the product backlog, and agrees on the scope of work. At the end of the sprint, the team presents the completed work to business stakeholders for review. This approach makes it possible to integrate change throughout the project lifecycle while enabling teams to deliver working software on a regular cadence.\n\nThere are specific roles, such as a scrum master, to facilitate team productivity and learning. Scrum is prescriptive. You cannot “do” scrum without doing all of scrum. Scrum.org publishes guides, case studies, and offers professional training opportunities and certifications.\n\nOver the years, agile practitioners have built upon the foundation of scrum to create several standalone adaptations that are unaffiliated with Scrum.org. These include scrum-related frameworks designed to support larger teams and organizations such as Large Scale Scrum (LeSS) and Scrum@Scale, as well as hybrid models like scrumban, which blends scrum and kanban practices.\n\nBreaking work into small chunks encourages rapid and regular releases.\n\nCeremonies foster transparent communication and team buy-in.\n\nRequires a skilled scrum master who understands method deeply\n\nSelf-organizing teams and lack of upfront detailed planning require active involvement.\n\nWhat are scrum roles?\n\nWhat is the role of a product manager in scrum?\n\nWhat is a sprint planning meeting?\n\nWhat is a daily standup?\n\nKanban is a workflow management method that emphasizes the continual delivery of value. Based on lean principles, kanban focuses on visualizing work to increase collaboration, limiting the amount of work in process, and continuously improving flow to reduce lead time. Many teams use it in conjunction with agile methods to increase productivity.\n\nKanban was first developed by Toyota to improve manufacturing processes, but it is often used to optimize the delivery of knowledge-based work. Kanban boards are frequently included in various agile frameworks. The pull system underpins development workflows in most agile methodologies.\n\nHow is kanban used by product managers?\n\nDevOps is an approach to software delivery that promotes deep collaboration between software development and IT operations teams. DevOps gained popularity around 2008 in response to concerns about the disconnect between the people who write code and the people who deploy and support that code. While it is not itself an agile methodology or framework, DevOps does include many agile values such as rapid feedback and cross-team collaboration.\n\nAgile encourages flexibility, not foolhardiness. You still need to establish clear metrics for success and track and analyze output. Agile metrics help you repeat your successes and spot opportunities to make adjustments.\n\nAn example of a sprint burndown chart created in Aha! Develop.\n\nCommon agile metrics and agile reports include:\n\nBurndown chart: Work remaining versus time left in an iteration or sprint, showing how much remains to be completed\n\nControl chart: Time spent working on different issues during a sprint (measured by lead time and cycle time) to predict future performance\n\nCycle time: Time spent actively working on an issue from start to finish, including time spent on reopened issues\n\nDeployment frequency: How often new code is deployed\n\nEscaped defects: Number of bugs discovered after a release enters production, which indicates weaknesses in your quality assurance (QA) processes\n\nFailed deployments: Number of failed deployments in a given time frame, an indicator of code stability\n\nLead time: Total time an issue exists — from the moment it is initially logged until work is completed\n\nVelocity: Average amount of work completed in a given sprint\n\nHow to track sprint progress in Aha! Develop with a burndown chart\n\nHow to configure a cycle time report in Aha! Develop\n\nHow to view team capacity in a velocity report with Aha! Develop\n\nTemplates offer an efficient way for agile software development teams to plan and discuss work with minimal setup. Templates can boost productivity by helping everyone collaborate and stay aligned when changes happen fast.\n\nMany agile software development teams attempt to manage planning, documentation, and workflows entirely through a bug tracking system. Obviously, this has its limitations. Bug tracking software tools have traditionally been siloed from business strategy and product roadmap software. This disconnect is itself anti-agile — often leading to miscommunication, waste, and missed opportunities to deliver value and improve.\n\nForward-thinking organizations are increasingly embracing software tools that provide a holistic approach to planning, managing, and delivering software products. The Aha! software suite includes everything needed for digital whiteboarding, idea management, setting strategy, roadmap planning, agile development, and team knowledge documentation. You can experience the full suite with a free 30-day trial.\n\nAll of the agile software development templates below are available in Aha! software. Visit our template library to find dozens more that support rapid software development.\n\nDaily standups are an important part of most agile methodologies and frameworks. These quick huddles are meant for knowledge sharing and alignment, so that the team can quickly get up to speed on work in progress and sync on next steps. The daily standup meeting template provides all of the pertinent details needed to capture information in a consistent way.\n\nThere is no doubt that SAFe is a complex framework. The SAFe framework template lays everything out on a digital whiteboard so you can diagram and standardize your team’s SAFe workflows. Customize the template to add best practices or other documentation that will help folks understand how to best benefit from the framework.\n\nPI planning is a multi-day event that teams practicing SAFe hold to review the backlog and create a plan to deliver the next increment of work. This bundle includes four templates for PI planning — program board, team sprint planning, ROAM, and PI retrospective — so you can get agreement on objectives and work together seamlessly.\n\nA successful scrum implementation hinges upon prescribed roles, ceremonies, and artifacts. The scrum framework template comes prebuilt with defined activities and best practices. You can diagram and customize it on a digital whiteboard to reflect your team’s workflows and needs.\n\nThe sprint planning template is perfect for outlining user stories to prioritize in an upcoming sprint. Using a streamlined whiteboard layout for these tasks helps you plan in less time, while still incorporating important steps like capacity planning with story points.\n\nRetrospective discussions offer a chance for the team to review past successes and plan improvements. Get your scrum leader, product owner, product managers, and developers together with the sprint retrospective template to talk about what is going well and what can be improved on the team.\n\nAgile development should not be treated as an end in itself but as a means to deliver what matters to customers. Speed is essential, but only when it helps achieve meaningful outcomes. True agility is about staying aligned with what customers need now and in the future — always working toward delivering greater value.\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Best practices, methodologies, and templates for agile software development",
+      "id": "best-practices-methodologies-and-templates-for-agile-software-development"
+    },
+    {
+      "level": "h2",
+      "text": "What is agile software development?",
+      "id": "what-is-agile-software-development"
+    },
+    {
+      "level": "h3",
+      "text": "Agile values and principles",
+      "id": "agile-values-and-principles"
+    },
+    {
+      "level": "h3",
+      "text": "Extending agile beyond the development team",
+      "id": "extending-agile-beyond-the-development-team"
+    },
+    {
+      "level": "h2",
+      "text": "Popular agile methodologies and frameworks",
+      "id": "popular-agile-methodologies-and-frameworks"
+    },
+    {
+      "level": "h3",
+      "text": "Crystal",
+      "id": "crystal"
+    },
+    {
+      "level": "h3",
+      "text": "Extreme programming (XP)",
+      "id": "extreme-programming-xp"
+    },
+    {
+      "level": "h3",
+      "text": "Lean software development (LSD)",
+      "id": "lean-software-development-lsd"
+    },
+    {
+      "level": "h3",
+      "text": "Scaled Agile Framework® (SAFe®)",
+      "id": "scaled-agile-framework-safe"
+    },
+    {
+      "level": "h3",
+      "text": "Scrum",
+      "id": "scrum"
+    },
+    {
+      "level": "h3",
+      "text": "What about kanban?",
+      "id": "what-about-kanban"
+    },
+    {
+      "level": "h3",
+      "text": "And what about DevOps?",
+      "id": "and-what-about-devops"
+    },
+    {
+      "level": "h2",
+      "text": "Common metrics for measuring agile software development",
+      "id": "common-metrics-for-measuring-agile-software-development"
+    },
+    {
+      "level": "h2",
+      "text": "Templates for agile software development teams",
+      "id": "templates-for-agile-software-development-teams"
+    },
+    {
+      "level": "h3",
+      "text": "Daily standup meeting template",
+      "id": "daily-standup-meeting-template"
+    },
+    {
+      "level": "h3",
+      "text": "SAFe framework template",
+      "id": "safe-framework-template"
+    },
+    {
+      "level": "h3",
+      "text": "PI planning template bundle",
+      "id": "pi-planning-template-bundle"
+    },
+    {
+      "level": "h3",
+      "text": "Scrum framework template",
+      "id": "scrum-framework-template"
+    },
+    {
+      "level": "h3",
+      "text": "Sprint planning template",
+      "id": "sprint-planning-template"
+    },
+    {
+      "level": "h3",
+      "text": "Sprint retrospective template",
+      "id": "sprint-retrospective-template"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#what-is-agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#agile-values-and-principles",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#extending-agile-beyond-the-development-team",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#popular-agile-methodologies-and-frameworks",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#common-metrics-for-measuring-agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#templates-for-agile-software-development-teams",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#daily-standup-meeting-template",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#safe-framework-template",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#pi-planning-template-bundle",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#scrum-framework-template",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#sprint-planning-template",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#sprint-retrospective-template",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#what-is-the-history-of-agile",
+    "https://www.aha.io/roadmapping/guide/agile/agile-transformation",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#top",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-the-role-of-pm-in-safe",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-pi-planning",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/agile/an-introductory-guide-to-agile-project-management",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+    "https://www.aha.io/roadmapping/guide/agile/kanban-vs-scrum",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/kanban-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#top",
+    "https://www.aha.io/roadmapping/guide/agile/agile-metrics",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-roadmap-tools-work",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/an-introductory-guide-to-agile-project-management",
+    "https://www.aha.io/roadmapping/guide/agile-development/what-is-the-role-of-a-software-engineer",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/agile-transformation",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/best-practices",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-burndown-chart",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-issue-tracking",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-unit-testing",
+    "https://www.aha.io/roadmapping/guide/agile/agile-metrics",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice",
+  "title": "Top 10 tips for Microsoft style and voice",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nOur modern design hinges on crisp minimalism. Shorter is always better. To learn more, see Brand voice.\n\nExampleReplace this: If you're ready to purchase Office 365 for your organization, contact your Microsoft account representative.\n\nWith this: Ready to buy? Contact us.\n\nWrite like you speak. Read your text aloud. Avoid jargon and overly complex or technical language. It should sound like a friendly conversation. To learn more, see Brand voice.\n\nExampleReplace this: Invalid ID\n\nWith this: You need an ID that looks like this: someone@example.com\n\nUse contractions: it’s, you’ll, you’re, we’re, let’s. To learn more, see Use contractions.\n\nExampleReplace this: To help you avoid traffic, remember anniversaries, and in general do more, Cortana needs to know what you are interested in, what is on your calendar, and who you are doing things with.\n\nWith this: To help you avoid traffic, remember anniversaries, and in general do more, Cortana needs to know what you’re interested in, what’s on your calendar, and who you’re doing things with.\n\nLead with what’s most important. Front-load keywords for scanning. Make customer choices and next steps obvious. To learn more, see Scannable content.\n\nExampleReplace this: Templates provide a starting point for creating new documents. A template can include the styles, formats, and page layouts you use frequently. Consider creating a template if you often use the same page layout and style for documents.\n\nWith this: Save time by creating a document template that includes the styles, formats, and page layouts you use most often. Then use the template whenever you create a new document.\n\nGive customers just enough information to make decisions confidently. Prune every excess word. To learn more, see Word choice.\n\nExampleReplace this: The Recommended Charts command on the Insert tab recommends charts that are likely to represent your data well. Use the command when you want to visually present data, and you're not sure how to do it.\n\nWith this: Create a chart that's just right for your data by using the Recommended Charts command on the Insert tab.\n\nDefault to sentence-style capitalization—capitalize only the first word of a heading or phrase and any proper nouns or names. Never Use Title Capitalization (Like This). Never Ever. To learn more, see Capitalization.\n\nExamplesReplace these: Find a Microsoft PartnerOffice 365 CustomerLimited-Time OfferJoin Us Online\n\nWith these:Find a Microsoft partnerOffice 365 customerLimited-time offerJoin us online\n\nSkip end punctuation on titles, headings, subheadings, UI titles, and items in a list that are three or fewer words. Save the periods for paragraphs and body copy. To learn more, see Punctuation, Headings, and Lists.\n\nExampleReplace this:Move a tile.1. Press and hold the tile.\n\nWith this:Move a tile1. Press and hold the tile.\n\nIn a list of three or more items, include a comma before the conjunction. (The comma that comes before the conjunction is known as the Oxford or serial comma.) To learn more, see Commas.\n\nExampleReplace this: Android, iOS and Windows\n\nWith this: Android, iOS, and Windows\n\nUse only one space after periods, question marks, and colons—and no spaces around dashes. To learn more, see Punctuation.\n\nExampleReplace this: Use pipelines — logical groups of activities — to consolidate activities that are part of a task.\n\nWith this: Use pipelines—logical groups of activities—to consolidate activities that are part of a task.\n\nMost of the time, start each statement with a verb. Edit out you can and there is, there are, there were. To learn more, see Verbs and Word choice.\n\nExampleReplace this: You can access Office apps across your devices, and you get online file storage and sharing.\n\nWith this: Store files online, access them from all your devices, and share them with coworkers.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Top 10 tips for Microsoft style and voice",
+      "id": "top-10-tips-for-microsoft-style-and-voice"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Use bigger ideas, fewer words",
+      "id": "use-bigger-ideas-fewer-words"
+    },
+    {
+      "level": "h2",
+      "text": "Write like you speak",
+      "id": "write-like-you-speak"
+    },
+    {
+      "level": "h2",
+      "text": "Project friendliness",
+      "id": "project-friendliness"
+    },
+    {
+      "level": "h2",
+      "text": "Get to the point fast",
+      "id": "get-to-the-point-fast"
+    },
+    {
+      "level": "h2",
+      "text": "Be brief",
+      "id": "be-brief"
+    },
+    {
+      "level": "h2",
+      "text": "When in doubt, don’t capitalize",
+      "id": "when-in-doubt-dont-capitalize"
+    },
+    {
+      "level": "h2",
+      "text": "Skip periods (and : ! ?)",
+      "id": "skip-periods-and---"
+    },
+    {
+      "level": "h2",
+      "text": "Remember the last comma",
+      "id": "remember-the-last-comma"
+    },
+    {
+      "level": "h2",
+      "text": "Don’t be spacey",
+      "id": "dont-be-spacey"
+    },
+    {
+      "level": "h2",
+      "text": "Revise weak writing",
+      "id": "revise-weak-writing"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice",
+    "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice",
+    "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice",
+    "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice",
+    "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice",
+    "https://learn.microsoft.com/en-us/style-guide/top-10-tips-style-voice",
+    "https://learn.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human",
+    "https://learn.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/use-contractions",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/",
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/headings",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/commas",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/verbs",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/"
+  ]
+}

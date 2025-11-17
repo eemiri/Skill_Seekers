@@ -1,0 +1,162 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap",
+  "title": "Product Roadmaps: How To Build Your Annual Plan",
+  "content": "Last updated: March 2024\n\nCrafting product plans for a new year is invigorating. It is an opportunity to reflect on what you achieved in the previous year and refresh your goals and initiatives for the year ahead. As a product leader, strategic planning is one of your most important responsibilities — this is when you align high-level company goals with the product roadmap, establish success metrics, and set the groundwork for what the cross-functional product team will focus on in the year ahead.\n\nSo, yes, this is undoubtedly exciting. But it can also be really daunting. Where do you start? How do you synthesize all the feedback from customers, company leaders, and other stakeholders? What will you decide to build next?\n\nThese are not simple questions. But they are worthy of deep thought — how you choose to answer them will determine whether or not you are able to deliver value to customers and the business. Plus, the product team needs to believe in the plan as much as you do so that everyone can collectively make it happen.\n\nWhether you lead or support product strategy, use this guide to get started with annual roadmap planning. You should come away with a clear sense of what goes into strategic planning and how to visualize your plans on a roadmap.\n\nJump ahead to explore sections of this guide:\n\nWhy annual product planning matters\n\n10 steps for building your annual roadmap and securing stakeholder alignment\n\nResources to help you get started\n\nFAQs about annual roadmap planning\n\nTeams are still struggling with the same challenges: behemoth group-think processes, bureaucratic gating, trickle-down development, and the dreadful feeling that no one is quite sure if they are working on the right thing.\n\nAha! co-founder and CEO\n\nNew year, new product? Probably not. But a fresh year is a natural time to revisit your product strategy and the work you delivered in the prior year. Each win (and setback) can help inform what you pursue next.\n\nThe biggest outcome of annual planning is your strategic roadmap for the year. Of course, planning is not a singular event. Based on new customer insights, shifts in the market, and progress toward your goals, you are going to iterate on the plan as the year goes on.\n\nUse a strategic roadmap to visualize how your product will support company strategy and business goals.\n\nIf product plans are dynamic, is it realistic to build and stick to an annual plan? Some product managers would say a roadmap is simply a forecast. When adjustments happen or deadlines slip, the roadmap falls by the wayside.\n\nPlans can certainly change. And often, the details of the features you are building should change — especially when you learn something new about your customers. But the overall strategy that you define should not be a moving target. The best way to avoid this is to meaningfully invest in strategic planning and share that work with stakeholders at key points in the planning journey. This keeps everyone moving in the same direction and working toward shared objectives.\n\nHere are 10 steps you can follow to build an annual roadmap that you can confidently deliver on:\n\nGet introspective at the outset of crafting your annual roadmap. Review last year's successes and failures with a critical eye:\n\nWhat did the team accomplish together and what was the impact for customers?\n\nDid you achieve your product goals?\n\nDid product initiatives deliver the desired results?\n\nWhat went wrong and what did you learn?\n\nThe answers to these reflections will help you better understand how you can refine your product strategy — ensuring that what you focus on effectively aligns with team capabilities and customer needs.\n\nProduct goals represent tangible, noteworthy achievements on the way to making your vision a reality. Many organizations set new product goals annually, bi-annually, or quarterly.\n\nProduct vision is the essence of why your product exists and forms the beginning of your strategy. For example, our vision at Aha! is simple: We aspire for a world of lovable software built by happy teams. This has been our vision since the start and drives our values and strategic direction.\n\nConfirm again that your vision is still true for you. Make sure it directly aligns with your organization's broader vision and objectives. When product and business vision are in sync, the team has a clear purpose — reinforcing that product success is fundamental to overall business success.\n\nThis could also be a good time to revisit foundational information such as product positioning, customer personas, and competitive analysis. Getting a full picture of the market that you operate in and potential opportunities will help you better define your go-forward plans.\n\nWhat is product vision?\n\nWhat is product differentiation?\n\nNow, you can more concretely establish what you want to achieve. Goals and initiatives are the earliest building blocks of your roadmap, helping to propel you toward your desired future state.\n\nProduct goals represent what you want to accomplish and how you will measure success. They should be easy to understand, actionable, and have a fixed time frame (spanning anywhere from three to 12 months).\n\nProduct initiatives specify the broad themes of work you will complete to reach your goals.\n\nDifferent teams use different goal-setting frameworks, such as SMART goals or OKRs. No matter which framework you use, it is important that product goals align with company-level goals to show how work at the product level impacts the organization.\n\nLet's look at an example for Fredwin Cycling, a fictitious social fitness company:\n\nIncrease market share in the cycling app industry | Success metric: +100 partners\n\nBuild the largest partner ecosystem in the market | Success metric: New marketplace launched\n\nEnhance partner portal\n\nImplement a partner training program\n\nHost a series of online partner events\n\nAs you think about product goals and initiatives, a useful exercise for identifying the most impactful goals is to plot out potential on a chart noting the investment needed (from your team) and the impact (for your customers). This same exercise works well at other junctures in planning, such as when you are prioritizing product features.\n\nWhat are product goals and initiatives?\n\nHow to set your 2024 product strategy\n\nSecuring alignment from top leadership at this stage is paramount. Decision makers and executive leaders — including the CEO, Chief Product Offer, Chief Information Officer, Chief Technology Officer, and others — hold the metaphorical keys to the necessary resources, expertise, and cross-functional support needed to successfully implement the roadmap.\n\nInvite stakeholders to validate your goals and initiatives and offer insights about overall business strategy and market trends. Here is a short list of questions you might consider discussing:\n\nAre there any shifts in the overall company strategy that might influence our product direction?\n\nWhat budget and resources are available for the upcoming year, and how might they impact our product planning?\n\nAre there any updates or improvements needed in the existing technology infrastructure to support our product initiatives?\n\nAre there specific design considerations or trends that stakeholders believe should be incorporated into the product?\n\nWhat potential risks or obstacles do stakeholders foresee during the upcoming year, and how can we proactively address them?\n\nAre there any external factors, such as regulatory changes, that might impact the product roadmap?\n\nAre there emerging trends or technologies that stakeholders believe should be considered for long-term planning?\n\nDiscussing these topics will give you a more comprehensive understanding of stakeholders' perspectives as you get into deeper roadmap planning. It will also help you tailor your eventual roadmap presentation to the priorities and concerns that these stakeholders have.\n\nHow to complete a stakeholder mapping exercise\n\nDoes stakeholder alignment really matter?\n\nBest practices for using documents in Aha! software to collaborate with stakeholders\n\nThe next step in roadmap planning involves deeply understanding how the work you will focus on in the year ahead will help your customers do what they need to — some refer to this as \"jobs to be done\" (JTBD). This concept entails dissecting the core tasks and challenges your product is designed to solve for customers. Identifying these crucial \"jobs\" is the lighthouse that guides what you will build so that your product remains aligned with what users need.\n\nLet's revisit one of the example product initiatives for Fredwin Cycling: \"Enhance partner portal.\" Example jobs to be done by partners might include:\n\nEfficient content access\n\nFind and access marketing materials, product documentation, and resources relevant to promoting our cycling app\n\nCollaborate with our marketing team to plan and execute joint marketing campaigns, aligning promotional efforts for mutual success\n\nStreamlined onboarding and communication\n\nEnjoy a smooth onboarding experience complete with step-by-step guides and essential information\n\nAccess training materials and certification programs to enhance knowledge of our cycling app, ensuring they can effectively communicate its features and benefits\n\nCommunicate seamlessly with our team, getting quick responses to inquiries, support requests, and updates about new features or campaigns\n\nLead generation tools and campaign tracking\n\nUtilize tools and features within the partner portal for lead generation, tracking, and managing potential customers interested in our cycling app\n\nMonitor the performance of their specific marketing campaigns, tracking metrics such as click-through rates, conversions, and user engagement\n\nAs you move ahead to the next stages in the planning process, you will get a better sense of how to prioritize these jobs based on business value, customer feedback, and feasibility. The idea is to strike a balance between addressing immediate and longer-term needs.\n\nIdeally, you have an idea management process in place and a central portal where customers can submit their feedback and requests. This makes it easy to collect feedback from a variety of sources and review it alongside your product backlog.\n\nYou want to look for common themes and recurring pain points within the feedback. It is also useful to assess how popular certain requests are or if particular customer segments are asking for similar things. That way, you can better understand how widespread a need is and use that data to inform prioritization decisions.\n\nUse Aha! Ideas to capture customer feedback and streamline your review process.\n\nWhat is idea management software?\n\nHow to estimate the value of new product ideas\n\nYou can now go a step more granular and categorize product work into key areas of work, or epics. These provide a level of organization between broader initiatives and individual features or user stories. They are typically delivered across multiple sprints or releases.\n\nCombining what you have gathered from goal setting, stakeholder conversations, your JTBD work, and customer feedback, you should have a sense of the major product requirements or areas of functionality to prioritize throughout the year. Clearly document each epic, providing a detailed description, objectives, and expected outcomes. Ensure that the purpose and scope are well-articulated and that you are considering dependencies among epics.\n\nThis would be a good time to pressure-test your epics with other leaders in product management. Encourage folks to challenge the assumptions underlying the epics and to help you identify anything you might be overlooking.\n\nInitiatives vs. epics vs. features\n\nWhen to use initiatives vs. epics\n\nThemes, epics, stories, and tasks in scrum\n\nNext, break epics into the features you will deliver incrementally. At this point, it is most important that features tie back to the larger strategy — you might not be ready to detail exactly what each feature will involve.\n\nFeature prioritization is an art that ensures your roadmap is not just a list of features, but a real articulation of your strategy. You want to prioritize features that will have the most value for the lowest effort. This approach ensures that the team's efforts are directed toward the most impactful and achievable features\n\nIn our software, you can use the Aha! product value scorecard to assign an objective value to each feature using metrics, scales, and weightings.\n\nCollaborate with engineering leadership at this stage so you can gain an understanding of the effort and technical considerations behind the features you aim to prioritize. This collaboration is essential for establishing accurate timelines and ensuring your roadmap is feasible.\n\nThe end (or the beginning!) is near. You are now ready to visualize your plan on a roadmap. You might be able to get going with a static Excel roadmap, especially early on. But when you are ready, use the product roadmap templates that are available in roadmapping software like Aha! Roadmaps — this is the best way to keep everyone aligned and your product roadmap automatically updated. (Some teams will prefer lightweight roadmap options such as the whiteboard templates in Aha! software.)\n\nWith your roadmap taking shape, it is once again time to engage stakeholders, including executives and leaders in customer support and marketing. Because different stakeholders and teams will look for specific things on your roadmap, you might want to create different views of it. Depending on your audience, you might choose from a few types of roadmaps to present views with varying degrees of specificity.\n\nA features roadmap is a great way to showcase the specific functionality or improvements the team is building, along with a time frame for delivery.\n\nWhat to include on your product roadmap\n\n6 product roadmap examples\n\nOnce your roadmap is well-defined and thoroughly reviewed, it is time to transition from planning to action. Think feature definition, capacity planning, and release planning.\n\nRemember that your roadmap will evolve. As the year goes on, you will continuously adjust the details of the roadmap based on product performance, team velocity, customer needs, and feedback from stakeholders. The most successful product managers see the roadmap as a compass. It should guide you back to what matters most if daily demands pull you off course.\n\nCongratulations — the journey has begun! Meticulous planning will lead to a more purposeful and productive year.\n\nThe Aha! software suite includes purpose-built tools for all phases of product development. Below is a short list of resources in our software that we find helpful during annual planning.\n\nFor reflection and benchmarking:\n\nA product value scorecard makes it possible to track and review the value we delivered to customers.\n\nThe Ideas overview page helps us see feedback trends from customers.\n\nThe Features prioritization page provides a view of all features that are prioritized, but not yet in development.\n\nThe release retrospective report compares estimated effort against actual effort.\n\nVelocity and throughput reports show team capacity and performance trends.\n\nGap analysis: To pinpoint where we are now vs. where we want to be\n\nOpportunity canvas: To identify opportunities for new product functionality\n\nProblem framing: To more deeply understand specific problems we are trying to solve\n\nSMART goals: To tie goals to success metrics\n\nSWOT analysis: To assess internal and external factors impacting our success\n\nAdding goals and initiatives in Aha! Roadmaps\n\nGiving shape to important epics and features\n\nLoosely building release plans and calendars\n\nShowcasing workstreams and dependencies on a strategy roadmap\n\nWhat is the difference between annual, half-yearly, and quarterly planning?\n\nThe cadence at which your team plans can depend on a number of factors: when your fiscal year starts, the type of product you build, or your development methodology. At a high level, annual product planning involves setting strategy and building a roadmap for the entire year. Half-yearly planning is about reviewing and adjusting plans to adapt to evolving customer and market needs. Quarterly planning, as you might expect, allows for even more frequent assessment and adjustment — at the feature level, for example. Each approach caters to different time frames and business needs, balancing foresight with flexibility.\n\nHow can you gather and prioritize customer feedback to identify the most critical needs?\n\nTo gather and prioritize customer feedback effectively, you need to develop an idea management process. If you use software like Aha! Ideas, you can create an ideas portal to collect ideas, review submissions, and engage with customers for clarification. Track themes to identify critical needs, score ideas based on value vs. effort, and promote prioritized ideas to your roadmap. Keep customers informed about idea status, encouraging ongoing engagement and submissions.\n\nHow can you prioritize initiatives and features to ensure an achievable roadmap?\n\nThe short answer? Select a prioritization framework and use it consistently. For instance, a framework like RICE helps you score initiatives and features based on reach, impact, confidence, and effort. We use a product value score at Aha! to measure and prioritize work based on its value — at multiple stages of product development. We also utilize priority limit lines in Aha! Roadmaps to set clear delivery expectations and group work by importance.\n\nWhat are best practices for communicating roadmap progress?\n\nConsider implementing regular check-ins, progress reports, and milestone updates with stakeholders to keep everyone informed of progress. Determine how feedback loops will be incorporated to allow for adjustments to the roadmap. Most importantly, build authentic relationships with stakeholders. You need to tailor your updates to what each individual or team cares about, proactively explain deviations from the roadmap, and build trust through a high \"say/do\" ratio. Maintaining trust is crucial for building confidence in the roadmap.\n\nBold product development teams rely on Aha! to build lovable products. Start a free trial today.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to build your annual product roadmap",
+      "id": "how-to-build-your-annual-product-roadmap"
+    },
+    {
+      "level": "h4",
+      "text": "Build a beautiful roadmap in Aha! Roadmaps. Sign up for a free trial.",
+      "id": "build-a-beautiful-roadmap-in-aha-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "Why annual product planning matters",
+      "id": "why-annual-product-planning-matters"
+    },
+    {
+      "level": "h2",
+      "text": "10 steps for building your annual roadmap and securing stakeholder alignment",
+      "id": "10-steps-for-building-your-annual-roadmap-and-securing-stakeholder-alignment"
+    },
+    {
+      "level": "h4",
+      "text": "1. Reflect on what went well and what did not",
+      "id": "1-reflect-on-what-went-well-and-what-did-not"
+    },
+    {
+      "level": "h4",
+      "text": "2. Reconfirm your product vision and how it relates to the business vision",
+      "id": "2-reconfirm-your-product-vision-and-how-it-relates-to-the-business-vision"
+    },
+    {
+      "level": "h4",
+      "text": "3. Set product goals and initiatives for the year",
+      "id": "3-set-product-goals-and-initiatives-for-the-year"
+    },
+    {
+      "level": "h4",
+      "text": "4. Get leadership's alignment",
+      "id": "4-get-leaderships-alignment"
+    },
+    {
+      "level": "h4",
+      "text": "5. Identify how you want to help customers be successful",
+      "id": "5-identify-how-you-want-to-help-customers-be-successful"
+    },
+    {
+      "level": "h4",
+      "text": "6. Review customer feedback",
+      "id": "6-review-customer-feedback"
+    },
+    {
+      "level": "h4",
+      "text": "7. Identify key areas of work",
+      "id": "7-identify-key-areas-of-work"
+    },
+    {
+      "level": "h4",
+      "text": "8. Define and prioritize features",
+      "id": "8-define-and-prioritize-features"
+    },
+    {
+      "level": "h4",
+      "text": "9. Showcase the roadmap and get stakeholder feedback",
+      "id": "9-showcase-the-roadmap-and-get-stakeholder-feedback"
+    },
+    {
+      "level": "h4",
+      "text": "10. Update the roadmap and get to work",
+      "id": "10-update-the-roadmap-and-get-to-work"
+    },
+    {
+      "level": "h2",
+      "text": "Resources to help you get started",
+      "id": "resources-to-help-you-get-started"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about annual roadmap planning",
+      "id": "faqs-about-annual-roadmap-planning"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/product-management/what-does-a-product-manager-do-each-day",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap#why-annual-product-planning-matters",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap#10-steps-for-building-your-annual-roadmap-and-securing-stakeholder-alignment",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap#resources-to-help-you-get-started",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap#faqs-about-annual-roadmap-planning",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-differentiation",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-management/how-to-complete-a-stakeholder-mapping-exercise#6-steps-to-successful-stakeholder-mapping",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-the-jobs-to-be-done-framework",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas",
+    "https://www.aha.io/roadmapping/guide/idea-management/what-is-idea-management-software",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks#what-are-agile-epics",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-management/work-with-engineers",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap#what-are-different-types-of-product-roadmaps",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-communicate-your-product-roadmap-to-customers",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

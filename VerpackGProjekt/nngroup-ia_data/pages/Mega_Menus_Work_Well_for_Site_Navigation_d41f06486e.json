@@ -1,0 +1,90 @@
+{
+  "url": "https://www.nngroup.com/articles/mega-menus-work-well/",
+  "title": "Mega Menus Work Well for Site Navigation",
+  "content": "March 26, 2017 2017-03-26\n\nMega menus (sometimes spelled “megamenus”) are a type of expandable menu in which many choices are displayed in a two-dimensional dropdown layout. They are an excellent design choice for accommodating a large number of options or for revealing lower-level site pages at a glance.\n\nAs the following screenshots show, mega menus have the following characteristics:\n\nAs the NovaScotia and Moleskine examples show, mega menus provide sufficient space for images and other rich content. Images in the mega menu can help users select the right option.\n\nMega menus also allow designers to show multiple levels of the site’s information architecture — in three out of the five examples above (Dave Ramsey, Game Stop, John Lewis), the mega menus contain both first-level categories and second-level categories.\n\nWe know from user testing that mega menus work. Here are some arguments to support this empirical fact:\n\nIf mega menus are displayed on hover, one challenge is to distinguish between two different user intentions:\n\nThe second situation should trigger the mega menu, but the first should not.\n\nTo account for these two user intentions, don't make response time for a mega menu be too fast: the mouse should remain stationary for 0.5 seconds before you display anything that's hover-dependent, such as a mega menu or a tooltip. Violating this guideline will make the screen flicker insufferably when users move the mouse. Only after 0.5 seconds of resting the pointer on a navbar item can you assume that a user actually wants to see its associated dropdown.\n\nThus, the timing should be:\n\nOne exception to item 3: The very best implementations can sense when a user is moving the pointer from the navbar item to a destination within the dropdown. When the pointer is on such a path, the dropdown should remain visible. This supplementary guideline addresses the diagonal problem, which happens when the path temporarily takes the pointer outside the active area. The dropdown shouldn't disappear when the user is on the way to point to something within it.\n\nIn the above example, the user first pointed to the Sport & Leisure navbar item and now wants to select Haberdashery. Moving the pointer between these two spots makes it cross the Baby & Child navbar item. Many users will move so fast that the pointer will exit the active area for less than 0.5 seconds. However, older or leisurely users might move the mouse so slowly that the dropdown would disappear while they're still aiming for a menu item. Very annoying.\n\nThe main grouping guidelines are:\n\nThe standard usability guideline to \"keep it simple\" also applies to mega menus. Just because you can put anything into them doesn't mean that you should. Simplicity applies to interaction semantics at least as much as it applies to the presentation layer. Fewer options mean less to scan, less to understand, and less to get wrong.\n\nIn particular, avoid GUI widgets and other interface elements that involve more advanced interaction than a simple click. Mega menus are a fleeting screen presence and shouldn't replace dialog boxes, which are the natural home for more complex interactions and can support them better. Among other benefits, dialog boxes have a standard dismissal method (the OK/Cancel buttons), stay on the screen until they're dismissed, and can be moved around if users need to see something that the box obscures.\n\nSimilarly — but worse still — is hiding the search box within a mega menu. This is bad for two reasons:\n\nBecause dynamic screen elements always have the potential to cause accessibility problems, it's important to code them with screen readers and other assistive technology in mind.\n\nEven if coded correctly, mega menus can cause problems for low-vision users who use screen magnifiers to enlarge tiny portions of the screen. (The same issue impacts smartphone and tablet users.) With a small screen or a screen magnifier, only a small portion of the mega menu might be visible.\n\nFor example, in the JohnLewis.com screenshot above, the screen magnifier will show the first groups but not the Gift Food & Alcohol topic or those right of this groups. The missing drop shadow, which appears on the full menu's right edge, is too subtle a signal to help most users, particularly those with poor vision. Users may assume that the visible content is all the content that is available, and, thus, the site could lose orders if it had many low-vision customers (a common situation for sites targeting older users). Having a strong visual signal for menu borders is one way to alleviate this problem.\n\nIn addition, tiny options inside mega menus cause selection errors on touchscreens, and overly finicky show/hide behaviors hurt people with motor skills impairment.\n\nThere are two main approaches to improving the accessibility of mega menus:\n\nIf you're a rich company and/or especially concerned with accessibility, you should implement both the simple and advanced features. Most sites, however, will probably have to make do with the simple approach.\n\nMega menus may improve the navigability of your site. (Of course, it's always best to test.) By helping users find more, they'll help you sell more (or meet other business goals, such as attracting donations or disseminating helpful information for nonprofit or government sites).\n\nSee also: article on the downsides of poorly-designed mega menus.\n\nTrending UX patterns and their impact on the total user experience",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Mega Menus Work Well for Site Navigation",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Mega Menus Beat Regular Dropdowns",
+      "id": "toc-mega-menus-beat-regular-dropdowns-1"
+    },
+    {
+      "level": "h2",
+      "text": "Timing Considerations for Mega menus Displayed on Hover",
+      "id": "toc-timing-considerations-for-mega-menus-displayed-on-hover-2"
+    },
+    {
+      "level": "h2",
+      "text": "Grouping the Options Within a Mega Menu",
+      "id": "toc-grouping-the-options-within-a-mega-menu-3"
+    },
+    {
+      "level": "h2",
+      "text": "Keep Mega Menus Simple",
+      "id": "toc-keep-mega-menus-simple-4"
+    },
+    {
+      "level": "h2",
+      "text": "Accessibility",
+      "id": "toc-accessibility-5"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-6"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Emerging Patterns in Interface Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/mega-menus-work-well/",
+    "https://www.nngroup.com/articles/expandable-menus/",
+    "https://www.nngroup.com/articles/mega-menus-work-well/",
+    "https://www.nngroup.com/articles/mega-menus-work-well/#toc-mega-menus-beat-regular-dropdowns-1",
+    "https://www.nngroup.com/articles/mega-menus-work-well/#toc-timing-considerations-for-mega-menus-displayed-on-hover-2",
+    "https://www.nngroup.com/articles/mega-menus-work-well/#toc-grouping-the-options-within-a-mega-menu-3",
+    "https://www.nngroup.com/articles/mega-menus-work-well/#toc-keep-mega-menus-simple-4",
+    "https://www.nngroup.com/articles/mega-menus-work-well/#toc-accessibility-5",
+    "https://www.nngroup.com/articles/mega-menus-work-well/#toc-conclusion-6",
+    "https://www.nngroup.com/articles/drop-down-menus/",
+    "https://www.nngroup.com/articles/short-term-memory-and-web-usability/",
+    "https://www.nngroup.com/articles/recognition-and-recall/",
+    "https://www.nngroup.com/articles/timing-exposing-content/",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/",
+    "https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/",
+    "https://www.nngroup.com/articles/web-writing-use-search-keywords/",
+    "https://www.nngroup.com/articles/reduce-redundancydecrease-duplicated-design-decisions/",
+    "https://www.nngroup.com/articles/okndashcancel-or-cancelndashok/",
+    "https://www.nngroup.com/articles/search-visible-and-simple/",
+    "https://www.nngroup.com/articles/touch-target-size/",
+    "https://www.nngroup.com/articles/non-profit-websites-donations/",
+    "https://www.nngroup.com/articles/government-non-profits-usability-roi/",
+    "https://www.nngroup.com/articles/mega-menus-gone-wrong/"
+  ]
+}

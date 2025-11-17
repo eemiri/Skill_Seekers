@@ -1,0 +1,723 @@
+{
+  "url": "https://istqb.org/",
+  "title": "International Software Testing Qualifications Board (ISTQB)",
+  "content": "As of May 2025, ISTQB® has administered 1.4 million exams and issued more than 1 Million certifications in over 130 countries. With its extensive network of Accredited Training Providers, Member Boards, and Exam Providers, ISTQB® is one of the biggest and most established vendor-neutral professional certification schemes in the world.ISTQB® terminology is industry recognized as the defacto language in the field of software testing and connects professionals worldwide.Join our network of software testing professionals by becoming certified today!\n\nExplore key information and download syllabi and sample exams in our free knowledge base.\n\nChoose from more than 300 leading accredited training providers around the world.\n\nAccredited training providers >\n\nIdentify exam providers in your area who offer your selected certification exam.\n\nBrowse the list of certified individuals.\n\nTake a look at our portfolio of certifications and explore what will support your career in testing.\n\nClick on any of the certifications in the graphic to view more information.\n\nThe ISTQB® Certified Tester Foundation Level (CTFL) certification is the cornerstone of essential testing knowledge that can be applied to real-world scenarios. The syllabus provides a comprehensive understanding of the terminology and concepts used in the testing domain worldwide, making it relevant for all software delivery approaches and practices, including Waterfall, Agile, DevOps, and Continuous Delivery. CTFL certification is recognized as a prerequisite to all other ISTQB® certifications where Foundation Level is required.\n\nThe ISTQB® Advanced Level Agile Technical Tester (CTAL-ATT) certification provides a thorough introduction to the technical testing skills which are fundamental in organizations using an Agile development approach. These skills include testing and agile techniques, test automation approaches, and continuous deployment and delivery.\n\nThe ISTQB® Agile Test Leadership at Scale (CT-ATLaS) certification focuses on how to organize and improve quality and testing across multiple teams in an agile organization. It also covers how to approach quality and testing at a strategic level in order to achieve higher business agility in an organization. CT-ATLaS covers how to scale testing and quality assurance efforts by fostering a quality mindset and culture across the organization. This includes shifting from a traditional test management approach typically used in sequential development models to a quality assistance approach which builds on Lean and Agile principles and values. It also includes how to adopt common Lean and Agile techniques and processes for analyzing and solving problems and how to use them to improve testing and quality in the organization.\n\nThe ISTQB® Foundation Level Agile Tester (CTFL-AT) certification provides the key testing skills necessary to successfully contribute to an Agile project. CTFL-AT covers agile testing in alignment with the principles of agile software development as outlined in the Agile Manifesto. A tester on an Agile project will work differently than one working on a traditional project. Testers must understand the values and principles that underpin Agile projects, and how testers are an integral part of a whole-team approach together with developers and business representatives.\n\nThe ISTQB® AI Testing (CT-AI) certification extends understanding of artificial intelligence and/or deep (machine) learning, most specifically testing AI-based systems and using AI in testing.\n\nThe ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) extends the Foundation Level and provides testing and quality-engineering professionals with a structured, hands-on path to master how, when, and why to use Large Language Models (LLMs) and other generative-AI techniques across the entire test process – from requirements analysis and test design to automation, reporting, and continuous improvement.\n\nThe ISTQB® Mobile Application Testing (CT-MAT) certification provides an insight into methods, techniques, and tools a professional may use to test mobile applications. It covers the required mobile project activities, roles, methods, and methodologies.\n\nThe ISTQB® Model-Based Testing (CT-MBT) certification focuses on an advanced test approach of using models for testing. It extends and supports classic test design techniques such as equivalence partitioning, boundary value analysis, decision table testing, state transition testing, and use case testing. It is an innovative approach to improve effectivity and efficiency of the test process.\n\nThe Certified Tester Test Automation Strategy Specialist qualification is aimed at anyone involved in software testing and test automation. The syllabus presents multiple factors that come into play when planning for test automation within an organization.\n\nThe ISTQB® Acceptance Testing (CT-AcT) certification focuses on the concepts, methods, and practices of collaboration between product owners/business analysts and testers in acceptance testing. It covers user acceptance testing (UAT), contractual and regulatory acceptance testing, as well as alpha and beta testing.\n\nThe ISTQB® Performance Testing (CT-PT) certification provides knowledge of the principal aspects of performance testing, including technical aspects, method-based aspects, and organizational aspects. Specifically pertaining to performance testing, it covers areas such as basic concepts, measurements, activities, tasks, and tools.\n\nThe release of the new security test engineer is an important extension within ISTQB’s portfolio. The first step was done in 2016, when ISTQB® released the first version of the security testing syllabus.\n\nThe ISTQB® Security Tester (CT-SEC) certification focuses on planning, performing, and evaluating security tests from multiple perspectives including risk, requirements, vulnerability, and human factors. It also covers security testing tools and standards.\n\nThe ISTQB® Certified Tester Usability Tester (CT-UT) focuses on usability testing methods and approaches. It covers set up procedures from a usability, user experience, and accessibility, as well as relevant standards and risks.\n\nThe ISTQB® Certified Tester Automotive Software Tester (CT-AuT) certification focuses on the specific requirements for \"testing E/E systems\" in the automotive environment on the basis of established standards (Automotive SPICE®, ISO 26262, AUTOSAR®, etc.). It also covers testing in virtual environments (including XiL), and automotive-specific static and dynamic test techniques.\n\nThe ISTQB® Gambling Industry Tester (CT-GT) certification covers the key concepts in the gambling industry, the gambling industry ecosystem, and the different test types common to the gambling industry. It includes aspects such as gambling industry compliance testing, fun factor or player perspective testing, math testing, audio testing, multiplayer testing, and interoperability testing.\n\nThe ISTQB® Game Testing certification focusses on the understanding and skills needed to perform and manage testing on all levels in game projects. It covers the basic concepts of video and game testing as well as how to determine risks and goals for gaming software. It includes conceptually designing, implementing and executing game software tests, approaches to games testing (Game Testing Mechanics, Sound Testing, Graphics Testing and Localization) and recognizing games testing tools.\n\nThe ISTQB® Advanced Level Technical Test Analyst (CTAL-TTA) provides a thorough introduction to the technical testing skills which are fundamental in many organizations today. These skills include risk-based testing, white box testing, static and dynamic analysis, non-functional testing, and test automation.\n\nThe ISTQB® Advanced Level Test Analyst (CTAL-TA) certification provides the skills needed to perform structured and thorough software testing across the software development life cycle. It goes into detail about the test analyst’s role and responsibilities in every step of a standard test process and expands on important test techniques.\n\nThe ISTQB® Advanced Level Test Management (CTAL-TM) certification provides the knowledge and competencies to take responsibility for managing all the testing activities across the software development lifecycle. It covers everything from how to design a suitable test approach for the project based on the organizational test strategy to building a test team or testing competencies to complete the necessary testing.\n\nThe ISTQB® Test Automation Engineering (CTAL-TAE) certification focuses on the design, development, and maintenance of test automation solutions. It also covers the concepts, methods, tools, and processes for automating dynamic functional tests, and the relationship of those tests to test management, configuration management, defect management, software development processes, and quality assurance. Methods described are generally applicable across a variety of software life cycle approaches, types of software systems, and test types.\n\nThe ISTQB Expert Level Test Management (CTEL-TM) certification (Managing Testing, Testers, and Test Stakeholders) comprises 3 parts: 'Strategic Test Management', 'Operational Test Management', and 'Managing the Test Team'. Note that separate certification exams are provided for each part, and all three parts must be achieved to gain full certification in CTEL-TM. An Expert Level Certificate is valid for 7 years.\n\nThe ISTQB Expert Level Test Management (CTEL-TM) certification (Managing Testing, Testers, and Test Stakeholders) comprises 3 parts: 'Strategic Test Management', 'Operational Test Management', and 'Managing the Test Team'. Note that separate certification exams are provided for each part, and all three parts must be achieved to gain full certification in CTEL-TM. An Expert Level certificate is valid for 7 years.\n\nThe ISTQB Expert Level Test Management (CTEL-TM) certification (Managing Testing, Testers, and Test Stakeholders) comprises 3 parts: 'Strategic Test Management', 'Operational Test Management', and 'Managing the Test Team'. Note that separate certification exams are provided for each part, and all three parts must be achieved to gain full certification in CTEL-TM. An Expert Level certificate is valid for 7 years.\n\nThe ISTQB® Expert Level Improving the Test Process (CTEL-ITP-ATP) certification comprises 2 parts: 'Assessing the Test Process' and 'Implementing Test Process Improvement'. Note that separate certification exams are provided for each part, and both parts must be achieved to gain full certification in CTEL-ITP. An Expert Level certificate is valid for 7 years.\n\nThe ISTQB® Expert Level Improving the Test Process (CTEL-ITP) certification comprises 2 parts: 'Assessing the Test Process' and 'Implementing Test Process Improvement'. Note that separate certification exams are provided for each part, and both parts must be achieved to gain full certification in CTEL-ITP. An Expert Level certificate is valid for 7 years.\n\nAn ISTQB® Add-On certification is recognised by ISTQB® as complementary and relevant to software testing.These certifications enhance testing expertise in related areas.\n\nIn addition to the alliances that the ISTQB currently has in place, many other supporting skills are available and useful for testers, test managers, programmers, team members in agile projects, for anyone interested in testing.\n\nThese supporting skills include, but are not limited to, communication skills, project management skills, specific tool knowledge, and systemic thinking.\n\nISTQB® has formed alliances with other certification bodies to complement its schemes and highlight links to related disciplines.\n\nAlliances include:· IREB (Requirements Engineering) IQBBA (Business Analysis)· TMMi Foundation (Test Process Improvement)\n\nThe ISTQB® syllabus for Certified Tester - Quality in DevOps (CT-QDO) is currently under BETA review.\n\nSoftware Product Manager\n\nThe International Software Testing Qualifications Board (ISTQB®) proudly announces the official release of its latest specialist-level certification: Certified Tester – Testing with Generative AI (CT-GenAI). This cutting-edge certification equips testing professionals with the knowledge and skills to leverage generative AI...\n\nThe International Software Testing Qualifications Board (ISTQB®) is delighted to introduce the newly elected members of its Funnel Committee. The Funnel Committee plays a crucial role in ensuring that ISTQB® remains responsive to the ever-evolving needs of the global software...\n\nThe Certified Tester Advanced Level Test Analyst certification is at the core of the ISTQB® Certified Tester scheme and it has been subject to a major update to ensure its continued relevance to today’s approaches to software development and testing....\n\nToday, Tuesday 6 th May 2025, following its General Assembly meeting in Dubai, the International Software Testing Qualifications Board (ISTQB®) announced that it has achieved a landmark milestone: over 1,000,000 certificates awarded globally. ISTQB® was established in 1998 and its Certified Tester...\n\nExpanding Opportunities for Software Testing Professionals Worldwide! The International Software Testing Qualifications Board (ISTQB®) is pleased to announce that the Practical Tester certification developed by A4Q is formally endorsed as an official ISTQB® Add-On certification. It will be added to...\n\n14th February 2025 The International Software Testing Qualifications Board (ISTQB®) and the TMMi Foundation (TMMi®) are pleased to announce the renewal of their strategic alliance. Originally established in 2019, this renewed agreement underscores the organizations’ shared commitment to advancing the...\n\nMore than 100 organizations are members of our Partner Program. Become an ISTQB® Partner.\n\nThere are various exciting opportunities for organization and individuals to contribute to the ISTQB®. We are a collaborative community working together across the globe to achieve a common vision. Our partners and contributors demonstrate a commitment to quality and a passion for software testing – find out more and join us!\n\nIncrease confidence and trust in your team’s testing skills and gain a competitive advantage as an ISTQB® Partner\n\nBoost your position as a training provider with official recognition from ISTQB®\n\nPromote your conference to a global audience with the endorsement of the ISTQB® Conference Network\n\nHelp ISTQB® to identify and recognize inspiring influencers within the software testing profession and celebrate their achievements\n\nExtend the reach of your audience for your academic papers and/or research by publishing in the ISTQB compendium of recommended\n\nPromote your podcast to a global audience as part of the ISTQB® Podcast Network",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "ISTQB® is the leading global certification scheme in the field of software testing.",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Build Your Testing Skills",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Find a Certification",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Find Accredited Training",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Find an Exam",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Check out the Successful Candidate Register (SCR)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "ISTQB_UPDATED_0910",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Improve & Certify your skills",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Foundation Level (CTFL)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Foundation Level",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Advanced Level Agile Technical Tester (CTAL-ATT)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Advanced Level Agile Technical Tester",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Agile Test Leadership at Scale (CT-ATLaS)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Agile Test Leadership at Scale",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Foundation Level Agile Tester (CTFL-AT)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Foundation Level Agile Tester",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester AI Testing (CT-AI)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester AI Testing",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Testing with Generative AI (CT-GenAI)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Gen AI",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Mobile Application Testing (CT-MAT)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Mobile Application Testing",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Model-Based Tester (CT-MBT)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Model-Based Tester",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Test Automation Strategy (CT-TAS)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Test Automation Strategy",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Acceptance Testing (CT-AcT)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Acceptance Testing",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Performance Testing (CT-PT)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Performance Testing",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Security Test Engineer (CT-STE)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Security Test Engineer",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Security Tester (CT-SEC)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Security Tester",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Usability Testing (CT-UT)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Usability Testing",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Automotive Software Tester (CT-AuT)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Automotive Software Tester",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Gambling Industry Tester (CT-GT)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Gambling Industry Tester",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Game Testing (CT-GaMe)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Game Testing",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Advanced Level Technical Test Analyst (CTAL-TTA)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Advanced Level Technical Test Analyst",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Advanced Level Test Analyst (CTAL-TA)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Advanced Level Test Analyst",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Advanced Level Test Management (CTAL-TM) v3.0 [NEW!]",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Advanced Level Test Management v3.0 [NEW!]",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Advanced Level Test Automation Engineering (CTAL-TAE) v2.0 [NEW!]",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Advanced Level Test Automation Engineering v2.0 [NEW!]",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Expert Level Test Management Strategic Test Management (CTEL-TM-STM)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Expert Level Test Management Strategic Test Management",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Expert Level Test Management Operational Test Management (CTEL-TM-OTM)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Expert Level Test Management Operational Test Management",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Expert Level Test Management Managing the Test Team (CTEL-TM-TM)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Expert Level Test Management Managing the Test Team",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Expert Level Assessing Test Processes (CTEL-ITP-ATP)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Expert Level Assessing Test Processes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Expert Level Implementing Test Process Improvement (CTEL-ITP-ITPI)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Expert Level Implementing Test Process Improvement",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Learn More >",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "ISTQB Add-On Certification",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "ISTQB® Add-On Certifications",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Supporting Skills",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Supporting Skills",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "ISTQB (R) Alliances",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "ISTQB (R) Alliances",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Quality in DevOps (CT-QDO) (BETA)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Certified Tester Quality in DevOps (BETA)",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "ISTQB® Personas",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Parker",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Liam",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Anya",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Mateo",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "ISTQB® Glossary",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "ISTQB® Certified Tester – Testing with Generative AI (CT-GenAI) Press Release",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "ISTQB® Announces Newly Elected Members of the Funnel Committee",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "ISTQB® Certified Tester Advanced Level Test Analyst (CTAL-TA) v4.0 Press Release",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "A Global Milestone in Software Quality: 1,000,000+ ISTQB® Certificates!",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "ISTQB® Endorses the Practical Tester by A4Q as an Add-On Certification",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "ISTQB® and TMMi® Renew Their Alliance Agreement to Advance Software Testing",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "ISTQB® Partner Program",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Work With Us And Get Involved",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Join Our Partner Program",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Become An Accredited Training Provider",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Join The Conference Network",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Nominate For The ISTQB® Excellence Award",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Join Our Academic Research Compendium",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Join The Podcast Network",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/",
+    "https://istqb.org/certifications/certified-tester-foundation-level-agile-tester-ctfl-at/"
+  ]
+}

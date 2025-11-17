@@ -1,0 +1,48 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/",
+  "title": "Text formatting",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nType treatment is a key component in great design. The thoughtful use of fonts, text formatting, capitalization, alignment, and spacing creates a first impression, reinforces the Microsoft brand, and improves readability.\n\nThe consistent formatting of text elements, such as command names and URLs, reduces ambiguity and helps customers find and interpret information easily. Text-formatting guidelines are sometimes called document conventions.\n\nSee also Formatting developer text elements Reference documentation Procedures and instructions\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Text formatting",
+      "id": "text-formatting"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/index",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-common-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-titles",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/index"
+  ]
+}

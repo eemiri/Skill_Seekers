@@ -1,0 +1,124 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress#how-to-report-on-progress-to-different-audiences",
+  "title": "Product Roadmap Reporting: How To Track Progress Effectively",
+  "content": "Last updated: April 2024\n\nRoadmapping is an essential part of a product manager's job. You use these visual plans to chart and communicate the future of your product — the high-level initiatives and the work required to achieve success. In many ways, you are your roadmap.\n\nRoadmaps also help cross-functional teams stay in sync and on schedule for releases, important launches, major user stories, and everyday work. An effective roadmap gets everyone moving in the same direction. But this does not mean your roadmap is static.\n\nUpdating it and reporting on progress should be a vital part of your responsibilities as a product manager — particularly because different audiences will want to zero in on different information. For example, executive teams will likely want to see key initiatives mapped to product goals to understand if large themes of work are on track. Marketing and sales teams may want to see a more detailed view of upcoming releases and features that impact go-to-market plans.\n\nGiving the product team and other stakeholders proactive, detail-rich progress updates keeps everyone informed of how you are doing against your plan. When done well, a dynamic roadmap is a powerful and robust — yes, even beautiful — communication tool.\n\nJump ahead to any section:\n\nWhat to include in a roadmap progress update\n\nHow to report on progress to different audiences\n\nBuild beautiful roadmaps\n\nThe purpose of a roadmap progress update is to show the status of key work items. The structure that you choose should include the right level of detail for the given audience — helping folks feel invested in the plans and understand if any work is at risk.\n\nAsk yourself the following questions to determine what details should be included to help teammates understand the bigger picture:\n\nWhat are you trying to achieve? Each key initiative, release, and feature on your roadmap should be tied to a measurable goal. Including goals and success metrics in your updates to teammates displays the \"why\" behind the work.\n\nHow are things progressing? Is the work on track? Include status details to provide an at-a-glance view. A color-coded designation of \"on track\" or \"at risk\" makes it easy to see everything in context.\n\nWhich work streams are happening at the same time? Cross-functional teams will want to see how their work stacks up against other priorities. Show timing to help folks see how their activities fit into company-wide initiatives.\n\nHow much work have you shipped? What are the major milestones? Showing the amount of work that has been completed as a percentage of total work illustrates overall progress — and a reason to celebrate accomplishments.\n\nWhat is needed from other team members to keep work on track? Include dependencies so each team knows what they are responsible for, when the work needs to be delivered, and how their work impacts other teams.\n\nAre there any risks or delays? Include roadblocks in your update to give the team a chance to plan ahead and ask for help where they need it.\n\nThe best updates are tailored to the specific audience and situation. But you often need more than just a roadmap to gauge real progress and communicate with the broader team. It can be helpful to have multiple KPIs in one view so you can answer all of the questions a stakeholder might have. A dashboard view is perfect for this — you can incorporate charts, lists, and roadmaps to help convey a complete picture of product work and streamline communication.\n\nLeadership teams typically want to see the progress of high-level goals and strategic initiatives. They may not want to see details at the feature level. A strategic dashboard like the one below includes initiatives, release timelines, and budget — to help convey the big picture.\n\nEngineers focus on implementation. They likely care about the progress of current and upcoming releases and features — whether work is on track or at risk. You may also want to show additional details, like feature velocity or team capacity.\n\nMarketing teams need to know about upcoming releases and features so they can coordinate go-to-market launches and campaigns. Your roadmap update for this group could highlight release scope, timelines, dependencies, and key milestones.\n\nSales and support teams are the closest to your customers. They want to deliver good news to customers about new features and enhancements. And they want to understand how customer feedback is being looped into product plans. Show them which customer ideas are in progress and which have been shipped, as in the example below.\n\nIf you use static spreadsheets and presentations to build roadmaps, you are probably used to constantly updating them. At a certain point, those methods become limiting. A real-time, flexible view of roadmap progress is simpler for everyone — freeing you up from constant updates and letting your team drill into the details they care about most.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to report on progress against your product roadmap",
+      "id": "how-to-report-on-progress-against-your-product-roadmap"
+    },
+    {
+      "level": "h4",
+      "text": "Build a beautiful product roadmap using Aha! Roadmaps. Sign up for a trial.",
+      "id": "build-a-beautiful-product-roadmap-using-aha-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "What to include in a roadmap progress update",
+      "id": "what-to-include-in-a-roadmap-progress-update"
+    },
+    {
+      "level": "h3",
+      "text": "Success metrics",
+      "id": "success-metrics"
+    },
+    {
+      "level": "h3",
+      "text": "Status",
+      "id": "status"
+    },
+    {
+      "level": "h3",
+      "text": "Timelines",
+      "id": "timelines"
+    },
+    {
+      "level": "h3",
+      "text": "Completed work",
+      "id": "completed-work"
+    },
+    {
+      "level": "h3",
+      "text": "Dependencies",
+      "id": "dependencies"
+    },
+    {
+      "level": "h3",
+      "text": "Roadblocks",
+      "id": "roadblocks"
+    },
+    {
+      "level": "h2",
+      "text": "How to report on progress to different audiences",
+      "id": "how-to-report-on-progress-to-different-audiences"
+    },
+    {
+      "level": "h3",
+      "text": "Leadership teams",
+      "id": "leadership-teams"
+    },
+    {
+      "level": "h3",
+      "text": "Engineering teams",
+      "id": "engineering-teams"
+    },
+    {
+      "level": "h3",
+      "text": "Marketing teams",
+      "id": "marketing-teams"
+    },
+    {
+      "level": "h3",
+      "text": "Sales and support teams",
+      "id": "sales-and-support-teams"
+    },
+    {
+      "level": "h2",
+      "text": "Build beautiful roadmaps",
+      "id": "build-beautiful-roadmaps"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress#what-to-include-in-a-roadmap-progress-update",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress#how-to-report-on-progress-to-different-audiences",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress#build-beautiful-roadmaps",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress#top",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/go-to-market-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress#top",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-communicate-your-product-roadmap-to-customers",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+  "title": "Product Backlog Refinement: Best Practices To Prioritize Work",
+  "content": "Last updated: April 2024\n\nHow do you feel when you look at your product backlog? Overwhelmed? Unless you regularly organize your product backlog, it can quickly morph into a tangled mess of features and outdated requests. Maybe the items in your backlog are disconnected from the product strategy or overly technical and difficult to understand. When your backlog is cluttered like this, it can seem impossible to bring order to the chaos.\n\nOf course, you are not intentionally neglecting your product backlog. But organizing it is rarely the priority when there is more urgent work to do. However, it is vital to carve out space for routine upkeep — removing the superfluous items to make space for the essential. After all, a well-organized backlog aligns the product team around the upcoming work and clarifies what the most important features are. This gives everyone the information they need to complete their work confidently and efficiently.\n\nKeep reading or jump ahead here:\n\nWhat is a product backlog?\n\nWhat is backlog refinement?\n\nWhat are the benefits of backlog refinement?\n\nWhat are the steps of backlog refinement?\n\nWho is involved in backlog refinement?\n\nHow to conduct a backlog refinement session\n\nHow often should I refine the backlog?\n\nA product backlog is a prioritized inventory of upcoming work. Think of it as a running list of the features that will create the most value for customers and the business. A product backlog is largely seen as a replacement for a product requirements document (PRD), which some product managers still use to explain what the team is building and how it should work. Since many product management teams now take a more agile approach to their work, they have shifted to a more dynamic way to manage requirements — in a product backlog.\n\nBut no matter what methodology you follow, a backlog can be a useful tool for adapting your product plans based on customer feedback and new learnings. Product teams typically select the highest value items from their backlog, then add them to the product roadmap. When used together, a tactical backlog and strategic roadmap can be a highly effective approach to product development. You lay out your strategic plans for the product in the roadmap, then use your backlog to prioritize the items needed to deliver on that roadmap.\n\nHere we are focusing on the product backlog as a tool to inform your product roadmap. But it is worth noting that there are also other types of backlogs, including release and sprint backlogs. While a release backlog is used to plan the features that must be implemented for a release, a sprint backlog is used during sprint planning to capture the user stories that the development team will complete.\n\nRefining your product backlog means that you create a prioritized inventory of features, bug fixes, or technical work that needs to be done. Backlog refinement was previously called \"backlog grooming,\" but today most agile organizations use the newer terminology of \"backlog refinement\" (or sometimes backlog management, pre-planning, or story time.) While grooming became an official element in scrum in 2011, the concept of prioritizing upcoming work is now used more broadly in product management.\n\nAt a high level, backlog refinement involves rewriting backlog items to be more clear, deleting obsolete items, and breaking down large efforts into smaller ones. In agile terms, product backlog refinement entails everything from creating new user stories and removing irrelevant ones to reassessing story priority and assigning (and correcting) story estimates.\n\nThe goal of backlog refinement is to ensure that there is a constant stream of features or user stories for the development team to pull in as soon as they have capacity. This could mean pulling multiple items into a sprint — or, if you follow a continuous development approach, pulling items in one by one.\n\nThe main benefit of backlog refinement is ensuring that the items at the top of your backlog are relevant, detailed, and estimated. You want everything to be primed for scheduling as soon as the engineering team has capacity for the work. This leads to greater efficiency and increases the value you are able to deliver to customers.\n\nHere is an overview of the other benefits of backlog refinement:\n\nStay focused on the goals you want to achieve\n\nPrioritize features that will deliver the most value\n\nReach alignment quickly on what to work on next\n\nCollaborate more efficiently with other teams involved in the work\n\nKeep work manageable by breaking items into user stories\n\nMinimize wasted time for development teams since backlog items are primed for work\n\nReduce risk by identifying potential rework and dependencies\n\nEffective prioritization starts well before you get into the actual backlog. First, you will want to set your product strategy. This gives the team a way to measure success against a shared set of goals and initiatives. Another important prerequisite to a well-organized backlog is separating suggestions from opportunities. Most established product teams use an idea management tool like Aha! Ideas to collect suggestions and promote the best ones to their backlog.\n\nOnce you have set your strategy and delineated ideas from features, you are ready to organize and prioritize your backlog. Here are the main steps to follow to refine your backlog:\n\nOrganize with categories\n\nGroup backlog items by common characteristics, such as a specific theme, area of your product, or size. However you choose to categorize your backlog, remember that you want to be able to easily see which features still need to be reviewed and which ones are already ready for the development team. This way product management and engineering can quickly identify what to work on next.\n\nThis is an example of a categorized product backlog refined in Aha! Roadmaps. Backlog items are organized into different sections in the parking lot based on size and new items that still need review.\n\nAnalyze backlog items\n\nWith a sustainable structure in place for reviewing new features, you can now analyze the individual features in your backlog. Review the existing feedback and data points on backlog items, connect them to your product strategy, and define the work involved. You can also break larger features into smaller requirements at this point. It can be helpful for product managers and project managers to use the same refinement process to review projects that are not a typical feature — for example, technical debt or training.\n\nScore based on strategy\n\nUse an internal scorecard to rank each feature in your backlog based on its business value. This is an objective way to prioritize work based on what will create the most value for the company. Some teams choose to have a cross-functional group collaborate on scoring during backlog refinement. This way, each team can share their expertise on how different areas of the business will be affected — such as engineering for effort and marketing for PR impact.\n\nThis is an example of a feature scored in Aha! Roadmaps with different metrics based on product strategy.\n\nDrive consensus around priorities\n\nOnce you finish prioritizing features from your backlog in a few major releases, share your plans with a broader audience. Other teams like sales and engineering will want to see the details of what is coming and when. Make sure everyone understands the thought that goes into evaluating and prioritizing items in your backlog — this instills confidence that you are working on what is most important.\n\nThis is an example of a features product roadmap in Aha! Roadmaps. It conveys the details of what is coming when. You can customize the view to show only the releases and features you want to include.\n\nThe product manager is the main person responsible for continuous upkeep of the backlog. If there is a product owner on the team, the product manager works closely with them on release and sprint scheduling. Most teams also gather regularly to review backlog items together — these meetings are called backlog refinement meetings or sessions.\n\nStart using this template now\n\nRepresentatives of the broader team — team members from product management, engineering, and leadership — should be present at these meetings. It can also be helpful to include someone who acts as the “voice of the customer,\" such as a member of your customer success or support team. This person can help keep customers at the center of the conversation.\n\nProduct teams have different methods for backlog refinement. Agile teams, for example, may conduct backlog review sessions to estimate stories and assign story points. This agile sprint refinement approach ensures that the next few sprints worth of user stories are always ready to go.\n\nNo matter how you choose to refine your product backlog, the goal is to ensure that the backlog is organized and prioritized in a way that the entire team understands and supports. Here are the important questions to ask when leading a backlog refinement session:\n\nWhat is the overall strategy? Open the meeting by reviewing the overarching strategy outlined in the product roadmap. Review your specific goals and initiatives with the team to determine if there are any areas where you are lagging behind or changes to what customers are asking for.\n\nHow do backlog items align with product strategy? Evaluate the product backlog in the context of your strategic product roadmap. You will likely have already done some initial scoring, estimating, and detailing to understand the value of the features you are advocating for.\n\nWhat are the top features in the backlog? Discuss the top features in your backlog and make sure everyone in the group reaches a consensus about which ones are worth pursuing.\n\nDoes everyone understand why these backlog items are a priority? Now the product manager tells a story about what the business and customers need. Storytelling is a way to explain what the priorities are and make sure everyone understands the \"why.\"\n\nHow long will it take to build them? Talk about effort and break down any work that is too big to complete in a sprint into smaller user stories. The developers will then typically have their own planning meeting to go deeper on estimates.\n\nProduct managers or product owners refine the backlog on an ongoing basis — not just during meetings with other members of the team. How often you meet together as a group depends on how long the team has been working together and how frequently new items are added to the product backlog. Some teams meet weekly or once per sprint for backlog refinement.\n\nAfter a backlog refinement session, those in attendance should walk away with a clear understanding of the upcoming work and deadlines, such as when to get estimates from engineering. Having a good, consistent process in place for reviewing and refining the product backlog is key. You will have a smooth handoff with engineering and remain focused on delivering valuable functionality.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to refine the product backlog",
+      "id": "how-to-refine-the-product-backlog"
+    },
+    {
+      "level": "h4",
+      "text": "Prioritize features and build more lovable products — try Aha! for free.",
+      "id": "prioritize-features-and-build-more-lovable-products-"
+    },
+    {
+      "level": "h2",
+      "text": "What is a product backlog?",
+      "id": "what-is-a-product-backlog"
+    },
+    {
+      "level": "h2",
+      "text": "What is backlog refinement?",
+      "id": "what-is-backlog-refinement"
+    },
+    {
+      "level": "h2",
+      "text": "What are the benefits of backlog refinement?",
+      "id": "what-are-the-benefits-of-backlog-refinement"
+    },
+    {
+      "level": "h2",
+      "text": "What are the steps of backlog refinement?",
+      "id": "what-are-the-steps-of-backlog-refinement"
+    },
+    {
+      "level": "h2",
+      "text": "Who is involved in backlog refinement?",
+      "id": "who-is-involved-in-backlog-refinement"
+    },
+    {
+      "level": "h4",
+      "text": "Run your next backlog refinement meeting in Aha! software — try it for free.",
+      "id": "run-your-next-backlog-refinement-meeting-in-aha-software-"
+    },
+    {
+      "level": "h2",
+      "text": "How to conduct a backlog refinement session",
+      "id": "how-to-conduct-a-backlog-refinement-session"
+    },
+    {
+      "level": "h2",
+      "text": "How often should I refine the backlog?",
+      "id": "how-often-should-i-refine-the-backlog"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#what-is-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#what-are-the-benefits-of-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#what-are-the-steps-of-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#who-is-involved-in-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#how-to-conduct-a-backlog-refinement-session",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#how-often-should-i-refine-the-backlog",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-prd-(product-requirements-document)",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#top",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#top",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#top",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement#top",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms",
+  "title": "Mouse and mouse interaction terms",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nMost of the time, don't talk about the mouse, mouse actions, or the pointer unless it's necessary to avoid confusion. Instead, talk about customer interactions with the UI. To learn more, see Describing interactions with UI.\n\nWhen you need to talk specifically about the mouse, mouse interactions, or the pointer, use these terms.\n\nWhen you must talk about the appearance of the pointer on the screen, include a picture of the pointer if possible. Don't use a picture instead of the word pointer—use both.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Mouse and mouse interaction terms",
+      "id": "mouse-and-mouse-interaction-terms"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Mouse actions",
+      "id": "mouse-actions"
+    },
+    {
+      "level": "h2",
+      "text": "Devices",
+      "id": "devices"
+    },
+    {
+      "level": "h2",
+      "text": "On-screen pointers",
+      "id": "on-screen-pointers"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui"
+  ]
+}

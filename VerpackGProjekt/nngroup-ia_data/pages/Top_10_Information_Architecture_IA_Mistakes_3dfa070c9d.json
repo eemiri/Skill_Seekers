@@ -1,0 +1,120 @@
+{
+  "url": "https://www.nngroup.com/articles/top-10-ia-mistakes/#toc-structure-mistakes-1",
+  "title": "Top 10 Information Architecture (IA) Mistakes",
+  "content": "May 10, 2009 2009-05-10\n\nBad information architecture causes the majority of outright user failures and isn't improving at the rate of other Web usability issues. To determine why, I've identified 10 long-term sore thumbs that together cost websites billions of dollars each year.\n\nI divided the following list of worst IA mistakes into two parts, which corresponds to how we partition the materials across our IA course: structure and navigation. Of course, you need to get both right, but they're essentially two different design levels: The invisible way the site is structured and the visible way users understand and manage that structure.\n\nThe most notable structural problem is when designers treat a site like one big swamp with no organizing principle for individual items. Yes, users can fish the swamp using search or by following links from current promotions or outside sites. But whatever they dredge up is it. No opportunities for understanding the site's other offerings or locating related items.\n\nThis sin is common on news sites and catalog-based e-commerce sites, where each item (articles and products, respectively) is treated as a stand-alone unit without connections to related items. No wonder users leave those sites so quickly.\n\nWe've long known that users often exhibit search-dominant behaviors. This doesn't mean that search is all they need, however. Arriving on a page from a search is like parachuting into a city. Hopefully, if you want to go to Paris, you'll land there rather than in Amsterdam, but in any case, you're unlikely to land on the doorstep of your favorite restaurant. To get there, you'll need to walk or take a cab. Similarly, users often need to navigate the neighborhood around their search destination.\n\nOf course, local navigation works only if the site has a structure to define its neighborhoods (see mistake #1). But the design must also expose local options to users. Even better if it indicates how relevant the neighboring options are to the user's current query.\n\nSERP (search engine results page) usability increases when each search hit exposes its location within the site structure. External search engines like Google can't always do this because they don't know the site's structure or which navigational dimensions are most relevant to common site tasks. But you do know your site's structure and should therefore include the info on your own SERPs.\n\nSadly, search and navigation fail to support each other on many sites. This problem is exacerbated by another common mistake: navigation designs that don't indicate the user's current location. That is, after users click a search result, they can't determine where they are in the site — as when you're searching for pants and click on a pair, but then have no way to see more pants.\n\nWe recommend that sites have a series of categories that each link to their own landing page that gives users a section overview. Sometimes, sites forego the overview page and simply offer links directly to individual pages within a section. This might reduce the number of site pages, but when no page is clearly identified as a sub-topic page, users can misunderstand the site's scope and miss important details, products, and services.\n\nCategory pages also help SEO because they're the most prominent landing place when people search for a type of product, service, or information. They're also a way to overcome mistake #2 because they help users bump up a level or two in the site structure if search takes them to an overly detailed leaf node. (Breadcrumbs facilitate users' ability to easily move up the levels.)\n\nCompared to the physical world, one of the online world's benefits is that items can live in multiple locations. Because websites can classify products and other content along multiple dimensions, they help users navigate locally to related items and provide faceted winnowing of a large product space into manageable shortlists that can satisfy the user's main requirements.\n\nThis is all good, but polyhierarchy can easily become a crutch. Rather than spend time upfront to develop several intuitive and logical top-level categories, teams rush through this important process, creating numerous weak categories and listing products multiple times within them. The usability impact? Users spend too much time agonizing over top-level categories and then get confused when they see items showing up in multiple places (\"are these the same thing?\").\n\nWith too many classification options and too many structured dimensions, users are forced to think harder to move forward. The profusion of options also makes people question the information scent. This lack of confidence early in the site experience extends throughout their visit and can negatively impact the end result (by thwarting a purchase, for example).\n\nAbandoned microsites litter the Web as the detritus of old marketing campaigns. A dedicated microsite might have been a good idea back when you launched a new product, but by the next year it's undermining your online strategy and diluting your online presence.\n\nWeb design is design for the ages. Think about how anything you do will feel in 5 years.\n\nIt's typically best to forego independent microsites and place new information on subsites within the main site. But you still need to integrate these subsites within the overall site structure.\n\nFor example, on both microsites and subsites, we often see product-specific pages that fail to link to information about the company or organization behind the offering. Further, many sites poorly represent their subsites in the main site search — which often ignores microsites altogether.\n\nThe very worst mistake might be to have no navigation, but that's so rare that I'm not going to discuss it. Still, any feature that users can't see might as well not exist; invisible navigation is thus nearly as bad as no navigation.\n\nUncovering navigation shouldn't be a major task: Make it permanently visible on the page. Small children like minesweeping (passing the mouse around the screen to see what's hidden), but teenagers don't like it, and adults hate it.\n\nSimilarly, you should avoid banner blindness bleed, when either the navigation itself looks like a banner or you place it next to elements that look like advertising and thus users screen it out. Even if it's on the screen, your navigation might as well be invisible if users don't look at it.\n\nTypically, anything that moves and bounces detracts from Web usability; when navigation moves while users are trying to find their way, it's deadly. Users should focus on the higher-level problem of where to go, not the lower-level problem of how to manipulate the GUI.\n\nTwo common offenders here are overly sensitive rollovers that launch and block content, and elements that move, spin, or rotate of their own accord. Users routinely complain about these types of elements. Designers and programmers who include them in websites severely underestimate the business impact of user frustration.\n\nNavigation exists to help users, not to be a puzzle in its own right. Users should be able to understand it immediately, and apply that understanding throughout the site. Sadly, lots of sites change their navigation features as users move around. Options come and go, making users feel a loss of control. How do I get that menu choice back? I saw it just a few pages ago.\n\nAlthough global navigation is not a site's most popular element, its persistence serves a key purpose: it's a beacon that helps users understand both where they are and how they can easily maneuver back to the top of the site if they lose their way.\n\nOur full-day seminar on navigation design covers 25 different website navigation techniques. Each approach has its own usability advantages and potential downsides, leading to the seminar's focus on design trade-offs — that is, when to use what form of navigation.\n\nOne thing is clear: each navigation technique has its place on certain types of websites and intranets. But, if you use them all, you don't get the sum of each technique's benefits. You get a mess.\n\nCompeting for users' attention. Too many places to look. Overwhelming. Don't.\n\nIn the past, this mistake would have ranked higher, but luckily it's less predominant today than it used to be. Still, too many sites continue to make up their own terminology for labels and other navigation choices.\n\nIn addition to perplexing users, made-up navigation terms also hurt search; users can't find something if they don't know what it's called. Even if you provide synonyms, the main navigation terms carry extra SEO weight and it's a waste to optimize for a query that nobody will issue.\n\nOld words are better. When users understand their choices, they're more likely to pick the right one. Speak plainly and speak simply. If users don't understand a menu item, they're less likely to click on it. Paradoxically, companies are particularly prone to making up fancy terms for their newest and most important offerings, thus shooting themselves in the foot with a double-barreled rifle.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Top 10 Information Architecture (IA) Mistakes",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Structure Mistakes",
+      "id": "toc-structure-mistakes-1"
+    },
+    {
+      "level": "h3",
+      "text": "1. No Structure",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "2. Search and Structure Not Integrated",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "3. Missing Category Landing Pages",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "4. Extreme Polyhierarchy",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "5. Subsites/Microsites Poorly Integrated with Main Site",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Navigation Mistakes",
+      "id": "toc-navigation-mistakes-2"
+    },
+    {
+      "level": "h3",
+      "text": "6. Invisible Navigation Options",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "7. Uncontrollable Navigation Elements",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "8. Inconsistent Navigation",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "9. Too Many Navigation Techniques",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "10. Made-Up Menu Options",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/top-10-ia-mistakes/",
+    "https://www.nngroup.com/articles/ia-task-failures-remain-costly",
+    "https://www.nngroup.com/articles/top-10-ia-mistakes/",
+    "https://www.nngroup.com/articles/top-10-ia-mistakes/#toc-structure-mistakes-1",
+    "https://www.nngroup.com/articles/top-10-ia-mistakes/#toc-navigation-mistakes-2",
+    "https://www.nngroup.com/articles/search-engines-become-answer-engines/",
+    "https://www.nngroup.com/articles/search-not-enough/",
+    "https://www.nngroup.com/articles/mini-ia-structuring-information/",
+    "https://www.nngroup.com/articles/navigation-you-are-here/",
+    "https://www.nngroup.com/articles/breadcrumb-navigation-useful/",
+    "https://www.nngroup.com/articles/fixing-bad-intranet-navigation/",
+    "https://www.nngroup.com/articles/navigation-cognitive-strain/",
+    "https://www.nngroup.com/articles/universal-navigation/",
+    "https://www.nngroup.com/articles/investor-relations-ir/",
+    "https://www.nngroup.com/articles/killing-global-navigation-one-trend-avoid/",
+    "https://www.nngroup.com/articles/flat-design-best-practices/",
+    "https://www.nngroup.com/articles/hamburger-menus/",
+    "https://www.nngroup.com/articles/childrens-websites-usability-issues/",
+    "https://www.nngroup.com/articles/usability-of-websites-for-teenagers/",
+    "https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/",
+    "https://www.nngroup.com/articles/does-user-annoyance-matter/",
+    "https://www.nngroup.com/articles/category-names-suck/",
+    "https://www.nngroup.com/articles/web-writing-use-search-keywords/"
+  ]
+}

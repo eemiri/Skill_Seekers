@@ -1,0 +1,174 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+  "title": "Kanban: What It Is and How It Works",
+  "content": "Last updated: April 2024\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.\n\nThis is an example of a personalized kanban board in Aha! software.\n\nTaiichi Ohno introduced kanban at Toyota in the mid-20th century. He was an industrial engineer and eventual executive at the company. Today, he is considered the father of the Toyota Production System, which inspired lean manufacturing in the United States.\n\nToyota was struggling to compete with the American car market at the time. So the company looked at how other supply chains handled fulfillment by matching inventory levels with consumption patterns — specifically studying supermarkets. Stores stocked products based on what they could sell in a given time. Customers bought what they needed since they knew they could buy more later. This led Toyota to see consumer demand as part of the manufacturing process: a required input precedent to production.\n\nMost car manufacturers still followed Henry Ford’s method, producing a great quantity of parts that were piled beside the assembly line and used as needed. But this approach required huge amounts of upfront capital, which was challenging in post-World War II Japan. Ohno aimed to eliminate overproduction by introducing new inventory only when absolutely necessary. Factories were reorganized so that parts production and assembly happened at the same rate, with assembly workers taking parts only as needed. They called it the “just-in-time” method (JiT) — but more on that later.\n\nRemember that supermarket research? Ohno realized that there needed to be some exchange that triggered restocking the shelves. So he introduced paper cards called kanban. Once a material was used, a kanban card would be sent back to parts production indicating to the team exactly what was used and how many more were needed to restock.\n\nThe kanban method was a significant success, evolving to support processes across many different supply chains. In short, anything that required visualization of a large volume of in-progress work could be a candidate for the new system.\n\nThe next evolution of kanban occurred in the early 2000s when the method was adopted as a project management tool by IT and software development teams. Many assumed lean manufacturing principles would not extend to knowledge work. But a 2004 case study of IT teams at Microsoft proved the efficacy of these concepts in managing change requests and backlogs. One of the authors of that case study, former Microsoft engineer David J. Anderson, was credited as among the first to apply kanban to software development. He went on to write many books about agile and lean methodologies. (And he even opened a kanban “university” as well as his own eponymous school of management.)\n\nAgain, kanban is a system and not a work philosophy. Unlike other agile frameworks, there is no list of rules and roles that must be followed to “do kanban right.” But there are some general kanban principles and best practices:\n\nVisualize work: Visualizing work and maintaining transparency is critical to kanban. Development work is often “invisible” until it is completed. On the flip side, kanban boards make all items visible so the team can understand the details, status, and progress of everything in motion.\n\nLimit work in progress (WIP): You can complete projects faster if you prioritize what is most important, limit how much work each person has, and focus on completion before moving on to the next item.\n\nManage flow: Teams that practice kanban are typically self-directing. Instead of managing the people doing the work, kanban requires careful oversight of workflows and processes so work can be completed smoothly and roadblocks can be quickly addressed.\n\nMake process policies explicit: Clear documentation on how the team works together inspires self-sufficiency, increases shared knowledge, and improves onboarding.\n\nImplement feedback loops: Feedback loops (also called cadences) help teams communicate with stakeholders and respond to changes in workflows and priorities. Daily team kanban meetings are one example of a feedback loop in practice. Similar to daily standups in scrum, these meetings are opportunities to discuss capacity, report on progress, and raise any concerns.\n\nImprove collaboratively: Continual feedback and evolution are key parts of the kanban system. Positive change will always take time. Shifting too fast — and putting too many process changes in place at once — hamper a team's adoption.\n\nConsider metrics (without relying too heavily on them): Gauge success through goal-setting and benchmarking. Metrics such as cycle time and throughput can be a good indicator of success. (We will cover some common kanban success metrics later.)\n\nUnderstand JiT: JiT puts an emphasis on delivering the simplest solution to a known issue in small releases to avoid waste (versus anticipating future unknown needs). It might not be a kanban \"principle,\" per se, but it is definitely part of the conversation.\n\nThese principles should form the foundation of your kanban approach. Think of them as constant areas of improvement rather than as goals to achieve and check off your list.\n\nHow is kanban used by product managers?\n\nHow development teams implement kanban\n\nProduct team failing with kanban? You are not the only ones\n\nGantt charts and kanban boards: What are they good for?\n\nThe best way to recall the differences between kanban and scrum? Think: Where kanban pulls, scrum pushes. Here is a high-level comparison of the two:\n\nThere are no defined roles, but some teams have service delivery and service request managers.\n\nProduct owner, scrum master, and development team\n\nDefined intervals called sprints (e.g., two weeks)\n\nAt the end of each sprint as approved by the product owner\n\nChange can happen at any time.\n\nChanges should not be made to the sprint forecast during the sprint.\n\nThere are no defined meetings, but meetings are broken out by team level (e.g., daily standups) and service level (e.g., delivery and risk review).\n\nThere are four mandatory meetings: sprint planning, daily scrum, sprint review, and sprint retrospective.\n\nLead time and cycle time\n\nVelocity and planned capacity\n\nHow to implement scrum\n\nDepending on how your team currently works, implementing kanban might entail a huge shift. It has the potential to boost your team's happiness and productivity — but figuring out what works best for you takes time. Keep in mind that kanban is not right for all teams, however. (We will be the first to tell you that kanban alone is never enough for product development.) For the purposes of this guide, here is how to get started:\n\nSet up a virtual kanban board with cards that represent work items. Carefully consider the details and layout of your cards to ensure teammates, stakeholders, and anyone in between can easily parse the work. Categorize the cards in columns — such as \"Not started,\" \"In progress,\" and \"Done.\" Add as many columns as you would like, choosing names that fit your workflows.\n\nYou might add summaries or descriptions of the work items, their statuses, their categories or themes, the releases they belong to, and the teammates who own the tasks.\n\nDecide on a limit for the number of cards that can exist at any time in your columns. You can always adjust this later as you get a clearer picture of how much your team can feasibly take on.\n\nAt this point, you are ready to get started, but far from done. Kanban requires continuous evaluation and tinkering. Check out our guide on how to set up a kanban board for more details.\n\nHow to set up a kanban board\n\nWhy kanban alone is never enough for product development\n\nBest practices for configuring Aha! Develop to support kanban\n\nHow do you know whether your team is truly benefiting from kanban? The answer will require looking at your progress through multiple lenses, such as feedback from the team and stakeholders as well as quantifiable data. Arguably the most important factor is whether or not you are meeting your product goals — a much bigger discussion. For now, let's look at some of the common kanban metrics teams use to evaluate performance:\n\nCycle time: The amount of time spent actively working on a task (or card)\n\nLead time: The total amount of time a task spends in your system, from initial recording through to delivery\n\nQueues: Stages in your workflow when cards are not active, but are in a holding pattern (for example, \"Waiting for review\" is a common queue)\n\nThroughput: The number of tasks or cards completed in a given time period\n\nWhen will it be done: A forecast of when work will be completed based on historical data on lead times, cycle times, and throughput\n\nWIP: Items that are in production, but not yet completed\n\nThis is an example of a throughput report created in Aha! Develop showing average points completed over time.\n\nTake kanban metrics with a grain of salt, especially at first. Relying on them too heavily can cause stress and undue complexity. The initial aim is to simplify your workflows — not complicate them.\n\nBest practices for configuring Aha! Develop to support kanban\n\nBest practices for configuring Aha! to support SAFe®\n\nHow to pull work from Aha! Roadmaps into Aha! Develop\n\nWhen used as part of a more strategic framework, kanban can be great. The danger comes when kanban is used in isolation\n\nAha! co-founder and CEO\n\nRemember that any work should be grounded in your product goals and initiatives so you are clear on how everything lines up with the bigger picture. There are lots of ways to support kanban using Aha! software — we will cover them here at a high level. (For more specific details, visit our knowledge base or reach out to a product expert.)\n\nHere are a few options:\n\nA simple kanban board as a whiteboard template: If you are testing out kanban, you might prefer to work from a lightweight whiteboard template at first. You can set up your board on the whiteboard and work from there. Or you can use the whiteboard for early-stage planning and then convert elements on the board into real work items in Aha! Roadmaps.\n\nA workflow board for product managers: Focus on strategic product planning with a kanban board in Aha! Roadmaps. This gives you a real-time view of what is in progress. You can customize your board to display epics, features, or requirements, then group cards into swimlanes to visualize the work items the team is responsible for.\n\nA kanban board for engineers: See day-to-day developer workflows on a customizable kanban board within Aha! Develop. Include details such as estimated effort, individual or team ownership, and the status of each work item.\n\nThis kanban whiteboard template might be the way to go if you have a small team — or want to dabble before you commit.\n\nS﻿tart using this template now\n\nCustomization is key. Whether you are on a product or development team, choose a tool that allows you to easily design your kanban board and create workflows that meet your needs. Be patient as you figure out what works best and adjust over time.\n\nWhat are some common pitfalls when transitioning to kanban?\n\nKanban boards can be great for streamlining and simplifying workflows. But they can present challenges if not set up or approached mindfully. These include:\n\nOverly complex boards: Without carefully defined columns and adequate swimlanes, kanban boards might prove too complex to parse through.\n\nOut-of-date information: Teams that rely on physical kanban boards will have limited time to view and update progress on work items. Switching to a virtual board fixes this issue.\n\nCapacity issues: Not having reasonable WIP limits — or failing to test and adjust them — might cause team members to feel overwhelmed.\n\nUnclear timelines: Timing is not a focus area for kanban boards. This makes it difficult to visualize how long work items have been on a board or the time frames needed to complete them.\n\nHow can I tailor kanban to fit the unique needs of my team?\n\nYou might choose to make your column types more specific. Adding horizontal swimlanes to further categorize and segment tasks (by things such as function or product line) is a good way to personalize your board. We also think these best practices are a good starting point.\n\nHow do I handle tasks that become blocked in kanban?\n\nYou could add a tag, flag, or icon to blocked items to differentiate them and make sure they are addressed. You might also add comments or notes to the blocked work item itself. This could include the reasoning behind why the item is blocked, the team members or stakeholders who can help move the item forward, the date the item became blocked, and so on.\n\nLikewise, use an internal wiki to document how to address blocked work items. Some work items could be resolved quickly by your team, but addressing other blockers might require escalation. Define expectations on who can address what kinds of blockers.\n\nAnd lastly, discussing the reasoning behind blocked items should be a regular part of your feedback loop. Chatting through these issues in daily team kanban meetings, operational meetings, or other meetups specific to your team helps you address issues that cause blockers in the first place.\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is kanban?",
+      "id": "what-is-kanban"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Manage work on a kanban board in Aha! software — start a free trial.",
+      "id": "manage-work-on-a-kanban-board-in-aha-software-"
+    },
+    {
+      "level": "h2",
+      "text": "The origins of kanban",
+      "id": "the-origins-of-kanban"
+    },
+    {
+      "level": "h3",
+      "text": "Kanban in a modern context",
+      "id": "kanban-in-a-modern-context"
+    },
+    {
+      "level": "h2",
+      "text": "Kanban principles and best practices",
+      "id": "kanban-principles-and-best-practices"
+    },
+    {
+      "level": "h2",
+      "text": "Kanban vs. scrum",
+      "id": "kanban-vs-scrum"
+    },
+    {
+      "level": "h2",
+      "text": "How to implement a kanban system",
+      "id": "how-to-implement-a-kanban-system"
+    },
+    {
+      "level": "h3",
+      "text": "Make work visual",
+      "id": "make-work-visual"
+    },
+    {
+      "level": "h3",
+      "text": "Add details to cards as needed",
+      "id": "add-details-to-cards-as-needed"
+    },
+    {
+      "level": "h3",
+      "text": "Set WIP limits",
+      "id": "set-wip-limits"
+    },
+    {
+      "level": "h2",
+      "text": "How to measure success",
+      "id": "how-to-measure-success"
+    },
+    {
+      "level": "h2",
+      "text": "Following kanban using Aha! software",
+      "id": "following-kanban-using-aha-software"
+    },
+    {
+      "level": "h4",
+      "text": "Ready to try this whiteboard template? Get started.",
+      "id": "ready-to-try-this-whiteboard-template"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about kanban",
+      "id": "faqs-about-kanban"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices",
+    "https://www.aha.io/roadmapping/guide/dictionary#l",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban#top",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/how-to-create-exceptional-internal-product-documentation",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/agile-metrics",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/kanban-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/how-development-teams-implement-kanban",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/agile/kanban-vs-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban#top",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board#how-do-i-build-a-kanban-board",
+    "https://www.aha.io/roadmapping/guide/agile/how-development-teams-implement-kanban",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/agile/how-development-teams-implement-kanban",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+    "https://www.aha.io/roadmapping/guide/agile/how-development-teams-implement-kanban",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/kanban-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board",
+    "https://www.aha.io/roadmapping/guide/agile/kanban-vs-scrum",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

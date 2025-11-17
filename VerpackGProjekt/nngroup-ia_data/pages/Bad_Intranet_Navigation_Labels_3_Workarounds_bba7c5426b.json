@@ -1,0 +1,63 @@
+{
+  "url": "https://www.nngroup.com/articles/fixing-bad-intranet-navigation/",
+  "title": "Bad Intranet Navigation Labels: 3 Workarounds",
+  "content": "May 11, 2014 2014-05-11\n\nIf your employees complain that they can't find things on the intranet, you're not alone. When users can't find content, the first thing to examine are your navigation labels: do they make sense to your users? Do they accurately describe your content? Do they use words that your audience is familiar with?\n\nIdeally, if you discover that the navigation category labels on your intranet don't make sense to users (that is, they have poor information scent), you simply change those labels to something more understandable. However, sometimes this is easier said than done; there may be internal politics or technical constraints that prevent you from changing the actual labels. Or, sometimes changing one label would cause it to overlap with a different category, shifting your problem to another area rather than solving it.\n\nOur recently updated Intranet Information Architecture (IA) report suggests a few steps you can take if you find yourself stuck with a category name that you know is problematic. Even if you can't change the actual label, there are ways to overcome 3 of the most common reasons for bad navigation labels:\n\nUsers are often reluctant to click on categories that are too broad. Generic terms have low information scent: users aren't sure exactly what the link will lead to, so they are reluctant to click on it. Even on intranets, where most employees have probably been before, information scent matters. Descriptive, specific labels are easier to learn and recognize on subsequent visits.\n\nBut many intranets, in their struggle to group and describe content, end up with labels like Life, How to, or Resources. These labels could contain any number of items. Providing a preview of subcategories can significantly improve user understanding of what these generic-sounding labels mean. Drop-down or flyout menus can provide a quick view of everything within that section of the intranet. In the example below, the Flight Centre intranet has a category labeled Our People; the drop-down menu makes it clear that both benefits and personnel information can be found in this section.\n\nSometimes the problem with a label is not that it's too generic, but that it's almost too specific: that is, the label consists of a unique brand name, or internal \"lingo\" word. Intranet design teams often struggle with how to handle these sorts of labels, when stakeholders insist on using the brand terminology even though users don't know what those terms mean.\n\nIdeally, jargon and branded terms that aren't universally understood should be used only within the content pages, where users have context clues to help them understand what the unfamiliar terms mean. Findability is maximized by old, well-known words instead of new, made-up words. But if you are required to use these mysterious words in your navigation labels, help users out by also providing some explanation within or near the navigation menu itself.\n\nFor example, the Architect of the Capitol website has a global navigation category labeled I want to use..., which provides access to a number of different applications used by employees. The drop-down menu itself helps users see what they will find in the I want to use...category, but unless they are already very familiar with the applications, users may find the sub-navigation mystifying, as it consists mostly of acronyms: AVUE, FMS, Hyperion, PIC, and WebTA. Fortunately, each application name is accompanied by a brief description of that application's functionality.\n\nSometimes categories simply have an overwhelming amount of content in them—so much that even showing the subcategories won't necessarily give users a good idea of what is contained within the section. In these cases you may want to consider not just a drop-down menu, but a section landing page that offers a mini-IA of the page and focuses on providing a detailed breakdown of everything within that section.\n\nThe Canadian Institutes of Health Research intranet includes an Organization section, with subcategories including Resource, Planning and Management Portfolio (RPM); Public, Government and Institute Affairs Portfolio (PGIA); and Research and Knowledge Translation Portfolio (RKT). Listing these in a drop-down menu wouldn't necessarily make it clear to users exactly what is within this section, so the intranet includes a detailed overview page which makes the actual content clear. For example, the RPM section includes Human Resources, while the PGIA area includes Communications and Public Outreach.\n\nEach of these strategies—providing brief previews, adding context with descriptions, and creating detailed section overviews—can help users overcome less-than-ideal navigation labels. Of course, in a perfect world we wouldn't use obscure labels at all. But information architecture is about finding not just the best possible solution, but the best feasible solution: a system that we can actually implement to help users. Our recently updated Intranet Information Architecture report includes a design gallery with over a thousand screenshots of real-world intranet design examples. You can also learn more about best practices for writing labels and designing navigation menus in our Information Architecture seminars.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Bad Intranet Navigation Labels: 3 Workarounds",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Display Lower-Level Menu Items",
+      "id": "toc-display-lower-level-menu-items-1"
+    },
+    {
+      "level": "h2",
+      "text": "Provide Descriptive Text",
+      "id": "toc-provide-descriptive-text-2"
+    },
+    {
+      "level": "h2",
+      "text": "Subdivide Content on the Landing Page",
+      "id": "toc-subdivide-content-on-the-landing-page-3"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-4"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/kathryn-whitenton/",
+    "https://www.nngroup.com/articles/fixing-bad-intranet-navigation/",
+    "https://www.nngroup.com/articles/fixing-bad-intranet-navigation/",
+    "https://www.nngroup.com/articles/fixing-bad-intranet-navigation/#toc-display-lower-level-menu-items-1",
+    "https://www.nngroup.com/articles/fixing-bad-intranet-navigation/#toc-provide-descriptive-text-2",
+    "https://www.nngroup.com/articles/fixing-bad-intranet-navigation/#toc-subdivide-content-on-the-landing-page-3",
+    "https://www.nngroup.com/articles/fixing-bad-intranet-navigation/#toc-conclusion-4"
+  ]
+}

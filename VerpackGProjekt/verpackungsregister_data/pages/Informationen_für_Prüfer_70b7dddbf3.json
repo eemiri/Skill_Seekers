@@ -1,0 +1,62 @@
+{
+  "url": "https://www.verpackungsregister.org/stiftung-und-behoerde/informationen-fuer-pruefer",
+  "title": "Informationen für Prüfer",
+  "content": "Ob bei Vollständigkeitserklärungen, den Mengenstromnachweisen der Systeme oder den Branchenlösungen: Nach dem Verpackungsgesetz spielen an verschiedenen Stellen Prüfungen und Bestätigungen durch Prüfer oder Sachverständige eine Rolle. Diese beziehen sich auf die Meldungen zu den Verpackungsmengen von Unternehmen (Datenmeldung).\n\nJede Vollständigkeitserklärung muss von einem im Prüferregister der ZSVR registrierten Prüfer testiert werden. Dieser ist verpflichtet, die Prüfleitlinien einzuhalten.\n\nDokumentationen und Prüfungen sind verstärkt auf die Feststellung etwaiger Unterbeteiligungen der Hersteller auszurichten. Hier finden Prüfer auf Basis von Praxiserfahrungen wichtige Hinweise zur praktischen Anwendung der Prüfleitlinien.\n\nUm einheitliche und vergleichbare Prüfungen von Branchenlösungen sicherzustellen, müssen die Sachverständigen als Prüfer Leitlinien beachten.\n\nUm gleichartige Prüfungen der Mengenstromnachweise der Systeme zu gewährleisten, müssen Sachverständigen als Prüfer Leitlinien einhalten.\n\nSie sind Sachverständiger, Wirtschaftsprüfer, Steuerberater, vereidigter Buchprüfer usw. und möchten Prüfungen nach dem Verpackungsgesetz vornehmen? Dann müssen Sie sich zunächst im Prüferregister der ZSVR registrieren. Über Ihre Registrierung erhalten Sie einen Registrierungsbescheid der ZSVR.\n\nAchtung: Bevor alle Funktionen für Sie als Prüfer innerhalb des Verpackungsregisters zur Verfügung stehen, muss die Registrierung durch die ZSVR abgeschlossen sein. Über die abschließende Freigabe erhalten Sie eine Benachrichtigung per E-Mail.\n\nInformieren Sie sich über die Registrierung als Prüfer bzw. als Sachverständiger und die damit verbundenen Prüftätigkeiten.\n\nSchritt für Schritt erklärt: In dieser Anleitung zeigen wir Ihnen, wie Sie eine Vollständigkeitserklärung im Verpackungsregister LUCID hinterlegen.\n\nBeim Hochladen von Vollständigkeitserklärungen im Verpackungsregister LUCID müssen verschiedene Dokumente mit einer qualifizierten elektronischen Signatur (QES) unterschrieben sein.\n\nHier gelangen Sie direkt ins Register.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Informationen für Prüfer",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Prüfleitlinien Vollständigkeitserklärungen",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Praktische Hinweise zur Prüfung von Vollständigkeitserklärungen",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Prüfleitlinien Branchenlösung",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Prüfleitlinien Mengenstromnachweis Systeme",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Registrierung als Prüfer",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Elektronische Signaturen (QES)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Sie möchten sich als Prüfer registrieren?",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsregister.org/",
+    "https://www.verpackungsregister.org/stiftung-und-behoerde/ueber-uns",
+    "https://www.verpackungsregister.org/stiftung-und-behoerde/informationen-fuer-pruefer/pruefleitlinien-vollstaendigkeitserklaerung",
+    "https://www.verpackungsregister.org/stiftung-und-behoerde/informationen-fuer-pruefer/praktische-hinweise-zur-pruefung-von-vollstaendigkeitserklaerungen",
+    "https://www.verpackungsregister.org/stiftung-und-behoerde/informationen-fuer-pruefer/pruefleitlinien-branchenloesung",
+    "https://www.verpackungsregister.org/stiftung-und-behoerde/informationen-fuer-pruefer/pruefleitlinien-mengenstromnachweis-systeme",
+    "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Checkliste_Registrierung_Pr%C3%BCfer.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/Erklaermaterialien/Checkliste_Registrierung_Pr%C3%BCfer.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/LUCID/Technische_Anleitung_DE.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/LUCID/Technische_Anleitung_DE.pdf",
+    "https://www.verpackungsregister.org/stiftung-und-behoerde/informationen-fuer-pruefer/elektronische-signatur"
+  ]
+}

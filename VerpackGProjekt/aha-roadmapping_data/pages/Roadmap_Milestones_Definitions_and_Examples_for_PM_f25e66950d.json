@@ -1,0 +1,123 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones",
+  "title": "Roadmap Milestones: Definitions and Examples for PMs",
+  "content": "You need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.\n\nStart using this template now\n\nDepending on your plans and audience, there are a few different types of milestones you might choose to include on your roadmap. Below is a list of popular types:\n\nAchievements: Representing something you must complete or accomplish to meet your product goals — such as finishing a certain number of customer interviews or generating a number of conversions or trials.\n\nApprovals: Anything that requires executive or leadership buy-in. Examples could be getting leadership to sign off on a budget, design, or direction.\n\nDeadlines: Due dates for important deliverables or dependencies. This could include features ready for a beta release or a marketing site launch.\n\nEvents: Planned in-person or virtual occasions. Common examples are industry conferences, quarterly business reviews, and webinars.\n\nMeetings: Key meetings, such as a project kick-off, cross-functional launch meeting, or quarterly program planning.\n\nHow to choose a product roadmap tool\n\nBrainstorming techniques for product teams\n\nWhat is the role of a product operations manager?\n\nEvery detail of your plan matters — but not everything is a milestone. Think about identifying milestones in the context of the types of plans you are creating and who you are presenting your roadmap to. For example, the teams working together on a specific project would need to be aware of cross-functional meetings and reviews. However, if you are presenting your strategic roadmap to the board of directors, your milestones would be higher-level markers of success — such as acquiring a certain number of new customers.\n\nThe overall timeline is an important consideration too. A business roadmap that shows three to five years out might have half-year or annual milestones, but not monthly milestones.\n\nFor product and development teams, major releases would be an obvious choice for milestones — as they are the anchors for achieving product goals and initiatives. But if you are creating more detailed plans, your milestones can be more granular.\n\nHere is a set of questions that can help you determine which milestones to choose:\n\nDoes product or project success (or a phase therein) depend on completion of this benchmark, event, or type of work?\n\nWill achieving it measurably impact goals?\n\nDoes it matter to customers, the business, and the broader team?\n\nIf you answer yes to one or more of the above, it is a good sign that you have a milestone. Keep in mind that it is best practice to include fewer rather than more milestones — so folks can visually absorb your roadmap view and stay focused on the milestones that matter most.\n\nMilestones are a core component on your roadmap — along with goals, initiatives, phases, release time frames, and feature dates. But visually, milestones appear differently because they are a zero-duration indicator. The other components on your roadmap will typically be represented by bars, while milestones will be represented by dots or points in time.\n\nLet's look at milestones on a few different roadmaps created in Aha! Roadmaps:\n\nA strategy roadmap displays a high-level timeline of the work required to achieve business or product initiatives. In the roadmap below, the release dates related to each initiative map to the milestones displayed at the top (gray diamonds).\n\nThis is a strategic roadmap created in Aha! Roadmaps. You can expand or collapse the release milestones section, depending on how much detail your audience needs.\n\nA portfolio roadmap showcases plans across multiple project, programs, or products. In the view below, the milestones across the portfolio are visible at the top — with colors to match the initiatives they relate to.\n\nThis is a portfolio roadmap created in Aha! Roadmaps.\n\nThe Gantt chart below shows phases of a launch plan. Dots represent the milestones — in this case, the launch kickoff and the go-live date. If there are certain milestones that you will repeat across projects, it can be helpful to create a consistent template that you can reuse.\n\nThis is a Gantt chart-style roadmap created in Aha! Roadmaps.\n\nIf you want to visualize your own milestones on a roadmap, choose from among these 16 downloadable roadmap templates that we have created. Templates are a great starting point for small teams. As your plans grow, consider upgrading to purpose-built software like Aha! Roadmaps. You can choose from a library of roadmap views or create your own custom roadmap.\n\nExamples of compelling roadmaps\n\nHow do product roadmap tools work?\n\nRoadmap types and uses\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Types of roadmap milestones",
+      "id": "types-of-roadmap-milestones"
+    },
+    {
+      "level": "h2",
+      "text": "How to identify roadmap milestones",
+      "id": "how-to-identify-roadmap-milestones"
+    },
+    {
+      "level": "h2",
+      "text": "Viewing milestones on a roadmap",
+      "id": "viewing-milestones-on-a-roadmap"
+    },
+    {
+      "level": "h3",
+      "text": "Strategy roadmap milestones",
+      "id": "strategy-roadmap-milestones"
+    },
+    {
+      "level": "h3",
+      "text": "Portfolio roadmap milestones",
+      "id": "portfolio-roadmap-milestones"
+    },
+    {
+      "level": "h3",
+      "text": "Project roadmap milestones",
+      "id": "project-roadmap-milestones"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-management/how-to-structure-your-product-team-meeting",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-roadmap-tools-work",
+    "https://www.aha.io/roadmapping/guide/brainstorming-techniques-for-product-builders",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-operations-manager",
+    "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/business-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones#top",
+    "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-roadmap-tools-work",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/visualize-data",
+    "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/new-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

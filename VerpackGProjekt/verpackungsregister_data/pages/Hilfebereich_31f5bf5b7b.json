@@ -1,0 +1,28 @@
+{
+  "url": "https://www.verpackungsregister.org/hilfe",
+  "title": "Hilfebereich",
+  "content": "Sie haben Fragen zum Verpackungsgesetz, Ihren Pflichten oder der ZSVR? Wir helfen Ihnen gerne weiter! In unserem FAQ-Bereich beantworten wir häufig gestellte Fragen. Zu technischen Angelegenheiten und allgemeinen Fragen kontaktieren Sie unser Support-Team.\n\nAufgeteilt nach verschiedenen Themenbereichen, finden Sie hier Antworten auf die häufigsten Fragen rund ums Verpackungsgesetz und zur Erfüllung Ihrer Pflichten.\n\nKontaktmöglichkeiten zur Klärung technischer und allgemeiner Fragen finden Sie hier.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Hilfebereich",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "FAQ",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Kontaktieren Sie uns",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsregister.org/",
+    "https://www.verpackungsregister.org/faq"
+  ]
+}

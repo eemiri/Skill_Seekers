@@ -1,0 +1,45 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/index",
+  "title": "Em dashes, en dashes, hyphens, and minus signs",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nEm dashes (—), en dashes (–), hyphens (-), and minus signs (−) aren't interchangeable symbols. Follow these guidelines to help you use them the right way, in the right places.\n\nEm dashes: Use to signal a break in thought, or to set off some immediate clarification, amplification, or parenthetical remark that you want to add within a sentence. Em dashes can be an effective alternative to colons, semicolons, and parentheses, but don't overuse them. Like colons, semicolons, and parentheses, em dashes can affect readability if they are used excessively, by interrupting the flow of the text and making sentences overly long and complex. Don't use spaces around em dashes.\n\nEn dashes: Use in ranges of numbers and dates, such as in time and date stamps in UI. An en dash can also be used instead of a hyphen in some compound words (see Hyphens for details). Don't use in place of the minus sign. Don't use spaces around en dashes.\n\nException Use spaces around an en dash when it's used in a time stamp appearing in UI, or in a date range that includes two times and two dates.\n\nHyphens: Use to join words and connect prefixes to stem words. Don't use multiple hyphens in place of an em dash.\n\nMinus signs: Use to represent subtraction operations and negative numbers. For accessibility reasons, don't substitute an en dash for the minus sign.\n\nEm dash to set off clarifying or amplifying text: The information in your worksheet—numbers, formulas, and text—is stored in cells.\n\nEn dash for a date range: 2015–2017\n\nHyphen in a compound modifier: Azure-supported features\n\nEn dash instead of a hyphen in a compound modifier containing an \"open compound\": AI Builder–supported features\n\nEn dash for a time stamp in UI: 2:15 PM – 4:45 PM\n\nEn dash for a range that includes both times and dates: 2:15 PM 12/1/17 – 4:45 PM 4/1/18\n\nMinus sign for a negative number: The temperature was −12°F.\n\nMinus sign for a subtraction operation: 12 − 3 = 9\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Em dashes, en dashes, hyphens, and minus signs",
+      "id": "em-dashes-en-dashes-hyphens-and-minus-signs"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/index",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/index",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/index",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/index",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/index",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/index",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/hyphens",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/hyphens",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/dashes-hyphens/hyphens"
+  ]
+}

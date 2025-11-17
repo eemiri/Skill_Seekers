@@ -1,0 +1,167 @@
+{
+  "url": "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/",
+  "title": "HowTo: Implementing the “Verpackungsgesetz” - Das neue Verpackungsgesetz (VerpackG) 2025",
+  "content": "Before you begin with the actual implementation of the “Verpackungsgesetz”, you should first prepare yourself:\n\nHere are some examples of popular misinterpretations under the German packaging legislation:\n\nFollowing the German “Verpackungsgesetz”, any reseller will be regarded a producer, if they put packaging material on the German market. That’ll not only apply for importers, but also resellers which use own distribution boxes and own filling materials. Even using an own address label on a cardboard box will usually make you a producer under the German packaging legislation!\n\nAll members of the sales chain will have to check their own obligations from the putting on the market of packaging materials in Germany. Often, all players have to act as producers under the “Verpackungsgesetz” for their own respective packaging types and material fractions.\n\nPackaging will be system-relevant, if it can typically be offered to private households, but also other points of origin (e.g. hotels, restaurants, small businesses, etc.) as a sales unit, consisting of product and outer packaging, e.g. by retailers as so-called last resellers.\n\nFollowing § 3 (1) Nr. 3 VerpackG transport packaging is used to avoid transport damages as well as the touching of the products in transit and will never arise at the end user. Thus, it’ll usually not leave logistics or warehouses, where it’ll usually also be removed as packaging waste. Shipment boxes, foils, and filling materials which are used to ship or hand over products to end users, is called distribution or service packaging.\n\nHint: Plan enough time for the implementation of the German “Verpackungsgesetz” in your company. Above all, the initial identification and categorisation of your packaging types, materials, and volumes can result in extensive efforts. However, keep the registration deadlin as of 1 January 2019 in mind.\n\nRegarding any packaging material delivered by third prties (German or foreign) it’s very important to check the status along the German “Verapckungsgesetz”, in order to determine potential own obligations as a producer:\n\nAttention! Following § 9 (5) Sentence 2 VerpackgG, resellers mustn’t redistribute unregistered system-relevant packaging materials. However, under certain conditions they may be able to cover the registration and join a recycling system themselves, in order to be able to offer the respective products.\n\nThere are two alternative ways to determine the compliance status of packaging supplied by third parties:\n\na) If your supplier is based in Germany, he’ll have to be able to state the compliance of his packaging – also in his own interest. If the supplier is a reseller himself, which obtains it by other suppliers, he has to forward this question to them.\n\nb) If the supplier is sitting abroad (outside of Germany), he’ll only be forced to cover packaging compliance, if he’s directly delivering to (private or commercial) end users in Germany, who order the products for their own purposes. If German resellers or distributors order products from those suppliers, they’ll automatically inherit producer obligations as importers. However, the foreign supplier can voluntarily cover these obligations, e.g. to relieve his German reseller clients from those.\n\nHint: Requesting a supplier’s statement can bee a good instrument for your purchasing department in order to request and ensure packaging compliance in Germany.\n\nAttention! You’ll often find very different perceptions and assessments regarding the respective own producer obligations and the categorisation of packaging materials on the market. It’s thus not unusual to witness suppliers who refuse to answer or return obviously wrong statements to the question regarding their packaging compliance. In those cases you can only either discontinue the respective products or to cover (and pay for) the packaging compliance by yourself.\n\nNext to packaging material whose compliance hasn’t been covered by any supplier, you’ll usually be the producer under the “Verpackungsgesetz” in the following settings:\n\nIn difference to the German Packaging Ordinance (“Verpackungsverordnung, VerpackV”) the prelicensing of empty packaging material by their producer isn’t allowed anymore, with the exception of service packaging (e.g. coffee to go cups, shopping bags, etc.). Thus, the producer under the Geran packaging legislation will usually be the company which is filling packaging materials with their products for the first time, i.e. by production, import, or repacking of articles. The simple opti0n to achieve packaging compliance in Germany by generally purchasing and using prelicensed packaging materials has been removed during the transition from the “VerpackV” (until the end of 2018) to the “VerpackG” (from 2019 on)!\n\nAfter you’ve successfully determined your own obligations as a producer under the “Verpackungsgesetz”, you can now identify the relevant packaging fractions. Those consist of article-relevant packaging (sales and outer packaging) also packaging materials used to ship or hand over goods. You’ll have to implement own take-back and recycling solutions as well as potentially register and follow other obligations under the law.\n\nThere are several central criteria for the identification and categorisation of packaging:\n\nGenerally § 3 (1) of the “Verpackungsgesetz” defines packaging as follows:\n\nPackaging is a product made out of any materials for the purpose of containing, protecting, handling, delivering, or presenting of products, which can range from raw materials to finished goods and is passed on by a producer to resellers or end users.\n\nNext to the packed product and its accessories (e.g. cables) there are further components which won’t count as packaging, as for example manuals, cd-roms, cases and other storage boxes (which are kept together with the products during their lifetime). Appendix 1 of the “Verpackungsgesetz” decribe along three criteria when a product is regarded packaging, or when exceptions apply. There are further exceptions regarding the system-relevance defined in the law, e.g. für packaging of hazardous substances (while there’ll still be a recycling solution required).\n\nAttention! With the exception of service packaging the “Verpackungsgesetz” will not allow any prelicensing of empty packaging materials by their producers anymore (e.g. empty cardboard boxes, bags, etc. See § 7 (2) “VerpackG”). Thus, you’ll not be able to cover your own legal obligations by only purchasing “Verpackungsgesetz-ready” packaging materials anymore.\n\n§ 3 (1) “Verpackungsgesetz” defines the following packaging types:\n\nHint: You can find further information on the correct identification and categorisation of packaging materials in our HowTo article Identification of packaging materials.\n\nSales and secondary packaging can usually easily be determined along the contained products (“top-down view”), either by existing specifications or by own research, e.g. by weighing the different packaging material fractions. It is recommended to amend existing article data in an ERP system by their packaging parameters. On the basis of a well-trained article database, you can retrieve any packaging mass flow information “at the touch of a button”.\n\nHowever, types and volumes of service, distribution, and transport packaging materials can usually not be determined in advance. On the contrary, those fractions arise “as needed” (“bottom-up view”), usually in warehouses and other logistics departments. In addition to the traditional “chaotic” usage of such packaging materials further effects hinder their exact assessment, e.g. the re-use of packaging or the removal of damaged or destroyed packaging materials. Thus, the exact data regarding service, distribution, and transport packaging has to be gathered via a new process in the distribution or logistics department. One example for the determining of the effective amount of these packaging types is to perform regular inventories of the corresponding stock.\n\nThe packaging types are further differentiated along their system-relevance (B2C or B2B). However, Service packaging will per definition always be system-relevant (B2C), while transport packaging will never be system-relevant (B2B). Distribution packaging will most often be system-relevant. All other packaging types can generally be assessed as B2C oder B2B. Producers and importers of system-relevant packaging materials are obliged to join a (dual) system in order to provide for the nationwide take-back and recycling, i.e. he cannot perform these tasks himself.\n\nOne exception are so-called industry solutions which realize the take-back and recycling of packaging waste along strict regulations at certain, pre-defined points of origin. Due to the frequent abuse of such solutions in the past, the requirements and certifications have been greatly increased. For most producers an industry solution along the current requirements won’t be a viable option anymore today.\n\nAttention! If your current packaging compliance solution along “VerpackV” or “Verpackg” still (partially) relies on an industry solution, you should check, if the current legal requirements art still fulfilled by it! Since at least the 7th amendment of the “Verpackungsverordnung”, industry solutions aren’t available anymore for most producers.\n\nThe “Verpackungsgesetz” provides the following definitions regarding the system-relevance of packaging materials:\n\nSystem-relevant packaging consists of sales and secondary packaging filled with products, which typically arise as waste at the private end user. (§ 3 (8) VerpackG)\n\nPrivate end users are private households and points of origin, which are comparable to those along the type of the typically arising packaging waste. (§ 3 (11) VerpackG).\n\nHint: The system-relevance of packaging is assessed by the points of origin where the respective packaging waste arises. Thus, the theoretical presumtion, and not the respective, specific situation will be relevant. It’s very important to take the similar collection points into account, which often exceed the typical setting of the private household by far. The following examples show potential points of origin similar to private households: Restaurants, Hotels, Roadhouses, Lunchrooms, Government offices, Barracks, Hospitals, Schools, Universities, Charity organisations, law and notary offices, Medial practices, Cinemas, Operas, Musea, Holiday camps, Theme parks, Sport stadiums, Farms*, Craftsmen and plumbers*, Workshops*, Small businesses*. * If the volume of packaging waste arising there can be collected via the regular municipal waste collection in bins of up to 1100 liters.\n\nHint: Don’t decide on your own account about the system-relevance of your packaging, e.g. on the basis for your specific sales setting. Furthermore, disregard the specific take-back and recycling situation of your clients. For example, it’ll not be relevant, which waste bin your clients actually use. Next to the “Verpackungsgesetz”, the main reliable source of information is the so-called catalogue of system-relevant packaging (which is currently regretfully only available in German language). It contains decision criteria regarding the potential system-relevance for more than 400 exemplary product groups. In addition, the German Central Clearing House (ZSVR) can decide on the specific status of a packaging on request from 1 Januar 2019 on.\n\nThe following matrix depicts the possible options for the categorisation of packaging materials along the product- or distribution-centered perspective and the system-relevance (B2C or B2B):\n\nHint: You can find further assistance regarding the identification and categorisation of packaging in our HowTo article Identifying packaging material.\n\nNext to the packaging type the “Verpackungsgesetz” further differentiates packaging along their material fractions. § 16 (2) VerpackG defines the following materials:\n\nThus, packaging should be identifyed and assessed along their type, material fraction, and volume.\n\nAlong § 9 (2) Nr. 4 VerpackG the brand names of products or their packaging should be entered during the registration of system-relevant packaging materials. That should allow reseller clients to quickly and easily check the packaging register database regarding existing pre-registrations of their suppliers as well as their existing system recycling solution, in order to decide, if a product and its packaging can be offered for sale without any problems. However, the “Verpackungsgesetz” doesn’t contain and mandatory marking of products and packaging, and therefor also no obligation to register them. For example, producers of no-name products or packaging materials can provide their company name instead of the brand mark. Thus, the registration of product and packaging brand names is recommended, but not essentially required, i.e. an existing brand name in the LUCID register doesn’t necessarily confirm an existing packaging compliance, nor vice versa.\n\nFinally, the volumes of the different packaging types and material fractions have to be determined. For any product-relevant sales and secondary packaging materials, this will usually be a one-time process which is completed during the first purchasing or creation of a packaging compliance solution. For the remaining delivery and distribution-relevant packaging fractions, the weights need to be permanently measured via a separate process.\n\nOn the one hand, the resulting volumes are used for the calculation of the costs of the recycling costs. On the other hand, regular weight reports will be required for system-relevant packaging, above all an annual forecast, recurring input declarations, and (for large producers) the annual filing of a completeness-statement for the respective preceding year.\n\nAs soon as all packaging data for your company (types, system-relevance, materials, brands, and volumes) as well as the own responsibilities have been thoroughfully assessed, the resulting obligations should be duly and timely put into practice. Depending on the packaging types, the following steps are required:\n\nAttention! For system-relevant packaging keep the new obligations and deadlines from the new “Verpackungsgesetz” beginning of 2019 in mind! Above all, producers need to register at the public packaging register database. Without existing registrations, products mustn’t be put on the German market anymore. Large producers also have to regularly file a completeness statement until May of each year for the preceding year. Please note that this obligation does already cover the year 2018 for declarations from 2019 on!\n\n- About us - Services - Qualifications - References",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "HowTo: Implementing the “Verpackungsgesetz”",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Quick Start",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Tipps & Tricks",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Preparations",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "You can still be regarded a producer, if you only trade with products",
+      "id": "toggle_1e381c19dd8655d2b"
+    },
+    {
+      "level": "h4",
+      "text": "Not only the last reseller who offers products to end users will be responsible",
+      "id": "toggle_a1beaafbbff3411ed"
+    },
+    {
+      "level": "h4",
+      "text": "Your packaging can be system-relevant (B2C), even if you only supply it to B2B players",
+      "id": "toggle_9c8e91477b486e475"
+    },
+    {
+      "level": "h4",
+      "text": "Transport packaging is not necessarily packaging used for the transport of goods",
+      "id": "toggle_e9dd099a7fb60fe13"
+    },
+    {
+      "level": "h2",
+      "text": "Step 1: Determining your own role and obligations",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Checking your suppliers",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Own producer obligations",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Step 2: Identifying packaging materials",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Packaging types and system-relevance (B2C)",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Identifying packaging typees",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Determining the system-relevance",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Packaging materials",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Brand names",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Volumes",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Step 3: Putting the obligations into practice",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Obligations for system-relevant packaging",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Obligations for B2B distribution, secondary, transport, and other packaging",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "TABLE OF CONTENTS",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Do you need help?",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsgesetz.com/en/author/c/",
+    "https://www.verpackungsgesetz.com/hintergruende/faq/",
+    "https://www.verpackungsgesetz.com/contact",
+    "https://www.verpackungsgesetz.com/contact",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#1e381c19dd8655d2b",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#a1beaafbbff3411ed",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#9c8e91477b486e475",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#e9dd099a7fb60fe13",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-ueberblick",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-vorbereitung",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-vorbereitung",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt1",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt1",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt1-lieferanten",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt1-lieferanten",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt1-eigen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt1-eigen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt2",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt2",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt2-verpackungstypen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt2-verpackungstypen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt2-verpackungsmaterialien",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt2-verpackungsmaterialien",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt2-markennamen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt2-markennamen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt2-mengen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt2-mengen",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt3",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt3",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt3-b2c",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt3-b2c",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt3-b2b",
+    "https://www.verpackungsgesetz.com/en/topics/howto-implementing-the-verpackungsgesetz/#artikel-howto-verpackg-schritt3-b2b",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-profil",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-leistungen",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-qualifikationen",
+    "https://www.verpackungsgesetz.com/en/hilfe/#hilfe-referenzen",
+    "https://www.verpackungsgesetz.com/kontakt/"
+  ]
+}

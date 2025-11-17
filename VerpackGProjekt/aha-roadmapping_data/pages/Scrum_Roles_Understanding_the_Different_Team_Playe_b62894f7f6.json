@@ -1,0 +1,128 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+  "title": "Scrum Roles: Understanding the Different Team Players",
+  "content": "It offers the product development guidelines you need — with more flexibility.\n\nThe Aha! Framework for product development is defined, yet adaptable.\n\nWe bet you will check off at least a few items in this list.\n\nBefore leaping into the definitions of each role, let's clarify a few central scrum concepts that drive the scrum team's work:\n\nIncrement: A scrum artifact that defines the functionality that will be delivered to customers. Increments are typically the end goal of a sprint.\n\nProduct backlog: A collection of features and ideas that are deemed valuable to implement, but have yet to be worked on\n\nScrum ceremonies: A set of time-boxed and recurring events (or meetings). Scrum ceremonies help teams plan, track, and evaluate sprints.\n\nSprint: A fixed-length period of work that lasts two to four weeks. In a sprint, scrum teams work to complete all items defined in the sprint backlog and deliver an increment.\n\nSprint backlog: The list of work items (in the form of user stories) to be completed in a sprint\n\nWith these things in mind, here are brief descriptions and a list of common responsibilities for the three key scrum roles:\n\nThe product owner champions the product vision. They help determine what the development team will work on next and oversee implementation — all while advocating for business and customer needs.\n\nNote that product owners and product managers are not the same. Product managers do play a role in scrum, but are not one of the roles explicitly defined within the framework.\n\nOwn the product vision\n\nRepresent the voice of the customer\n\nCommunicate with internal and external stakeholders\n\nAlign development work with the product roadmap\n\nWrite requirements and user stories\n\nRefine the product backlog\n\nEnsure acceptance criteria is met\n\nScrum masters help keep the team accountable to their commitments. Their main objective is to eliminate any bottlenecks and obstacles to productivity.\n\nScrum masters are leaders, but not enforcers — think coach, mentor, or advisor.\n\nCoach the team in scrum practices\n\nFacilitate scrum ceremonies (e.g., daily standup meetings and sprint planning)\n\nHelp the team stay on task and complete sprint items\n\nIdentify and remove any productivity roadblocks\n\nAfter collaborating with the product owner and scrum master to plan the sprint, the development team completes the defined work items.\n\nThis group can include engineers, software architects, designers, and testers.\n\nAdhere to scrum practices (guided by the scrum master)\n\nDetermine how to complete the work prioritized by the product owner\n\nEstimate how much work can be completed in a sprint\n\nCommunicate progress in daily scrum meetings\n\nComplete all sprint items and deliver usable increments\n\nWhat is the role of a product manager in scrum?\n\nProduct releases vs. sprints in scrum\n\nThemes, epics, stories, and tasks in agile\n\nTo implement an agile framework like scrum, you need a solid crew. Assembling a skillful scrum team starts with filling each role. But it is the collective qualities of the group that determine success.\n\nSo, what qualities define a successful scrum team? The list below will give you an idea. Although these qualities can apply to any great software development team, they are particularly pertinent for scrum teams that are expected to be self-governing.\n\nAdaptable: Flexibility is essential. Given all of the framework's fixed rules, this might sound paradoxical — but in scrum, work is completed incrementally to ensure rapid response to change. Good scrum teams are open to making adjustments when new information arises.\n\nCollaborative: Even though scrum teams are expected to be self-sufficient, sprint items will sometimes require work from other teams. Scrum teams need to be proactive about cross-functional collaboration to ensure they can resolve dependencies on time.\n\nCommunicative: Planning and executing on a sprint take a lot of coordination — meaning scrum teams must communicate clearly (and often with each other and with stakeholders) to make progress.\n\nContinuously improving: Scrum provides a framework to continuously iterate on processes and increase efficiency. Good scrum teams will embrace events like sprint retrospectives as regular opportunities to improve.\n\nCross-functional: The members of the scrum team should represent all of the necessary skills for planning and completing the work (excluding dependencies that are outside the scope of agile development).\n\nCustomer-centric: The collective aim of scrum is to deliver functionality to customers at regular intervals. Customer needs and feedback should always be at the center of scrum team conversations.\n\nPredictable: Good scrum teams are consistent — they try to establish and stick to a predictable velocity for delivering work.\n\nReliable: Scrum teams take full ownership of the sprint. Once everyone agrees on the sprint's components, they commit to completing all of the designated work during that time period. This collective commitment establishes trust within the team and with stakeholders while ensuring progress.\n\nTransparent: Because scrum teams are self-organizing, honesty and openness are vital. Everyone should have a clear picture of how work is managed.\n\nGetting certified is another way to help your scrum team succeed. Certification can bolster your knowledge of scrum, help you facilitate better scrum events, and prepare you to grow in your career. Many scrum masters obtain scrum certifications to more deeply understand scrum practices and how to apply them across a team.\n\nCertified ScrumMaster and Professional Scrum Master, offered by Scrum Alliance and Scrum.org respectively, are the two most widely recognized scrum credentials. Both programs are rigorous and involve training for exams. Each one also includes multiple levels if you wish to get a more advanced certification.\n\nOther well-known organizations such as Scrum Inc., the Project Management Institute, and Scaled Agile offer scrum training and certifications as well. With all of these options, how do you know which one is right for you? There may not be one right answer, but use these questions as a guide:\n\nDo you already have experience as a scrum master, or do you need a program geared toward beginners?\n\nDo you prefer in-person or virtual training?\n\nDo you enjoy hands-on learning, or would you rather learn from materials at your own pace?\n\nDo you want to focus solely on scrum, or are you interested in gaining skills in other agile frameworks?\n\nAre you already a member of an agile network that offers a certification program?\n\nTalk to colleagues or your manager to get insight into which certification is most valued at your organization or within your industry. And it is possible that your department will fund your team's training — so be sure to ask.\n\nForming a solid scrum team is a great place to start when implementing scrum. But what happens when your organization's needs exceed the capacity of a single scrum team?\n\nThere are a number of scenarios where it will make sense to scale your scrum team. Depending on the level of expansion, this could mean anything from building additional scrum teams to consulting an established scaling framework. The decision will come down to your company's goals, culture, and resources — but there are a few common paths forward.\n\nHere are a few examples of challenges or inflection points where it may make sense to grow your scrum team, including considerations for how to scale.\n\nScaling considerations\n\nYour product backlog is filling up too fast.\n\nIf the main problem you are facing is a workload imbalance, your first inclination might be to continue adding more developers — but this can become inefficient. It is important to keep a balance across the three main scrum roles as the team grows.\n\nTo increase capacity, consider forming additional scrum teams — each with its own product owner, scrum master, and developers (though one product owner will sometimes work with multiple scrum teams). Multiple scrum teams often work together from a unified product backlog.\n\nYour organization is expanding its product portfolio.\n\nA growing portfolio could also call for additional scrum teams dedicated to new products. This is especially true when it comes product owners, who should ideally focus on singular products.\n\nAs you expand to new products and more scrum teams, many scrum practices will generally stay the same. Exceptions include certain new processes and events (like a \"Scrum of Scrums\" meeting, which is a ceremony designed to coordinate the work of multiple scrum teams on the same project).\n\nYou are planning scrum adoption across the enterprise.\n\nEnterprise-level scrum expansion can be daunting. That is why many organizations turn to established frameworks for scaling agile and lean principles.\n\nOne of the most popular is the Scaled Agile Framework® (SAFe®). SAFe and other scaling frameworks provide a tested and comprehensive approach for scaling scrum practices in complex enterprise environments.\n\nWhether you are starting out, improving, or scaling, your scrum team will be the torchbearers of your scrum framework. And when scrum roles and responsibilities are clearly understood, you can count on your scrum team to efficiently deliver products that will delight your customers.\n\nInterested in reading more about scrum teams and methodology? Take a look at our guide to scrum and agile dictionary.\n\nIt offers the product development guidelines you need — with more flexibility.\n\nThe Aha! Framework for product development is defined, yet adaptable.\n\nWe bet you will check off at least a few items in this list.",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "The Aha! Framework for product development",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Balance strategic planning and agile delivery using The Aha! Framework",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Is The Aha! Framework right for you? Use this new checklist.",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "What makes a high-achieving scrum team?",
+      "id": "what-makes-a-high-achieving-scrum-team"
+    },
+    {
+      "level": "h2",
+      "text": "Scrum certifications",
+      "id": "scrum-certifications"
+    },
+    {
+      "level": "h2",
+      "text": "How do you scale a scrum team?",
+      "id": "how-do-you-scale-a-scrum-team"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "The Aha! Framework for product development",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Balance strategic planning and agile delivery using The Aha! Framework",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Is The Aha! Framework right for you? Use this new checklist.",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-grooming",
+    "https://www.aha.io/roadmapping/guide/agile/agile-glossary",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles#top",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles#top",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles#top",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-a-product-portfolio",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-the-scaled-agile-framework-(safe)",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development"
+  ]
+}

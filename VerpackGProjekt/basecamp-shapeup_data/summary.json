@@ -1,0 +1,407 @@
+{
+  "name": "basecamp-shapeup",
+  "total_pages": 100,
+  "base_url": "https://basecamp.com/shapeup",
+  "pages": [
+    {
+      "title": "Shape Up: Stop Running in Circles and Ship Work that Matters",
+      "url": "https://basecamp.com/shapeup"
+    },
+    {
+      "title": "Foreword by Jason Fried | Shape Up",
+      "url": "https://basecamp.com/shapeup/0.1-foreword"
+    },
+    {
+      "title": "Acknowledgements | Shape Up",
+      "url": "https://basecamp.com/shapeup/0.2-acknowledgements"
+    },
+    {
+      "title": "Introduction | Shape Up",
+      "url": "https://basecamp.com/shapeup/0.3-chapter-01"
+    },
+    {
+      "title": "Introduction | Shape Up",
+      "url": "https://basecamp.com/shapeup/0.3-chapter-01#growing-pains"
+    },
+    {
+      "title": "Introduction | Shape Up",
+      "url": "https://basecamp.com/shapeup/0.3-chapter-01#six-week-cycles"
+    },
+    {
+      "title": "Introduction | Shape Up",
+      "url": "https://basecamp.com/shapeup/0.3-chapter-01#shaping-the-work"
+    },
+    {
+      "title": "Introduction | Shape Up",
+      "url": "https://basecamp.com/shapeup/0.3-chapter-01#making-teams-responsible"
+    },
+    {
+      "title": "Introduction | Shape Up",
+      "url": "https://basecamp.com/shapeup/0.3-chapter-01#targeting-risk"
+    },
+    {
+      "title": "Introduction | Shape Up",
+      "url": "https://basecamp.com/shapeup/0.3-chapter-01#how-this-book-is-organized"
+    },
+    {
+      "title": "Principles of Shaping | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.1-chapter-02"
+    },
+    {
+      "title": "Principles of Shaping | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.1-chapter-02#wireframes-are-too-concrete"
+    },
+    {
+      "title": "Principles of Shaping | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.1-chapter-02#words-are-too-abstract"
+    },
+    {
+      "title": "Principles of Shaping | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.1-chapter-02#case-study-the-dot-grid-calendar"
+    },
+    {
+      "title": "Principles of Shaping | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.1-chapter-02#property-1-its-rough"
+    },
+    {
+      "title": "Principles of Shaping | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.1-chapter-02#property-2-its-solved"
+    },
+    {
+      "title": "Principles of Shaping | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.1-chapter-02#property-3-its-bounded"
+    },
+    {
+      "title": "Principles of Shaping | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.1-chapter-02#who-shapes"
+    },
+    {
+      "title": "Principles of Shaping | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.1-chapter-02#two-tracks"
+    },
+    {
+      "title": "Principles of Shaping | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.1-chapter-02#steps-to-shaping"
+    },
+    {
+      "title": "Set Boundaries | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.2-chapter-03"
+    },
+    {
+      "title": "Set Boundaries | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.2-chapter-03#setting-the-appetite"
+    },
+    {
+      "title": "Set Boundaries | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.2-chapter-03#fixed-time-variable-scope"
+    },
+    {
+      "title": "Set Boundaries | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.2-chapter-03#good-is-relative"
+    },
+    {
+      "title": "Set Boundaries | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.2-chapter-03#responding-to-raw-ideas"
+    },
+    {
+      "title": "Set Boundaries | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.2-chapter-03#narrow-down-the-problem"
+    },
+    {
+      "title": "Set Boundaries | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.2-chapter-03#case-study-defining-calendar"
+    },
+    {
+      "title": "Set Boundaries | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.2-chapter-03#watch-out-for-grab-bags"
+    },
+    {
+      "title": "Set Boundaries | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.2-chapter-03#boundaries-in-place"
+    },
+    {
+      "title": "Find the Elements | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.3-chapter-04"
+    },
+    {
+      "title": "Find the Elements | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.3-chapter-04#move-at-the-right-speed"
+    },
+    {
+      "title": "Find the Elements | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.3-chapter-04#breadboarding"
+    },
+    {
+      "title": "Find the Elements | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.3-chapter-04#fat-marker-sketches"
+    },
+    {
+      "title": "Find the Elements | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.3-chapter-04#elements-are-the-output"
+    },
+    {
+      "title": "Find the Elements | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.3-chapter-04#room-for-designers"
+    },
+    {
+      "title": "Find the Elements | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.3-chapter-04#not-deliverable-yet"
+    },
+    {
+      "title": "Find the Elements | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.3-chapter-04#no-conveyor-belt"
+    },
+    {
+      "title": "Risks and Rabbit Holes | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.4-chapter-05"
+    },
+    {
+      "title": "Risks and Rabbit Holes | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.4-chapter-05#different-categories-of-risk"
+    },
+    {
+      "title": "Risks and Rabbit Holes | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.4-chapter-05#look-for-rabbit-holes"
+    },
+    {
+      "title": "Risks and Rabbit Holes | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.4-chapter-05#case-study-patching-a-hole"
+    },
+    {
+      "title": "Risks and Rabbit Holes | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.4-chapter-05#declare-out-of-bounds"
+    },
+    {
+      "title": "Risks and Rabbit Holes | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.4-chapter-05#cut-back"
+    },
+    {
+      "title": "Risks and Rabbit Holes | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.4-chapter-05#present-to-technical-experts"
+    },
+    {
+      "title": "Risks and Rabbit Holes | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.4-chapter-05#de-risked-and-ready-to-write-up"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-1-problem"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-2-appetite"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-3-solution"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#help-them-see-it"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#embedded-sketches"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#annotated-fat-marker-sketches"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-4-rabbit-holes"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#ingredient-5-no-gos"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#examples"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#ready-to-present"
+    },
+    {
+      "title": "Write the Pitch | Shape Up",
+      "url": "https://basecamp.com/shapeup/1.5-chapter-06#how-we-do-it-in-basecamp"
+    },
+    {
+      "title": "Bets, Not Backlogs | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.1-chapter-07"
+    },
+    {
+      "title": "Bets, Not Backlogs | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.1-chapter-07#no-backlogs"
+    },
+    {
+      "title": "Bets, Not Backlogs | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.1-chapter-07#a-few-potential-bets"
+    },
+    {
+      "title": "Bets, Not Backlogs | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.1-chapter-07#decentralized-lists"
+    },
+    {
+      "title": "Bets, Not Backlogs | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.1-chapter-07#important-ideas-come-back"
+    },
+    {
+      "title": "The Betting Table | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.2-chapter-08"
+    },
+    {
+      "title": "The Betting Table | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.2-chapter-08#six-week-cycles"
+    },
+    {
+      "title": "The Betting Table | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.2-chapter-08#cool-down"
+    },
+    {
+      "title": "The Betting Table | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.2-chapter-08#team-and-project-sizes"
+    },
+    {
+      "title": "The Betting Table | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.2-chapter-08#the-betting-table"
+    },
+    {
+      "title": "The Betting Table | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.2-chapter-08#the-meaning-of-a-bet"
+    },
+    {
+      "title": "The Betting Table | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.2-chapter-08#uninterrupted-time"
+    },
+    {
+      "title": "The Betting Table | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.2-chapter-08#the-circuit-breaker"
+    },
+    {
+      "title": "The Betting Table | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.2-chapter-08#what-about-bugs"
+    },
+    {
+      "title": "The Betting Table | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.2-chapter-08#keep-the-slate-clean"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#look-where-you-are"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#existing-products"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#new-products"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#rd-mode"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#production-mode"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#cleanup-mode"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#examples"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#questions-to-ask"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#does-the-problem-matter"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#is-the-appetite-right"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#is-the-solution-attractive"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#is-this-the-right-time"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#are-the-right-people-available"
+    },
+    {
+      "title": "Place Your Bets | Shape Up",
+      "url": "https://basecamp.com/shapeup/2.3-chapter-09#post-the-kick-off-message"
+    },
+    {
+      "title": "Hand Over Responsibility | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.1-chapter-10"
+    },
+    {
+      "title": "Hand Over Responsibility | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.1-chapter-10#assign-projects-not-tasks"
+    },
+    {
+      "title": "Hand Over Responsibility | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.1-chapter-10#done-means-deployed"
+    },
+    {
+      "title": "Hand Over Responsibility | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.1-chapter-10#getting-oriented"
+    },
+    {
+      "title": "Hand Over Responsibility | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.1-chapter-10#imagined-vs-discovered-tasks"
+    },
+    {
+      "title": "Get One Piece Done | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.2-chapter-11"
+    },
+    {
+      "title": "Get One Piece Done | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.2-chapter-11#integrate-one-slice"
+    },
+    {
+      "title": "Get One Piece Done | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.2-chapter-11#case-study-clients-in-projects"
+    },
+    {
+      "title": "Get One Piece Done | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.2-chapter-11#programmers-dont-need-to-wait"
+    },
+    {
+      "title": "Get One Piece Done | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.2-chapter-11#affordances-before-pixel-perfect-screens"
+    },
+    {
+      "title": "Get One Piece Done | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.2-chapter-11#program-just-enough-for-the-next-step"
+    },
+    {
+      "title": "Get One Piece Done | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.2-chapter-11#start-in-the-middle"
+    },
+    {
+      "title": "Map the Scopes | Shape Up",
+      "url": "https://basecamp.com/shapeup/3.3-chapter-12"
+    }
+  ]
+}

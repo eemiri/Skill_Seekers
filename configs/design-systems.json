@@ -1,0 +1,94 @@
+{
+  "name": "design-systems",
+  "description": "Use this skill when you need help with design systems, component libraries, design tokens, design patterns, UI/UX guidelines, and implementing design systems. Covers major design systems like Carbon, Atlassian, Material Design, Apple HIG, and design system fundamentals.",
+  "base_url": "https://carbondesignsystem.com/",
+  "selectors": {
+    "main_content": "main",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [
+      "carbondesignsystem.com",
+      "atlassian.design",
+      "m3.material.io",
+      "developer.apple.com/design",
+      "help.figma.com/hc/en-us/articles"
+    ],
+    "exclude": [
+      "?search=",
+      "/search/",
+      "/category/",
+      "/tag/",
+      "/author/",
+      "/event-",
+      "/courses/",
+      "/certificates/",
+      "/examples/",
+      "/community/",
+      "#",
+      "?"
+    ]
+  },
+  "categories": {
+    "design_system_fundamentals": [
+      "design system",
+      "introduction",
+      "overview",
+      "getting started",
+      "fundamentals",
+      "principles"
+    ],
+    "components": [
+      "components",
+      "ui components",
+      "patterns",
+      "elements",
+      "controls"
+    ],
+    "design_tokens": [
+      "tokens",
+      "design tokens",
+      "colors",
+      "typography",
+      "spacing",
+      "sizing"
+    ],
+    "guidelines": [
+      "guidelines",
+      "principles",
+      "standards",
+      "best practices",
+      "usage"
+    ],
+    "implementation": [
+      "implementation",
+      "code",
+      "developers",
+      "integration",
+      "react",
+      "css",
+      "javascript"
+    ],
+    "accessibility": [
+      "accessibility",
+      "a11y",
+      "inclusive design",
+      "wcag"
+    ],
+    "brand": [
+      "brand",
+      "branding",
+      "logo",
+      "visual identity"
+    ]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 80,
+  "additional_urls": [
+    "https://atlassian.design/",
+    "https://m3.material.io/",
+    "https://developer.apple.com/design/human-interface-guidelines/",
+    "https://help.figma.com/hc/en-us/articles/14552901442839-Overview-Introduction-to-design-systems"
+  ]
+}

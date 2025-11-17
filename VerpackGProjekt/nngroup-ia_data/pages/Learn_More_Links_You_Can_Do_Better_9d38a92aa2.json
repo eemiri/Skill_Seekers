@@ -1,0 +1,84 @@
+{
+  "url": "https://www.nngroup.com/articles/learn-more-links/#toc-conclusion-5",
+  "title": "“Learn More” Links: You Can Do Better",
+  "content": "December 13, 2015 2015-12-13\n\nSome trends are subtler than others. Much like low-contrast text, the use of Learn More as a standalone link label has been quietly trending. The web now has an abundance of links with this generic label, largely tacked on to information of secondary or tertiary importance. (A Google search finds 1.4 billion instances of this term, though some admittedly might be from proper use of the term in general content.) Typically, these links are placed after a short paragraph that briefly introduces a topic, feature, or service, so that the Learn More points the visitor to the detail page. Usually, these links are not the main calls to action on the page, which partly explains why this copywriting detail doesn’t get as much attention or A/B testing as other calls to action.\n\nMost of you have surely seen this pattern. Below is an example of what we’re talking about:\n\nThe proliferation of Learn More links is likely mobile driven: mobile-optimized sites are getting better at deferring secondary content. That is, instead of making all the details available by default, headings and short paragraphs provide an easy-to-scan, digestible overview of essential content. When users decide they want more information, they can tap a link or expand an accordion to get to the less important content. This design pattern is definitely beneficial on mobile, and our article is a critique of the link label only, and not of the general practice of deferring less important content.\n\nWe’ll first look at why this phrase is problematic when used by itself, and why it’s worthwhile to be more descriptive. Then we’ll explore how to figure out what to say instead, with examples of sites that have done it well. You’ll even have a chance to try rewriting labels yourself. For that final part, we recommend you have a writing utensil handy, because, yes, there will be a quiz.\n\nLet us first acknowledge that if the text that precedes the link makes it obvious what’s to come, then a Learn More label isn’t devastating to the user experience. Remember, this article is about how to do better. Descriptive text does help clarify and set expectations. However, even in that situation, there is often ambiguity about the scope of the link. Does the link go to a full page dedicated to the topic? Or does it lead to a landing page where the user will have to choose from a dozen other links? Does it point to an external site or an app store? These are all questions that an informative link label can help answer.\n\nThe phrase is most dangerous when used alone because of its ambiguity and poor information scent. It creates uncertainty, because users don’t know what to expect if they click, or whether it will be worthwhile to wait for a new page to load. That feeling of uncertainty can cause users to hesitate and shift into a state of cognitive strain. Some may resort to page parking for evaluating unclear links.\n\nIf a webpage has several Learn More links, users may wonder if the links point to the same page or to different pages. Once again, uncertainty and cognitive strain have a negative impact on the user experience. Worse, when they do point to the same page, users may waste clicks and be disappointed to discover that the same page is provided. That adds disappointment and confusion to the mix.\n\nFinally, as a standalone link, the lack of descriptive keywords is a serious problem for accessibility. People who are visually impaired and using a screen reader or magnifier aren’t able to quickly glance back to the preceding-paragraph text to see what the Learn More link may refer to. Most screen-reader users will hear a list of links read to them, with no visual context to help them make sense of different generic Learn More or Read More links.\n\nSo, if you use descriptive labels instead of standalone Learn More text, your copy will benefit in several ways:\n\nNow that you’re on board with rewriting those link labels, let’s see some suggestions for what to write instead. Below are the three most common approaches.\n\nThis is the most common and, typically, the best approach. To do this, you have to look at the destination page and see what it’s about. Don’t skip that step. When rewriting the labels, remember to try to front-load the link text by putting the most relevant keywords at the beginning of the text. For example, instead of “Learn How Professional Chefs Cook Squash”, try “Cook Squash Like The Pros.” Front-loading text makes it much faster for users to scan the page and decide what to do next.\n\nThere are times when it is acceptable to retain Learn more, if you qualify it with information about what is to be learned (e.g., Learn more about our services). The downsides to this approach are space constraints for the longer label, and reduced scannability because the relevant keywords appear at the end instead of the beginning of the phrase. Nevertheless, a long link does create a larger target, which is faster for users to click and tap than a small target. In some cases, you might try only linking the descriptive phrase, for example: “Learn more: How a Link is a Promise.”\n\nIf the heading of the preceding paragraph is obviously styled to look like a link and the copy clearly describes what the link points to, then a Learn More link is probably redundant.\n\nIn each of the examples below, you can see how easy it would have been for the designers to fall back on Learn More or Read More. Instead, they put a bit of extra effort into the copy, and it pays off. Use these as inspiration for your own sites.\n\nNow that you’ve seen how to do better than just Learn More, it’s time to try it yourself. (I wasn’t kidding about that quiz. After all, we are in the business of giving UX exams, you know. Sorry, this exercise doesn’t count for credit.)\n\nBelow are a few examples of copy and a description of the destination page. Try your hand at coming up with a better link label. As with all writing, there isn’t just one right answer. (But we have included some of our own suggestions below; just don’t look before you’ve tried on your own first.)\n\nThis step should help put you in the shoes of your users, who don’t know what each page is about before they click. Note that headings are in bold and capitalization is retained from the original website.\n\nFrom the destination page\n\nPlays Well with Others\n\nIn addition to SmartThings' own family of sensors, you can also control hundreds of connected devices from other brands through the SmartThings open platform.\n\nAn Open Smart Home Platform\n\n…In addition to SmartThings own family of sensors, the products listed below are examples of officially certified devices that deliver the best customer experience.\n\nBuild. Connect. Grow.\n\nMAKE A DIFFERENCE FOR OUR CLIENTS, SOCIETY, AND THE WORLD\n\nWork, Culture, Path, Join\n\nEVENTS AND STUDIOS - VENUE HIRE\n\nEvents and Studios on the first floor of the Exchange is a purpose-built, broadcast and event venue in the heart of the City.\n\nIdeally situated at Paternoster Square makes the space a premier venue for announcements, conferences or simply entertaining in style.\n\nLSEG Academy is our Group’s own dedicated training centre, serving clients across the UK, Italy and internationally.\n\nTurn on your imagination\n\nThere are limitless possibilities to turn your everyday lighting into an extraordinary experience. And with hundreds of apps to choose from, the only real limit is your imagination.\n\nYour personal wireless lighting system\n\nEnhance your everyday life. Philips Hue can welcome you home. Wake you up. Get you energized. Make you feel safe. Improve your mood. Enhance your entertainment experience. It can even keep you informed about the weather or incoming calls. The possibilities are endless once you start exploring.\n\nIf you find yourself relying on Learn More or Read More as standalone link labels, remember that they create uncertainty for users and are bad for accessibility. Use the examples and approaches in this article to add descriptive keywords and make your link labels more informative and enticing to users.\n\nSuggestions to Improve Labels\n\nAlternative label suggestions are separated by vertical bars (|).\n\nDid you come up with an even better suggestion? We’d love to hear it. Tweet us @nngroup.com.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "“Learn More” Links: You Can Do Better",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Why Learn More Is a Problem",
+      "id": "toc-why-learn-more-is-a-problem-1"
+    },
+    {
+      "level": "h2",
+      "text": "What to Say Instead: 3 Solutions",
+      "id": "toc-what-to-say-instead-3-solutions-2"
+    },
+    {
+      "level": "h3",
+      "text": "Option 1: Use keywords that describe the link’s destination.",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Option 2. Retain the Learn More format and add descriptive keywords.",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Option 3: Convert the preceding-paragraph heading into the only link.",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Examples of Effective Alternatives",
+      "id": "toc-examples-of-effective-alternatives-3"
+    },
+    {
+      "level": "h2",
+      "text": "Now You Try",
+      "id": "toc-now-you-try-4"
+    },
+    {
+      "level": "h3",
+      "text": "Part 1: First, read the original copy below and guess what the Learn More links might lead to.",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Part 2: Next, using the information from the destination page, try rewriting the link label.",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-5"
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/katie-sherwin/",
+    "https://www.nngroup.com/articles/learn-more-links/",
+    "https://www.nngroup.com/articles/learn-more-links/",
+    "https://www.nngroup.com/articles/learn-more-links/#toc-why-learn-more-is-a-problem-1",
+    "https://www.nngroup.com/articles/learn-more-links/#toc-what-to-say-instead-3-solutions-2",
+    "https://www.nngroup.com/articles/learn-more-links/#toc-examples-of-effective-alternatives-3",
+    "https://www.nngroup.com/articles/learn-more-links/#toc-now-you-try-4",
+    "https://www.nngroup.com/articles/learn-more-links/#toc-conclusion-5"
+  ]
+}

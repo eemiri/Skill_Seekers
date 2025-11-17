@@ -1,0 +1,66 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/accessibility/writing-all-abilities",
+  "title": "Writing for all abilities",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nMicrosoft style—clean, simple design and crisp, clear content—is easier for all readers to use, so nearly every writing recommendation in this guide will improve accessibility. Pay special attention to the following guidelines.\n\nIn general, use people-first language (refer first to the person, followed by the disability). To ensure clarity and consistency, this should be the default unless you know a specific audience prefers identity-first language. When you must describe specific disabilities or people with specific disabilities, consult approved Accessibility terminology.\n\nBe especially clear and concise in instructions for product setup, basic features, input methods, and accessibility features.\n\nLead with what matters most, so readers know immediately where to focus their attention.\n\nKeep paragraphs short and sentence structure simple. Aim for one verb per sentence. Read text aloud and imagine it spoken by a screen reader.\n\nUse parallel writing structures for similar things. For example, use singular nouns for each top-level heading. Or, use a verb to start each item in a list.\n\nSpell out words like and, plus, and about. Screen readers can misread or skip text that uses special characters like the plus sign (+) and tilde (~). See special characters for more detailed information.\n\nWrite brief but meaningful link text. Be descriptive—links should make sense without the surrounding text.\n\nDistinguish link text visually. Use redundant visual cues, such as both color and underline.\n\nDon’t force line breaks (also known as hard returns) within sentences and paragraphs. They may not work well in resized windows or with enlarged text.\n\nEmphasize important points visually and stylistically. Lists, headings, and tables reinforce relationships between concepts. Provide a brief description of what a table contains immediately preceding it in the text, and use concise and specific column headings.\n\nUse heading levels instead of text formatting to communicate the hierarchy of content.\n\nDon’t use directional terms as the only clue to location. Left, right, up, down, above, and below aren’t very useful for people who use screen-reading software. Instead, use specific language that conveys context, such as “the first item in the following list” or “on the toolbar.”\n\nIn product documentation, document all supported modes of interaction, input commands, and keyboard shortcuts. Include mice, keyboards, voice recognition devices, game controllers, gestures, and other interaction modes.\n\nIn procedures and instructions, use generic verbs that apply to all input methods and devices. Avoid verbs like click (mouse) and swipe (touch) that don't make sense with some alternative input methods used for accessibility.\n\nLearn more Describing alternative input methods\n\nDescribing interactions with UI\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Writing for all abilities",
+      "id": "writing-for-all-abilities"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Put the person first",
+      "id": "put-the-person-first"
+    },
+    {
+      "level": "h2",
+      "text": "Write brief, meaningful, and focused text",
+      "id": "write-brief-meaningful-and-focused-text"
+    },
+    {
+      "level": "h2",
+      "text": "Use content structure and location to communicate",
+      "id": "use-content-structure-and-location-to-communicate"
+    },
+    {
+      "level": "h2",
+      "text": "Document alternate input methods",
+      "id": "document-alternate-input-methods"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/writing-all-abilities",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/writing-all-abilities",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/writing-all-abilities",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/writing-all-abilities",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/writing-all-abilities",
+    "https://learn.microsoft.com/en-us/style-guide/accessibility/writing-all-abilities",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/special-characters",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-alternative-input-methods",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui"
+  ]
+}

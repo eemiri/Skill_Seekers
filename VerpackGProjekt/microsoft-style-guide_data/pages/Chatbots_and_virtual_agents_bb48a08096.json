@@ -1,0 +1,45 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/",
+  "title": "Chatbots and virtual agents",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nA virtual agent is a type of bot that can be used to:\n\nBefore you create a virtual agent, make sure it will add value to the customer experience.\n\nThis type of bot is good for tasks where it's easier to ask for what you want rather than navigate through a menu or search for keywords. But a bot isn't a human, and there are some things that it isn't suited for.\n\nTechnically speaking, there are two kinds:\n\nThis section includes guidelines and tips to help you create this type of bot:\n\nLearn more Microsoft's AI vision, rooted in research, conversations Bot Framework documentation Responsible bots: 10 guidelines for developers of conversational AI\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Chatbots and virtual agents",
+      "id": "chatbots-and-virtual-agents"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/structural-technical-considerations",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/writing-bots",
+    "https://learn.microsoft.com/en-us/style-guide/chatbots-virtual-agents/care-feeding-bot"
+  ]
+}

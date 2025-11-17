@@ -1,0 +1,174 @@
+{
+  "url": "https://www.nngroup.com/articles/ten-usability-heuristics/",
+  "title": "10 Usability Heuristics for User Interface Design",
+  "content": "April 24, 1994 · Updated Jan. 30, 2024 2024-01-30\n\nThank you to Kelley Gordon for designing the visuals and posters included in this article.\n\nThank you to Kate Moran and Feifei Liu for updating the heuristic names, descriptions, and examples.\n\nThe design should always keep users informed about what is going on, through appropriate feedback within a reasonable amount of time.\n\nWhen users know the current system status, they learn the outcome of their prior interactions and determine next steps. Predictable interactions create trust in the product as well as the brand.\n\nThe design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order.\n\nThe way you should design depends very much on your specific users. Terms, concepts, icons, and images that seem perfectly clear to you and your colleagues may be unfamiliar or confusing to your users.\n\nWhen a design’s controls follow real-world conventions and correspond to desired outcomes (called natural mapping), it’s easier for users to learn and remember how the interface works. This helps to build an experience that feels intuitive.\n\nUsers often perform actions by mistake. They need a clearly marked \"emergency exit\" to leave the unwanted action without having to go through an extended process.\n\nWhen it's easy for people to back out of a process or undo an action, it fosters a sense of freedom and confidence. Exits allow users to remain in control of the system and avoid getting stuck and feeling frustrated.\n\nUsers should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform and industry conventions.\n\nJakob's Law states that people spend most of their time using digital products other than yours. Users’ experiences with those other products set their expectations. Failing to maintain consistency may increase the users' cognitive load by forcing them to learn something new.\n\nGood error messages are important, but the best designs carefully prevent problems from occurring in the first place. Either eliminate error-prone conditions, or check for them and present users with a confirmation option before they commit to the action.\n\nThere are two types of errors: slips and mistakes. Slips are unconscious errors caused by inattention. Mistakes are conscious errors based on a mismatch between the user’s mental model and the design.\n\nMinimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed.\n\nHumans have limited short-term memories. Interfaces that promote recognition reduce the amount of cognitive effort required from users.\n\nShortcuts — hidden from novice users — may speed up the interaction for the expert user so that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.\n\nFlexible processes can be carried out in different ways, so that people can pick whichever method works for them.\n\nInterfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility.\n\nThis heuristic doesn't mean you have to use a flat design — it's about making sure you're keeping the content and visual design focused on the essentials. Ensure that the visual elements of the interface support the user's primary goals.\n\nError messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution.\n\nThese error messages should also be presented with visual treatments that will help users notice and recognize them.\n\nIt’s best if the system doesn’t need any additional explanation. However, it may be necessary to provide documentation to help users understand how to complete their tasks.\n\nHelp and documentation content should be easy to search and focused on the user's task. Keep it concise, and list concrete steps that need to be carried out.\n\nDownload a free summary poster or 10 detailed posters of the 10 Usability Heuristics, designed by Kelley Gordon, Kate Moran, and Feifei Liu.\n\nI originally developed the heuristics for heuristic evaluation in collaboration with Rolf Molich in 1990 [Molich and Nielsen 1990; Nielsen and Molich 1990]. Four years later, I refined the heuristics based on a factor analysis of 249 usability problems [Nielsen 1994a] to derive a set of heuristics with maximum explanatory power, resulting in this revised set of heuristics [Nielsen 1994b].\n\nIn 2020, we updated this article, adding more explanation, examples, and related links. While we slightly refined the language of the definitions, the 10 heuristics themselves have remained relevant and unchanged since 1994. When something has remained true for 26 years, it will likely apply to future generations of user interfaces as well.\n\nMolich, R., and Nielsen, J. (1990). Improving a human-computer dialogue, Communications of the ACM 33, 3 (March), 338-348.\n\nNielsen, J., and Molich, R. (1990). Heuristic evaluation of user interfaces, Proc. ACM CHI'90 Conf. (Seattle, WA, 1-5 April), 249-256.\n\nNielsen, J. (1994a). Enhancing the explanatory power of usability heuristics. Proc. ACM CHI'94 Conf. (Boston, MA, April 24-28), 152-158.\n\nNielsen, J. (1994b). Heuristic evaluation. In Nielsen, J., and Mack, R.L. (Eds.), Usability Inspection Methods, John Wiley & Sons, New York, NY.\n\nYou may use these heuristics in your own work. Please credit Jakob Nielsen and provide the address for this page [nngroup.com/articles/ten-usability-heuristics] or cite the paper above [Nielsen 1994a]. If you want to print copies of this page or reproduce the content online, however, please see our copyright info for details. Copyright © by Jakob Nielsen.ISSN 1548-5552\n\nFoundational concepts that everyone should know",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "10 Usability Heuristics for User Interface Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "1: Visibility of System Status",
+      "id": "toc-1-visibility-of-system-status-1"
+    },
+    {
+      "level": "h2",
+      "text": "2: Match Between the System and the Real World",
+      "id": "toc-2-match-between-the-system-and-the-real-world-2"
+    },
+    {
+      "level": "h2",
+      "text": "3: User Control and Freedom",
+      "id": "toc-3-user-control-and-freedom-3"
+    },
+    {
+      "level": "h2",
+      "text": "4: Consistency and Standards",
+      "id": "toc-4-consistency-and-standards-4"
+    },
+    {
+      "level": "h2",
+      "text": "5: Error Prevention",
+      "id": "toc-5-error-prevention-5"
+    },
+    {
+      "level": "h2",
+      "text": "6: Recognition Rather than Recall",
+      "id": "toc-6-recognition-rather-than-recall-6"
+    },
+    {
+      "level": "h2",
+      "text": "7: Flexibility and Efficiency of Use",
+      "id": "toc-7-flexibility-and-efficiency-of-use-7"
+    },
+    {
+      "level": "h2",
+      "text": "8: Aesthetic and Minimalist Design",
+      "id": "toc-8-aesthetic-and-minimalist-design-8"
+    },
+    {
+      "level": "h2",
+      "text": "9: Help Users Recognize, Diagnose, and Recover from Errors",
+      "id": "toc-9-help-users-recognize-diagnose-and-recover-from-errors-9"
+    },
+    {
+      "level": "h2",
+      "text": "10: Help and Documentation",
+      "id": "toc-10-help-and-documentation-10"
+    },
+    {
+      "level": "h2",
+      "text": "Free 10 Heuristics Poster",
+      "id": "toc-free-10-heuristics-poster-11"
+    },
+    {
+      "level": "h3",
+      "text": "Note from Jakob",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "See Also",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Examples",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Checklists & Guidelines",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "References",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Citing the Heuristics",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Free Downloads",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "UX Basic Training",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-1-visibility-of-system-status-1",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-2-match-between-the-system-and-the-real-world-2",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-3-user-control-and-freedom-3",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-4-consistency-and-standards-4",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-5-error-prevention-5",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-6-recognition-rather-than-recall-6",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-7-flexibility-and-efficiency-of-use-7",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-8-aesthetic-and-minimalist-design-8",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-9-help-users-recognize-diagnose-and-recover-from-errors-9",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-10-help-and-documentation-10",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#toc-free-10-heuristics-poster-11",
+    "https://www.nngroup.com/articles/microinteractions/",
+    "https://www.nngroup.com/articles/visibility-system-status/",
+    "https://www.nngroup.com/articles/natural-mappings/",
+    "https://www.nngroup.com/articles/user-centric-language/",
+    "https://www.nngroup.com/articles/match-system-real-world/",
+    "https://www.nngroup.com/articles/reset-and-cancel-buttons/",
+    "https://www.nngroup.com/articles/user-control-and-freedom/",
+    "https://www.nngroup.com/articles/minimize-cognitive-load/",
+    "https://www.nngroup.com/articles/omnichannel-consistency/",
+    "https://www.nngroup.com/articles/do-interface-standards-stifle-design-creativity/",
+    "https://www.nngroup.com/articles/slips/",
+    "https://www.nngroup.com/articles/the-power-of-defaults/",
+    "https://www.nngroup.com/articles/confirmation-dialog/",
+    "https://www.nngroup.com/articles/slips/",
+    "https://www.nngroup.com/articles/working-memory-external-memory/",
+    "https://www.nngroup.com/articles/recognition-and-recall/",
+    "https://www.nngroup.com/articles/ui-accelerators/",
+    "https://www.nngroup.com/articles/personalization/",
+    "https://www.nngroup.com/articles/customization-personalization/",
+    "https://www.nngroup.com/articles/flexibility-efficiency-heuristic/",
+    "https://www.nngroup.com/articles/flat-design/",
+    "https://www.nngroup.com/articles/how-little-do-users-read/",
+    "https://www.nngroup.com/articles/principles-visual-design/",
+    "https://www.nngroup.com/articles/aesthetic-minimalist-design/",
+    "https://www.nngroup.com/articles/error-message-guidelines/",
+    "https://www.nngroup.com/articles/plain-language-experts/",
+    "https://www.nngroup.com/articles/error-message-guidelines/",
+    "https://www.nngroup.com/articles/search-visible-and-simple/",
+    "https://www.nngroup.com/articles/help-and-documentation/",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/#poster",
+    "https://www.nngroup.com/articles/usability-heuristics-complex-applications/",
+    "https://www.nngroup.com/articles/usability-heuristics-complex-applications/",
+    "https://www.nngroup.com/articles/usability-heuristics-virtual-reality/",
+    "https://www.nngroup.com/articles/usability-heuristics-applied-video-games/"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "ux-research-planning",
+  "description": "Use this skill when you need to plan, design, or execute UX research studies. Covers research methodology, interview techniques, sample size calculations, and comprehensive UX research planning.",
+  "base_url": "https://www.nngroup.com/articles/",
+  "additional_urls": [
+    "https://www.userinterviews.com/ux-research-field-guide-chapter/"
+  ],
+  "selectors": {
+    "main_content": "div.article-content, div.entry-content, main, article",
+    "title": "h1, .article-title, .entry-title",
+    "code_blocks": "pre, code, .example-box, .callout"
+  },
+  "url_patterns": {
+    "include": [
+      "ux-research-cheat-sheet",
+      "interview-guide",
+      "summary-quant-sample-sizes",
+      "create-user-research-plan",
+      "user-interviews"
+    ],
+    "exclude": [
+      "/search.html",
+      "/category/",
+      "/author/",
+      "/tag/",
+      "/wp-admin/",
+      "comments",
+      "print",
+      "pdf"
+    ]
+  },
+  "categories": {
+    "planning": [
+      "research plan",
+      "planning",
+      "goals",
+      "objectives",
+      "methodology",
+      "scope",
+      "timeline"
+    ],
+    "interviews": [
+      "interview",
+      "interviewing",
+      "moderation",
+      "questioning",
+      "participant recruitment",
+      "generative research"
+    ],
+    "methods": [
+      "method",
+      "technique",
+      "approach",
+      "field studies",
+      "usability testing",
+      "journey mapping",
+      "survey",
+      "analytics"
+    ],
+    "quantitative": [
+      "sample size",
+      "quantitative",
+      "statistics",
+      "metrics",
+      "data analysis",
+      "confidence level",
+      "margin of error"
+    ],
+    "analysis": [
+      "analysis",
+      "synthesis",
+      "findings",
+      "insights",
+      "recommendations",
+      "reporting"
+    ]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50,
+  "enhancement_prompt": "Focus on creating practical UX research planning templates, step-by-step methodologies, interview question examples, and decision-making frameworks for different research scenarios."
+}

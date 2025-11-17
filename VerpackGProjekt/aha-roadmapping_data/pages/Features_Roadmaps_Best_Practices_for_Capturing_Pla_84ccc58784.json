@@ -1,0 +1,118 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap",
+  "title": "Features Roadmaps: Best Practices for Capturing Plans",
+  "content": "Last updated: April 2024\n\nA features roadmap is a visual timeline of what the product team is working on and when you will deliver it. It shows a detailed view of the specific functionality or improvements the team is building, along with a time frame for delivery.\n\nBesides capturing the \"what\" and \"when\" of the team's work, a features roadmap also gives context around the product plans — including how each feature supports the goals and initiatives, which features will ship with each release, and progress towards completion. Product managers use a features roadmap to communicate the details of the work to the cross-functional product team and broader organization (and sometimes customers, too).\n\nDiscover how a features roadmap can help you transform your product plans into action — aligning the team around what you will all do to deliver greater value to your customers. Jump ahead to any section:\n\nBenefits of a features roadmap\n\nWho is responsible for a features roadmap?\n\nHow a features roadmap compares to other roadmaps\n\nWhat to include on your features roadmap\n\nFeatures roadmap templates\n\nWith Aha! software, you can build a visual timeline of planned features that communicates what you are doing, why it matters, and when you will deliver it.\n\nTo better understand a features roadmap, let's first talk about what a feature is. A feature is a specific functionality — such as a capability, component, or performance upgrade — that you deliver to end users. Several features are often grouped under a release which details all the work that needs to happen to ensure a successful launch.\n\nThe components of a feature vary depending on what you are building and how your product team manages workflows. But in general, features should include:\n\nStrategy: Connect features to the product goals and initiatives they support\n\nDescription: Outline what the feature will do and which problem(s) it is designed to solve\n\nRequirements: Describe capabilities that need to be built to deliver the feature\n\nTiming: Define when to expect delivery\n\nOwnership: Determine who is responsible for completing the work\n\nFeatures are the building blocks of your product. They solve pain points, showing customers that you not only listen, but act. Each new feature has the potential to amplify your product’s lovability — adding value for customers and for the business.\n\nRelated: A checklist for defining product features\n\nUsing a features roadmap is a dynamic way to stay connected and galvanize action — ensuring each new feature is as lovable as the last. Here are some of the core benefits:\n\nLink features to the product goals and initiatives — ensuring you are investing in the work that matters\n\nAlign the product team around what you are doing, why it matters, and when you will deliver it\n\nClarify timing and priorities between cross-functional teams such as engineering\n\nWhen everyone understands what you are working towards together, you can all focus on delivering more value to customers and the business.\n\nEditor's note: Although the video below still shows core functionality within Aha! software, some of the interface might be out of date. View our knowledge base for the most updated insights into Aha! software.\n\nDirector of Product Marketing Claire George provides an overview of product roadmaps.\n\nProduct managers typically create and update a features roadmap. But this work is a collaborative process. You need to regularly ask for and incorporate input from other cross-functional teams — such as engineering, product marketing, and customer success. This will help you build a robust roadmap that includes realistic delivery dates as well as the actual features that will deliver value to customers.\n\nYou are also responsible for keeping your features roadmap current and accurate. Be sure to review and update it regularly — on a weekly cadence at minimum. And share your roadmap often with leadership and cross-functional teams in the organization. Doing this will provide greater clarity and alignment around what you are building together and why it matters.\n\nThere are several types of product roadmaps you can create. For example, some views are useful for showcasing high-level objectives to executives, while others provide a more detailed look into the product team's actual work and timing. Creating different views of your product roadmap allows you to tailor the data to your specific audience — so everyone has the relevant information they need.\n\nTypically, you build a features roadmap after establishing the product strategy and defining releases. This means that you will first create a strategic roadmap (sometimes called an objective-led roadmap) and a release roadmap (or outcome-based roadmap) before drilling into the detailed features.\n\nLet's take a look at some common product roadmapping views:\n\nCommunicates the goals and initiatives (large bodies of work) the team is pursuing\n\nShowcases the main activities the team will complete by release schedule to deliver a new product or functionality to market\n\nDisplays product plans across multiple offerings in a single visual\n\nZooms in on what the team is building and when you will deliver it\n\nVisualizes strategic IT plans, including updates to infrastructure and technical processes\n\nA features roadmap provides an overview of the activities the product team is working on within a specified period of time — like a week, month, or quarter. Most often, you will view this work within vertical columns that break out features between releases.\n\nAt a basic level, you will want to include the following information on your roadmap:\n\nStatus (Ready to develop, Quality assurance, Shipped, etc.)\n\nAssignee (single person or team)\n\nProgress towards completion\n\nIf you use a purpose-built tool like Aha! software, you can quickly communicate even more relevant information to your audiences. For example, you can:\n\nLink each feature to its corresponding goal and initiative\n\nUse filters to sort by workspace, schedule, type, and release\n\nVisualize more precise statuses through progress bars that display completion percentages\n\nUse external release dates — rounded to a broader time frame — if you do not want to communicate specific launch dates outside the business\n\nIf you are looking for a quick template that is easy to access, download free product roadmaps for PowerPoint, Excel, or Word. But beware — manually updating roadmaps in static files can be extremely tedious.\n\nRoadmap templates in Aha! software can make the process much smoother and more fun, too. We offer roadmapping whiteboard templates for early-stage planning. If you have Aha! Roadmaps, elements on a whiteboard can also be converted into real work items when you are ready to implement them.\n\nStart using this template now\n\nHow to link work to strategy in Aha! Roadmaps\n\nTips for creating a product information hub\n\nAttend a live event with Aha! experts\n\nBuilding a strong features roadmap imbues the team with a sense of purpose. When everyone can see how their work connects to the broader strategy, it is easier to deliver valuable products that customers love.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is a features roadmap?",
+      "id": "what-is-a-features-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "What is a feature?",
+      "id": "what-is-a-feature"
+    },
+    {
+      "level": "h2",
+      "text": "Benefits of a features roadmap",
+      "id": "benefits-of-a-features-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "Who is responsible for a features roadmap?",
+      "id": "who-is-responsible-for-a-features-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "How a features roadmap compares to other roadmapping views",
+      "id": "how-a-features-roadmap-compares-to-other-roadmapping-views"
+    },
+    {
+      "level": "h2",
+      "text": "What to include on your features roadmap",
+      "id": "what-to-include-on-your-features-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "Features roadmap templates",
+      "id": "features-roadmap-templates"
+    },
+    {
+      "level": "h4",
+      "text": "Get the whiteboard template below — with a free trial.",
+      "id": "get-the-whiteboard-template-below-"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/visualize-data",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#what-is-a-feature",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#benefits-of-a-features-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#who-is-responsible-for-a-features-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#how-a-features-roadmap-compares-to-other-roadmapping-views",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#what-to-include-on-your-features-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#features-roadmap-templates",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/launch/what-is-a-go-to-market-strategy",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/product-management/product-managers-other-teams",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap#what-are-different-types-of-product-roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide/technology-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/business-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/innovation-roadmap",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/go-to-market-roadmap",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap",
+    "https://www.aha.io/roadmapping/guide/technology-roadmap",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "url": "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/",
+  "title": "Card Sorting: How Many Users to Test",
+  "content": "July 18, 2004 2004-07-18\n\nOne of the biggest challenges in website and intranet design is creating the information architecture: what goes where? A classic mistake is to structure the information space based on how you view the content — which often results in different subsites for each of your company's departments or information providers.\n\nRather than simply mirroring your org chart, you can better enhance usability by creating an information architecture that reflects how users view the content. In each of our intranet studies, we've found that some of the biggest productivity gains occur when companies restructure their intranet to reflect employees' workflow. And in ecommerce, sales increase when products appear in the categories where users expect to find them.\n\nAll very good, but how do you find out the users' view of an information space and where they think each item should go? For researching this type of mental model, the primary method is card sorting:\n\nBecause card sorting uses no technology, this photo of a 1995 card sort looks the same as one conducted today.\n\nFidelity Investments has one of the world's best usability teams, led by Dr. Thomas S. Tullis, senior VP of human interface design. Tullis and co-author Larry Wood recently reported the results of a study measuring the trade-off curve for testing various numbers of users in a card sorting exercise.\n\nFirst, they tested 168 users, generating very solid results. They then simulated the outcome of running card sorting studies with smaller user groups by analyzing random subsets of the total dataset. For example, to see what a test of 20 users would generate, they selected 20 users randomly from the total set of 168 and analyzed only that subgroup's card sorting data. By selecting many such samples, it was possible to estimate the average findings from testing different numbers of users.\n\nThe main quantitative data from a card sorting study is a set of similarity scores that measures the similarity of user ratings for various item pairs. If all users sorted two cards into the same pile, then the two items represented by the cards would have 100% similarity. If half the users placed two cards together and half placed them in separate piles, those two items would have a 50% similarity score.\n\nWe can assess the outcome of a smaller card sorting study by asking how well its similarity scores correlate with the scores derived from testing a large user group. (A reminder: correlations run from -1 to +1. A correlation of 1 shows that the two datasets are perfectly aligned; 0 indicates no relationship; and negative correlations indicate datasets that are opposites of each other.)\n\nFor most usability studies, I recommend testing 5 users, since that's enough data to teach you most of what you'll ever learn in a test. For card sorting, however, there's only a 0.75 correlation between the results from 5 users and the ultimate results. That's not good enough.\n\nYou must test 15 users to reach a correlation of 0.90, which is a more comfortable place to stop. After 15 users, diminishing returns set in and correlations increase very little: testing 30 people gives a correlation of 0.95 — certainly better, but usually not worth twice the money. There are hardly any improvements from going beyond 30 users: you have to test 60 people to reach 0.98, and doing so is definitely wasteful.\n\nTullis and Wood recommend testing 20–30 users for card sorting. Based on their data, my recommendation is to test 15 users.\n\nWhy do I recommend testing fewer users? I think that correlations of 0.90 (for 15 users) or maybe 0.93 (for 20) are good enough for most practical purposes. I can certainly see testing 30 people and reaching 0.95 if you have a big, well-funded project with a lot of money at stake (say, an intranet for 100,000 employees or an ecommerce site with half a billion dollars in revenues). But most projects have very limited resources for user research; the remaining 15 users are better \"spent\" on 3 qualitative usability tests of different design iterations.\n\nI don't recommend designing an information architecture based purely on a card sort's numeric similarity scores. When deciding specifics of what goes where, you should rely just as much on the qualitative insights you gain in the testing sessions. Much of the value from card sorting comes from listening to the users' comments as they sort the cards: knowing why people place certain cards together gives deeper insight into their mental models than the pure fact that they sorted cards into the same pile.\n\nWe know that 5 users are enough for most usability studies, so why do we need three times as many participants to reach the same level of insight with card sorting? Because the methods differ in two key ways:\n\nIf you have an existing website or intranet, testing a few users will tell you whether people have trouble with the information architecture. To generate a new structure from scratch, you must sample more people.\n\nLuckily, you can combine the two methods: First, use generative studies to set the direction for your design. Second, draft up a design, preferably using paper prototyping, and run evaluation studies to refine the design. Because usability evaluations are fast and cheap, you can afford multiple rounds; they also provide quality assurance for your initial generative findings. This is why you shouldn't waste resources squeezing the last 0.02 points of correlation out of your card sorts. You'll catch any small mistakes in subsequent user testing, which will be much cheaper than doubling or tripling the size of your card sorting studies.\n\nThe Fidelity study has two obvious weaknesses:\n\nThese two weaknesses are not fatal. I view this as a pioneering study and a great contribution to our web usability knowledge. But, because of the study's weaknesses, it would be useful if somebody duplicated it with different information spaces, and also analyzed the qualitative data along with the numeric scores. Sounds like a good thesis project for a graduate student who's looking to research something with real-world impact (hint, hint).\n\nEven though more data would be comforting, I have confidence in the Fidelity study's conclusions because they match my own observations from numerous card studies over many years. I've always said that it was necessary to test more users for card sorting than for traditional usability studies. And I've usually recommended about 15 users, though we've also had good results with as few as 12 when budgets were tight or users were particularly hard to recruit.\n\nThere are a myriad ways in which quantitative studies can go wrong and mislead you. Thus, if you see a single quantitative study that contradicts all that's known from qualitative studies, it's prudent to disregard the new study and assume that it's likely to be bogus. But when a quantitative study confirms what's already known, it's likely to be correct, and you can use the new numbers as decent estimates, even if they're based on less data than you would ideally like.\n\nThus, the current recommendation is to test 15 users for card sorting in most projects and 30 users in big projects with lavish funding.\n\nTullis, Tom, and Wood, Larry. (2004) How Many Users Are Enough for a Card-Sorting Study?, Usability Professionals Association (UPA) 2004 Conference, Minneapolis, MN, June 7–11, 2004.\n\nOrganize and structure information to improve findability and discoverability\n\nStudy your users’ real-life behaviors and make data-informed design decisions\n\nUse metrics from quantitative research to demonstrate value",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Card Sorting: How Many Users to Test",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Research Study",
+      "id": "toc-research-study-1"
+    },
+    {
+      "level": "h2",
+      "text": "How Many Users?",
+      "id": "toc-how-many-users-2"
+    },
+    {
+      "level": "h2",
+      "text": "Let Users Inform Your Design",
+      "id": "toc-let-users-inform-your-design-3"
+    },
+    {
+      "level": "h2",
+      "text": "Why More Users for Card Sorting?",
+      "id": "toc-why-more-users-for-card-sorting-4"
+    },
+    {
+      "level": "h2",
+      "text": "Study Weaknesses",
+      "id": "toc-study-weaknesses-5"
+    },
+    {
+      "level": "h2",
+      "text": "Reference",
+      "id": "toc-reference-6"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Analytics and User Experience",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Measuring UX and ROI",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/",
+    "https://www.nngroup.com/articles/intranet-information-architecture-ia/",
+    "https://www.nngroup.com/articles/card-sorting-terminology-matches/",
+    "https://www.nngroup.com/articles/usability-testing-1995-sun-microsystems-website/",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/#toc-research-study-1",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/#toc-how-many-users-2",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/#toc-let-users-inform-your-design-3",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/#toc-why-more-users-for-card-sorting-4",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/#toc-study-weaknesses-5",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/#toc-reference-6",
+    "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+    "https://www.nngroup.com/articles/risks-of-quantitative-studies/"
+  ]
+}

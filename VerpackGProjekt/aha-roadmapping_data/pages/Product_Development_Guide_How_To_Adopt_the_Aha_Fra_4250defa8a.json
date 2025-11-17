@@ -1,0 +1,154 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+  "title": "Product Development Guide: How To Adopt the Aha! Framework",
+  "content": "Last updated: September 2025\n\nThe Aha! Framework for product development is the methodology we have used for more than a decade at Aha! See whether it could work for your team (plus get some adoption tips from ours!).\n\nThe Aha! Framework is a flexible model for product development. It emphasizes a strategic approach to agile work — without the excessive ceremonies, nomenclature, and rules that bog down traditional agile methodologies. This level of flexibility makes our framework infinitely scalable and suitable for product teams of all sizes and maturities.\n\nYou likely have some awareness of The Aha! Framework already if you are reading this. And as you delve deeper into your knowledge of the framework, there are probably two questions you hope to get answers to now. Feel free to jump ahead for these insights:\n\nHow do I know if The Aha! Framework is right for my team?\n\nWhat is the best way to adopt The Aha! Framework?\n\nBut this entire guide will give you the overall background you need to better understand how to evaluate The Aha! Framework within the context of your team's unique needs. It also provides some best practices for incorporating the framework into your team's existing (or, in some cases, nonexistent) product development processes.\n\nRemember that if you are an Aha! software user, our Customer Success team is here for you as you roll out any new product development process using the Frameworks functionality in Aha! Roadmaps. (This functionality supports The Aha! Framework as well as other common agile methodologies and custom approaches.) And if you are not yet an Aha! user, now is the perfect time to try out the complete software suite — free for 30 days.\n\nThe Aha! Framework maps to the stages that every product team goes through during the product development process. The framework's driving principles are:\n\nA goal-first approach\n\nA focus on building a Minimum Lovable Product\n\nIterative improvement\n\nFor each stage of the product development process, there are discrete activities within The Aha! Framework that likely mirror work you probably do already (even if informally). The activities are presented sequentially within the framework. But many occur frequently, and even concurrently, to support product teams that practice continuous deployment. Others occur at fixed intervals. You can also adjust the timing for these activities as needed.\n\nLearn more about the activities across each stage of The Aha! Framework.\n\nFor example, during the strategize stage of product development, product teams define the product vision, review market conditions, draft product goals, identify product initiatives, gather stakeholder feedback, and, finally, set the product strategy. These activities are helpful to undergo biannually, whereas activities during the capture stage (which focuses on collecting and reviewing customer feedback) should happen weekly — if not daily for some product teams.\n\nIt is hard to be unbiased when answering this question — our experience has proven that the framework is suitable for any team that wants to focus on the essential inputs for delivering the most value. We know this because we have spent more than 10 years establishing and refining The Aha! Framework. We have also supported thousands of product teams by bringing these practices into existing product workflows, including teams from some of the best-known and most innovative companies.\n\nBut there are still some things to look out for when evaluating your approach. The Aha! Framework can benefit your team if:\n\nStrategy is a buzzword\n\nThe team mostly focuses on detailed requirements instead of achieving higher-level goals.\n\nTeammates spend time talking about how work will get done — but not always why that work should be done or actually getting work done.\n\nFeedback is disjointed\n\nYou collect customer requests and feedback ad hoc, and these insights are not fully integrated into roadmap planning.\n\nThe roadmap lacks cohesion\n\nYour roadmap represents more of a collection of random features than a holistic vision of the future of your product.\n\nThe loudest voices win\n\nFeature prioritization is often guided by the loudest voice in the room, and there are no best practices for vetting or scoping features. This leads to inconsistencies.\n\nCeremonies eat productivity\n\nPeople are so wrapped up in the semantics of ceremonies and roles that it negatively impacts the team's velocity.\n\nImprovements are surface level\n\nThe team favors incrementalism as a quick way to show impact without deep thinking or exploration into the improvements customers truly need.\n\nCommunication hinders progress\n\nStakeholders are often unaware of the latest product plans, which leaves cross-functional teams unaligned on a shared purpose.\n\nLaunches are a scramble\n\nLaunches are always a scramble, with no repeatable processes and inconsistent messaging.\n\nWhen the team delivers new functionality, it is not always clear how valuable that functionality will be to the business and to customers over the long term.\n\nHopefully, you did not check off every one of the bullets above as \"yes.\" (If you did, you have our sympathy ... and it is good you are looking for a better way forward.)\n\nMany teams struggle with one or a few of these issues, but are generally able to produce and function — even if it feels like things are dragging along at times. Now, imagine how much more you could achieve with a proven approach to product development that removes unnecessary overhead and focuses the team on what is most essential.\n\nAdopting a new way of working represents a meaningful investment from everyone in the organization. So you want to be sure to approach the change with intention and a plan for success. Here is our guidance for how to move forward with The Aha! Framework at your company:\n\nEven if you feel like your team is working in chaos, there is some process you are following. As you attend regular product team meetings, jot down recurring themes that pop up: things like how folks are evaluating work in progress, common dependencies, and references to \"what we did last time.\" These unique factors will help you identify what is going well and where you might need to invest more attention.\n\nThen, block out some time on your calendar to document the known world of product development at your company. Take note of existing product development processes, including:\n\nStrategic planning cadence\n\nCustomer feedback loops\n\nIdeation approaches (whiteboarding, etc.)\n\nFeature definition and prioritization\n\nInternal communications\n\nAgile development practices (sprints, etc.)\n\nGo-to-market strategy\n\nCommon launch deliverables\n\nDelivery metrics and KPIs\n\nGathering quantitative and qualitative customer feedback\n\nHow to prioritize product features\n\nHow to choose a product roadmap tool\n\nIf you are an Aha! software user, you can jump-start the process by using our expert templates. Start by creating a whiteboard and choosing The Aha! Framework template as a visual reference point. Then, add more templates to the whiteboard to guide the review process. (If you are not yet an Aha! user, you can do this in a more limited way with whatever writing tools your company uses.)\n\nStart using this template now\n\nThere are a variety of Aha! template options you can choose from when mapping areas of opportunity. For all of these templates, it is fine for some areas to be blank for now (especially those related to action items):\n\nGap analysis: This template is designed for evaluating your product. But with a few edits, you can also use it to weigh your existing workflow against the new approach. Update the leftmost column to reflect the different product development stages and activities in The Aha! Framework. You can then use the sticky notes to capture insights in the additional columns.\n\nDecision tree: This template is a visual representation of the impact of different approaches. As you think through the gaps in your team's current process and consider ways that you might address issues, capture that thinking on the whiteboard. This will help you show the reasoning behind your final recommendation.\n\nWorking backwards: This template can be helpful for working backward to identify timing for milestones that you will want to add to your roadmap later on.\n\nNow that you have mapped your team's existing processes within The Aha! Framework, you can easily visualize and analyze areas of opportunity (as well as potential next steps). Be sure to highlight both strengths and weaknesses. For example, your team might do a good job of collecting customer feedback, but does not score those ideas as they come in. That is an area of opportunity.\n\nYou need leadership's support. Put together a case for why The Aha! Framework will benefit the company's product development processes. Include issues that slow the team down currently, the most important priorities driving the change, and any tangible return on investment, such as:\n\nTime and cost savings\n\nImproved productivity\n\nAccelerated development\n\nReduced technical debt\n\nFaster time to market\n\nGreater customer satisfaction\n\nCreate an overview of your approach that includes the areas of opportunity you outlined earlier and who will lead the effort from the product side. Then, ask for feedback. Anticipate what questions the leadership team might have, such as:\n\nWhat can we expect to achieve?\n\nWhat are the associated costs?\n\nHow will this fit with our existing process and tools?\n\nHow long will it take?\n\nHow product managers achieve stakeholder alignment\n\nStakeholder mapping exercise\n\nTemplates to run effective team meetings\n\nTime for a roadmap. You are a product manager, after all.\n\nJust like with product adoption, there will be different groups that cotton to the new way faster than others. Product folks commonly group adoption by \"type\": innovators, early adopters, early majority, late majority, and, of course, laggards. Although you might not want to label teammates this way, you can likely identify the people who will immediately grasp the benefit of moving to The Aha! Framework, those who will go with the flow, and those who might bristle at any change.\n\nIdentify your innovators and consider assigning them specific focus areas in your adoption plan. You will need internal advocates, and involving these teammates early on will help them become long-term champions for the new process. Invite these folks onto the whiteboard you created earlier so you can collaborate on the blank spaces that need filling.\n\nAn example of a team plan to roll out The Aha! Framework for product development at an organization created on a whiteboard in Aha! software\n\nWork together to lay out a roadmap for adoption. It should include a timeline for developing training and documenting the new processes in your team's internal knowledge base. You should also note any dates for communicating with different groups and when you want to formally switch over to the framework.\n\nApproaches table template\n\nBrainstorming session template\n\nYou will be responsible for communicating what is changing and why. Write up talking points and create FAQs to ensure there is a consistent message. Be sure to consider everyone who will be impacted — not just the core product team.\n\nOnce you begin rolling out the new processes, add checkpoints to your roadmap for communication. These checkpoints can reflect tasks such as creating or updating documentation and sharing details with the team. For the broader organization, you might want to share high-level updates on how things are going in alignment with specific phases of the rollout on your roadmap.\n\nTimeline diagram template\n\nProblem framing template\n\nYou want everyone to be excited about what you are doing. (Or, at the very least, understand why you are doing it.) Contextualize the need for change with language that aligns with your organization's mission, values, and culture. And keep the shift top of mind by referencing it in team meetings.\n\nMake sure your stakeholders are engaged and share positive feedback from the team as they begin learning about the framework. When appropriate, explain how the product team's shift to The Aha! Framework will support the company's current goals and initiatives.\n\nWork with your innovators to create a team knowledge base that includes training and support documentation. Identify the different use cases that will comprise this new product information hub. For example, you might include an overview of The Aha! Framework, defined roles and responsibilities across the product team, a \"before and after\" of the old and new approaches, and best practices for the various activities the team will undertake.\n\nAn example of an internal knowledge base built in Aha! Knowledge\n\nWith Aha! Knowledge, you can create unlimited knowledge base sites (either public or private) that leverage the same product docs you have already created. Consider starting a few private sites like the one above for cross-functional teammates. It should include information related to the new framework that is most appropriate to them.\n\nOnce you have all of your documentation written and ready for consumption, you can begin scheduling review and training sessions with the broader product team according to the timeline you set on your roadmap.\n\nProcess improvement template\n\nKnowledge base article template\n\nOrganizational chart template\n\nProcess flow diagram template\n\nEven the best-laid plans go awry when you deviate from the path forward. Some folks will struggle with adapting to a new workflow. At times, it might feel like people are actively flouting or rejecting it.\n\nRemember that change can be challenging — try to have empathy for those who are struggling. Instead of reacting emotionally, be consistent in your message and encourage others to do so as well. Direct (and redirect) people back to the new process and knowledge base materials you created. This should help smooth the transition.\n\nYou shared potential return on investment when you secured stakeholder support. So be sure to highlight tangible gains — such as time saved or accelerated delivery. And as you work through development cycles and are able to show the realized value of what you have delivered, bring those additional data points forward.\n\nBuilding features vs. solving problems\n\nThe one metric every product team should track\n\nA new report for product value delivered\n\nAfter a set amount of time (you determine what feels best), ask the team for feedback. You can run a poll or hold an open session during a team meeting. There will be areas that might feel sticky and need tweaking, or places where the team feels additional knowledge capture is needed.\n\nMake this an active part of your team's work, setting aside time for review and learning after each sprint. Before your biannual strategy planning, consider holding additional team surveys to uncover what improvements could make sense. Folding the team's feedback into the evolution of your product development process ensures you grow together and gives folks a sense of shared ownership.\n\nThe best product managers strive to always be better for their customers, team, and company. As you continue to evaluate how The Aha! Framework can improve product development, we hope this guide keeps serving as a playbook for implementing it and thriving.\n\nUse this template to display objectives and key results and gauge progress.\n\nCustomer experience is every interaction buyers have with you — from seeing ads to speaking with the support team.\n\nThe user story format can be helpful in thinking about product interactions from a user’s perspective.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to adopt The Aha! Framework for product development",
+      "id": "how-to-adopt-the-aha-framework-for-product-development"
+    },
+    {
+      "level": "h4",
+      "text": "A tested and flexible way to build lovable products",
+      "id": "a-tested-and-flexible-way-to-build-lovable-products"
+    },
+    {
+      "level": "h2",
+      "text": "How do I know if The Aha! Framework is right for my team?",
+      "id": "how-do-i-know-if-the-aha-framework-is-right-for-my-team"
+    },
+    {
+      "level": "h3",
+      "text": "Signs that The Aha! Framework could help your team",
+      "id": "signs-that-the-aha-framework-could-help-your-team"
+    },
+    {
+      "level": "h2",
+      "text": "Best practices for adopting The Aha! Framework for product development",
+      "id": "best-practices-for-adopting-the-aha-framework-for-product-development"
+    },
+    {
+      "level": "h3",
+      "text": "1. Evaluate how you develop products today",
+      "id": "1-evaluate-how-you-develop-products-today"
+    },
+    {
+      "level": "h3",
+      "text": "2. Map areas of opportunity with The Aha! Framework",
+      "id": "2-map-areas-of-opportunity-with-the-aha-framework"
+    },
+    {
+      "level": "h3",
+      "text": "3. Secure leadership's support for the change",
+      "id": "3-secure-leaderships-support-for-the-change"
+    },
+    {
+      "level": "h3",
+      "text": "4. Create an adoption roadmap",
+      "id": "4-create-an-adoption-roadmap"
+    },
+    {
+      "level": "h3",
+      "text": "5. Communicate with the team and build confidence",
+      "id": "5-communicate-with-the-team-and-build-confidence"
+    },
+    {
+      "level": "h3",
+      "text": "6. Evangelize the need for The Aha! Framework",
+      "id": "6-evangelize-the-need-for-the-aha-framework"
+    },
+    {
+      "level": "h3",
+      "text": "7. Provide ongoing training and support documentation",
+      "id": "7-provide-ongoing-training-and-support-documentation"
+    },
+    {
+      "level": "h3",
+      "text": "8. Enforce (and reinforce) the new product development process",
+      "id": "8-enforce-and-reinforce-the-new-product-development-process"
+    },
+    {
+      "level": "h3",
+      "text": "9. Measure success and show the impact",
+      "id": "9-measure-success-and-show-the-impact"
+    },
+    {
+      "level": "h3",
+      "text": "10. Continuously learn, evaluate, and improve",
+      "id": "10-continuously-learn-evaluate-and-improve"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "OKRs template",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "What is customer experience?",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "User story templates with step-by-step guidance",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework#how-do-i-know-if-the-aha-framework-is-right-for-my-team",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework#best-practices-for-adopting-the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework#how-do-i-know-if-the-aha-framework-is-right-for-my-team",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework#best-practices-for-adopting-the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/stages-of-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-roadmap-tools-work",
+    "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment",
+    "https://www.aha.io/roadmapping/guide/product-management/how-to-complete-a-stakeholder-mapping-exercise",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/knowledge-sharing-best-practices-for-product-teams",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template"
+  ]
+}

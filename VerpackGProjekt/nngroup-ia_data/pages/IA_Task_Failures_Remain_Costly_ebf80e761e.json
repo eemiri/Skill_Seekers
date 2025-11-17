@@ -1,0 +1,68 @@
+{
+  "url": "https://www.nngroup.com/articles/ia-task-failures-remain-costly",
+  "title": "IA Task Failures Remain Costly",
+  "content": "April 15, 2009 2009-04-15\n\n\"If the customer can't find the product, the customer can't buy it\" was one of the first slogans I devised about Web usability. This truism remains in force today, because getting to the right page within a website or intranet is the inevitable prerequisite to getting anything done.\n\n(When users actually do find what they want, content usability obviously becomes crucial: people have to understand and like the information at their destination. Still, getting there is the vital first step.)\n\nIn 2004, we analyzed the causes of the user failures we observed when user testing 25 websites for the 1 st edition of our Top Web UX Design Guidelines course. (We've since updated the seminar several times — adding video clips and statistics from newer studies — but, true to the name, most of the top 2004 guidelines were in fact fundamental enough to remain in force today.)\n\nThis year, we conducted a similar broad-ranging study of 24 websites for our new 2-day information architecture (IA) training course. Although there are many other courses on this topic, ours is based on empirical studies of what actually works for real users. Our study's main goal was to develop usability guidelines and get video clips for our presentation, but we also analyzed users' task outcomes, applying the classifications scheme we developed in 2004.\n\n(For the method we used to classify usability problems and score their severity, see our book Prioritizing Web Usability.)\n\nThe happiest finding was that, averaged across the broad range of sites we tested, the success rate had improved nicely:\n\nClearly, Web usability has taken hold in recent years, and Internet managers are getting more reluctant to launch \"cool sites\" that waste company money and fail to support the business.\n\nOur new study's findings further support task success stats from other recent research, in which we updated previous studies in 3 key areas:\n\nThe amount of the increase obviously varies — from fairly small for site maps, which have recently become a bit of a stepchild for Web designers, to immense for store finders, which are a ca-ching of a money-maker (after all, if customers can't find a shop, they can't go shopping).\n\nOur consulting projects show the same broad pattern: websites are definitely easier to use now than they used to be. This is also true for intranets — in fact, they've actually improved more than websites because they started out with particularly miserable usability.\n\nAlthough usability has improved overall, IA is becoming a sore thumb that's preventing websites from meeting their business goals. The following pie charts show the outcome of user task attempts in our two broad website studies:\n\nTask outcome across usability tests of a broad range of websites: 2004 vs. 2009 results.\n\nYes, success is up. And yes, failures caused by usability problems other than IA are down dramatically. Still, user failures caused by IA mistakes have shrunk only a bit:\n\nBad IA is now the greatest cause of task failures because it's the stumbling block for getting anywhere on a site. Users try to find their way around a site, and if they're particularly motivated, they might even try again if they fail. But if users are repeatedly led in circles or dumped into no-man's land by weak search, they give up and leave for another site. That's why deficiencies in your IA are costing you a lot of money, right now.\n\nHigh success rates are nice as far as they go, but they're only the starting point for high usability. It's obviously necessary that people be able to use your site. But the mere ability to get things accomplished given enough persistence is not sufficient for users to do business there. They also have to like your site.\n\nWe usability people must continue working to eradicate the remaining task failures. But sites must also create a pleasant user experience. To do so, all aspects of a site's design must work together; interaction design quality is like a chain that's as strong as its weakest link.\n\nThese days, most usability problems that we see in testing don't prevent use of the site, but they certainly annoy the users. Sadly, there's still plenty of bad Web design that slows people down, confuses them, or makes information hard to understand. Many such usability problems have literally been documented for more than a decade (see, for example, my list of top-10 Web design mistakes of 1999).\n\nPeople don't leave a website only when it fails them completely. They also leave if it's unpleasant to use. So, even though IA causes only 10% of tasks to fail, you don't get just 10% more business from improving your IA. Our work on the return on investment (ROI) from usability suggests that business metrics are more likely to increase by around 80%. The extra 70% benefit comes from antagonizing customers less, so that they're more likely to stay on your site.\n\nFor most sites, improving the IA should be a top priority (even though it's only the second-biggest problem for nonprofit sites). Fixing IA problems isn't always easy, but when you consider the business costs of showing customers the door because of bad IA, it's well worth doing.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "IA Task Failures Remain Costly",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Web Usability Metrics: 2004 vs. 2009",
+      "id": "toc-web-usability-metrics-2004-vs-2009-1"
+    },
+    {
+      "level": "h2",
+      "text": "IA Problems Still Prevent Task Completion",
+      "id": "toc-ia-problems-still-prevent-task-completion-2"
+    },
+    {
+      "level": "h2",
+      "text": "Beyond Success",
+      "id": "toc-beyond-success-3"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/ia-task-failures-remain-costly",
+    "https://www.nngroup.com/articles/ia-task-failures-remain-costly",
+    "https://www.nngroup.com/articles/ia-task-failures-remain-costly#toc-web-usability-metrics-2004-vs-2009-1",
+    "https://www.nngroup.com/articles/ia-task-failures-remain-costly#toc-ia-problems-still-prevent-task-completion-2",
+    "https://www.nngroup.com/articles/ia-task-failures-remain-costly#toc-beyond-success-3",
+    "https://www.nngroup.com/articles/success-rate-the-simplest-usability-metric/",
+    "https://www.nngroup.com/articles/site-map-usability/",
+    "https://www.nngroup.com/articles/about-us-information-on-websites/",
+    "https://www.nngroup.com/articles/store-finders-and-locators/",
+    "https://www.nngroup.com/articles/intranet-usability-huge-advances/",
+    "https://www.nngroup.com/articles/top-10-ia-mistakes/",
+    "https://www.nngroup.com/articles/aspects-of-design-quality/",
+    "https://www.nngroup.com/articles/does-user-annoyance-matter/",
+    "https://www.nngroup.com/articles/the-top-ten-web-design-mistakes-of-1999/",
+    "https://www.nngroup.com/articles/usability-roi-declining-but-still-strong/",
+    "https://www.nngroup.com/articles/non-profit-websites-donations/"
+  ]
+}

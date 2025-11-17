@@ -1,0 +1,45 @@
+{
+  "url": "https://www.nngroup.com/articles/drop-down-menus/",
+  "title": "Dropdowns: Design Guidelines",
+  "content": "June 11, 2017 2017-06-11\n\nDropdowns clearly have their place in effective web design. However, their overuse and misuse creates many usability problems and confusion. Designers employ dropdowns for a variety of different purposes, including:\n\nAlthough originally the terms “dropdown box” and “dropdown menu” were used interchangeably, over time a functional distinction has emerged between the two. Today, dropdown menus mostly cover the first two uses of dropdowns (navigation and list of commands), whereas dropdown boxes are often the method of choice for form fill-in and attribute selection.\n\nDropdown boxes generally look different than dropdown menus: they have a dropdown arrow next to them and are used to select attributes or enter form data. This control tends to be supported by a field label or a title that takes the position of the first item in the dropdown box, so that it can be seen before making a selection. Although MacOS and Windows have different dropdown implementations, in both cases the command menus are different from the attribute-selection menus. In fact, the Macintosh Human Interface Guidelines explicitly recommends to not use dropdown menus for commands.\n\nDropdowns do have their advantages. First, they conserve screen space. Because they are a standard widget (even if an unpleasant one), users know how to deal with them. And, when used in forms and for attribute selection, dropdown boxes prevent users from entering erroneous data, since they only show legal choices.\n\nDespite these advantages, web usability would increase if designers used dropdowns less often. To that end, here are some design guidelines for dropdowns:\n\nIf disabled items are removed, the interface loses spatial consistency and becomes harder to learn.\n\nResist the temptation to include many items whenever possible. If you have many items, consider alternative ways of presenting them — such as HTML lists of traditional links or mega menus, which are two dimensional instead of linear and offer easier mouse management and also faster average reach time to items inside.\n\nThese alternative options will alleviate some of the problems caused by long dropdown lists, and also improve accessibly for blind users.\n\nA while back, as part of a presentation on web-usability methods, we ran a small user test for the audience. When completing a registration page, our test participant had to enter her address on a form with a text field for the name of the street but a dropdown menu for the type of street (Avenue, Boulevard, Court, Drive, and so on). Guess what? The user typed her full street address in the text entry field, because that's what she'd always done in the past. The dropdown menu then came as a complete surprise and she had to go back to the text field and erase part of her already typed address information.\n\nThis small study, conducted in front of a crowd of hundreds, shows that sometimes it is enough to run tests with a single user to clearly illustrate a point. Once you see such confusion in action, you realize that using a \"helpful\" dropdown menu to save users a few keystrokes can hurt more than it helps. Follow these guidelines in your own designs to improve your site navigation and increase task success.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Dropdowns: Design Guidelines",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Guidelines for Dropdown Design",
+      "id": "toc-guidelines-for-dropdown-design-1"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-2"
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/drop-down-menus/",
+    "https://www.nngroup.com/articles/drop-down-menus/",
+    "https://www.nngroup.com/articles/drop-down-menus/#toc-guidelines-for-dropdown-design-1",
+    "https://www.nngroup.com/articles/drop-down-menus/#toc-conclusion-2",
+    "https://www.nngroup.com/articles/power-law-learning/",
+    "https://www.nngroup.com/articles/mega-menus-work-well/",
+    "https://www.nngroup.com/articles/expandable-menus/",
+    "https://www.nngroup.com/articles/right-justified-navigation-menus/",
+    "https://www.nngroup.com/articles/killing-global-navigation-one-trend-avoid"
+  ]
+}

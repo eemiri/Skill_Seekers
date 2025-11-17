@@ -1,0 +1,84 @@
+{
+  "url": "https://www.nngroup.com/articles/navigation-you-are-here/",
+  "title": "Navigation: You Are Here",
+  "content": "October 25, 2015 2015-10-25\n\nDesigners make navigation structures to help people move through websites, but good structure and function are not enough. Navigation should not only show where you can go but also where you are now. Each page on a website could be the first page your website visitors see, so it’s important to convey enough context so that people can proceed immediately toward their goals.\n\nIn a world where search engines can drop your website visitors anywhere, it's important to signal where users are in the information space, so they can navigate from there successfully. Even when visitors arrive via the homepage, they may need orientation as they traverse the site.\n\nSignage reassures people that they are traveling toward what they need. As in a train station, web location indicators may be a combination of color coding, lighting, signs, arrows, paths, and names of landmarks. When people become confused, concerned, or lost, signs and signals often help them be more confident about how to proceed.\n\nMake it easy for visitors to identify both the website and the page topic at a glance. On the web, you-are-here signaling is often accomplished by changing the appearance of the navbar, icons, or menus. This navigation signaling is reinforced by breadcrumbs and headings. Shopping checkouts and application procedures (wizards) tend to use step names and numbers too.\n\nPage titles and URLs are also helpful for showing information context and location:\n\nMIT's page title: Readings | Introduction to Technical Communication: Explorations in Scientific and Technical Writing | Comparative Media Studies/Writing | MIT OpenCourseWare (It's a bit long, but very descriptive and keyword rich.)\n\nMIT’s URL: http://ocw.mit.edu/courses/comparative-media-studies-writing/21w-732-5-introduction-to-technical-communication-explorations-in-scientific-and-technical-writing-fall-2006/readings/\n\nAt OpenCourseWare, the textbook publication dates (1995-2003) hint at the page’s vintage, but only the URL provides an intentional cue about the year of the course (2006). It’s best to show visible dates or date ranges on pages, so information that survives over time can be understood in the context of its era. The copyright in the page footer (for the entire website) indicates 2001-2015, but that’s too wide a range for technical or scientific content.\n\nMany web designs use location indicators that are too subtle to communicate well. Designers notice everything about their designs and have a firm mental model of the site’s structure. They know how to get around on the website, and they don't need orientation, so it’s difficult for them to see the design as others do. Website visitors, on the other hand, may be new to the site, or they may use it infrequently, so everything there is novel and potentially interesting. For this reason, a signal that may seem distractingly obvious to the designer is often not even noticed by the visitor. People easily overlook subtle changes.\n\nExisting websites can test location signaling anytime.\n\nFor new web designs, testing for location orientation is best done when your website visual design is in the high-fidelity stage. Show real content with all the types of distractions that are expected to exist when the website is live — especially any advertising, animation, and photos — because these are the design elements most likely to influence what people pay attention to.\n\nOnly testing with users can tell you for sure, but if analytics show that many people are wandering, pogo sticking, and backtracking, you likely have an information architecture problem to address. The visual location cues may not be strong enough or well placed; navigation labels, titles, and headings may be insufficient or misleading; or all of the above.\n\nInterestingly, the concern about users becoming “lost in hyperspace” led to a lot of very creative but more-complex solutions in early hypertext systems prior to the World Wide Web. It’s good that the web uses a practical and minimal set of signposting conventions these days, and that browsers provide a Back button, which users rely on to take them back to known territory.\n\nInformation Architecture and Navigation Design\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Navigation: You Are Here",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Visitors Don’t Always Use the Front Door",
+      "id": "toc-visitors-dont-always-use-the-front-door-1"
+    },
+    {
+      "level": "h2",
+      "text": "Typical You-Are-Here Mechanisms",
+      "id": "toc-typical-you-are-here-mechanisms-2"
+    },
+    {
+      "level": "h2",
+      "text": "Test for Effective Location Signaling",
+      "id": "toc-test-for-effective-location-signaling-3"
+    },
+    {
+      "level": "h3",
+      "text": "When to Test",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "How to Test for Location Signal Effectiveness",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Bottom Line",
+      "id": "toc-bottom-line-4"
+    },
+    {
+      "level": "h2",
+      "text": "Historical Note",
+      "id": "toc-historical-note-5"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": "toc-related-courses-6"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/navigation-you-are-here/",
+    "https://www.nngroup.com/articles/navigation-you-are-here/",
+    "https://www.nngroup.com/articles/navigation-you-are-here/#toc-visitors-dont-always-use-the-front-door-1",
+    "https://www.nngroup.com/articles/navigation-you-are-here/#toc-typical-you-are-here-mechanisms-2",
+    "https://www.nngroup.com/articles/navigation-you-are-here/#toc-test-for-effective-location-signaling-3",
+    "https://www.nngroup.com/articles/navigation-you-are-here/#toc-bottom-line-4",
+    "https://www.nngroup.com/articles/navigation-you-are-here/#toc-historical-note-5",
+    "https://www.nngroup.com/articles/navigation-you-are-here/#toc-related-courses-6"
+  ]
+}

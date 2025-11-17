@@ -1,0 +1,287 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+  "title": "Agile Methodology: What It Is and Why It Matters",
+  "content": "Last updated: October 2025\n\nDiscover what agile methodology is and how it shapes modern product development. Learn the key principles, benefits, and popular frameworks to help your team work smarter.\n\nAgile methodology is a flexible approach to product and project management that focuses on adaptability and collaboration. Agile work is done in small, iterative cycles, which allows teams to respond quickly to change. Agile methodology prioritizes continuous feedback, teamwork, and improvement — so teams can build products that customers love.\n\nAgile is more than a buzzword — it is a mindset that has transformed how folks build and deliver products. Agile methodologies and frameworks provide the structure and guidance that product teams need to deliver value fast.\n\nBut when people talk about being (or \"going\") agile, what do they really mean? Which agile methodology is best? Do all of the formal agile approaches adhere to the Manifesto for Agile Software Development, colloquially known as the Agile Manifesto? Can you call yourself agile without following a specific agile framework?\n\nMerriam-Webster defines agile as \"marked by ready ability to move with quick easy grace.\" Any product team would be happy to be described that way! And if we think about being agile as \"quick easy grace,\" then we can more easily loosen the restrictions and process pedantry that you have likely heard about from agile purists. So to answer our last three questions above? It depends, not really, and sure.\n\nWith that in mind, every team must forge a unique path based on its market, how its organization operates, and what its customers need — regardless of the specific methodology, framework, or workflow it follows.\n\nWe cover quite a bit in the sections below. Even so, we only scratch the surface of one of the more hotly debated topics in product development. If you take away anything from this guide, we hope it is this: Agile is for rapid value delivery.\n\nFeel free to jump ahead as needed:\n\nWhat is the history of agile?\n\nWhy do companies adopt agile?\n\nBenefits of adopting an agile approach\n\n16 different types of agile methodologies and frameworks\n\nHow to choose an agile methodology\n\nCommon issues when implementing agile\n\nWhen to invest in agile workflow tools\n\nAgile methodologies have evolved from kanban in the 1940s to the Agile Manifesto in 2001 to today's modern scaling frameworks, such as the Scaled Agile Framework® (SAFe®) and Large-Scale Scrum (LeSS). The timeline above was created on the Aha! timeline diagram template.\n\nAgile is older than you might think. Kanban was conceived in the 1940s. Iterative and Incremental Development (IID) dates back as early as the 1950s, with evidence of use by teams at NASA and IBM. Other adaptive methods, such as Evolutionary Delivery (EVO) and Rapid Application Development (RAD), were in use through the 1970s.\n\nHowever, it was not until the late 1990s that agile gained widespread traction. So what pushed what we now know as agile to the forefront? Two forcing factors: backlash against bureaucracy and colossal business change.\n\nGood project management of software procurements is impossible without some form of explicit (validated) and governing requirements.\n\n(Royce is widely credited as the first person to formally describe the waterfall method through his works in the 1970s.)\n\nIID, EVO, RAD, and other adaptive methods were seen as fringe and not taken seriously by established companies for decades. Instead, most organizations continued to rely on the single-pass software development lifecycle known as waterfall.\n\nWaterfall defines requirements upfront and delivers projects in sequential phases. It can be effective for projects with a fixed scope, but vulnerable to failure if requirements change during development. And as anyone who works in technology knows, it is nearly impossible to anticipate all requirements at the outset.\n\nDo you remember the beleaguered engineer from the comic strip Dilbert? First published in 1989, the comic's satirical plot points encapsulate many frustrations shared by developers who felt stifled by office politics and top-down micromanagement. The main complaint was that busywork and process were prioritized over productivity.\n\nAround that same time, new technologies that enabled faster product development emerged. Widespread access to the internet disrupted entire markets. As new software-based products and services gained traction, customer expectations began to change.\n\nCustomers wanted products to be continuously improved with new functionality. And they wanted to be involved in suggesting what that new functionality should be and shaping its development. Accelerating time to market became a business priority as companies struggled to survive in highly competitive marketplaces.\n\nWith all of this percolating, a group of 17 software practitioners gathered in Utah in 2001. That meeting is the one that is most widely reported in historical accounts of the agile movement.\n\nBut the group had actually met a year earlier in Oregon to discuss what they called \"light\" or \"lightweight\" development methodologies. No one was particularly comfortable with the potentially negative implications of \"light,\" so they agreed on the word \"agile\" when they gathered the following year to formalize what became the Agile Manifesto.\n\nI don't mind the methodology being called light in weight, but I'm not sure I want to be referred to as a lightweight attending a lightweight methodologists meeting.\n\nCo-author of the Agile Manifesto\n\nIt is worth noting that many of the original authors of the Agile Manifesto had already developed their own methodologies (such as Extreme Programming (XP), Crystal, and scrum) by the time the group gathered in 2001. These methods, coupled with other novel approaches to programming drawn from the past, were an ideal foundation for developer communities ready to adopt a new mode of working.\n\nThe authors of the Agile Manifesto defined four core values and 12 principles. Those values and principles are meant to guide how agile software development teams should approach their work. And together, the 16 tenets serve as the foundation for many of the agile methods teams use today — with special attention paid to flexible planning, efficient communication, very short feedback loops, and adaptive cycles.\n\nThe key components of the Agile Manifesto are reproduced below.\n\nFour values and 12 principles guide many of the agile software methodologies in use today.\n\n“We are uncovering better ways of developing software by doing it and helping others do it.\n\nThrough this work we have come to value:\n\nIndividuals and interactions over processes and tools\n\nWorking software over comprehensive documentation\n\nCustomer collaboration over contract negotiation\n\nResponding to change over following a plan\n\nThat is, while there is value in the items on the right, we value the items on the left more.\n\nWe follow these principles:\n\nOur highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n\nWelcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n\nDeliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n\nBusiness people and developers must work together daily throughout the project.\n\nBuild projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n\nThe most efficient and effective method of conveying information to and within the development team is face-to-face conversation.\n\nWorking software is the primary measure of progress.\n\nAgile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n\nContinuous attention to technical excellence and good design enhances agility.\n\nSimplicity — the art of maximizing the amount of work not done — is essential.\n\nThe best architectures, requirements, and designs emerge from self-organizing teams.\n\nAt regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.”\n\nThe agile movement has continued to evolve since the Agile Manifesto was published. As agile principles spread beyond individual teams, organizations sought ways to scale these practices across larger and more complex environments.\n\nThis led to the development of modern scaling frameworks such as SAFe, LeSS, and Scrum@Scale. These frameworks are meant to help enterprises manage agility across multiple teams, ensuring that the values of flexibility, collaboration, and rapid iteration are maintained on a larger scale.\n\nToday, agile is not limited to software development — it has become a guiding philosophy for industries as diverse as marketing, finance, and healthcare.\n\nA company typically adopts agile because they are experiencing an enterprise transformation. As part of that transformation, the organization has likely identified moving from a legacy workflow methodology (whether it is homegrown or a traditional approach like waterfall) to a more modern way of working as necessary for improved innovation and faster delivery.\n\nThese types of transformations represent a major investment from the organization — both in terms of the resources allocated and the time associated. The larger the company and the more products in its portfolio, the larger the investment.\n\nFew product development teams today would say that they practice waterfall. But the reality is that many of the homegrown approaches that organizations follow more closely align with waterfall than with any agile methodology.\n\nAnd waterfall is not without its benefits for:\n\nHardware products: A waterfall approach can be effective for physical or hardware products where requirements are fixed and change is difficult to accommodate once a project begins.\n\nRegulatory compliance: Industries with tight regulations or required stage gates might find that waterfall's sequential nature ensures compliance.\n\nComplex product portfolios: Multinational corporations with highly complex product portfolios also find some benefits in waterfall — although SAFe is fast filling that niche for many enterprises looking to go agile, all while retaining close oversight and coordination across the portfolio.\n\nWe do have a dedicated guide that compares agile to waterfall. But below is a condensed comparison between agile and waterfall, focusing on the ways the two approaches affect how product teams carry out core responsibilities:\n\nFocus customer-centric goals on areas like user growth and customer delight\n\nMeasure business-centric goals using key performance indicators (KPIs) like scope, schedule, and budget\n\nProduct-level themes guide the high-level efforts needed to accomplish goals\n\nBusiness-level initiatives tie to specific projects\n\nBuild the product roadmap\n\nPlan in quarterly, monthly, or biweekly cycles with flexibility to adjust the roadmap as new information emerges\n\nPlan quarterly or annually with a long-term roadmap commitment to build specific features within a set timeline\n\nUnderstand customer needs\n\nContinually explore to understand customer needs and validate solutions throughout development\n\nCapture customer needs upfront before development begins during a requirements-gathering phase\n\nRegularly reprioritize to respond to changing customer, market, and business needs\n\nEstablish one-time prioritization in a product requirements document\n\nRefine requirements in real time as new information is discovered\n\nHandoff fully defined in a product requirements document\n\nDevelop new functionality\n\nNew functionality developed iteratively (and often continuously), with early customer feedback incorporated into the next iteration\n\nNew functionality developed according to the PRD, tested before release, and shipped in its totality without customer input\n\nRelease customer experiences\n\nDeliver frequently whenever there is tangible customer value to be shipped\n\nDeliver infrequently with a fixed schedule where customer value is delivered at the end of the project\n\nMeasure success by progress toward strategic goals, product performance metrics, and customer sentiment\n\nMeasure success based on the initial scope being delivered on time and within budget\n\nHold formal or informal retrospectives after each iteration to identify areas of improvement, which are immediately implemented\n\nReview where the project overshot or undershot initial scope to improve estimates for the next project\n\nSome organizations choose to slowly wade into the agile world by choosing a hybrid approach. This refers to an agile software development framework combined with a traditional waterfall (so-called \"wagile\") or project-based development structure. Hybrid frameworks can be a helpful transitional path, and some companies might find that they are a lasting solution for their teams.\n\nYou might find that your team does better with a blended agile approach. Blended agile refers to two or more established agile frameworks used together — such as \"scrumban,\" which blends the structure of scrum with the flexibility and visualization of kanban.\n\nSome create their own agile frameworks. UnitedHealth Group established the Optum Scalable Agile Method (OSAM), which is a modified application of SAFe. According to a slide presentation that shares some of its challenges with implementing agile at scale, one of Optum's largest agile portfolios has more than six release trains, 35 scrum teams, and hundreds of teammates. OSAM offered the flexibility needed to evolve a massive organization over time.\n\nAnother example of an organization creating its own product development framework is our own company. We developed and have used The Aha! Framework for product development for more than a decade — it continues to power our product success today. We formally introduced the framework in 2024, publishing a series of guides about the framework and its activities, guidance on adoption, and comparisons to other methodologies. If you use Aha! Roadmaps, you can view the entire framework with our Frameworks functionality.\n\nLearn more about this template\n\nAgile is a state of mind, not a prescription — ideally it should feel expansive and freeing rather than confining.\n\nAha! co-founder and CEO\n\nThe promise of agile is that your team will be able to save valuable time and resources while creating products that customers love and be happy doing it. That is the dream, right?\n\nBut there is Agile and then there is agile — with a little \"a.\" Some argue that if you do not follow a specific framework or set of rules, you are not truly agile. But rigidly adhering to rules can limit creativity and productivity.\n\nMethod tailoring, process pragmatism, and comfort with the messy reality of how people plan and deliver should all be welcomed by agile thinkers. What matters more than any one methodology or framework is embracing an agile philosophy. This includes a flexible mindset and continuously seeking ways to improve how work is done so you can maximize the value you deliver to customers.\n\nAgile boosts transparency, adaptability, and team motivation while reducing risk — leading to faster releases and higher‑quality software.\n\nHere are the major benefits of an agile mindset and methodology:\n\nIncreased transparency: Agile makes work accessible to all. Backlogs, work in progress, status updates — it is all visualized and accessible to teams across the organization. This translates into increased knowledge-sharing, alignment, and accountability.\n\nGreater adaptability: Agile teams do not fear change — they embrace it. An agile approach encourages you to think iteratively, break work into small chunks, and tackle it in kind. Heightened flexibility means you can quickly adapt to a changing market and incorporate customer feedback early and often. It is a boon for businesses and customers alike.\n\nReduced risk: Agile processes reduce waste. Waste comes in many forms, including time, effort, and money. When you set plans months in advance and then commit capital to those plans (with a waterfall approach, for example), you risk delivering increments that are no longer timely or reflective of actual customer needs. Agile, on the other hand, encourages you to deliver what is most needed right now. Less waste, increased viability and success.\n\nMotivated teams: Agile teams have autonomy to collaborate, prioritize work, and assess progress. And when teams feel like they have a say in how they get work done, individual team members are more motivated and energized.\n\nAgile methodologies and frameworks are rooted in the values and principles behind the Agile Manifesto. Although each approach provides a unique set of workflows and practices, all embody elements of the philosophy behind what we generally know as agile.\n\nSome agile methodologies and frameworks were defined prior to the 2001 manifesto, and others came after. A few gained widespread traction and evolved over the years, with updates incorporated annually — in true agile fashion. Others never really took off and remain somewhat obscure to this day.\n\nAs we mentioned earlier, The Aha! Framework is a recent example of a relatively new product development framework. It is a proven approach to product development that fuses prescribed biannual strategic planning with continuous delivery.\n\nSome teams stick to a single methodology. Others end up borrowing from multiple frameworks. Many adopt a hybrid approach, combining elements of one methodology with another to meet their needs. Sometimes this merging is formal (such as with scrumban, which incorporates both the structure of scrum and the workflow visuals of kanban). Other times, it is an entirely homegrown approach.\n\nThis is a kanban board example for agile methodology — visualize work in progress, limit WIP, and optimize flow in Aha! Develop.\n\nScrum is indisputably the most popular agile framework used by teams today. One reason that scrum is adopted by so many is that it offers a lightweight framework for continuous improvement, from sprint planning to retrospectives. According to findings from one annual report, 63% of agile teams leverage scrum. Notably, this particular survey includes all types of teams — from marketing to IT to engineering. That is … a lot of teams.\n\nYou are unlikely to encounter more than a handful of methodologies and frameworks during your career. People you work with will not follow — or even know about — the approaches listed below. But it is still worth gaining a general awareness of the breadth of agile, as it will help you to understand the diversity and richness of different approaches.\n\nNo matter which one(s) you choose to follow, each methodology promotes the elements at the root of agile development: flexibility, collaboration, iteration, short release cycles, and immediate feedback.\n\nAgile methodologies and frameworks\n\nThe Aha! Framework was developed by Aha! and released publicly in 2024. It is the engine that has powered our company's success and the development of our software suite. The Aha! Framework is unique in that it ensures strategic alignment while supporting ongoing sprints with continuous deployment. It is organized around the phases of product development, with discrete activities within each that support rapid value delivery. The activities begin with biannual strategy-setting and include ongoing sprints.\n\nThe activities in The Aha! Framework\n\nHow to adopt The Aha! Framework\n\nFrameworks functionality in Aha! software\n\nAdaptive Software Development (ASD)\n\nASD is built on the principles of RAD. ASD follows a continuous cycle of \"speculate, collaborate, and learn\" to adapt as work progresses. Its key characteristics include being mission-focused, feature-based, iterative, time-boxed, risk-driven, and tolerant of changes throughout the development process.\n\nAgnostic agile practitioners might balk at being included in a list of agile frameworks, given one of the key principles is not to adhere to the specifics of any one framework. This approach is about leading with agile principles and then choosing any framework that best serves the specific organization's needs.\n\nCrystal is a collection of agile software development approaches. With all, the focus is on customization. Crystal practices iterative and incremental development, active user involvement, and delivering on commitments. Agile teams are encouraged to define the most effective way of collaborating, based on details like the number of team members and the specific type of project you are working on. Developers have the autonomy to adjust processes and optimize workflows as needed. Agile pioneer Alastair Cockburn wrote a book about crystal methods in 2004.\n\nDynamic Systems Development Method (DSDM)\n\nDynamic systems development methodology (DSDM) combines the principles of time-boxing and collaboration with an emphasis on goals and business impact. It lays out four distinct phases for tackling projects: feasibility and business study, functional model or prototype, design and build iteration, and implementation. DSDM is typically selected by larger organizations and governments with the budget to cover overhead and implementation.\n\nExtreme Programming (XP)\n\nXP is all about collaboration and transparency. It espouses five key values: communication, simplicity, feedback, courage, and respect. Characteristics include sitting together, pair programming, test-first programming, continuous integration, collective ownership, and incremental design. The approach is intended for small teams that are co-located and close-knit.\n\nFluid Adaptive Scaling Technology (FAST)\n\nFAST puts an emphasis on self-organizing teams (or \"tribes\") who form, change, dismantle, and reform dynamically over value cycles as short as two days. FAST self-describes as product-centric, with equal weight given to product discovery as product delivery.\n\nFeature-Driven Development (FDD)\n\nFDD is a model-driven methodology intended for larger teams working on a project using object-oriented technology. It defines five processes: develop the overall model, build the feature list, plan by feature, design by feature, and build by feature. The goal is to deliver more features that customers want. Work moves quickly — developers typically build each feature in two weeks. FDD can be useful for companies with a more rigid or hierarchical structure where lead developers make decisions that impact the rest of the team.\n\nKanban is a tricky one, even though it is incredibly popular with many types of agile development teams (as well as product and project teams). Tricky because it is not technically a methodology or framework — it is a workflow management system with an emphasis on continuous delivery. The core principles of kanban are to visualize what you do today, limit the amount of work in process, and optimize flow. Teams visualize work on a kanban board and follow a pull-based approach, grabbing a new task as they have bandwidth. Progress across the board is monitored until work is completed according to the team's definition of done.\n\nHow is kanban used by product managers?\n\nHow development teams implement kanban\n\nBest practices for configuring Aha! Develop to support kanban\n\nLarge-Scale Scrum (LeSS)\n\nLeSS defines 10 principles for deploying and maintaining scrum across an entire company. It was created to support organizations with multiple scrum teams. There are two configurations: one for two to eight scrum teams, and one for more than eight scrum teams. LeSS co-creators Craig Larman and Bas Vodde co-wrote a book that outlines how teams can adopt the principles.\n\nLean Software Development (LSD)\n\nLSD applies lean manufacturing principles and practices to software development. It promotes a minimalist approach — the key principles are to eliminate waste, ensure quality, create knowledge, defer commitment, deliver fast, respect people, and optimize the whole. Lean teams collaborate to deliver a Minimum Viable Product (MVP). Once that product is released, the team gathers customer feedback and then applies those insights to new product iterations.\n\nThe Nexus framework was created by Ken Schwaber, one of the co-creators of scrum. It is an agile model that is used in tandem with scrum. Nexus adds an integration team composed of a product owner, scrum master, and integration team members. The team focuses on facilitating dependencies and other issues across teams.\n\nRapid Application Development (RAD)\n\nRAD emphasizes speed and flexibility. Developers build prototypes, collect user feedback, and iterate often. RAD is ideal for highly skilled teams that need to develop a product quickly (within a few months) and are able to collaborate with customers during the process.\n\nScaled Agile Framework® (SAFe®)\n\nSAFe is a set of principles, guidelines, and prescribed levels for implementing agile and lean principles at scale. The core principles of SAFe include taking an economic view, applying systems thinking, assuming variability and preserving options, building incrementally, basing milestones on objective evaluation, making value flow without interruption, planning and delivering across a portfolio in a synchronized cadence, unlocking the intrinsic motivation of knowledge workers, decentralizing decision making, and organizing around value.\n\nWhat is the role of a SAFe product manager?\n\nBest practices for configuring Aha! software to support SAFe\n\nHow to run SAFe PI planning with Aha! Whiteboards\n\nScrum is an iterative and incremental agile software development framework. Scrum teams operate from core pillars of transparency, inspection, and adaptation. There are defined roles, including scrum master and product owner. Teams work in time-boxed sprints of two to four weeks and follow scrum ceremonies — such as sprint planning, daily scrum, sprint review, and sprint retrospectives. These ceremonies facilitate the continuous improvement and tight alignment that allow scrum teams to deliver value at a sustainable pace. Scrum is well suited to teams that are nimble, cohesive, and willing to pivot often based on stakeholder feedback.\n\nWhat is the role of a product manager in scrum?\n\nHow to implement scrum\n\nBest practices for configuring Aha! Develop to support scrum\n\nScrumban is a hybrid of scrum and kanban. It was initially developed as a way for teams to transition from scrum to kanban or vice versa. But over time, it gained traction as a standalone methodology, not just as a stopgap. The scrum part of scrumban gives teams defined guidelines for roles, planning, and running sprints effectively. The kanban part of scrumban offers a way to balance work against resources with the pull system, plus visualizations of work in progress.\n\nIt is also worth mentioning DevOps, an approach to software delivery that grew out of agile thinking. DevOps emphasizes short development cycles and continuous delivery of high-quality software. The focus is on close working relationships between the development and operations teams. Many principles of DevOps — such as automated testing, short feedback loops, and frequent collaboration — are similar to the agile methodologies above.\n\nIt is rare to choose an entirely new way of working. That is because most companies already have some way of managing product development. Even if the current way is dysfunctional, rolling out an entirely new workflow methodology across an entire organization midflight — while you are still planning, developing, and releasing functionality — can feel riskier than sticking with the status quo.\n\nIt is more common to incrementally update and add to an existing method (with varying levels of success). Unless you are working at a very early-stage startup or are part of an enterprise transformation at an established organization, you probably will not be involved in the selection or full rollout of any new methodology or framework. For the latter, the choice to seek out and implement a companywide product development methodology is usually tied to top-level business strategy.\n\nSo, who gets to choose? A CEO or CTO will typically select the methodology, with input and support from engineering and product team leads. If you are part of a group tasked with evaluation and eventual selection, there are a variety of factors that you should take into account, including:\n\nSize: Smaller companies can often get started with more lightweight approaches, whereas larger enterprises benefit from sophisticated frameworks.\n\nIndustry: Some industries require specific checkpoints for security or regulatory concerns, which can impact the agile method the team follows.\n\nCulture: Management styles, communication, and openness to change all influence workflow choices.\n\nType: Hardware, software, IT, consumer — what it is you are building and for whom will play a role in methodology selection.\n\nMaturity: Products have a lifecycle with distinct stages.\n\nComplexity: Highly complex products and product portfolios require a defined framework that still allows for adaptability.\n\nSize: Scrappy startups will have individuals doing the work of several different roles (versus an established company with many groups of engineers supporting it).\n\nExperience: Novice developers do not need the weight of a heavy framework, but will benefit from structure.\n\nLocation: Small co-located teams have different needs than remote groups dispersed globally.\n\nWhat is an enterprise transformation?\n\nWhat is an agile transformation?\n\nMcKinsey & Company: What is agile?\n\nAgile represents a collective mindset shift. Everyone on the team needs to be able to articulate the ultimate goal: the reason why you want to become more agile, and the value it will deliver to customers beyond the individual features you ship.\n\nThere are some broad-strokes best practices that can help you orient around an agile approach, regardless of the methodology or framework you follow:\n\nMotivated teams: Agile requires intrinsically motivated individuals who are driven by problem-solving, are able to accept and incorporate feedback, and thrive when working independently and as a collective. Many frameworks encourage self-organizing teams, which requires high commitment and performance to be successful.\n\nBacklog prioritization: Creating and maintaining a healthy backlog is critical to agile success. Having an up-to-date, prioritized list of features ensures the team can move quickly when ready to begin work. In many agile frameworks, backlog health is a team performance metric.\n\nIncremental development: Agile hinges on iteration. Iterative cycles require that developers break down large projects into smaller, more manageable units of work. Each batch of work builds on previous increments and early feedback received, which means your product is constantly being improved.\n\nFrequent communication: Agile teams transmit information daily. From standups to real-time conversations, core development teams communicate about capacity, work status, and any issues that need to be addressed. Alignment across the entire product development team is just as important. Regularly connecting with cross-functional teammates minimizes costly rework.\n\nCross-training: Development slows when there is only one teammate who can perform a particular task. Agile teams display an \"all-hands\" approach in that teammates should be able to pick up, contribute to, or peer review work in progress as needed. Cross-training increases team adaptability and, ultimately, team velocity.\n\nRetrospectives: Team members check in with one another at regular intervals (typically after an iteration) to reflect on how to improve processes going forward. Agile retrospectives facilitate the kind of transparent, open communication that encourages teams to constantly evolve for the better.\n\nWhat are best practices of agile teams?\n\nHow to structure your product development team\n\nVideo: A quick introduction to Agile Management by Harvard Business Review\n\nMaking the leap from old-school methods to an agile approach is not without its challenges. The most common issue is not the process, but the people. The larger and more established an organization is, the more difficult it can be to change \"old guard\" mentalities and processes.\n\nHere are some other more tactical issues that product development teams face when implementing agile, with a few references that are specific to scrum:\n\nLack of sponsor support\n\nProduct owner role is not properly filled\n\nScrum master is also a contributor\n\nProblem-solving in daily standups\n\nAttempting to take on too much in an iteration\n\nAdding stories or features to an iteration in progress\n\nAdding unrelated tasks to sprints\n\nAllowing technical debt to build up\n\nIf you have experienced this hit list of pain before, then you likely know that agile itself is rarely the issue. That is because (as we have reiterated a few times so far) agile is a philosophical approach to work.\n\nSwaying hearts and minds, inspiring folks to embrace a new philosophical approach to work, and putting the focus on delivering customer value over internal politics or policies — these are the true hurdles to adopting agile.\n\nThe real reasons product managers complain about SAFe\n\nThe Minimum Tolerable Process\n\nProduct manager vs. engineering manager\n\nAs part of an enterprise transformation that involves shifting to agile, many companies also invest in workflow tools that encourage team alignment with the new way of working. Often, organizations rely on a standard office software suite (word processing, spreadsheets) and find that the siloed and disconnected nature of these static tools is at odds with fast-paced and interconnected agile workflows.\n\nYou can always try to adapt an existing workflow tool to fit an agile framework. But bug-tracking tools, simple task management boards, and spreadsheets can only take you so far. As you begin to mature in your processes, you will likely find that you need an agile workflow tool like the Aha! suite that provides templates, prioritization and reporting capabilities, and is tightly integrated with strategic plans and product roadmaps.\n\nIn this tutorial, learn about the workflows and tools we rely on to deliver lovable products.\n\nAha! software also includes brainstorming functionality via digital whiteboards, built-in customer feedback loops, and knowledge base hubs for product documentation and team training. To reimagine the way you build software, try the Aha! suite now.\n\nAn agile methodology is a broad approach to managing work using agile principles. A framework provides a specific structure or set of practices that helps teams apply those principles consistently. For example, scrum and SAFe are popular frameworks — as is The Aha! Framework, which connects strategic planning to delivery. Learn more in this section of the guide above.\n\nStart by clarifying your team's goals, size, and type of work. Then, compare the structure and focus of each agile method. You will find 16 agile methodologies in the guide above (with pros, cons, and use cases) to help you decide what fits best.\n\nYes. Many teams adapt elements from different frameworks to match their workflows; this is often called a hybrid approach. The key is to stay true to agile values while creating a system your team can sustain.\n\nAha! Roadmaps gives you the flexibility to plan agile work your way, whether you follow Scrum, SAFe®, or a hybrid approach. It also supports The Aha! Framework: a goal-first model that connects strategy to delivery across every stage of product development. You can define goals, prioritize features, and track progress — all in one place.\n\nIt offers the product development guidelines you need — with more flexibility.\n\nThe Aha! Framework for product development is defined, yet adaptable.\n\nWe bet you will check off at least a few items in this list.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is agile methodology?",
+      "id": "what-is-agile-methodology"
+    },
+    {
+      "level": "h4",
+      "text": "Understand the differences between agile approaches to build a process that works",
+      "id": "understand-the-differences-between-agile-approaches-to-build-a-process-that-works"
+    },
+    {
+      "level": "h4",
+      "text": "Plan agile work your way with Aha! Develop — try it free.",
+      "id": "plan-agile-work-your-way-with-aha-develop-"
+    },
+    {
+      "level": "h2",
+      "text": "What is the history of agile?",
+      "id": "what-is-the-history-of-agile"
+    },
+    {
+      "level": "h3",
+      "text": "Early roots of agile: Kanban, IID, and beyond",
+      "id": "early-roots-of-agile-kanban-iid-and-beyond"
+    },
+    {
+      "level": "h3",
+      "text": "The rise of waterfall and the push for change",
+      "id": "the-rise-of-waterfall-and-the-push-for-change"
+    },
+    {
+      "level": "h3",
+      "text": "From 'light' methods to the Agile Manifesto",
+      "id": "from-light-methods-to-the-agile-manifesto"
+    },
+    {
+      "level": "h4",
+      "text": "The values and principles of the Agile Manifesto",
+      "id": "the-values-and-principles-of-the-agile-manifesto"
+    },
+    {
+      "level": "h5",
+      "text": "The Agile Manifesto",
+      "id": "the-agile-manifesto"
+    },
+    {
+      "level": "h3",
+      "text": "Scaling agile in the modern era",
+      "id": "scaling-agile-in-the-modern-era"
+    },
+    {
+      "level": "h2",
+      "text": "Why do companies adopt agile?",
+      "id": "why-do-companies-adopt-agile"
+    },
+    {
+      "level": "h3",
+      "text": "Agile vs. waterfall",
+      "id": "agile-vs-waterfall"
+    },
+    {
+      "level": "h3",
+      "text": "Hybrid vs. custom agile frameworks",
+      "id": "hybrid-vs-custom-agile-frameworks"
+    },
+    {
+      "level": "h4",
+      "text": "Explore The Aha! Framework on a whiteboard. Get the template.",
+      "id": "explore-the-aha-framework-on-a-whiteboard"
+    },
+    {
+      "level": "h2",
+      "text": "Benefits of adopting an agile approach",
+      "id": "benefits-of-adopting-an-agile-approach"
+    },
+    {
+      "level": "h2",
+      "text": "16 different types of agile methodologies and frameworks",
+      "id": "16-different-types-of-agile-methodologies-and-frameworks"
+    },
+    {
+      "level": "h3",
+      "text": "A mix of old and new",
+      "id": "a-mix-of-old-and-new"
+    },
+    {
+      "level": "h3",
+      "text": "Scrum's popularity",
+      "id": "scrums-popularity"
+    },
+    {
+      "level": "h3",
+      "text": "The range of methodologies",
+      "id": "the-range-of-methodologies"
+    },
+    {
+      "level": "h3",
+      "text": "What about DevOps?",
+      "id": "what-about-devops"
+    },
+    {
+      "level": "h2",
+      "text": "How to choose an agile methodology",
+      "id": "how-to-choose-an-agile-methodology"
+    },
+    {
+      "level": "h3",
+      "text": "Organizational characteristics",
+      "id": "organizational-characteristics"
+    },
+    {
+      "level": "h3",
+      "text": "Product characteristics",
+      "id": "product-characteristics"
+    },
+    {
+      "level": "h3",
+      "text": "Team characteristics",
+      "id": "team-characteristics"
+    },
+    {
+      "level": "h2",
+      "text": "Agile best practices",
+      "id": "agile-best-practices"
+    },
+    {
+      "level": "h2",
+      "text": "Common issues when implementing agile",
+      "id": "common-issues-when-implementing-agile"
+    },
+    {
+      "level": "h2",
+      "text": "When to invest in agile workflow tools",
+      "id": "when-to-invest-in-agile-workflow-tools"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about agile methodology",
+      "id": "faqs-about-agile-methodology-"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "The Aha! Framework for product development",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Balance strategic planning and agile delivery using The Aha! Framework",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Is The Aha! Framework right for you? Use this new checklist.",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#16-different-types-of-agile-methodologies-and-frameworks",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-product-management",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-a-product",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#what-is-the-history-of-agile",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#why-do-companies-adopt-agile",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#benefits-of-adopting-an-agile-approach",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#16-different-types-of-agile-methodologies-and-frameworks",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#how-to-choose-an-agile-methodology",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#agile-best-practices",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#common-issues-when-implementing-agile",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#when-to-invest-in-agile-workflow-tools",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#16-different-types-of-agile-methodologies-and-frameworks",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-a-product-portfolio",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/stages-of-product-development",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-kanban",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/kanban-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/how-development-teams-implement-kanban",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-the-role-of-pm-in-safe",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide/agile/devops-continuous-everything",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/what-is-the-product-lifecycle",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation",
+    "https://www.aha.io/roadmapping/guide/agile/agile-transformation",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/agile/best-practices",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#top",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies#16-different-types-of-agile-methodologies-and-frameworks",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/an-introductory-guide-to-agile-project-management",
+    "https://www.aha.io/roadmapping/guide/agile-development/what-is-the-role-of-a-software-engineer",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/agile-transformation",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/best-practices",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-burndown-chart",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-issue-tracking",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-unit-testing",
+    "https://www.aha.io/roadmapping/guide/agile/agile-metrics",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/slashes",
+  "title": "Slashes",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nWhen necessary, differentiate between a slash for URLs and a backslash for servers and folders.\n\nWhen you instruct customers to enter a slash, always include the spelled-out term (backslash or slash) first, followed by the symbol in parentheses.Example Enter two backslashes (\\\\) ....\n\nSee alsoNumbersSpecial character term collectionURLs and web addresses\n\nTo imply a combination. Capitalize the word after the slash if the word before the slash is capitalized. For example, if country/region is used as a label in a form, capitalize it as Country/Region.Examplesclient/serverTCP/IPCD/DVD driveUse the on/off switch to turn your mouse off when you're not using it.Turn on the On/Off toggle.\n\nTo separate parts of an internet address. Use two slashes after the protocol name. Example ftp://example.com/downloads\n\nIn server, folder, and file names.Example \\\\mslibrary\\catalog\\collect.doc\n\nBetween the numerator and denominator of fractions in equations that occur in text.Examplesa/x + b/y = 1x + 2/3(y) = m\n\nDon't use a slash as a substitute for or, like product/service. If the UI uses a slash in this way, follow the interface in describing the label, but use or to describe the action in text. ExamplesSelect Automatic trapping to add or remove a check mark.To turn the purchasing workflow on or off ....\n\nException It's OK to use country/region and ZIP Code/postal code where space is limited.\n\nSee alsoand/orcountry or regioneither/or\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Slashes",
+      "id": "slashes"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/slashes",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/slashes",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/slashes",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/slashes",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/slashes",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/slashes",
+    "https://learn.microsoft.com/en-us/style-guide/numbers",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/special-characters",
+    "https://learn.microsoft.com/en-us/style-guide/urls-web-addresses",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/a/and-or",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/c/country-or-region",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/e/either-or"
+  ]
+}

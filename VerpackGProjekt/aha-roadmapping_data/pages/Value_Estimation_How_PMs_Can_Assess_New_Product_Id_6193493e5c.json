@@ -1,0 +1,137 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas",
+  "title": "Value Estimation: How PMs Can Assess New Product Ideas",
+  "content": "Last updated: February 2025\n\nExceptional ideas can lead to breakthrough products. But how do you determine which ideas are truly exceptional? This is not always easy — especially if you are sorting through hundreds of requests from customers and internal teams. But as a product manager, it is part of your job to evaluate new product ideas and choose which ones to incorporate into your product plans.\n\nEstimating the value of a new product idea begins by defining what value means to you. This is important. Not only will your definition of value be the basis for reviewing ideas and requests, it will help you prioritize the most impactful work throughout the entire product development process.\n\nGenerally, product value refers to your ability to meet business goals and provide what customers need. But it has many layers to it and can be tricky to measure because there is no universal value equation. It will take you some time to consider everything that gives your product worth — but this guide will help give you a head start. Read on to discover how to examine and measure the value of an idea from different angles.\n\nThis is an example of how to measure product idea value with a scorecard in Aha! Roadmaps. Aha! Roadmaps includes many of the basic features included in Aha! Ideas and is great for teams looking for an all-in-one product development solution.\n\nFeel free to skip ahead:\n\nWhy should you estimate the value of product ideas\n\n5 factors to consider when estimating the value of product ideas\n\nHow to measure and track the value of an idea\n\nIt can be tempting to say \"yes\" to every idea — especially when a request sounds promising on the surface. After all, you want to move quickly and respond to customer needs. Other times, you are so busy that your knee-jerk reaction is to immediately say \"no\" to anything new.\n\nBut there are problems with both of these approaches. Pursuing every idea that comes your way can cause you to lose sight of your strategic plans and what you need to accomplish. You might also find yourself chasing trends or building features that do not meaningfully improve the product. At the same time, rejecting new ideas too quickly can mean overlooking valuable opportunities to differentiate your product or better serve customers.\n\nYou want a more balanced approach. When you apply a logical and quantitative lens to your vetting process, you can be as objective as possible about the intrinsic value of each idea. This allows you to assess each insight based on how it aligns with your strategy, contributes to business goals, and meets customer needs. And once you understand how each idea stacks up against the others, you can determine which ones to implement.\n\nThe one metric every product team should track (yet few do)\n\nWhat is a Minimum Lovable Product?\n\nValue is determined by your strategy and customers. So your definition of value may be different than ours. But let's look at five factors that commonly contribute to product value. You can use this list (or add your own components) to better understand and estimate the value of new product ideas.\n\nThe most effective product teams assess value at multiple stages of product development. An initial estimate should happen early in your idea management process — when an idea is raw and unrefined. As you move into roadmapping and scoping, its value may fluctuate. Continue to refine your estimates during feature definition through to production. Of course, not every idea will make it onto your roadmap — a quick value estimation upfront may be all you need to decline an idea.\n\nPopulation refers to the number of people that will benefit from an idea should you choose to implement it. If you use idea management software or another tool to capture product ideas, you can estimate the population by looking at votes and customer data.\n\nHow many people does this idea affect?\n\nHow many customers have voted for this idea?\n\nHow many customers have submitted similar requests or ideas?\n\nHow often do customer-facing teams hear this same request or similar ones in conversation?\n\nWill this attract new customers?\n\nSome ideas will garner more enthusiasm than others, but these may not always be the most impactful ones. You need to separate the novel and \"nice to have\" ideas from the \"need to have\" — the ones with the most potential to create meaningful experiences for customers.\n\nWhat is the impact of this idea on current customers?\n\nHow important is it for those that require it?\n\nHow will it help our customers achieve their goals?\n\nHow will it improve customer loyalty?\n\nHow will this improve the Complete Product Experience (CPE)?\n\nYour product strategy should always guide your product plans. This includes evaluating product ideas — where strategy can help you to make quick decisions. When a request does not support your overall objectives, respectfully say no and explain to the person who submitted it why it does not support your goals. For ideas that do align with strategy, dig in to understand the potential impact.\n\nHow closely is this idea connected to company/product strategy?\n\nDoes the idea support our goals?\n\nWhat is the estimated impact on our goals?\n\nDoes it align with current initiatives?\n\nWhat are the advantages and disadvantages of pursuing this idea?\n\nEvery idea has a price tag, so to speak, and your time and resources are precious. That is why you should estimate effort as part of an idea's value — even if your initial estimates are not perfect. You can explore specific cost details and requirements once vetted ideas are promoted to planned work.\n\nHow much work will it take to build?\n\nHow long will it take to build?\n\nWhat resources and technology are required?\n\nDoes the team have enough capacity to build this?\n\nCould we bundle this idea with something similar that is already planned?\n\nWhat are the estimated costs for maintaining this idea once it is built?\n\nAt the idea stage, nothing is concrete. Customer needs can change over time — and so can your business strategy. Estimating your confidence in the idea's value will help you measure how certain you are about its worth at a given moment.\n\nWhat is your certainty of the population?\n\nHow certain are you that it meets customer needs?\n\nHow confident are you that it aligns with your strategy?\n\nHow accurate are your effort estimates at this stage?\n\nBy evaluating these five areas, you will have a well-rounded understanding of the potential value of any customer request or idea. Start here, then consider adding more factors specific to your industry or customer base as needed. These factors will also serve as a framework for refining the estimated value of your ideas over time.\n\nIntroduction to the product value score\n\nHow to identify and prioritize high-value ideas in Aha! software\n\nEstimate effort using custom scorecards in Aha! software\n\nEstimating the value of a product idea is a great exercise — but what happens next? The steps below walk you through one approach to turning your ideas into an action plan with the help of a value scorecard:\n\nAssign a score for each value factor. For example, you might initially say that an idea is high-, medium-, or low-effort. Using a numerical value (typically from 1-10) turns this estimate into a metric you can track.\n\nCreate a product value scorecard. A value scorecard aggregates the individual metrics into one overall value score — giving you a uniform method for comparing ideas. You can use a weighted calculation to give certain factors more pull than others. (For example, strategy alignment could be more important to you than effort required.)\n\nRank ideas based on value score. Once you have an overall value score for each idea, you can easily rank ideas from most to least valuable.\n\nPromote the most valuable ideas to features. Set a value score threshold for promoting ideas to features that you plan to build and add to your product roadmap. Once promoted, you can do a more detailed analysis to decide when and how to implement each feature.\n\nContinue to check in on value. Value scores will shift over time, so make sure to update value metrics as you uncover more customer needs or pursue new product goals. You should also return to your value scores after features are shipped. Collect feedback from customers to see if your confidence levels were accurate — and the value you perceived is what was received. You can use a product value report to measure the impact of shipped features and refine your approach over time.\n\nScoring is now built for greater accessibility — you can set each metric by tabbing and manually entering a value.\n\nYou can use simple spreadsheets to manage product ideas and build a basic value scorecard. But it can be challenging to keep scores updated with document versions changing and new ideas always rolling in. To streamline your process, try idea management software that includes dynamic value scoring functionality — so you can collect, manage, and estimate the value of new product ideas in one place.\n\nAdditional resources:\n\nTips for managing and prioritizing ideas\n\n4 steps product managers take to decide what to build next\n\nIdea management software: What are the best tools in 2025?\n\nHow three customer ideas shaped our roadmap\n\nAha! Roadmaps tutorial: Prioritize the right features\n\nWhat role does customer feedback play in evaluating product ideas?\n\nAnalyzing customer feedback can help product teams validate demand and prioritize the most impactful ideas. You can scope out direct requests and study usage patterns to assess value and feasibility. Our suggestion? Do this work in Aha! Ideas, where you can centralize feedback and analyze trends. This ensures decisions ultimately align with customer needs.\n\nHow often should I reassess the value of a product idea?\n\nRegularly — especially as market conditions, customer needs, and business priorities evolve. This might happen on a monthly or quarterly basis, depending on your product and organization. Ideas that seemed high-value initially could become less relevant over time, while others gain urgency. A structured approach, like a product value scorecard, helps teams evaluate ideas consistently and revisit them with fresh data. In Aha! Ideas and Aha! Roadmaps, you can use custom scorecards to assess impact at every stage of the product development process.\n\nHow do I estimate effort and development costs for a new idea?\n\nWork closely with engineering to assess complexity and resource needs. Together, you can consider factors like scope, technical feasibility, and time to build. Teams can use Aha! Roadmaps to link ideas to planned work and estimate effort alongside other priorities.\n\nUse this template to display objectives and key results and gauge progress.\n\nCustomer experience is every interaction buyers have with you — from seeing ads to speaking with the support team.\n\nThe user story format can be helpful in thinking about product interactions from a user’s perspective.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to estimate the value of new product ideas",
+      "id": "how-to-estimate-the-value-of-new-product-ideas"
+    },
+    {
+      "level": "h4",
+      "text": "Collect and prioritize product ideas in Aha! Ideas — free 30-day trial.",
+      "id": "collect-and-prioritize-product-ideas-in-aha-ideas-"
+    },
+    {
+      "level": "h2",
+      "text": "Why should you estimate the value of product ideas",
+      "id": "why-should-you-estimate-the-value-of-product-ideas"
+    },
+    {
+      "level": "h2",
+      "text": "5 factors to consider when estimating the value of product ideas",
+      "id": "5-factors-to-consider-when-estimating-the-value-of-product-ideas"
+    },
+    {
+      "level": "h3",
+      "text": "Population",
+      "id": "population"
+    },
+    {
+      "level": "h3",
+      "text": "Need",
+      "id": "need"
+    },
+    {
+      "level": "h3",
+      "text": "Strategy",
+      "id": "strategy"
+    },
+    {
+      "level": "h3",
+      "text": "Effort",
+      "id": "effort"
+    },
+    {
+      "level": "h3",
+      "text": "Confidence",
+      "id": "confidence"
+    },
+    {
+      "level": "h2",
+      "text": "How to measure and track the value of an idea",
+      "id": "how-to-measure-and-track-the-value-of-an-idea"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about estimating the value of new product ideas",
+      "id": "faqs-about-estimating-the-value-of-new-product-ideas"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "OKRs template",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "What is customer experience?",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "User story templates with step-by-step guidance",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#explore-your-definition-of-value",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas#why-should you-estimate-the-value-of product-ideas",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas#5-factors-to-consider-when-estimating-the-value-of-product-ideas",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas#how-to-measure-and-track-the-value-of-an-idea",
+    "https://www.aha.io/roadmapping/guide/marketing-strategy/what-is-marketing-strategy",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas#top",
+    "https://www.aha.io/roadmapping/guide/idea-management",
+    "https://www.aha.io/roadmapping/guide/idea-management/what-is-idea-management-software",
+    "https://www.aha.io/roadmapping/guide/product-strategy/complete-product-experience",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas#Top",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/idea-management",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-come-up-with-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas",
+    "https://www.aha.io/roadmapping/guide/idea-management/what-is-idea-management-software",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template"
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "name": "aha-roadmapping",
+  "total_pages": 150,
+  "base_url": "https://www.aha.io/roadmapping/guide",
+  "pages": [
+    {
+      "title": "Free Product Management Resources",
+      "url": "https://www.aha.io/roadmapping/guide"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide"
+    },
+    {
+      "title": "The Aha! Framework: A Modern Product Development Approach",
+      "url": "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development"
+    },
+    {
+      "title": "Value-Based Product Development: What PMs Should Know",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development"
+    },
+    {
+      "title": "Product Roadmaps: Everything PMs Should Include",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap"
+    },
+    {
+      "title": "Product Development Process: 10 Stages Every Team Should Follow",
+      "url": "https://www.aha.io/roadmapping/guide/stages-of-product-development"
+    },
+    {
+      "title": "Product Management Skills: 10 Essential Ones To Succeed",
+      "url": "https://www.aha.io/roadmapping/guide/product-management/what-skills-are-required-to-be-a-product-manager"
+    },
+    {
+      "title": "Product Roadmaps: How To Build Your Annual Plan",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap"
+    },
+    {
+      "title": "Product Strategy: How a Clear One Leads to Success",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy"
+    },
+    {
+      "title": "Templates",
+      "url": "https://www.aha.io/roadmapping/guide/product-templates"
+    },
+    {
+      "title": "Strategy",
+      "url": "https://www.aha.io/roadmapping/guide/strategy"
+    },
+    {
+      "title": "Research",
+      "url": "https://www.aha.io/roadmapping/guide/research"
+    },
+    {
+      "title": "Discovery",
+      "url": "https://www.aha.io/roadmapping/guide/discovery"
+    },
+    {
+      "title": "Ideation",
+      "url": "https://www.aha.io/roadmapping/guide/ideation"
+    },
+    {
+      "title": "Roadmaps",
+      "url": "https://www.aha.io/roadmapping/guide/roadmaps"
+    },
+    {
+      "title": "Whiteboards",
+      "url": "https://www.aha.io/roadmapping/guide/whiteboards"
+    },
+    {
+      "title": "Knowledge bases",
+      "url": "https://www.aha.io/roadmapping/guide/documentation"
+    },
+    {
+      "title": "Plans",
+      "url": "https://www.aha.io/roadmapping/guide/plans"
+    },
+    {
+      "title": "Designs",
+      "url": "https://www.aha.io/roadmapping/guide/designs"
+    },
+    {
+      "title": "Development",
+      "url": "https://www.aha.io/roadmapping/guide/development"
+    },
+    {
+      "title": "Launches",
+      "url": "https://www.aha.io/roadmapping/guide/launches"
+    },
+    {
+      "title": "Reports",
+      "url": "https://www.aha.io/roadmapping/guide/reports"
+    },
+    {
+      "title": "Foundational concepts",
+      "url": "https://www.aha.io/roadmapping/guide/foundational-concepts"
+    },
+    {
+      "title": "Meetings",
+      "url": "https://www.aha.io/roadmapping/guide/meetings"
+    },
+    {
+      "title": "Ideate",
+      "url": "https://www.aha.io/roadmapping/guide/career-growth"
+    },
+    {
+      "title": "Teamwork",
+      "url": "https://www.aha.io/roadmapping/guide/teamwork"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#what-is-roadmapping"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#8-top-roadmapping-examples"
+    },
+    {
+      "title": "Product Development: A Comprehensive Guide for Product Managers",
+      "url": "https://www.aha.io/roadmapping/guide/what-is-product-development"
+    },
+    {
+      "title": "Business Roadmaps: Best Practices for Strategic Planning",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/business-roadmap"
+    },
+    {
+      "title": "Technology Roadmap: Best Practices for Technical PMs",
+      "url": "https://www.aha.io/roadmapping/guide/technology-roadmap"
+    },
+    {
+      "title": "Free Product Management Resources",
+      "url": "https://www.aha.io/roadmapping/guide/marketing-roadmaps/"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#core-roadmapping-concepts"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#benefits-of-creating-a-roadmap"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#5-common-roadmapping-misconceptions"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#how-to-choose-roadmapping-software"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#how-to-create-a-product-roadmap"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#product-roadmapping-templates"
+    },
+    {
+      "title": "Customer Experience (CX): What PMs Should Know",
+      "url": "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience"
+    },
+    {
+      "title": "Roadmapping Best Practices: Essential Elements of a Product Roadmap",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+    },
+    {
+      "title": "Product Goals and Initiatives: Tips for Product Teams",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives"
+    },
+    {
+      "title": "Product Vision: How To Build and Define Yours",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision"
+    },
+    {
+      "title": "Project Roadmap: Best Practices for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap"
+    },
+    {
+      "title": "Product Roadmaps: How To Create One Step-by-Step",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap"
+    },
+    {
+      "title": "Product Features: What PMs Should Know (Plus Templates)",
+      "url": "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#top"
+    },
+    {
+      "title": "Release Management: Best Practices for Product Teams",
+      "url": "https://www.aha.io/roadmapping/guide/release-management"
+    },
+    {
+      "title": "Feature Prioritization: How to Prioritize the Right Features",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features"
+    },
+    {
+      "title": "Product Manager Collaboration: How PMs Work Across Teams",
+      "url": "https://www.aha.io/roadmapping/guide/product-management/product-managers-other-teams"
+    },
+    {
+      "title": "Product Portfolio Roadmaps: Best Practices for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap"
+    },
+    {
+      "title": "Product Backlogs: What PMs Should Know",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog"
+    },
+    {
+      "title": "Product Prioritization Frameworks: 12 Common Models",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework"
+    },
+    {
+      "title": "Agile Software Development: Best Practices and Templates",
+      "url": "https://www.aha.io/roadmapping/guide/agile/agile-software-development"
+    },
+    {
+      "title": "Gantt Charts: Tips, Templates, and Examples for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/plans/what-is-a-gantt-chart"
+    },
+    {
+      "title": "Product Marketing: The Basics for PMs and Marketers",
+      "url": "https://www.aha.io/roadmapping/guide/marketing-methodologies/what-is-product-marketing"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#1-business-roadmap"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#2-strategic-roadmap"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#3-portfolio-roadmap"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#4-features-roadmap"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#5-agile-roadmap"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#6-go-to-market-roadmap"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#7-marketing-roadmap"
+    },
+    {
+      "title": "Roadmap Planning: A Must-Have Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#8-technology-roadmap"
+    },
+    {
+      "title": "Release Planning: How To Coordinate Releases Across Teams",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams"
+    },
+    {
+      "title": "Features Roadmaps: Best Practices for Capturing Plans",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap"
+    },
+    {
+      "title": "Backlog Types: A Guide to Product, Sprint, and Release Backlogs",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog"
+    },
+    {
+      "title": "Product Roadmap Reporting: How To Track Progress Effectively",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress#what-to-include-in-a-roadmap-progress-update"
+    },
+    {
+      "title": "Product Roadmap Reporting: How To Track Progress Effectively",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress#how-to-report-on-progress-to-different-audiences"
+    },
+    {
+      "title": "Agile Roadmaps: What They Are and How To Build One",
+      "url": "https://www.aha.io/roadmapping/guide/agile/agile-roadmap"
+    },
+    {
+      "title": "Agile Methodology: What It Is and Why It Matters",
+      "url": "https://www.aha.io/roadmapping/guide/agile/development-methodologies"
+    },
+    {
+      "title": "Product Releases vs. Sprints: Understanding the Differences",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint"
+    },
+    {
+      "title": "Go-To-Market Roadmaps: Best Practices for Product Launches",
+      "url": "https://www.aha.io/roadmapping/guide/marketing-roadmaps/go-to-market-roadmap"
+    },
+    {
+      "title": "Product Launch Checklist: Step-by-Step Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/what-is-a-good-product-launch-checklist"
+    },
+    {
+      "title": "Creative Briefs: Options for Product, UX, and Marketing",
+      "url": "https://www.aha.io/roadmapping/guide/marketing-strategy/creative-brief"
+    },
+    {
+      "title": "Free Product Management Resources",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/marketing-roadmap"
+    },
+    {
+      "title": "Digital Marketing: What It Is and Why It Matters",
+      "url": "https://www.aha.io/roadmapping/guide/marketing-methodologies/what-is-digital-marketing"
+    },
+    {
+      "title": "Free Product Management Resources",
+      "url": "https://www.aha.io/roadmapping/guide/marketing-plans/content-marketing-plan"
+    },
+    {
+      "title": "Marketing Goals: Learn How To Set Them",
+      "url": "https://www.aha.io/roadmapping/guide/marketing-strategy/how-to-set-marketing-goals"
+    },
+    {
+      "title": "Marketing Launch Planning: How To Plan a Successful Launch",
+      "url": "https://www.aha.io/roadmapping/guide/marketing-launches/how-to-plan-marketing-launch"
+    },
+    {
+      "title": "Roadmap Milestones: Definitions and Examples for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones"
+    },
+    {
+      "title": "Product Roadmaps: How To Customize Them for Your Audience",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap"
+    },
+    {
+      "title": "Product Manager Role: What They Do and How They Can Succeed",
+      "url": "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager"
+    },
+    {
+      "title": "Market Research: How Should PMs Gather Customer Insights?",
+      "url": "https://www.aha.io/roadmapping/guide/marketing-strategy/market-research"
+    },
+    {
+      "title": "Product Personas: How Product Managers Define Who Customers Are",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas"
+    },
+    {
+      "title": "Product Positioning: Finding the Right Approach",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning"
+    },
+    {
+      "title": "Competitor Research: Key Steps For PMs",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-research-competitors"
+    },
+    {
+      "title": "Product Value: Core Concepts for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value"
+    },
+    {
+      "title": "Value Estimation: How PMs Can Assess New Product Ideas",
+      "url": "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas"
+    },
+    {
+      "title": "User Story Mapping: How To Create a User Story Map",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping"
+    },
+    {
+      "title": "Scrum Master: What the Role Entails",
+      "url": "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master"
+    },
+    {
+      "title": "Templates",
+      "url": "https://www.aha.io/roadmapping/guide/producttemplates"
+    },
+    {
+      "title": "Visual Product Roadmap: How To Showcase Plans Effectively",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/visualize-data"
+    },
+    {
+      "title": "Roadmap Planning: How Often Should PMs Revisit Their Plans?",
+      "url": "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning"
+    },
+    {
+      "title": "Innovation Roadmaps: Best Practices for Product Teams",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/innovation-roadmap"
+    },
+    {
+      "title": "Strategic Roadmap: Best Practices for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap"
+    },
+    {
+      "title": "Roadmap Software: How To Choose the Best Offering",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-roadmap-tools-work"
+    },
+    {
+      "title": "The Aha! Framework: A Modern Product Development Approach",
+      "url": "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development#what-is-the-aha-framework-for-product-development"
+    },
+    {
+      "title": "The Aha! Framework: A Modern Product Development Approach",
+      "url": "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development#what-are-the-activities-in-the-aha-framework"
+    },
+    {
+      "title": "The Aha! Framework: A Modern Product Development Approach",
+      "url": "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development#why-standardize-work-with-a-product-development-methodology"
+    },
+    {
+      "title": "The Aha! Framework: A Modern Product Development Approach",
+      "url": "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development#what-are-the-pros-and-cons-of-current-product-development-methodologies"
+    },
+    {
+      "title": "The Aha! Framework: A Modern Product Development Approach",
+      "url": "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development#why-a-strategic-approach-to-product-development-is-better-for-most-teams"
+    },
+    {
+      "title": "Stakeholder Alignment in Product Management: Getting Buy-In",
+      "url": "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment"
+    },
+    {
+      "title": "The Aha! Framework: A Modern Product Development Approach",
+      "url": "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development#top"
+    },
+    {
+      "title": "Kanban: What It Is and How It Works",
+      "url": "https://www.aha.io/roadmapping/guide/agile/what-is-kanban"
+    },
+    {
+      "title": "SAFe®: A Guide for Product Development Teams",
+      "url": "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework"
+    },
+    {
+      "title": "Scrum: What It Is and How It Works",
+      "url": "https://www.aha.io/roadmapping/guide/agile/what-is-scrum"
+    },
+    {
+      "title": "Waterfall Product Management: What PMs and Teams Should Know",
+      "url": "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall"
+    },
+    {
+      "title": "Product Team Structure: How To Organize for Success",
+      "url": "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team"
+    },
+    {
+      "title": "Kanban Boards: How To Create One for Product Development",
+      "url": "https://www.aha.io/roadmapping/guide/agile/how-to-set-up-kanban-board"
+    },
+    {
+      "title": "Go-To-Market Strategy: What It Is and Why It Matters",
+      "url": "https://www.aha.io/roadmapping/guide/launch/what-is-a-go-to-market-strategy"
+    },
+    {
+      "title": "Agile vs. Lean: Understanding the Differences",
+      "url": "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean"
+    },
+    {
+      "title": "Product Portfolio Management: What PMs Should Know",
+      "url": "https://www.aha.io/roadmapping/guide/product-management/what-is-a-portfolio-product-management"
+    },
+    {
+      "title": "Scrum Roles: Understanding the Different Team Players",
+      "url": "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles"
+    },
+    {
+      "title": "Daily Standups: What They Are and Why They Matter",
+      "url": "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup"
+    },
+    {
+      "title": "Sprint Reviews: What They Are and How They Work",
+      "url": "https://www.aha.io/roadmapping/guide/agile/sprint-review"
+    },
+    {
+      "title": "Minimum Lovable Product (MLP): Why PMs Should Embrace It",
+      "url": "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product"
+    },
+    {
+      "title": "Minimum Viable Product (MVP): Why It Is Not Enough",
+      "url": "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product"
+    },
+    {
+      "title": "Product Development Guide: How To Adopt the Aha! Framework",
+      "url": "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework"
+    },
+    {
+      "title": "The Aha! Framework: A Modern Product Development Approach",
+      "url": "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development#how-does-the-framework-work-for-multiple-products"
+    },
+    {
+      "title": "Business Model: What It Is and How To Define One",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/what-are-some-examples-of-a-business-model"
+    },
+    {
+      "title": "Setting Product Goals: A Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/goals"
+    },
+    {
+      "title": "Setting Product Initiatives: A Guide for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/initiatives"
+    },
+    {
+      "title": "Sprint: What It Is and Why It Matters",
+      "url": "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint"
+    },
+    {
+      "title": "Product Value: How PMs Can Measure It Effectively",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/how-to-measure-product-value"
+    },
+    {
+      "title": "Product Usage Analytics: What It Is and Why It Matters",
+      "url": "https://www.aha.io/roadmapping/guide/what-is-product-analytics"
+    },
+    {
+      "title": "The Aha! Framework: What Are Its Key Activities?",
+      "url": "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework"
+    },
+    {
+      "title": "Benefits of the Aha! Framework: A Better Way To Build",
+      "url": "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies"
+    },
+    {
+      "title": "The Aha! Framework: How PMs Use It To Succeed",
+      "url": "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework"
+    },
+    {
+      "title": "Value-Based Product Development: What PMs Should Know",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#how-to-define-value-in-product-development"
+    },
+    {
+      "title": "Value-Based Product Development: What PMs Should Know",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#how-to-create-a-value-scorecard"
+    },
+    {
+      "title": "Value-Based Product Development: What PMs Should Know",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#how-to-measure-value-throughout-product-development"
+    },
+    {
+      "title": "The Complete Product Experience (CPE): Thinking Holistically",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/complete-product-experience"
+    },
+    {
+      "title": "Product Feature Checklist: Steps for Defining Features",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist"
+    },
+    {
+      "title": "Product Development Software: Definition, Tools, Examples",
+      "url": "https://www.aha.io/roadmapping/guide/what-is-product-development-software"
+    },
+    {
+      "title": "Value-Based Product Development: What PMs Should Know",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#top"
+    },
+    {
+      "title": "Capacity Planning: Tips and Examples For PMs",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/capacity-planning"
+    },
+    {
+      "title": "Product-Market Fit: How Teams Can Measure and Achieve It",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-market-fit"
+    },
+    {
+      "title": "Product Differentiation: Strategies for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-differentiation"
+    },
+    {
+      "title": "Product Pricing: Tips for Product Teams",
+      "url": "https://www.aha.io/roadmapping/guide/product-strategy/how-should-i-price-my-product"
+    },
+    {
+      "title": "Product Roadmap Reporting: How To Track Progress Effectively",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress"
+    },
+    {
+      "title": "Product Roadmaps: Everything PMs Should Include",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap#what-is-roadmapping"
+    },
+    {
+      "title": "Product Roadmaps: Everything PMs Should Include",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap#who-is-reponsible-for-a-product-roadmap"
+    },
+    {
+      "title": "Product Roadmaps: Everything PMs Should Include",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap#what-are-the-components-of-a-product-roadmap"
+    },
+    {
+      "title": "Product Roadmaps: Everything PMs Should Include",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap#product-roadmap-templates"
+    },
+    {
+      "title": "Product Roadmaps: Everything PMs Should Include",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap#what-are-the-different-types-of-product-roadmaps"
+    },
+    {
+      "title": "Requirements Management: How to Meet Users' Needs",
+      "url": "https://www.aha.io/roadmapping/guide/requirements-management"
+    },
+    {
+      "title": "Idea Prioritization: How PMs Rank Ideas and Features",
+      "url": "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas"
+    },
+    {
+      "title": "Product Backlog Refinement: Best Practices To Prioritize Work",
+      "url": "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement"
+    },
+    {
+      "title": "Product Roadmaps: Everything PMs Should Include",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap#top"
+    },
+    {
+      "title": "Product Roadmap Examples: 6 Visuals for PMs",
+      "url": "https://www.aha.io/roadmapping/guide/product-roadmap/roadmap-examples"
+    }
+  ]
+}

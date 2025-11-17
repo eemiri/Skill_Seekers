@@ -1,0 +1,54 @@
+{
+  "url": "https://www.verpackungsregister.org/registrierung/alle-informationen-zur-registrierung/technische-informationen",
+  "title": "Informationen zur Nutzung des Verpackungsregisters LUCID",
+  "content": "Damit Sie alle Funktionen im Verpackungsregister LUCID nutzen können, müssen bestimmte technische Voraussetzungen erfüllt sein. Sonst kann es zu verzerrten Seitendarstellungen, zur Nicht-Nutzbarkeit bestimmter Funktionen oder ähnlichen Einschränkungen kommen.\n\nDie Verwendung der Browser Google Chrome, Microsoft Edge und Firefox wird im Verpackungsregister LUCID explizit unterstützt. Sollten Sie andere Browser wie beispielsweise Safari nutzen, kann die einwandfreie Ausführung der Funktionen des Verpackungsregisters LUCID technisch nicht gewährleistet werden.\n\nDie Versionsnummer der genutzten Browser sollte jeweils aktuell sein. Bei älteren Versionen empfiehlt es sich, den Browser zu aktualisieren.\n\nIn den Browsereinstellungen müssen Sie Cookies zulassen und die Programmiersprache JavaScript aktivieren.\n\nVerwenden Sie im Firmennetzwerk einen VPN- oder Proxy-Server, können Probleme bei der Nutzung des Verpackungsregisters LUCID auftreten. Wenden Sie sich bei Fragen dazu bitte an Ihre IT-Abteilung oder Ihren IT-Dienstleister.\n\nWiederholen Sie den jeweiligen Vorgang und verwenden Sie dafür einen anderen Browser. Überprüfen Sie Ihre Browsereinstellungen.\n\nAktivieren Sie den Inkognito- beziehungsweise Privatmodus in Ihrem Browser und wiederholen Sie den gewünschten Vorgang.\n\nVerwenden Sie ein alternatives Endgerät, mit dem Sie – wenn möglich – aus einem anderen Netzwerk auf das Verpackungsregister LUCID zugreifen.\n\nBestehen die Probleme weiterhin, wenden Sie sich bitte an den telefonischen Support der ZSVR.\n\nBei verschiedenen Aktionen im Verpackungsregister LUCID wird Ihnen eine E-Mail mit einem Verifizierungslink zugesandt – zum Beispiel, wenn Sie einen Login erstellen oder Ihr Kennwort ändern. Um die entsprechende Aktion ausführen zu können, muss sichergestellt sein, dass Sie diese E-Mails empfangen können.\n\nWhitelistInterne Sicherheitseinstellungen in Unternehmen können die Zustellung von E-Mails der ZSVR unterbinden oder stark verzögern. In diesem Zusammenhang können folgende Daten einer Whitelist hinzugefügt werden:\n\nIP: 62.138.90.222 (s01.email.verpackungsregister.org)\n\nIP: 62.138.90.248 (s02.email.verpackungsregister.org)\n\nE-Mail-Alias: no-reply(at)email.verpackungsregister.org\n\nWeitere Nachrichten von der ZSVR erhalten Sie über den Mailserver mx.verpackungsregister.org. Bei Fragen hierzu wenden Sie sich bitte an Ihre IT-Abteilung oder Ihren IT-Dienstleister.\n\nPrüfen Sie zunächst Ihre Spam- und Junkordner. Sofern Sie in Ihrem E-Mail-Konto eigene Ordner erstellt haben, in die bestimmte Nachrichten automatisch verschoben werden, prüfen Sie diese bitte ebenfalls auf Erhalt der E-Mail. Nutzen Sie auch die Suchfunktion in einem Ordner, der alle eingegangenen E-Mails enthält. Suchen Sie nach dem Stichwort „Verpackungsregister“.\n\nSofern Sie eine Spam-Filter-Software nutzen, loggen Sie sich bitte direkt in diese Software ein und prüfen Sie, ob die E-Mail dort zurückgehalten wurde.\n\nFalls Sie eine E-Mail-Weiterleitung aus einem anderen Postfach oder über eine Webseite nutzen, wird diese womöglich nicht korrekt ausgeführt. Überprüfen Sie das bitte, indem Sie sich in das Postfach beziehungsweise den Zugang der E-Mail-Adresse einloggen, über die Sie Ihren Login im Verpackungsregister LUCID erstellt haben. Suchen Sie auch hier nach der entsprechenden E-Mail.\n\nAbhängig von Ihrer technischen Infrastruktur und Ihrem E-Mail-Provider werden Ihnen E-Mails gegebenenfalls zeitverzögert oder erst nach interner Freigabe zugestellt. Falls sich die E-Mail nicht in Ihrem Postfach befindet, erfragen Sie bitte zuerst intern, ob diese durch Ihren Administrator bereits freigegeben wurde oder noch freigegeben werden muss.\n\nUnser Support-Team erreichen Sie unter: +49 541 34310555Montag bis Freitag: 9:00 bis 17:00 Uhr(ausgenommen sind gesetzliche Feiertage in Niedersachsen)",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Informationen zur Nutzung des Verpackungsregisters LUCID",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Browsereinstellungen",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Interne Einstellungen",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Ich habe technische Probleme bei der Nutzung des Verpackungsregisters LUCID – wie kann ich diese beheben?",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Zustellung von E-Mails",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Ich erhalte eine E-Mail nicht – was kann ich tun?",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Bereit für die Registrierung im Verpackungsregister LUCID?",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Sie brauchen technische Unterstützung oder haben allgemeine Fragen zu den verpackungsrechtlichen Pflichten?",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsregister.org/",
+    "https://www.verpackungsregister.org/registrierung/alle-informationen-zur-registrierung",
+    "https://www.verpackungsregister.org/registrierung/alle-informationen-zur-registrierung"
+  ]
+}

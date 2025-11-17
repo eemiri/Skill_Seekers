@@ -1,0 +1,75 @@
+{
+  "name": "customer-journey-maps",
+  "description": "Use this skill when you need help with customer journey mapping, service blueprints, user experience research, service design, and customer experience analysis. Includes methodologies, best practices, templates, and implementation guidance.",
+  "base_url": "https://www.nngroup.com/articles/service-blueprints-definition/",
+  "selectors": {
+    "main_content": "main",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [
+      "nngroup.com/articles/customer-journey-mapping",
+      "nngroup.com/articles/service-blueprints-definition",
+      "nngroup.com/articles/5-steps-service-blueprinting",
+      "nngroup.com/articles/journey-mapping-101",
+      "interaction-design.org/literature/topics/service-blueprint"
+    ],
+    "exclude": [
+      "?search=",
+      "/search/",
+      "/category/",
+      "/tag/",
+      "/author/",
+      "/event-",
+      "/courses/",
+      "/certificates/",
+      "#toc-"
+    ]
+  },
+  "categories": {
+    "customer_journey_mapping": [
+      "customer journey mapping",
+      "journey mapping",
+      "customer journey",
+      "touchpoints",
+      "customer experience"
+    ],
+    "service_blueprints": [
+      "service blueprint",
+      "service design",
+      "blueprint",
+      "service delivery",
+      "backstage processes"
+    ],
+    "methodologies": [
+      "methodology",
+      "process",
+      "steps",
+      "framework",
+      "approach"
+    ],
+    "best_practices": [
+      "best practices",
+      "guidelines",
+      "tips",
+      "recommendations",
+      "examples"
+    ],
+    "templates_tools": [
+      "template",
+      "tools",
+      "software",
+      "resources",
+      "examples"
+    ]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 25,
+  "additional_urls": [
+    "https://www.nngroup.com/articles/customer-journey-mapping/",
+    "https://www.nngroup.com/articles/5-steps-service-blueprinting/",
+    "https://www.nngroup.com/articles/journey-mapping-101/",
+    "https://www.interaction-design.org/literature/topics/service-blueprint"
+  ]
+}

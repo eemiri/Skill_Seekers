@@ -1,0 +1,42 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/use-left-alignment",
+  "title": "Use left alignment",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nLeft-aligned text has an even left margin and an erratic (ragged) right margin.\n\nAvoid these awkward situations in text:\n\nOrphans, which occur when the first line of a paragraph appears by itself at the bottom of a page or column\n\nWidows, which occur when the last line of a paragraph contains only one word or appears alone on the next page or column\n\nLines that end with hyphens\n\nIn Word and PowerPoint, you can manage these situations without using manual line breaks.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Use left alignment",
+      "id": "use-left-alignment"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/use-left-alignment",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/use-left-alignment",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/use-left-alignment",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/use-left-alignment",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/use-left-alignment",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/using-type/use-left-alignment"
+  ]
+}

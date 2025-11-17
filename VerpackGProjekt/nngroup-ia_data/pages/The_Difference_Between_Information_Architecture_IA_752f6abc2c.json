@@ -1,0 +1,66 @@
+{
+  "url": "https://www.nngroup.com/articles/ia-vs-navigation/#toc-what-is-website-navigation-2",
+  "title": "The Difference Between Information Architecture (IA) and Navigation",
+  "content": "June 22, 2014 2014-06-22\n\nPractitioners sometimes merge the concepts of information architecture (IA) and navigation design. While it’s true that these concepts are related and that information architecture informs website navigation design, IA and navigation are not the same. In fact, information architecture spans well beyond website navigation. Nathaniel Davis, in an article for UXmatters entitled “Framing the Practice of Information Architecture,” refers to web navigation as the tip of the iceberg that sits atop the information architecture of the site.\n\nA website’s (or intranet’s) information architecture has two main components:\n\nThe information architecture (IA) is not part of the on-screen user interface (UI) — rather, IA informs UI. The IA is documented in spreadsheets and diagrams, not in wireframes, comprehensive layouts (known as comps), or prototypes.\n\nEven though the IA itself isn’t visible in the UI, it most definitely impacts the User Experience (UX). As we know from the definition of user experience, the total user experience is built up from everything the user encounters. And while users don’t see the structure of the website, they will hopefully get the feeling that content is divided up and connected in ways that match their needs and expectations. Sadly, of course, users leave many sites feeling that the content/functionality was not what they wanted and they experience friction because of poor organization, structure and/or nomenclature.\n\nAs an analogy, unless you’re Superman or a radiologist, you won’t see the skeletons when looking at a horse or a chicken, but those skeletons nevertheless make these animals very different creatures. Don’t try to ride the chicken, because the skeleton won’t support you.\n\nThe activities undertaken in defining an information architecture involve:\n\nA website’s navigation is a collection of user interface components. The primary goal of navigation is to help users find information and functionality, and encourage them to take desirable actions. Navigation components include global navigation, local navigation, utility navigation, breadcrumbs, filters, facets, related links, footers, fat footers, and so on.\n\nFor each navigation component, a series of decisions must be made:\n\nWhen designing a new site, can designers ignore the IA and focus only on the navigation? The answer is no: it’s inefficient and even dangerous to do so. Navigation that does not adequately accommodate the full scope of content and functionality of a site can be very costly. For example, let’s assume that a design team decides to use a typical inverted-L style navigation (one top navigation bar and a left rail) because they like the way it looks. An inverted-L can accommodate sites that are no more than 4 tiers deep. Unfortunately, later in the project they conduct a site inventory and discover that many sections of the site will be more than 4 tiers deep. Now they must either go back and design a new navigation structure or try to cram all the content into 4 tiers.\n\nWhen approaching a design or redesign project, it is important to take a look under the hood and start by defining or redefining the IA. The IA doesn’t need to be final before beginning to wireframe and prototype, but a first pass is necessary to get a handle on the volume and complexity of the content. Making navigation component choices based on looks alone can force you to change an ideal IA to something that doesn’t best serve the needs of users or accommodate your content.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "The Difference Between Information Architecture (IA) and Navigation",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "What Is Website Information Architecture?",
+      "id": "toc-what-is-website-information-architecture-1"
+    },
+    {
+      "level": "h2",
+      "text": "What Is Website Navigation?",
+      "id": "toc-what-is-website-navigation-2"
+    },
+    {
+      "level": "h2",
+      "text": "Relationship Between IA and Navigation",
+      "id": "toc-relationship-between-ia-and-navigation-3"
+    },
+    {
+      "level": "h2",
+      "text": "Define the IA Before Designing Navigation",
+      "id": "toc-define-the-ia-before-designing-navigation-4"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/ia-vs-navigation/",
+    "https://www.nngroup.com/articles/ia-vs-navigation/",
+    "https://www.nngroup.com/articles/ia-vs-navigation/#toc-what-is-website-information-architecture-1",
+    "https://www.nngroup.com/articles/ia-vs-navigation/#toc-what-is-website-navigation-2",
+    "https://www.nngroup.com/articles/ia-vs-navigation/#toc-relationship-between-ia-and-navigation-3",
+    "https://www.nngroup.com/articles/ia-vs-navigation/#toc-define-the-ia-before-designing-navigation-4",
+    "https://www.nngroup.com/articles/definition-user-experience/",
+    "https://www.nngroup.com/articles/mega-menus-work-well/",
+    "https://www.nngroup.com/articles/designing-effective-carousels/",
+    "https://www.nngroup.com/articles/accordions-complex-content/"
+  ]
+}

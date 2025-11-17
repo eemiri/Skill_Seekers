@@ -1,0 +1,70 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns",
+  "title": "Nouns and pronouns",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nProper nouns are one of a kind—unique people, places, and things. Capitalize proper nouns wherever they occur.\n\nProper nouns include:\n\nNames and titles of individuals.\n\nUnique, named places, organizations, events, shows, corporate and philanthropic programs, and other things.\n\nProduct, service, app, and tool names.\n\nTitles of books, songs, and other published works.\n\nManaged standards, such as Bluetooth.\n\nIf there's more than one of a thing, it's a common noun. For example, there are lots of chief operating officers, so chief operating officer is a common noun. There's only one Chief Operating Officer Latasha Sharp, so that's a proper noun.\n\nDon't capitalize common nouns unless they begin a sentence or the situation calls for title-style capitalization. Most technology concepts, product categories, devices, and features are common nouns, not proper nouns. Examples of common nouns include cloud computing, smartphone, e-commerce, and open source.\n\nCapitalize technology terms as proper nouns only when:\n\nYou need to distinguish a component or product, such as SQL Server, from a general technology with a similar name, such as an SQL database server.\n\nThe terms are typically capitalized in the industry. Search Merriam-Webster Dictionary, reputable internet sites, and industry-specific dictionaries. Don't rely on unedited websites.\n\nIf you're not sure whether a term is a proper noun (and thus capitalized) or a common noun (lowercase), check Merriam-Webster Dictionary, and the A–Z word list. Default to lowercase unless there's a compelling reason to capitalize the term.\n\nLearn more For guidelines for sentence-style and title-style capitalization, see Capitalization.\n\nSome nouns can be challenging to use in the plural. The simple rules that follow will help.\n\nTo check the spelling of plural forms of words derived from Latin and Greek that retain their Latin or Greek endings (typically -a, -us, -um, -on, -ix, or -ex), see specific entries in the A–Z word list and Merriam-Webster Dictionary.\n\nDon't use gendered pronouns in generic references. Instead, rewrite—for example, use the second person (you).\n\nOr refer to a person's role (customer, employee, or client). It's OK to use he, she, or they when you're writing about real people who use those pronouns themselves.\n\nThey can be used as a non-binary pronoun for a singular person instead of a binary pronoun (she or he).\n\nFor more guidelines about how to write using gender-neutral pronouns, see Bias-free communication.\n\nCollective nouns like company take a singular pronoun. Don't use a plural pronoun (like they) for a collective noun. ExamplesMeet with up to 250 people. All they need is a phone or internet connection.The company upgraded its cloud storage solution to Microsoft Azure.\n\nException If the emphasis is on the individuals in a group, it's OK to use a plural pronoun with a singular noun.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Nouns and pronouns",
+      "id": "nouns-and-pronouns"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Capitalization and proper nouns",
+      "id": "capitalization-and-proper-nouns"
+    },
+    {
+      "level": "h2",
+      "text": "Plural nouns",
+      "id": "plural-nouns"
+    },
+    {
+      "level": "h2",
+      "text": "Pronouns and gender",
+      "id": "pronouns-and-gender"
+    },
+    {
+      "level": "h2",
+      "text": "Pronouns and collective nouns",
+      "id": "pronouns-and-collective-nouns"
+    },
+    {
+      "level": "h2",
+      "text": "Using pronouns in product UI",
+      "id": "using-pronouns-in-product-ui"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/nouns-pronouns",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/person",
+    "https://learn.microsoft.com/en-us/style-guide/bias-free-communication",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/person"
+  ]
+}

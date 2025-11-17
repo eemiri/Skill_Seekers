@@ -1,0 +1,84 @@
+{
+  "url": "https://www.nngroup.com/articles/investor-relations-ir/",
+  "title": "Investor Relations (IR) on Corporate Websites",
+  "content": "May 24, 2009 2009-05-24\n\nInvestor relations (IR) is one of the \"Big 4\" standard components of a corporate website (along with public relations (PR), employment, and \"About Us\"). In the modern world, investors assume that they can go to www.company.com to research a current or potential investment.\n\nWhile companies must provide IR information to attract and retain investors, they also must be realistic about the types of content and features that users need most. Offering a simple design and a coherent story about the company is better than drowning users in incomprehensible data.\n\nTo assess the usability of corporate websites' IR information, we conducted two rounds of user studies in five cities in the U.S., U.K., and China: New York, Boston, San Diego, London, and Hong Kong. We chose these cities because they include both the main centers of the investment business and more mainstream locations.\n\nWe tested a total of 63 users: 35 individual investors and 28 professionals (institutional investors, financial analysts, and business journalists). Although we typically aim to recruit an even balance of men and women, 73% of the participants in these studies were men, reflecting the current state of the investment business.\n\nWe employed a range of usability methods:\n\nWe observed our test users while they performed investment-oriented tasks on 52 company websites, selected to cover a range of industries and countries. We also reviewed 42 additional websites, to get insights from even more industries. Thus, our recommendations are based on evaluations of IR information for 94 companies.\n\nWe tested three categories of professionals:\n\nAll of the professional users had the same general conclusion: They would not rely on a company's own website for most finance data. Instead, they'd use specialized services that their companies subscribe to, such as Bloomberg, Reuters, and First Call. Investment professionals often rely on downloading large amounts of financial data into their own modeling tools or spreadsheets, and they prefer doing so in standardized formats from a single source so that they can easily compare multiple companies.\n\nThis does not mean that companies can ignore professionals when putting IR information on their own websites, but it does mean that companies must be resigned to having their websites play a secondary role in satisfying professionals' information needs.\n\nInterestingly, even though professional users despised overly promotional or marketing-oriented information on company websites, they did appreciate getting the company \"spin\" through such things as recent CEO speeches that outlined goals and prospects. Professionals wanted management's vision of where the company was going, along with a brief company background and overview of recent news. Basically, they wanted the company's past, present, and future summarized in a way that told the story behind the numbers.\n\nTypically, private investors don't have access to professional data services, even though they often get data from their broker's website or from services like Yahoo Finance.\n\nIndividual investors are often intimidated by the vast amount of financial data available, even from these simplified services. While they expected websites to offer annual and quarterly reports, they admitted that they spent very little time reading them.\n\nAs the following gaze plot from one of our eyetracking sessions shows, the user scarcely glanced at the dense text, but focused intensely on the lists of links. The user also spent considerably more time on the information above the fold than on the info on the second half of the page.\n\nGaze plot of a user reading a page of investor information. Each numbered blue dot indicates one fixation of the user's eyes.\n\nCompanies can help individual investors by presenting simplified views of financial data and summarizing the highlights. Although you must offer more detailed data as well, users commented positively on websites that summarized essential stock information on a single page.\n\nIndividual investors also wanted the company to tell them a story about its potential as an investment. Key questions include: Where does the company come from? What is it doing now? What are its innovation and research prospects? What is its vision? Note, however, that there is a difference between telling a credible, interesting, and concise story, and junking up people's browsers with superficial hype and marketing-oriented language. It's a fine line, but an important one if you want to convince investors of your company's prospects.\n\nIn most of our projects, we provide guidelines for interaction design and for principles of information design. We usually cannot recommend the specific website structure, nor can we specify the labels needed for navigation systems. Consider, for example, a company that sells 5 different kinds of X-ray machines for dentists, and a company that sells 10,000 different kinds of pumps and valves for OEMs. These two companies require very different IAs for their website's product areas.\n\nIn contrast, shareholders and potential investors visiting a website's IR area have similar tasks, regardless of the company type. Also, the information that must be supplied to satisfy users' needs is much the same.\n\nBecause users and their tasks largely overlap for websites' IR areas, we can recommend a standard IA based on our research of users' information needs and navigation behavior. If all websites organized their IR information accordingly, it would be substantially easier for users to research investments.\n\nWe actually recommend 3 different but related IAs, depending on the resources a company wants to devote to online IR. These low, medium, and high designs gradually add more features based on the priorities we derived from user research. With limited resources, it's best to focus on the features that users need most, and implement them well, rather than clutter the site with many poorly designed features.\n\nMany companies failed in the area of \"macro-IA\" — that is, the way they distribute and integrate information across multiple sites or subsites. People widely follow Peter Lynch's advice to \"invest in what you know,\" but potential investors who know a brand often can't find how to invest if they start on its website. It was common to see microsites (or even full sites) for branded products that didn't provide prospective investors any information about investing in the parent company.\n\nIR areas are plagued by PDF files, probably because they're a cheap way to put annual reports online. It is indeed helpful to let users download full reports, and you can save a lot of money when people make their own printouts rather than requesting printed material by mail. But to view information online in a way that lets them rapidly understand key information, users need simple formats that don't require them to slowly page through presentations that are optimized for print rather than interaction.\n\nIn our study, interactive stock charts were much prized, but often so difficult to manipulate that users couldn't get the overviews they wanted. To be useful to individual investors, graphing features and labels must be simplified; professionals are going to use their own high-end tools anyway.\n\nOur lab-based testing was conducted across two rounds; the first was 6 years ago, allowing us to assess changes in IR usability over time. In fact, the second study didn't reveal many changes relative to the first study's findings: investors continue to approach IR sites in a similar way. (Of course, we don't test whether investors have a bullish or bearish market outlook, but only how they use companies' IR information on the Web, and what makes such sites easy or difficult to use.)\n\nSince the first study, webcasts of earnings announcements, analyst days, and similar events have become much more prevalent. Although users now like the idea of webcasts, they rarely find the time to sit through them. As one user said, \"My time is very valuable. I don't know what the content is going to be in this.\"\n\nHowever, users do appreciate the ability to look executives in the eye, so to speak. One user said, \"I usually go to Q&A first because that is usually the meat. [...] The questions and answers are good because this is the only chance people have to put executives on the spot. Are you going to do this or that? Hear the nuances.\" As this quote highlights, it's important to treat recorded webcasts as interactive media rather than a linear stream: break the recording into segments, describe each one, and let users directly click into specific content.\n\nAnother change since our earlier IR research is that people are much more receptive to video on the Web now. Users continue to resist long video clips, but they like shorter videos to get a sense of who the executives are through facial expressions, tone of voice, body language, and so on.\n\nStill, users often prefer an older technology: the much derided PowerPoint slides. As one user said, \"This video is 28 minutes long. I spent only 5 minutes to go through [the slides]. If possible, do a separate online presentation. Make the online version easier to understand — shorter.\"\n\nIR is a natural for the Web. Investments are all about information, as the growth of online brokerage services shows. Similarly, companies can provide many different IR services as self-service — at hugely reduced costs — as long as the user interface is sufficiently easy.\n\nInvestors, both individual and professional, want more than just the data that independent services can provide. They want the company's own story and investment vision. What they don't want is to wade through complex or irrelevant information. Balancing all this is the challenge for the IR user experience: You must provide both simplicity and vision, connect with investors without antagonizing them, and serve both professionals and people with little financial knowledge. To achieve this balance, your design must focus on users' needs.\n\n(The full research report with usability guidelines for IR design is available for download.)\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Investor Relations (IR) on Corporate Websites",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Usability Research",
+      "id": "toc-usability-research-1"
+    },
+    {
+      "level": "h2",
+      "text": "Investment Professionals",
+      "id": "toc-investment-professionals-2"
+    },
+    {
+      "level": "h2",
+      "text": "Individual Investors",
+      "id": "toc-individual-investors-3"
+    },
+    {
+      "level": "h2",
+      "text": "Standard Information Architecture",
+      "id": "toc-standard-information-architecture-4"
+    },
+    {
+      "level": "h2",
+      "text": "Simple Information Design",
+      "id": "toc-simple-information-design-5"
+    },
+    {
+      "level": "h2",
+      "text": "Changes in IR Usability",
+      "id": "toc-changes-in-ir-usability-6"
+    },
+    {
+      "level": "h2",
+      "text": "Potential for IR on the Web",
+      "id": "toc-potential-for-ir-on-the-web-7"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/investor-relations-ir/",
+    "https://www.nngroup.com/articles/press-area-usability/",
+    "https://www.nngroup.com/articles/investor-relations-ir/",
+    "https://www.nngroup.com/articles/investor-relations-ir/#toc-usability-research-1",
+    "https://www.nngroup.com/articles/investor-relations-ir/#toc-investment-professionals-2",
+    "https://www.nngroup.com/articles/investor-relations-ir/#toc-individual-investors-3",
+    "https://www.nngroup.com/articles/investor-relations-ir/#toc-standard-information-architecture-4",
+    "https://www.nngroup.com/articles/investor-relations-ir/#toc-simple-information-design-5",
+    "https://www.nngroup.com/articles/investor-relations-ir/#toc-changes-in-ir-usability-6",
+    "https://www.nngroup.com/articles/investor-relations-ir/#toc-potential-for-ir-on-the-web-7",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/",
+    "https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/"
+  ]
+}

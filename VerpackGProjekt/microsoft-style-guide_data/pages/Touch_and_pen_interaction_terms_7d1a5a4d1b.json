@@ -1,0 +1,43 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms",
+  "title": "Touch and pen interaction terms",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nToday's customer can interact with UI in a variety of ways. This section covers terms for UI interactions done with gestures of the hand or body and tablet pen.\n\nIn general, use input-neutral terms, which support all input methods. If you're writing content specific to touching a screen or using a pen, use tap and double-tap instead of click and double-click. Tap means to press the screen with a finger or pen tip and then to lift it, usually quickly.\n\nLearn more For information about input-neutral terms, see Describing interactions with UI.\n\nWhen you need to write specifically about touch and pen UI interactions, use these terms.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Touch and pen interaction terms",
+      "id": "touch-and-pen-interaction-terms"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/touch-pen-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui"
+  ]
+}

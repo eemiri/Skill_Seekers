@@ -1,0 +1,195 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework",
+  "title": "The Aha! Framework: How PMs Use It To Succeed",
+  "content": "Last updated: September 2025\n\nThe Aha! Framework for product development centers product managers on delivering customer value — connecting strategy, discovery, planning, and delivery into a cohesive, repeatable flow. This guide covers how product management fits, core responsibilities, team roles, and templates to implement it.\n\n\"Designed for product teams, by product teams.\" If we were to give The Aha! Framework for product development a tagline, this would certainly be a contender.\n\nThe Aha! Framework is different from other product development methods in a few ways. It suggests prescribed biannual strategic planning while supporting ongoing sprints with continuous deployment. But perhaps most importantly (at least for the purpose of this guide), The Aha! Framework was created by product development experts for fellow product teams.\n\nThe framework is informed by the Aha! team's decades of experience building successful products and working with thousands of product development folks. It is the engine that has powered our company's growth, and it is core to our position as the market leader for product development software.\n\nYou might be exploring The Aha! Framework for the first time. Or, you might be stepping into a product management role at an organization that already follows pieces of it. This guide provides an overview of best practices for product managers in either scenario. Keep on reading, or use the following links to jump ahead:\n\nHow product management fits into The Aha! Framework\n\nResponsibilities of a product manager in The Aha! Framework\n\nProduct development team roles in The Aha! Framework\n\nTemplates for following The Aha! Framework\n\nUnlike other approaches that focus primarily on the \"deliver\" phase, The Aha! Framework takes the entire product development process into consideration. It is focused on the core activities needed to successfully deliver value rather than rigid workflow processes.\n\nThis holistic view of product development makes product management essential within the framework. Even the way the activities are described in The Aha! Framework makes it clear that product management is the nucleus of any organization's product development function.\n\nMany product development teams toil in frustration because they are confined by methodologies that prioritize how work gets done. You end up spending more time trying to remember trademarked terminology, staying up to date with expensive certifications, and scheduling endless meetings than you do on actual product development — all so you can follow the process.\n\nThe Aha! Framework prioritizes why you do that work in the first place. The intention is not to put product management on a pedestal. It is to put the emphasis on value delivery over process pedantry.\n\nThe Aha! Framework vs. other product development methodologies\n\nThe Aha! Framework vs. scrum vs. SAFe® vs. kanban\n\nVideo: How we build software at Aha!\n\nAre you a new product manager?\n\nIs The Aha! Framework right for you?\n\nWe might be a little biased, but we think being a product manager is the best job in the world. It is a dynamic and challenging role that will push you to learn and grow at every stage of your career.\n\nProduct managers are responsible for what gets built. That responsibility extends from setting the strategic vision for your product to measuring the realized value of what you prioritized. You also have those responsibilities without holding explicit authority over the folks who work alongside you to create that value.\n\nThe Aha! Framework is organized around the core stages of product development. There are activities within each stage where product managers complete discrete action items to further positive progress.\n\nIn our detailed guide about the activities, we suggest how often each of the activities should take place — but many occur concurrently and are ongoing depending upon how often you release new functionality.\n\nThe table below offers a checklist for product managers who follow The Aha! Framework. If it looks like a lot to do, well … that is because it is. Value-based product development is a real commitment. But remember: For a product manager, some of the activities are more about coordination and monitoring than performing the associated task.\n\nAs you go through the checklist below, make note of the folks in your organization (such as engineering + operations, IT, or marketing) you will partner with to complete each phase.\n\nThe Aha! Framework: Checklist for product managers\n\n□ Define product vision\n\n□ Review market conditions\n\n□ Draft product goals\n\n□ Identify key product initiatives\n\n□ Gather stakeholder feedback\n\n□ Set product strategy\n\n□ Define research goals\n\n□ Establish a participant research database\n\n□ Conduct customer interviews\n\n□ Analyze transcripts\n\n□ Connect insights to the roadmap\n\n□ Review customer feedback\n\n□ Review colleague feedback\n\n□ Promote ideas to features\n\n□ Whiteboard new user experiences\n\n□ Gather stakeholder feedback\n\n□ Update draft roadmap\n\n□ Gather stakeholder feedback\n\n□ Focus on high-priority features\n\n□ Gather team and stakeholder feedback\n\n□ Update Minimum Lovable Product requirements\n\n□ Develop functionality\n\n□ Confirm built as designed\n\n□ Ship functionality and supporting work across teams\n\n□ Communicate progress\n\n□ Update knowledge base\n\n□ Set go-to-market activities\n\n□ Announce new functionality\n\n□ Assess product value\n\n□ Improve overall process\n\nMany product development methodologies include a defined team structure. Scrum and the Scaled Agile Framework® (SAFe®), for example, both outline exactly how to organize teams and detail specific role titles (and descriptions) that must be active in order to fully follow each method.\n\nThe Aha! Framework does not demand any certain team structure. It does assume that there is a core product development team with representatives from key groups and a broader cross-functional team that supports ongoing product success.\n\nThe core product development team typically includes innovation, product management and user experience (UX), project management, product marketing, engineering, and operations functions.\n\nDepending on the size and maturity of your organization, you might have people who are dedicated to specific functions. Or you might have an individual who performs the work of several functions. In some companies, for instance, product management absorbs innovation, project management, and operational duties.\n\nHow to structure your product development team\n\nBest practices for managing a product development team\n\nThe broader product team includes representatives from cross-functional teams such as customer support, marketing, and sales. Although these folks are not involved directly in day-to-day product development work, they bring valuable perspectives about the market and customer needs that can inform your product plans. Do not shy away from their input and feedback.\n\nThe Aha! Framework hinges upon close collaboration among members of the core product development team. If functional groups are siloed, the burden falls to the product manager to foster team-building and knowledge sharing. Ultimately, the team's failure or success is your own failure or success.\n\nAs you review the responsibilities below, consider your product development team's strengths and weaknesses in each functional area. There are likely areas where you can immediately begin making improvements.\n\nThe Aha! Framework: Product development team responsibilities\n\nLead innovation projects and run pilot programs\n\nBuild an idea management process\n\nGather and evaluate feedback from customers, team members, and stakeholders\n\nProduct management and UX\n\nLead the cross-functional product team\n\nSet product vision and strategy\n\nUnderstand market conditions and customer needs\n\nGuide product discovery efforts\n\nVet ideas for new products and improvements\n\nCreate product roadmaps\n\nDefine new product features\n\nDesign product experiences\n\nLaunch new functionality\n\nMeasure product performance\n\nManage project approvals and resources\n\nProvide visibility into progress against delivery\n\nCoordinate and monitor dependencies\n\nResearch the competitive landscape\n\nDefine buyer personas\n\nCraft positioning and messaging to highlight the benefits of using the product\n\nCreate go-to-market materials\n\nIncrease product awareness and usage\n\nBuild applications and functionality as designed\n\nDeliver working code on time\n\nIntegrate product into CI/CD (continuous integration, continuous delivery) pipeline to iterate quickly\n\nEncourage alignment across teams in the organization\n\nOptimize resources and reduce costs\n\nMonitor and report on KPIs\n\nFor product managers who use Aha! Roadmaps, we provide a template for The Aha! Framework that you can explore and customize on a digital whiteboard. We also have related templates for the various activities within the framework.\n\nAll of the templates below are available in Aha! software. We have provided one template for each stage as a jumping-off point. (You can explore the full scope of what we offer in our template library.) If you are already an Aha! customer, you can always reach out to our Product Success team for support implementing these templates.\n\nThe Aha! software suite includes everything needed to set strategy and build the roadmap, conduct customer research, crowdsource ideas, collaborate on whiteboards, streamline development, and centralize team documentation. You can experience the full suite with a free 30-day trial.\n\nWith The Aha! Framework, product management shifts from simply moving tasks along to delivering sustained value. Product managers using this approach help teams stay centered on purpose — so every product decision counts. It is a practical way to build alignment, keeping everyone focused on what truly matters to customers and the business.\n\nOther approaches often focus heavily on delivery mechanics. The Aha! Framework emphasizes value creation across the entire product lifecycle — from vision and discovery to launch and analysis. Product managers guide that flow, keeping strategy connected to the work.\n\nProduct managers are accountable for what gets built and why. This includes defining vision and goals, capturing and refining ideas, prioritizing features, coordinating with engineering and marketing, and assessing product value after launch. Many tasks are collaborative, but the PM is responsible for ensuring they happen.\n\nYes. The Aha! suite includes templates and tools for each stage of the framework — from strategy and roadmaps to customer feedback, whiteboards, delivery, and documentation. You can explore The Aha! Framework directly in Aha! Roadmaps and customize it to fit your team’s workflow.\n\nIt offers the product development guidelines you need — with more flexibility.\n\nThe Aha! Framework for product development is defined, yet adaptable.\n\nWe bet you will check off at least a few items in this list.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is the role of a product manager in The Aha! Framework?",
+      "id": "what-is-the-role-of-a-product-manager-in-the-aha-framework"
+    },
+    {
+      "level": "h4",
+      "text": "From vision to value at every stage of product development",
+      "id": "from-vision-to-value-at-every-stage-of-product-development"
+    },
+    {
+      "level": "h2",
+      "text": "How product management fits into The Aha! Framework",
+      "id": "how-product-management-fits-into-the-aha-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Responsibilities of a product manager in The Aha! Framework",
+      "id": "responsibilities-of-a-product-manager-in-the-aha-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Product development team roles in The Aha! Framework",
+      "id": "product-development-team-roles-in-the-aha-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Templates for following The Aha! Framework",
+      "id": "templates-for-following-the-aha-framework"
+    },
+    {
+      "level": "h3",
+      "text": "Stage 1: Strategize | Product vision template",
+      "id": "stage-1-strategize--product-vision-template"
+    },
+    {
+      "level": "h3",
+      "text": "Stage 2: Discover | Customer research plan template",
+      "id": "stage-2-discover--customer-research-plan-template"
+    },
+    {
+      "level": "h3",
+      "text": "Stage 3: Capture | Ideas portal guide template",
+      "id": "stage-3-capture--ideas-portal-guide-template"
+    },
+    {
+      "level": "h3",
+      "text": "Stage 4: Explore | Brainstorming session template",
+      "id": "stage-4-explore--brainstorming-session-template"
+    },
+    {
+      "level": "h3",
+      "text": "Stage 5: Plan | Now, Next, Later roadmap template",
+      "id": "stage-5-plan--now-next-later-roadmap-template"
+    },
+    {
+      "level": "h3",
+      "text": "Stage 6: Showcase | Presentation slides template",
+      "id": "stage-6-showcase--presentation-slides-template"
+    },
+    {
+      "level": "h3",
+      "text": "Stage 7: Deliver | Feature requirement template",
+      "id": "stage-7-deliver--feature-requirement-template"
+    },
+    {
+      "level": "h3",
+      "text": "Stage 8: Document | Knowledge base article template",
+      "id": "stage-8-document--knowledge-base-article-template"
+    },
+    {
+      "level": "h3",
+      "text": "Stage 9: Launch | Product launch plan template",
+      "id": "stage-9-launch--product-launch-plan-template"
+    },
+    {
+      "level": "h3",
+      "text": "Stage 10: Analyze | OKRs template",
+      "id": "stage-10-analyze--okrs-template"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about the role of PMs in the Aha! Framework",
+      "id": "faqs-about-the-role-of-pms-in-the-aha-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "The Aha! Framework for product development",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Balance strategic planning and agile delivery using The Aha! Framework",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Is The Aha! Framework right for you? Use this new checklist.",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework#how-product-management-fits-into-the-aha!-framework",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework#product-development-team-roles-in-the-Aha!-framework",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework#templates-for-following-the-Aha!-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework#how-product-management-fits-into-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework#responsibilities-of-a-product-manager-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework#product-development-team-roles-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework#templates-for-following-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/product-management",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/product-management/are-you-a-new-product-manager",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development#what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/how-to-lead-effective-user-interviews",
+    "https://www.aha.io/roadmapping/guide/how-to-analyze-user-interviews",
+    "https://www.aha.io/roadmapping/guide/how-product-discovery-influences-the-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/go-to-market-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-to-measure-product-value",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/best-practices-for-managing-product-development-team",
+    "https://www.aha.io/roadmapping/guide/product-management/product-managers-other-teams",
+    "https://www.aha.io/roadmapping/guide/knowledge-sharing-best-practices-for-product-teams",
+    "https://www.aha.io/roadmapping/guide/idea-management",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/what-is-product-discovery",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-management/wireframe-mockup-prototype",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-good-product-launch-checklist",
+    "https://www.aha.io/roadmapping/guide/marketing-strategy/buyer-personas",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework#top",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/what-is-the-product-lifecycle",
+    "https://www.aha.io/roadmapping/guide/what-is-product-discovery",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework-vs-other-product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/the-role-of-a-product-manager-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development"
+  ]
+}

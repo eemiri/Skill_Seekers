@@ -1,0 +1,182 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+  "title": "User Story Mapping: How To Create a User Story Map",
+  "content": "You need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.\n\nS﻿tart using this template now\n\nUser story mapping employs the concept of user stories — which communicate requirements from the perspective of user value — to validate and build shared understanding of the steps to create a product users love. You want to write user stories in a format that captures business value and can be completed within a development iteration (usually called a sprint).\n\nThe user story format — As a [type of user], I want to [action] so that [benefit]. — encourages you to think about product interactions from a user’s perspective.\n\nIn this guide, we break down the process of creating a user story map into six steps. These steps are not prescriptive — use them to help you adopt a new user story mapping process or improve an existing one.\n\nIf you use Aha! software, you can take advantage of built-in user story mapping functionality in a couple of ways. Dynamic user story mapping is built into the features section of Aha! Roadmaps. You can also get started quickly with the user story map template, or visit this guide for even more template options: User story templates + user story mapping templates.\n\nUse the following links to jump ahead to a specific section:\n\nWhat are the benefits of user story mapping?\n\nWho should participate in user story mapping?\n\n6 steps to create a user story map\n\nWhat are some challenges of user story mapping?\n\nWhat happens after user story mapping is completed?\n\nMapping user stories can make it easier for you to build experiences your customers love. When done well, user story mapping helps you:\n\nFocus on user value: When you build a user story map, you are envisioning the product from a user’s perspective. The resulting story map helps you identify how users experience the product and what efforts will lead to the best outcomes. This forces an outside-in approach to product roadmap planning.\n\nPrioritize the right work: Building a holistic visualization of all the work necessary to deliver a Complete Product Experience (CPE) can help product managers decide what is most important, organize work into releases (the delivery of a new customer experience), and de-prioritize work that has less user value.\n\nDrive clear, well-sized requirements: User story mapping can help you write stronger users stories by providing a visual representation of how large items of work break down into smaller ones, and by illustrating how work items fit together.\n\nDeliver new value early and often: User story mapping helps you group your work into iterations and releases based on how valuable it will be to users. Working on the most important things first means you can deliver the most customer value faster, get early feedback from customers, and learn quickly what product features will be most valuable.\n\nExpose risks and dependencies Creating a story map of how users interact with a product can give you a global view of the product so you can visualize potential blocks, risks, and dependencies that must be mitigated in order to deliver the product successfully.\n\nBuild team consensus: The process of conceiving and building a user story map provides a shared view of the customer experience and the work that is required to improve it. The exercise encourages conversations that lead to a shared understanding of what to build, when, and why.\n\nUse case vs. user story\n\nUser stories vs. requirements\n\nUser story mapping is a collaborative exercise that helps align cross-functional teams around building a product that will be better tomorrow than it is today. For this reason, product managers should involve anyone whose work contributes to delivering greater customer value.\n\nSince a user story map requires a holistic view of the product, it is helpful to collaborate with team members who contribute to the CPE. This includes folks from:\n\nWho makes up the product development team?\n\nHow do product managers prioritize features?\n\nA checklist for defining product features\n\nWe meet as a team twice a year to set strategy at the highest level. Between those sessions, user story maps on a digital whiteboard help us stay focused and aligned.\n\nUser story mapping starts with a decision about what medium to use for building the story map. It can be done with simple physical resources — such as a wall or whiteboard and sticky notes — or with digital tools. (If you use Aha! software, you can use our whiteboard template or build one within the Features menu of Aha! Roadmaps.) Regardless of the medium, the following steps can give you a solid framework for creating a user story map.\n\nWhat is the problem your product solves for customers? What job does it help them do? Taking a goal-first approach is critical in mapping the work that follows, and you need to ensure you are mapping the customer’s goal. This is true even if you are building enhancements to an existing product. Employ this classic user story format: As a [type of user], I want to [action] so that [benefit]. It will help you think about product interactions from a user’s perspective.\n\nExample: This jobs-to-be-done template frames the functional job users are \"hiring\" your product to do — in this case, tracking daily workouts in a mobile app. Use this template to help you complete step one.\n\nWho is the target user for your product? There is likely more than one. Different audiences can have different goals and ways of interacting with your product. Create a set of user personas so everyone understands who makes up the target audience. Then build stories from that point of view. This eliminates wasted effort on edge cases that are not a fit with your target audience.\n\nExample: This template defines three different target fitness app users based on what we know about their skills, goals, behaviors, pains, and needs. Use this personas template to help you complete step two.\n\nAll users who interact with a product will likely do so through a series of common activities. These activities — also referred to as themes or functions — form the backbone of the user story map. They make up the stories across the top of the map.\n\nWith the backbone in place and major themes defined, you can now break down each activity or theme into smaller epics and user stories.\n\nExample: The backbone themes across the top represent what the user ultimately wants to do, laid out in logical order. Below that are epics and user stories — which help to organize and break down more specific user actions within each theme.\n\nUse this user story map template to help you with step three, then continue with it through the remaining steps to complete your user story map.\n\nWith the high-level themes and detailed user stories in place, a good next step is to prioritize stories, ranking them vertically (like you see in the image above) so that the most important ones are at the top. Then, map how users flow through the product — typically from left to right. If you have multiple personas in the second step (like our example), you may want to map different scenarios for each. Stacking stories like this will help you decide which stories are vital and which ones are less important to delivering a delightful product experience to the target audience(s).\n\nThe story map gives you the ability to envision, upfront, the potential issues that may slow you down later, such as bottlenecks, dependencies, requirements, or missing information and capabilities. Identifying these details before design or development work begins can help you enhance usability and better meet user needs.\n\nExample: What you identify during this step can be added to and tracked within related feature work like the user story and requirements in this example.\n\nNext, turn this visual exercise into real work. With stories prioritized from the top down like you see in the example above, you can picture the work that will deliver the most value in the shortest time and group stories into development sprints and product releases.\n\nCreate horizontal “slices” across the map, grouping stories by priority within each critical user activity. Note: this is not about identifying what is required for a minimum viable product; rather, it is critical for identifying the most important work to be completed to create a delightful customer experience.\n\nExample: Zooming in on the user story map example from above, you can see that the first release indicates top priority user stories for each epic. (For example, see \"Add marketplace to app navigation\" and \"Search for product category\" under the \"Open app\" epic.)\n\nUser story mapping can be beneficial for product managers who want to move fast and build offerings customers love, but it can also yield disappointing results if you face any of the following challenges:\n\nNo clear customer: If you do not know who the customer is, then it is impossible to work out how they experience the product. You must know for whom you are mapping stories.\n\nNo clear problem: If you do not know what problem your product is solving for customers, the entire exercise of user story mapping can backfire. Building out stories towards the wrong customer goal can result in a waste of time and resources — not just in the exercise itself, but also for the sprints and releases that are based on it.\n\nLimited utility: Physical story maps made from sticky notes on a whiteboard are difficult to keep updated. The notes stop being sticky and fall off, whiteboards get cleaned and the work is lost, or iterations and releases get shipped without updates to the board. Additionally, story maps built in a single, physical location do not serve teams in other locations who cannot see them. This is why virtual whiteboarding is the choice for many teams.\n\nRe-work and redundancy: Stories from a user story map typically need to be recreated in a flat backlog afterwards, such as a software development tool, in order for engineering teams to begin working on them. As a result, this exercise can make these folks feel that they are doing the same work twice. However, if you use Aha! software, the user stories on your user story map are connected to the real work that they represent.\n\nWhat is a product backlog?\n\nHow to refine the product backlog\n\nAgile Sherpas: User Story Mapping for Better Backlog Management\n\nWith your story map built, it is time to schedule your prioritized stories into sprints and releases. You may want to share or review the user story map with teams that did not participate, including leadership, to ensure everyone agrees on the product roadmap. Anyone contributing work to the upcoming sprint or release who was not represented in the mapping exercise will need to add their work in as well.\n\nHere are a few more tips for putting your user story map into play:\n\nTransfer user story mapping artifacts into a shared tool. Engineering may need to add technical specifications and acceptance criteria to ensure all the work delivers the user value identified in the story mapping exercise.\n\nKeep iterating. Your user story map should not be static. Update it with findings from research spikes, revised estimations, and user feedback. The story map can also be used as a visual roadmap to communicate both the planned work and work that remains.\n\nTake advantage of each exercise as an opportunity to get closer to customers and increase your levels of empathy for what the customer is trying to accomplish. Story mapping is a tool to help create customer value with an incremental, iterative approach, and it presents opportunities to learn and improve as you go.\n\nFeatures are units of work — representing what you will build to deliver on your product vision and provide value to customers. A well-defined feature describes how functionality will work, support your strategy, and benefit users. User stories also describe product functionality, but unlike features, are captured in one or two sentences and written from the user point of view. They summarize specific ways users will interact with your product and highlight tangible benefits they will receive.\n\nIn the voice of your users, answer questions like: \"What are my pain points? What do I want to gain from using this product? What would make this experience better?\" This can help you get into the right mindset for writing user stories.\n\nThen, craft succinct user stories with the help of this simple formula: As a [type of user], I want to [action] so that [benefit]. Avoid using technical language — instead think about how your users would describe what they are trying to do. This will help you articulate their needs quickly and clearly.\n\nConsider the criticality and urgency of each user story, as well as how much effort each will take. This will require product management and engineering teams to work together to determine what is achievable based on capacity and the velocity of prior sprints. Push any user stories that cannot be completed next to the following sprint. Ultimately, prioritizing user stories is about planning the most impactful work within the time that you have.\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "What are the benefits of user story mapping?",
+      "id": "what-are-the-benefits-of-user-story-mapping"
+    },
+    {
+      "level": "h2",
+      "text": "Who should participate in user story mapping?",
+      "id": "who-should-participate-in-user-story-mapping"
+    },
+    {
+      "level": "h2",
+      "text": "6 steps to create a user story map",
+      "id": "6-steps-to-create-a-user-story-map"
+    },
+    {
+      "level": "h3",
+      "text": "Step 1: Frame the problem",
+      "id": "step-1-frame-the-problem"
+    },
+    {
+      "level": "h3",
+      "text": "Step 2: Understand the product’s users",
+      "id": "step-2-understand-the-products-users"
+    },
+    {
+      "level": "h3",
+      "text": "Step 3: Map user activities, then user stories underneath",
+      "id": "step-3-map-user-activities-then-user-stories-underneath"
+    },
+    {
+      "level": "h3",
+      "text": "Step 4: Flow and prioritize",
+      "id": "step-4-flow-and-prioritize"
+    },
+    {
+      "level": "h3",
+      "text": "Step 5: Identify gaps, dependencies, technical requirements, and alternatives",
+      "id": "step-5-identify-gaps-dependencies-technical-requirements-and-alternatives"
+    },
+    {
+      "level": "h3",
+      "text": "Step 6: Plan sprints and releases",
+      "id": "step-6-plan-sprints-and-releases"
+    },
+    {
+      "level": "h2",
+      "text": "What are some challenges of user story mapping?",
+      "id": "what-are-some-challenges-of-user-story-mapping"
+    },
+    {
+      "level": "h2",
+      "text": "What happens after user story mapping is completed?",
+      "id": "what-happens-after-user-story-mapping-is-completed"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about user story mapping",
+      "id": "faqs-about-user-story-mapping"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices",
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping#what-are-the-benefits-of-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping#who-should-participate-in-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping#6-steps-to-create-a-user-story-map",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping#what-are-some-challenges-of-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping#what-happens-after-user-story-mapping-is-completed",
+    "https://www.aha.io/roadmapping/guide/product-strategy/complete-product-experience",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping#top",
+    "https://www.aha.io/roadmapping/guide/agile-development/what-is-the-role-of-a-software-engineer",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-the-role-of-a-ux-designer",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/marketing/introduction",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-user-experience-design#why-is-ux-important",
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/release-management#what-is-a-product-release",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping#top",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-grooming",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping#top",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/agile/agile-metrics",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-the-jobs-to-be-done-framework",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

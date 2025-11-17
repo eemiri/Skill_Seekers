@@ -1,0 +1,149 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning",
+  "title": "Roadmap Planning: How Often Should PMs Revisit Their Plans?",
+  "content": "Last updated: September 2024\n\nProduct plans are dynamic. Product managers have to continually plan for and adapt to organizational changes, shifts in the market, and evolving customer needs. The best product managers see these evolutions as opportunities to build a better, more lovable product for customers.\n\nA roadmap is a visual timeline for creating that future. Roadmaps illustrate how you will achieve the product vision and meet business goals: why you are building the product, when you will deliver releases, and what features will be included. The \"why\" should be fairly static. But the \"when\" and the \"what\" could shift. That means your roadmap needs to be flexible enough to allow for ongoing changes.\n\nThe frequency of your updates will depend on the type of roadmap you are building. For example, most product managers update a features roadmap on a weekly basis to see continual progress on new features and help inform release management. You might update a strategic roadmap just as often — so stakeholders can see how high-level efforts and initiatives contribute to achieving the product goals.\n\nRoadmaps can also change when there are larger company, product team, or process shifts. For example, say your business has hired a new CEO or CPO who wants to adopt a new product development process. Or maybe you have decided to move away from a more rigid methodology such as the Scaled Agile Framework (SAFe®) and try a different approach.\n\nRoadmap adjustments might also happen to accommodate any unforeseen shifts in market trends, customer-provided product feedback, and team priorities. How wide-ranging those changes are could mean rethinking your future plans.\n\nKeep reading for more insights into the \"when\" behind roadmap planning, or use the following links to jump ahead to a specific section:\n\nWhen to plan your roadmap\n\nTrends in customer-provided product feedback\n\nMajor changes in resource planning and capacity\n\nIn general, you can expect product teams to engage in roadmap planning at least once a year. Our team follows The Aha! Framework for product development, which calls for a half-year cadence, but your frequency might be more or less often. It really depends on the industry you are in, the maturity of your product, and your preferred workflow.\n\nFor example, companies in highly competitive and dynamic industries (tech being one example) or organizations with younger products need to evaluate and adjust their plans more often. This is often in response to things like the success of a product launch, new product ideas, or additional product requirements that tend to surface quickly in fast-moving markets. But companies in traditional or highly regulated industries (such as healthcare, finance, and manufacturing) often plan their roadmaps years in advance.\n\nOutside of these scheduled updates, there are other times product managers adjust the roadmap. Any major organizational change — a strategy shift or new business investment, for example — will require you to reconsider product plans. Below, we will take a look at some of the biggest changes that drive roadmap planning.\n\nThe Aha! team on effective product development\n\nThe Aha! Framework for product development\n\nThe activities in The Aha! Framework for product development\n\nHow to adopt The Aha! Framework for product development\n\nProduct managers typically align product goals with one or more business-level goals — think: revenue growth or market expansion. This is because changes at the business level will impact goals and initiatives at the product level.\n\nFor example, business leaders might choose to expand into a new market. Or you might introduce an initiative based on competitor analysis or a newly discovered customer need. Ideally, shifts in business strategy occur somewhat predictably and in advance. If business plans are well communicated within the organization, you are better positioned to adjust the product strategy and roadmap accordingly.\n\nOf course, changes in strategy might precipitate fairly considerable changes to your roadmap. With this, it is wise to communicate the impact broadly. The engineering team needs to understand the bigger picture so the shifts in work make sense. And customer-facing teams might need to help reset customer expectations surrounding upcoming priorities. Strategic roadmap shifts can be some of the most demanding changes for the product team, so communication is key to keeping everyone informed and in sync.\n\nThis Gantt chart created in Aha! Roadmaps maps out a team's strategic initiatives over the course of a year. It also includes goals associated with each initiative.\n\n4 templates for better stakeholder alignment on product plans\n\nGain executive alignment on your product roadmap\n\nHarvard Business Review: Strategic Planning Should Be a Strategic Exercise\n\nProduct managers track lots of data to report on progress against business goals. If you monitor KPIs on a product dashboard or within specific reports, you will likely spot trends, spikes, or drops in data that affect ongoing plans.\n\nThese kinds of discoveries require you to make trade-off decisions about which features will have the most significant and immediate impact. You might need to reprioritize your roadmap to deliver new or updated features. But do not get so boxed in to product data that you lose sight of the product vision. Fluctuations in metrics can be normal — they should not be the reason you revamp the entire product direction.\n\nA dashboard like this one helps teams keep an eye on their KPIs in a single view. Create your own dashboard views in Aha! software.\n\nProduct feedback from your target audiences will also influence roadmap planning. After all, you are building for your customers. As you collect and review customer requests — hopefully in one centralized area — you will likely identify new initiatives, features, and enhancements that you want to add to your roadmap. Evaluate these new ideas against product strategy and identify the requests that will deliver real value.\n\nAs customer feedback impacts product plans, your release plans will change as well. This typically happens at the feature level rather than the initiative level. For example, you might need to deprioritize a feature set that the engineering team is planning or add a new set of functionality to the product backlog.\n\nUse a dedicated ideas portal to organize and keep a close eye on customer feedback. This makes it easy to add popular ideas to your product backlog and identify trending themes.\n\nIntroducing AI-powered feature research\n\nBest practices for stakeholder alignment: Review customer feedback\n\nBest practices for stakeholder alignment: Prioritize the best ideas\n\nNo matter how well considered your plans, you cannot always anticipate cross-team challenges. Perhaps you share resources with another product manager and a group of engineers is pulled over to a new project of immediate importance. Or maybe an upcoming feature set gets delayed due to an unforeseen cost or technical issue.\n\nUpdating the roadmap in these cases takes more than shifting dates and pushing back deliverables. Considerable changes in resources and capacity typically require you to change direction or rescope plans. As with any change to the roadmap, it is important to inform cross-functional teams and stakeholders.\n\nDependency lines help you highlight connected work items. This makes it easier to identify potential cross-team challenges.\n\nA roadmap is simply a visualization of your strategic plans. When circumstances change, adjust plans according to what you know now. Big shifts in strategy, data, customer feedback, and resources require deep consideration. Look at product plans holistically and take a thoughtful approach to build the new direction.\n\nOf course, planning and updating your roadmap can be onerous if you create it in a spreadsheet or static document. As you shift product plans, your roadmap stays a step (or more) behind. Simplify roadmapping by using a purpose-built roadmap planning tool that automatically integrates strategic planning with roadmapping.\n\nCapacity planning for product managers\n\nStakeholder mapping 101: A product manager's guide\n\n4 templates for better stakeholder alignment on product plans\n\nHow do you create a high-level roadmap based on your strategic plan?\n\nCollect what you need: Start with a set of goals and initiatives based on your product vision. You will also want to reflect on what went well — or poorly — during your last strategic plan.\n\nIdentify themes: Determine the large themes of work to prioritize based on your goals, initiatives, and customer feedback. Many teams use the jobs-to-be-done framework here, but you might prefer a different approach. We recently launched new functionality in the Knowledge section of Aha! Roadmaps (called Frameworks) that can help with this.\n\nFormalize the plan: Map out goals, initiatives, release themes, and features on the appropriate timeline. Review your work with stakeholders to get sign-off, then share the finalized roadmap with the whole team. And remember to iterate when plans change.\n\nCheck out our stakeholder alignment series, annual roadmapping guide, and ultimate guide to roadmapping for more on roadmap planning. (We also have a variety of roadmap planning templates available.)\n\nHow do you successfully conduct a brainstorming session for a product roadmap?\n\nSet a time for the brainstorming session, create a meeting agenda, and send it to participants a couple of days in advance. You should clarify your overarching objective and provide a rough sketch of what you plan to discuss.\n\nDuring the brainstorming session, provide plenty of opportunities for everyone to contribute. Collaborative whiteboard software can facilitate this with features such as timed voting, sticky notes, and emojis. At the end of the session, group ideas by theme and then prioritize items that align with the overall strategy on your product roadmap.\n\nWho should participate in product roadmap planning?\n\nProduct managers need to speak with executives, key stakeholders (including leaders from engineering, marketing, sales, and customer success), and even customers when creating a roadmap plan. Doing this ensures that all future work lines up with the organization's goals and solves customers' problems in a meaningful way. If you do not have a centralized spot where customers can share thoughts, consider launching a dedicated ideas portal for them. And if you are looking for a comprehensive way to track input, we have a few templates specific to securing stakeholder alignment.\n\nA strategy roadmap showcases how you will accomplish your goals through specific efforts in a given time frame. Learn more here.\n\nMake adjustments as plans change, show progress, and create tailored views for different audiences.\n\nVisualize high-level initiatives to communicate your product direction and timelines for major bodies of work.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How often should roadmap planning happen?",
+      "id": "how-often-should-roadmap-planning-happen"
+    },
+    {
+      "level": "h4",
+      "text": "Create. Ideate. Roadmap. Build. Do it all with Aha! — free for 30 days.",
+      "id": "create-ideate-roadmap-build-do-it-all-with-aha-"
+    },
+    {
+      "level": "h2",
+      "text": "When to plan your roadmap",
+      "id": "when-to-plan-your-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "Strategy shifts",
+      "id": "strategy-shifts"
+    },
+    {
+      "level": "h2",
+      "text": "Failing KPIs",
+      "id": "failing-kpis"
+    },
+    {
+      "level": "h2",
+      "text": "Trends in customer-provided product feedback",
+      "id": "trends-in-customer-provided-product-feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Major changes in resource planning and capacity",
+      "id": "major-changes-in-resource-planning-and-capacity"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about roadmap planning",
+      "id": "faqs-about-roadmap-planning"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "What is a strategy roadmap?",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "How to build a strategy roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Strategic roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/product-management/what-are-some-product-management-job-titles",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning#when-to-plan-your-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning#strategy-shifts",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning#failing-kpis",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning#trends-in-customer-provided-product-feedback",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning#major-changes-in-resource-planning-and-capacity",
+    "https://www.aha.io/roadmapping/guide/plans/how-to-use-a-digital-whiteboard-for-product-planning",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/new-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-come-up-with-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/plans/how-to-use-a-digital-whiteboard-for-product-planning",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/the-aha-framework-for-product-development",
+    "https://www.aha.io/roadmapping/guide/the-aha-framework/what-are-the-activities-in-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/how-to-adopt-the-aha-framework",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning#top",
+    "https://www.aha.io/roadmapping/guide/what-are-product-metrics",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning#top",
+    "https://www.aha.io/roadmapping/guide/idea-management",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning#top",
+    "https://www.aha.io/roadmapping/guide/product-management/product-managers-other-teams",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/visualize-data",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+    "https://www.aha.io/roadmapping/guide/product-management/how-to-streamline-your-product-management-tools",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/product-management/how-to-complete-a-stakeholder-mapping-exercise",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-the-jobs-to-be-done-framework",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide#how-do-you-create-a-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-i-prioritize-product-ideas",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-roadmap-tools-work",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/visualize-data",
+    "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/new-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap"
+  ]
+}

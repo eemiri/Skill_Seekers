@@ -1,0 +1,37 @@
+{
+  "url": "https://www.nngroup.com/articles/filters-vs-facets/",
+  "title": "Filters vs. Facets: Definitions",
+  "content": "March 16, 2014 2014-03-16\n\nCan you recall the last time you touched a physical phone book? We once relied on such tools as the only means of finding certain kinds of information. They were clunky and cumbersome, but when looking for a needle in a haystack—one phone number among thousands—they were essentially our only hope. In physical media, a single piece of information could be placed in only one location at a time, so providing access to many such objects required a static organization system describing the exact location of each item.\n\nDirect access to digital information has completely changed the rules, so we can now be \"better than reality\" with search boxes, users can jump directly to whatever they are interested in, without consulting any complex systems. This instant gratification is a vast improvement over the previous methods of flipping through physical pages. But the spread of digital access to information has been accompanied by an explosion in the volume of information available about any given topic, to the extent that even instant access via search doesn’t necessarily make finding our needle in the haystack any easier.\n\nFortunately many websites now provide even more sophisticated tools to help users find information. Filters are one such tool — they analyze a given set of content to exclude items that don’t meet certain criteria. More recently, rich information systems have also begun to provide faceted navigation, which basically extends the idea of filters even further into a complex structure that attempts to describe all the different aspects of an object, for maximum flexibility in information retrieval.\n\nThese two terms — filters and faceted navigation — are sometimes used interchangeably. There is in fact quite a lot of overlap between these concepts: they share the same basic mechanism of analyzing a large set of content and excluding any objects that don’t meet certain criteria. The difference between the two is essentially one of degree, but it is an important difference. Ideally faceted navigation provides multiple filters, one for each different aspect of the content. Faceted navigation is thus more flexible and more useful than systems which provide only one or two different types of filters, especially for extremely large content sets. Because faceted navigation describes many different dimensions of the content, it also provides a structure to help users understand the content space, and give them ideas about what is available and how to search for it.\n\nFor example, imagine searching for a healthy recipe for green enchiladas. Cooks.com has hundreds of green enchilada recipes. But in the absence of any filters, it’s difficult to find a healthy recipe, unless there happens to be a recipe with the word \"healthy\" in the recipe title. (In this case, no such luck.)\n\nBasic search filters like the tabs on Food.com can help users narrow down large sets of search results, but only if the filters actually match the dimensions that are most important to users. On Food.com, the tabs filter by the type of content — recipes, photos, cookbooks, etc. — so in this case they wouldn’t be helpful.\n\nIn contrast, the full-fledged faceted navigation on Epicurious.com allows users to narrow results by several different dimensions, including Cuisine, Main Ingredient, and Dietary Consideration. In this case it’s a simple matter to view only healthy recipes.\n\nAlthough the faceted navigation system has obvious benefits for end users, this type of structure is significantly more expensive to create and maintain; more resources must be invested in designing the user interface, and both existing and future content must have metadata applied for each facet.\n\nThe extra power of faceted navigation also adds interaction cost by presenting users with more options to comprehend and manipulate. A simple filter can often be easier to understand and faster to use.\n\nFor these reasons it’s wise to make sure that users truly do need faceted navigation in order to use your content effectively, before investing in it.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Filters vs. Facets: Definitions",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Filters vs. Facets",
+      "id": "toc-filters-vs-facets-1"
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/kathryn-whitenton/",
+    "https://www.nngroup.com/articles/filters-vs-facets/",
+    "https://www.nngroup.com/articles/better-than-reality-a-fundamental-internet-principle/",
+    "https://www.nngroup.com/articles/filters-vs-facets/",
+    "https://www.nngroup.com/articles/filters-vs-facets/#toc-filters-vs-facets-1",
+    "https://www.nngroup.com/articles/interaction-cost-definition/"
+  ]
+}

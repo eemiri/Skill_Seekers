@@ -1,0 +1,70 @@
+{
+  "url": "https://istqb.org/certifications/certified-tester-foundation-level-agile-tester-ctfl-at/",
+  "title": "Certified Tester Foundation Level Agile Tester (CTFL-AT) - International Software Testing Qualifications Board",
+  "content": "The ISTQB® Foundation Level Agile Tester (CTFL-AT) certification provides the key testing skills necessary to successfully contribute to an Agile project. CTFL-AT covers agile testing in alignment with the principles of agile software development as outlined in the Agile Manifesto. A tester on an Agile project will work differently than one working on a traditional project. Testers must understand the values and principles that underpin Agile projects, and how testers are an integral part of a whole-team approach together with developers and business representatives.\n\nThe Foundation Level Agile Tester certification is designed for professionals who are working within Agile environments. It is also for professionals who are planning to start implementing Agile methods in the near future, or are working within organizations that plan to do so.\n\nTo gain this certification, a candidate must hold the Certified Tester Foundation Level certificate (Version 4 or earlier). However, since Agile testing specificities are addressed in CTFL Syllabus version 4, it does not appear to be useful for a candidate to take the AT exam if he/she is CTFL 4 certified.\n\nISTOB® Certified Tester Foundation Level – Agile Tester (CTFL-AT)\n\nAgile Software Development\n\nThe Fundamentals of Agile Software Development\n\nAspect of Agile Approaches\n\nFundamental Agile Testing Principles, Practices, and Processes\n\nThe Differences between Testing in Traditional and Agile Approaches\n\nStatus of Testing in Agile Project\n\nRole and Skills of a Tester in an Agile Team\n\nAgile Testing Methods, Techniques and Tools\n\nAgile Testing Methods\n\nAssessing Quality Risk and Estimating Test Effort\n\nTechniques in Agile Projects\n\nTools in Agile Projects\n\nA candidate who has achieved the Foundation Level certification should be able to:\n\nTraining is available from Accredited Training Providers (classroom, virtual, and e-learning). We highly recommend attending accredited training as it ensures that an ISTQB® Member Board has assessed the materials for relevance and consistency against the syllabus.\n\nSelf-study, using the syllabus and recommended reading material, is also an option when preparing for the exam.\n\nHolders of this certification will be eligible to proceed to the next stage of the Agile stream and take the Agile Technical Tester (CTAL-ATT) and Agile Test Leadership at Scale (CTAL-ATLaS) certifications.\n\nISTQB CTFL-AT Syllabus v1.0\n\nISTQB CTFL-AT Sample Exam Questions v1.3\n\nISTQB CTFL-AT Sample Exam Answers v1.3\n\nISTQB Exam Structures and Rules v1.2\n\nISTQB Exam Structures & Rules Tables v1.15\n\nISTQB-CTFL-AT Overview v1.0",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Certified Tester Foundation Level Agile Tester (CTFL-AT)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Overview",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Audience",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Content",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Exam Structure",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Business Outcomes",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "More Information",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Download Materials",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Syllabus",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Sample Exams",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Exam Structures and Rules",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "General Files",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": []
+}

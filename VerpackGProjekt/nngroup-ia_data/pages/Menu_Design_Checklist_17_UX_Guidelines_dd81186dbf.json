@@ -1,0 +1,174 @@
+{
+  "url": "https://www.nngroup.com/articles/menu-design/",
+  "title": "Menu-Design Checklist: 17 UX Guidelines",
+  "content": "June 7, 2024 2024-06-07\n\nToo often, we observe users struggling with menus that are confusing, difficult to manipulate, or hard to find. Avoid common mistakes by following these guidelines for usable navigation menus.\n\nThis means that the hamburger menu (or any form of hiding the navigation categories under a single menu) is not appropriate for desktop websites and apps. Out of sight means out of mind. The hamburger menu is a necessary evil on smaller screens, where we must balance content and navigation with limited screen real estate. Menus shouldn’t be hidden when you have plenty of space to display them.\n\nNavigation serves roles beyond wayfinding; it helps users to understand the scope of your resources or content. If your navigation is hidden, users lose out on those context cues that tell them who you are and what you do.\n\nUsers expect to find specific menus in specific areas of the screen. Make these expectations work in your favor.\n\nPrimary navigation menu\n\nApplications: Left side of the screen\n\nUtility (or secondary) navigation\n\nAbove the primary navigation and search, towards the top of the screen\n\nAlong the left-hand side on desktop websites\n\nThe footer should include additional categories for nonprimary personas (such as investor information, job lists, and so forth).\n\nMenu links need to be immediately distinguishable from their backgrounds to be findable.\n\nIt’s amazing how many designers ignore contrast guidelines; navigating through digital space is disorienting enough without having to squint at the screen just to read the menu.\n\nOn large screens, don’t cover the entire screen when megamenus (or submenus) are open. While visibility and readability of the menu is important, the open menu should not take over the whole screen. An open menu is a dynamic, ephemeral UI element that sits on top of content, rather than a separate page, with its own URL.\n\nSome users will experience temporary disorientation and mistakenly believe that they have accidentally navigated to a new page, rather than opened a menu. Others might have a harder time recognizing where they currently are in the site’s structure.\n\n(Note that this guideline will probably need to be broken on mobile devices out of necessity.)\n\n“Where am I?” is one of the fundamental questions users need to answer to navigate successfully. Users rely on visual cues from menus (and other navigation elements such a breadcrumbs) to answer this critical question.\n\nOne of the top jobs that navigation menus have is to orient users, since visitors often don’t enter from the homepage. Failing to indicate the current location is probably the single most common mistake we see on website menus.\n\nIf people frequently want to compare related products or complete several tasks within a single section, make those nearby pages visible with a local navigation menu, rather than forcing users to ‘pogo stick’ up and down your hierarchy.\n\nFigure out what users are looking for and use category labels that are familiar and relevant. Menus are not the place to get cute with made-up words, internal jargon, or abstract high-level categorization. Stick to terminology that clearly describes your content, features, or resources.\n\nYou can reduce the amount of time users need to spend reading menus by left-justifying vertical menus and by front-loading key terms.\n\nIf typical user journeys involve drilling down through several levels, mega menus can save users time by letting them skip a level (or two). On mobile devices, sequential navigation can enable users to peruse a deep structure.\n\nIncrease the information scent of long menus with visual communication (as an optional, additional signal). Images, icons, and limited use of color may help with comprehension (or differentiation) of unfamiliar options and aid scannability. But it’s important that these should be additional supportive elements, rather than replacing clear text labels. Both accessibility and usability demands that we provide clear text options.\n\nLinks that are too small or too close together are a huge source of frustration for mobile users,and also make large-screen designs unnecessarily difficult to use.\n\nThis signifier helps to distinguish between main navigation items that lead directly to a new page and. ones that expand into a submenu. Users may not even realize that there is a submenu if the category name doesn’t look clickable (or tappable).\n\nHover is not universally available: users on touchscreens or those who interact primarily through a keyboard do not have access to content hidden under hover. If your menu is exposed on hover, you’ll need to provide these users with a backup way of accessing it.\n\nIt’s better to have a consistent, reliable interaction pattern across devices and input modalities. In addition, accidental triggering (and dismissal) of hover-activated menus is frustrating to all users.\n\nA simple dropdown menu works well for one-tier navigation but becomes frustrating with two tiers. It is highly inadvisable for more than two tiers, as it increases the risk of accidentally selecting the wrong subcategory or of closing the menu altogether.\n\nIf your submenus have multiple levels of submenus, use either a mega menu (that can support 2–3 tiers of information reasonably well), or send users to routing pages with additional options.\n\nUsers who have reached the bottom of a long page may face a lot of tedious scrolling before they can get back to the menus at the top. Menus that remain visible at the top of the viewport even after scrolling can solve that problem and are especially welcome on smaller screens.\n\nFor dropdown menus, this means putting the most common items close to the link target that launches the dropdown (so the user's mouse or finger won't have to travel as far — since, according to Fitts’s law, the travel time to the target depends on the distance to it).\n\nAttempting to impress your users with cool effects should not be one of your priorities when creating menus. While clients or stakeholders may be temporarily impressed by novel menu designs, users tend to be far more impressed by great content that is attractively presented and easily accessed with familiar menus.\n\nOf course, sometimes new types of menus improve the user experience. (Hamburger menus are a great example of this phenomenon.) Or, sometimes new technologies are so different that some of these guidelines won't apply. But these cases are few and far between, and most interfaces will be easier to use if they adhere to these principles.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Menu-Design Checklist: 17 UX Guidelines",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Make Navigation Visible",
+      "id": "toc-make-navigation-visible-1"
+    },
+    {
+      "level": "h3",
+      "text": "1. Show Navigation on Larger Screens",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "2. Put Menus in Expected Locations",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "3. Use Link-Text Colors that Contrast with the Background",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "4. Don’t Cover the Screen with the Menu on Larger Screens",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Communicate the Current Location",
+      "id": "toc-communicate-the-current-location-2"
+    },
+    {
+      "level": "h3",
+      "text": "5. Indicate the User’s Current Location in the Menu",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "6. Provide Local Navigation Menus for Closely Related Content",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Communicate the Available Options",
+      "id": "toc-communicate-the-available-options-3"
+    },
+    {
+      "level": "h3",
+      "text": "7. Use Clear, Specific, and Familiar Wording for Link Labels",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "8. Make Link Labels Easy to Scan",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "9. For Large Websites, Show Several Navigation Tiers in Submenus",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "10. Use Visual Cues for Long Menus",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Make It Easy to Manipulate",
+      "id": "toc-make-it-easy-to-manipulate-4"
+    },
+    {
+      "level": "h3",
+      "text": "11. Make Menu Links Big Enough to Be Easily Tapped or Clicked",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "12. Clearly Signify Submenus with a Caret or Arrow Icon",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "13. Use Click-Activated (Rather Than Hover-Activated) Submenus",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "14. Avoid Multilevel Cascading Menus; Use Mega Menus or Landing Pages Instead",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "15. Consider Sticky (or Partially Sticky) Menus for Long Pages",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "16. Optimize for Easy Physical Access to Frequently Used Commands",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "17. Avoid Innovative or Gimmicky Patterns for Navigation",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Free Downloads",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/menu-design/",
+    "https://www.nngroup.com/articles/menu-design/",
+    "https://www.nngroup.com/articles/menu-design/#toc-make-navigation-visible-1",
+    "https://www.nngroup.com/articles/menu-design/#toc-communicate-the-current-location-2",
+    "https://www.nngroup.com/articles/menu-design/#toc-communicate-the-available-options-3",
+    "https://www.nngroup.com/articles/menu-design/#toc-make-it-easy-to-manipulate-4",
+    "https://www.nngroup.com/articles/hamburger-menus/",
+    "https://www.nngroup.com/articles/content-chrome-ratio/",
+    "https://www.nngroup.com/articles/utility-navigation/",
+    "https://www.nngroup.com/articles/local-navigation/",
+    "https://www.nngroup.com/articles/footers/",
+    "https://www.nngroup.com/articles/navigation-you-are-here/",
+    "https://www.nngroup.com/articles/breadcrumb-navigation-useful/",
+    "https://www.nngroup.com/articles/deep-linking-is-good-linking/",
+    "https://www.nngroup.com/articles/breadcrumbs/",
+    "https://www.nngroup.com/articles/pogo-sticking/",
+    "https://www.nngroup.com/articles/category-names-suck/",
+    "https://www.nngroup.com/articles/technical-jargon/",
+    "https://www.nngroup.com/articles/right-justified-navigation-menus/",
+    "https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/",
+    "https://www.nngroup.com/articles/mega-menus-work-well/",
+    "https://www.nngroup.com/articles/mobile-subnavigation/#toc-sequential-menus-3",
+    "https://www.nngroup.com/articles/information-scent/",
+    "https://www.nngroup.com/articles/mobile-accordions/",
+    "https://www.nngroup.com/articles/image-vs-list-mobile-navigation/",
+    "https://www.nngroup.com/articles/icon-usability/",
+    "https://www.nngroup.com/articles/sticky-headers/",
+    "https://www.nngroup.com/articles/fitts-law/"
+  ]
+}

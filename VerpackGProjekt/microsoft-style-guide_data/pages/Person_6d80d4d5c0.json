@@ -1,0 +1,57 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/grammar/person",
+  "title": "Person",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nIn grammar, person refers to the point of view represented by a statement and determines which pronoun to use.\n\nIn second person, you write as though you're speaking to the reader. The second person often uses the personal pronoun you or your, but sometimes the word you is implied. It supports a friendly, human tone and helps avoid passive voice by focusing the discussion on the reader. Omit you can whenever the sentence works without it.\n\nIn product UI, avoid using you and your in ways that sound like we're commanding people to do something rather than providing options for them to make their own choices.\n\nHowever, when AI-generated content is used, we should use past tense (to express action done behind the scenes) by explicitly saying “for you” or by using words that convey uncertainty or subjectivity (to express that a judgment was applied that may or may not be correct).\n\nExamples Check if you have local admin rights.\n\nDepending on your choice, some features may be turned off by default.\n\nIn first person, you write as though you’re speaking from the reader’s point of view. Marketing and support documentation should never use first person singular. However, it may be used inside our product experiences. First-person singular pronouns can be used in product UI to show someone’s control over an action in checkbox, button, or toggle labels.\n\nExamples Notify me when a new Bluetooth device tries to connect to my computer\n\nI agree to the terms of service\n\nException In rare cases, it’s OK to use “my” in navigation or filter labels if you need to distinguish a person’s content from other content that may be presented in the same visual space.\n\nException Cortana is a persona, so the use of I is appropriate.\n\nFirst-person plural, which often uses the pronoun we, can feel like a daunting corporate presence—the opposite of Microsoft's modern voice. It's OK to use phrasing like we recommend if it helps you avoid awkward phrasing like it's recommended, but write around it if you can. Try to keep the focus on the customer, not Microsoft. It’s OK to use we in privacy and security settings where you need to make clear Microsoft is the speaker.\n\nExamples Notify scheduled default setting is the easiest way to keep your computer up to date. (Instead of We recommend that you use the scheduled default setting ....)\n\nChange your password (Instead of We recommend that you change your password.)\n\nWe protect your privacy at every step.\n\nThat didn’t work. Try again. (Instead of We weren’t able to run the Solution Checker. Try running it again.)\n\nAllow Microsoft to contact you about this feedback\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Person",
+      "id": "person"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "In general, use second-person pronouns (you, your)",
+      "id": "in-general-use-second-person-pronouns-you-your"
+    },
+    {
+      "level": "h2",
+      "text": "Use singular first-person pronouns sparingly (I, me, my)",
+      "id": "use-singular-first-person-pronouns-sparingly-i-me-my"
+    },
+    {
+      "level": "h2",
+      "text": "Avoid plural first person (we, us)",
+      "id": "avoid-plural-first-person-we-us"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/grammar/person",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/person",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/person",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/person",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/person",
+    "https://learn.microsoft.com/en-us/style-guide/grammar/person"
+  ]
+}

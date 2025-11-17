@@ -1,0 +1,40 @@
+{
+  "url": "https://www.nngroup.com/articles/definition-user-experience/",
+  "title": "The Definition of User Experience (UX)",
+  "content": "August 8, 1998 1998-08-08\n\nThe first requirement for an exemplary user experience is to meet the exact needs of the customer, without fuss or bother. Next comes simplicity and elegance that produce products that are a joy to own, a joy to use. True user experience goes far beyond giving customers what they say they want, or providing checklist features. In order to achieve high-quality user experience in a company's offerings there must be a seamless merging of the services of multiple disciplines, including engineering, marketing, graphical and industrial design, and interface design.\n\nIt's important to distinguish the total user experience from the user interface (UI), even though the UI is obviously an extremely important part of the design. As an example, consider a website with movie reviews. Even if the UI for finding a film is perfect, the UX will be poor for a user who wants information about a small independent release if the underlying database only contains movies from the major studios.\n\nWe should also distinguish UX and usability: According to the definition of usability, it is a quality attribute of the UI, covering whether the system is easy to learn, efficient to use, pleasant, and so forth. Again, this is very important, and again total user experience is an even broader concept.\n\nUse psychology to predict and explain how your customers think and act\n\nPlan, conduct, and analyze your own studies, whether in person or remote\n\nEffectively communicate ideas and findings to managers, collaborators, and other stakeholders",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "The Definition of User Experience (UX)",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "The Human Mind and Usability",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Usability Testing",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "UX Deliverables",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/don-norman/",
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/definition-user-experience/",
+    "https://www.nngroup.com/articles/usability-101-introduction-to-usability/"
+  ]
+}

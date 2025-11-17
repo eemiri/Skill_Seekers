@@ -1,0 +1,48 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements",
+  "title": "Formatting developer text elements",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nConsistent text formatting helps readers locate and interpret information. Follow these formatting conventions for text elements commonly used in content for developers.\n\nIn general, use code style for programmatic or code-related elements. The following table lists examples of common programming elements, and some exceptions to the code style convention. Consider localization needs for the text elements you're formatting.\n\nFor information about referring to these elements in UI, see Formatting text in instructions.\n\nSee alsoCapitalizationFormatting common text elementsProcedures and instructions\n\nThe capitalization of developer text elements varies depending on the programming language or operating environment. Use the capitalization that's appropriate for the element you're discussing. Follow the coding style guidelines for the language you're writing about. When you're documenting existing code, capitalization should follow what's used in the code.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Formatting developer text elements",
+      "id": "formatting-developer-text-elements"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/formatting-developer-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions",
+    "https://learn.microsoft.com/en-us/style-guide/capitalization",
+    "https://learn.microsoft.com/en-us/style-guide/text-formatting/formatting-common-text-elements",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/index",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions",
+    "https://learn.microsoft.com/en-us/style-guide/urls-web-addresses"
+  ]
+}

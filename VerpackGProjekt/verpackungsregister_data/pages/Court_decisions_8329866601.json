@@ -1,0 +1,80 @@
+{
+  "url": "https://www.verpackungsregister.org/en/foundation-authority/court-decisions",
+  "title": "Court decisions",
+  "content": "This page contains court decisions in proceedings against the Zentrale Stelle Verpackungsregister (Central Agency Packaging Register – ZSVR). Use the overview to quickly access relevant judgments and decisions.\n\nPlease note that the court decisions and judgments are available exclusively in German. The official language of the ZSVR is German. For court decisions in German, please click on the button.\n\nCase no.: 10 VR 5.25 (10 C. 6.25)\n\nFacts of the matterIf applicants take legal action against the classification of packaging as being subject to system participation, the appropriate course of action is to seek a mandatory order (Verpflichtungsklage) against the Zentrale Stelle Verpackungsregister (Central Agency Packaging Register – ZSVR). Interim legal protection (Eilrechtsschutz) is only available by way of an interim injunction pursuant to section 123 VwGO (Rules of the Administrative Courts).\n\nThe decision is legally binding.\n\nFacts of the matter:The Osnabrück Administrative Court sees a bubble liquid container with an integrated bubble ring not as packaging, but as one unit of goods, namely a toy.\n\nThis decision is not yet legally binding.\n\nFacts of the matter:The decision confirms the appropriateness of the generalised market assessment approach when deciding whether to classify packaging as being subject to system participation or not, as set out in the ZSVR’s system participation requirement catalogue. Quantity may be used as a material delineation criterion.\n\nThis decision is not yet legally binding.\n\nJudgement of the Osnabrück Administrative Court (paint and laquer)\n\nFacts of the matter:The decision confirms that food packaging can only be classified as not being subject to system participation when its labelling prohibits its sale to private final consumers, regardless of quantity. Where the labelling prohibits supply to private households but permits supply to comparable sources of waste generation (canteens, commercial kitchens), this packaging is subject to the overall market assessment and may or may not be subject to system participation depending on the quantities listed in the ZSVR’s catalogue.\n\nThis decision is not yet legally binding.\n\nJudgement of the Osnabrück Administrative Court (salad cream)\n\nFacts of the matter:The decision confirms that reusable shopping bags are classified as service packaging and are therefore subject to system participation. According to general commercial usage, they are typically supplied to be filled with goods in store. Being used a second time or any further use are irrelevant.\n\nThis decision is not yet legally binding.\n\nFacts of the matter:The decision confirms that glasses cases supplied in conjunction with glasses constitute retail packaging subject to system participation. According to general commercial usage, glasses cases are not an integral component of glasses as a product. Extending the lifetime of the glasses or usage as a means to store them are irrelevant. The fact that glasses cases can be provided empty makes no difference.\n\nThis decision is not yet legally binding.\n\nFacts of the matter:The decision confirms that dummy cases containing dummies (pacifiers) constitute retail packaging subject to system participation. According to general commercial usage, dummy cases are not an integral component of dummies as a product. Extending the life of the dummy or serving as storage for it, as well as any further usage such as sterilising the dummy are irrelevant. The fact that dummy cases can be provided empty makes no difference.\n\nThis decision is not yet legally binding.\n\nFacts of the matter:The decision states that Osnabrück Administrative Court is responsible for hearing claims against the ZSVR’s administrative acts, not the claimant’s local administrative court. The ZSVR is also treated as an authority under the Rules of the Administrative Courts.\n\nThis decision is legally binding.\n\nDecision of the Federal Administrative Court\n\nCase no.: 9 K 391/22.TR\n\nFacts of the matter:The decision arises from a case where the claimant was not the counterparty to a classification decision but rather a company that also placed reusable shopping bags on the German market, albeit with a different outward appearance. This was not sufficient standing to bring a claim. The company would need to make its own classification application to proceed.\n\nThis decision is legally binding.\n\nJudgment of the Trier Administrative Court\n\nOur case reports provide an overview of administrative proceedings related to breaches of the Verpackungsgesetz (Packaging Act).",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Court decisions",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Not translated",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Individual court decisions",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Federal Administrative Court – decision dated 21 August 2025: Emergency appeal in the proceedings on reusable shopping bags dismissed as inadmissible",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Osnabrück Administrative Court – judgment dated 25 June 2025: Claim against the classification of packaging (bubble liquid container with an integrated bubble ring) as being subject to system participation upheld",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Osnabrück Administrative Court – judgment dated 11 February 2025: Claim against the classification of packaging (paint and lacquer) as being subject to system participation dismissed",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Osnabrück Administrative Court – judgment dated 11 February 2025: Claim against the classification of packaging (salad cream) as being subject to system participation dismissed",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Cologne Administrative Court – judgment dated 31 January 2025: Claim against the classification of packaging (reusable shopping bag) as being subject to system participation dismissed",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Osnabrück Administrative Court – judgment dated 3 December 2024: Claim against the classification of packaging (glasses case) as being subject to system participation dismissed",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Osnabrück Administrative Court – judgment dated 3 December 2024: Claim against the classification of packaging (dummy case) as being subject to system participation dismissed",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Federal Administrative Court – decision dated 9 January 2023: jurisdiction decision (contested jurisdiction)",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Trier Administrative Court – judgment dated 22 June 2024: Claim against the classification of packaging (reusable shopping bag) as being subject to system participation dismissed",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsregister.org/en/",
+    "https://www.verpackungsregister.org/en/foundation-authority/about-us",
+    "https://www.verpackungsregister.org/stiftung-und-behoerde/gerichtsentscheidungen",
+    "https://www.verpackungsregister.org/fileadmin/files/Gerichtsurteile/20250821_Beschluss_BVerwG_Permanenttragetasche.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/Gerichtsurteile/20250625_Urteil_Beh%C3%A4ltnis_Seifenblasenfl%C3%BCssigkeit.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/Gerichtsurteile/20250219_Urteil_Permanenttragetasche.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/Gerichtsurteile/20250221_Urteil_Brillenetui.pdf",
+    "https://www.verpackungsregister.org/fileadmin/files/Gerichtsurteile/20250220_Urteil_Schnullerbox.pdf",
+    "https://www.verpackungsregister.org/en/foundation-authority/case-reports"
+  ]
+}

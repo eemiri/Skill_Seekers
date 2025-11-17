@@ -1,0 +1,121 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+  "title": "Product Roadmaps: How To Customize Them for Your Audience",
+  "content": "Last updated: April 2024\n\nRoadmaps are an essential tool for product managers. Think of them as visual product plans that communication why you are building, when you will deliver, and what will be included. They serve as a timeline for making your product vision a reality.\n\nProduct roadmaps should answer these questions:\n\nWhat big themes are we working against?\n\nWhat is planned to be delivered and when?\n\nWhat is the status of the team’s work?\n\nIf you build your plans in a roadmapping tool like Aha! Roadmaps, you can create different views to tailor the roadmap to specific audiences. This allows you to convey only the information that is most pertinent to who is viewing it — such as executive leaders, product, sales, or customer support.\n\nWho is your roadmap for?\n\nWhat is the purpose of your roadmap?\n\nWhat needs to be shown?\n\nWhat is the time frame?\n\nRoadmapping templates and tools\n\nExecutives, customers, internal teams, and partners are just a few of the different audiences who will want to see your roadmap. With each one wanting their own unique questions answered, many product managers create and maintain different roadmap variations, such as:\n\nAn executive roadmap for quarterly review\n\nA roadmap for the customer advisory board\n\nA roadmap for the sales team outlining upcoming releases\n\nDefining your audience first will help you decide what should be included on your roadmap. For example, some folks will want a high-level view — a roadmap that shows product vision, key initiatives, and timelines for major bodies of work.\n\nOthers will want to see more granular details, such as planned features and internal due dates. For this audience, you will want to present your roadmap in a way that is both thorough and concise.\n\nBefore adding details to the roadmap, it is important to consider your intended outcome. Why does this particular audience need this information? What do you want them to come away with?\n\nMany product managers need to communicate high-level themes that will help guide investment decisions for the business. Another example is the need to visualize the timing of new functionality so the development team can allocate capacity. Focus on your main purpose to help guide which type of roadmap to build.\n\nTips for effective collaboration between product managers and engineers\n\nWhat is a product backlog?\n\nIntroduction to release management\n\nProduct managers understand that the details that matter to one team do not always matter to another. As an example, ask yourself, “Does my customer success team care about a behind-the-scenes infrastructure upgrade?” In most cases, they probably do not.\n\nNow ask yourself, “Do they need to know when the new product functionality is planned and when it will be available so they can answer customer questions?” Absolutely. Asking these key questions will guide you to determine what to include — such as in-progress features, release dates, or statuses.\n\nProduct managers rely heavily on dates because this work requires managing a lot of moving parts. Think about the key dates and dependencies in your plan and how they should be presented. The time frame you pick on your roadmap depends on the level of detail required and can range from days and weeks to months, quarters, and sometimes even years.\n\nHow to communicate your product roadmap to customers\n\nHow to build an annual roadmap\n\nIf you are new to creating product roadmaps, it is important to remember that there is no universal format that works for all scenarios. Your job is to assess what you will need to share by asking the questions above. Then, you can create a visual representation of your product plans in a way that captures and communicates your overall direction to the intended audience.\n\nIf you want to try building your own roadmap, you can start with a simple Now, Next, Later roadmap template in Aha! software. The template below is built on a digital whiteboard — which makes it easy to get the feel for roadmapping. Better still, any element on the whiteboard can be converted into real work items in Aha! Roadmaps. That way, you can move from early-stage to more structured planning without duplicating work.\n\nStart using this template now\n\nThe work does not end with roadmap views at the ready. As you move forward into implementation, stay in close communication with cross-functional teammates — making sure that everyone is in sync and on schedule. As your plans come together, you get to enjoy the exhilaration of bringing real value to customers and the company.\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to customize the right roadmap for your audience",
+      "id": "how-to-customize-the-right-roadmap-for-your-audience"
+    },
+    {
+      "level": "h4",
+      "text": "Build what matters. Sign up for a 30-day trial of Aha! Roadmaps.",
+      "id": "build-what-matters"
+    },
+    {
+      "level": "h2",
+      "text": "Who is your roadmap for?",
+      "id": "who-is-your-roadmap-for"
+    },
+    {
+      "level": "h2",
+      "text": "What is the purpose of your roadmap?",
+      "id": "what-is-the-purpose-of-your-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "What needs to be shown?",
+      "id": "what-needs-to-be-shown"
+    },
+    {
+      "level": "h2",
+      "text": "What is the time frame?",
+      "id": "what-is-the-time-frame"
+    },
+    {
+      "level": "h2",
+      "text": "Roadmapping templates and tools",
+      "id": "roadmapping-templates-and-tools"
+    },
+    {
+      "level": "h4",
+      "text": "Try this whiteboard template — with a free trial.",
+      "id": "try-this-whiteboard-template-"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap#who-is-your-roadmap-for",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap#what-is-the-purpose-of-your-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap#what-needs-to-be-shown",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap#what-is-the-time-frame",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap#roadmapping-templates-and-tools",
+    "https://www.aha.io/roadmapping/guide/product-management/roadmap-planning",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/product-management/work-with-engineers",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-communicate-your-product-roadmap-to-customers",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/visualize-data",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-build-an-annual-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-the-right-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/how-to-communicate-your-product-roadmap-to-customers",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

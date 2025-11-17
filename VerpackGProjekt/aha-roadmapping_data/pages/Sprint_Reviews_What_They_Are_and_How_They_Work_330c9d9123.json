@@ -1,0 +1,91 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+  "title": "Sprint Reviews: What They Are and How They Work",
+  "content": "A sprint review is a meeting that scrum teams hold at the end of each sprint. Think of it as an informal session for sharing work completed during the sprint, answering questions from the product owner and other stakeholders, and receiving feedback on new functionality. For context, a sprint review is the third of the four scrum ceremonies:\n\nSprint planning: a working session to agree on what the team will accomplish during the next sprint\n\nDaily standup: a quick meeting to align on completed and upcoming work\n\nSprint review: an opportunity to demo work and hear feedback from teammates\n\nSprint retrospective: a chance to reflect on how the sprint went in order to improve future sprints\n\nBy the end of each sprint, you aim to produce a coded, tested, and usable piece of software — a potentially shippable product increment. In a sprint review meeting, you and your developer teammates demo what you accomplished during the sprint and discuss what (if anything) you were not able to achieve. The demo is an opportunity to show that your functionality is working, even if it is not completely ready to ship.\n\nDuring a sprint review meeting, the product owner also decides whether you have met the objective of the sprint. If changes must be made to achieve the sprint goals, the team then collectively agrees on what development work you will do to improve functionality.\n\nThe main purpose of a sprint review is for the scrum team and other cross-functional teammates to come together to review the work that was planned versus the work that was actually achieved. During the sprint itself, you are heads down — focused on coding and implementing changes within a given time frame. This is why it is so valuable to pause, regroup, and confirm that the development work is progressing the way everyone is expecting.\n\nWhile demos are a significant component of sprint reviews, these meetings are not merely presentations. Productive sprint reviews also keep the team aligned on how the development work is progressing against the product roadmap. When developers and stakeholders alike understand (and agree on) the reasoning behind each feature or update, it is easier to align on how your work will positively impact users. This ensures that you are implementing functionality in a way that meets business needs and exceeds customer expectations.\n\nBeyond this, the best sprint review meetings are fun. Seeing what everyone has worked on helps you feel closer to the other developers on your team. You can appreciate each person's contributions and celebrate the great work you and your colleagues have accomplished.\n\nHow to implement scrum?\n\nThemes, epics, stories, and tasks in scrum\n\nThe three roles on a scrum team — product owner, scrum master, and development team — are the primary attendees at a sprint review. Collectively the group discusses which items in the product backlog are completed, which are not, and any adjustments you must make to deliver on time.\n\nHere is a brief summary of what each member of the scrum team is responsible for during a sprint review:\n\nProduct owner: Accepts completed user stories, shares feedback on new functionality, and adjusts the product backlog if necessary\n\nScrum master: Oversees the logistics of the meeting — coordinates who will be speaking and plans the meeting time and location so that all attendees can be present and punctual\n\nDevelopment team: Demonstrates the new functionality you have built and answers questions about your work (usually the developer who built a given feature will be the person who shares it during the sprint review)\n\nThe product owner will typically invite other people as well, depending on which groups in the organization are impacted by development work completed during the sprint. Expect to see UX designers, representatives from the cross-functional product team, or other interested parties join the meeting to offer their insight. For example, the product owner might invite an account manager for a large customer that will be impacted by new functionality, or a member of the finance team if the feature is an update to an internal billing application.\n\nIf you are new to sprint reviews, it can feel intimidating to have so many different folks from across the organization attend. But these stakeholders are often able to give valuable information and feedback that can inform your development work and even spark ideas for how to build a more compelling solution. Listening deeply to everyone's feedback ensures that you are well-positioned to reach business goals and create a better product.\n\nLet's take a moment to explain the differences between two related scrum ceremonies — the sprint review and sprint retrospective. If you are new to scrum, it is easy to confuse these events because both occur after the sprint is complete. But the objectives and key agenda items differ between these two meetings. Let's take a closer look:\n\nReview completed work and determine whether the development team needs to make any changes\n\nGather feedback from relevant stakeholders on new or updated functionality\n\nReflect on what worked well and what did not during the sprint\n\nSurface opportunities to improve processes and workflows in future sprints — in line with scrum's focus on adaptability, incremental improvement, and learning\n\nOther relevant stakeholders\n\nOccurs at the end of each sprint\n\nDuration is typically one hour per one week of the sprint — so at most, spend two hours for a two-week sprint\n\nUsually occurs immediately after the sprint review\n\nDuration is typically one hour or less, but it can go longer if the sprint was unusually difficult or complicated\n\nThe product owner determines whether the team has met the objective of the sprint or if additional changes must be made\n\nBased on learnings, the scrum team decides what to continue doing, stop, or try in the next sprint. For example, you might agree to experiment with a new strategy for reducing merge conflicts between developers.\n\nScrum prescribes rules for its four ceremonies. While these are useful guidelines, remember that there is no \"wrong\" way to approach a sprint review — so long as the meeting helps you reach your objectives. Choose the format, timing, agenda, and level of formality that works best for your agile team and helps you achieve your product and sprint goals.\n\nThat said, it is useful to understand some best practices for running a sprint review:\n\nGoal first: Clarify during sprint planning what your objectives are and why they matter to customers and the business. Then during the sprint review, you have clear goalposts to measure your progress against.\n\nAlign: Everyone should understand when a user story or work item is complete. The product owner defines acceptance criteria — metrics to determine when a user story is done — during sprint planning. The sprint review, then, is a chance for the group to confirm that the acceptance criteria have indeed been met for each item of work.\n\nCollaborate: Along with your developer teammates and other stakeholders, you should ask questions, raise concerns, and give feedback. This helps you improve the product and deepens everyone's empathy for customers and their use cases.\n\nCelebrate: You worked hard and now it is time to enjoy the team's accomplishments. Sprint reviews build camaraderie, increase morale, and boost motivation for the next iteration.\n\nIf you are new to scrum or simply want to learn more about what the different scrum ceremonies look like in practice, you can download this free sprint review template. Follow the suggested agenda items or customize it according to the needs of your team — so you can have more focused and productive sprint reviews.\n\nThis is an example of a sprint review meeting note template created using Aha! Develop.\n\nProductive and happy development teams use Aha! Develop to customize the way they work. Sign up for a free 30-day trial to discover all you can do with this fully extendable agile development tool.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is a sprint review?",
+      "id": "what-is-a-sprint-review"
+    },
+    {
+      "level": "h4",
+      "text": "Track sprint progress in Aha! Develop. Start a free trial.",
+      "id": "track-sprint-progress-in-aha-develop"
+    },
+    {
+      "level": "h2",
+      "text": "Making sprint reviews more valuable",
+      "id": "making-sprint-reviews-more-valuable"
+    },
+    {
+      "level": "h2",
+      "text": "Who should attend a sprint review?",
+      "id": "who-should-attend-a-sprint-review"
+    },
+    {
+      "level": "h2",
+      "text": "What is the difference between a sprint review and a sprint retrospective?",
+      "id": "what-is-the-difference-between-a-sprint-review-and-a-sprint-retrospective"
+    },
+    {
+      "level": "h2",
+      "text": "How to run a sprint review",
+      "id": "how-to-run-a-sprint-review"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-included-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review#top",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-user-experience-design",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review#top",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

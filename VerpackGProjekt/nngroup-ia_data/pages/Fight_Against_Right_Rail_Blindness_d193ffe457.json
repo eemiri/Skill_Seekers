@@ -1,0 +1,83 @@
+{
+  "url": "https://www.nngroup.com/articles/fight-right-rail-blindness/",
+  "title": "Fight Against “Right-Rail Blindness”",
+  "content": "October 12, 2013 2013-10-12\n\nUnfortunately, the prolific use of the right rail (also known as the right-side column of webpages) by website creators to feature advertising has forced users to train themselves to avoid looking in this area. Does this mean you should abandon the right column? No.\n\nThe right-hand side of the page consumes maybe 20% of your available pixels: the most precious resource in computers. It can serve many significant and practical purposes. It’s a place to feature secondary content — to recommend or extend the user journey to other areas of your site. Not everything on your site should have the same level of prominence. Think of the sidebar as a knowledgeable customer-service agent: she doesn’t need to take center stage, but is there and ready to offer help when the customer needs it. Designing this space well can have a profound impact on usability and how well your content is noticed.\n\nRight-rail design is one of the topics covered in more detail in our course on Web Page Design: for now, here are 4 tips for gaining better ROI from this part of your pages.\n\nUsers are extremely goal oriented. They look for information they care about and ignore anything others want to push on them. In fact, users have evolved an active system of self-defense against ads. That’s because on the web they are constantly barraged with attempts to capture their attention and divert it from their own goals. Users dodge even the most obnoxiously “loud” banners by training their eyes to avoid this attack on the senses.\n\nBanner blindness has expanded beyond the deliberate act of not looking at banners to encompass avoidance of anything that usually signals irrelevant information or advertisements. People disregard colorful boxes in the margin of the page because such graphical treatments are commonly applied to ads. In fact, anything that’s overly large or colorful risks being ignored, and user attention tends toward the left side of pages. In usability studies, we frequently observe users overlooking items they need even when these items are in plain sight. When questioned after the study, they tell us again and again, “I saw that, but it looked like an ad, so I ignored it.”\n\nChoose a light-weight, simple visual design for the right column — one that matches the content of the site. People are more likely to trust and click links that look like valuable content rather than what appears to be irrelevant advertising.\n\nPeople rely on visual patterns to help them determine the relationship among different chunks of information on the page. Humans have limited cognitive resources, so they take shortcuts. This is how the human mind works. We know from gestalt design principles that people perceive elements that are placed together to be related. It’s fine to feature ads on your site. People are used to it. However, whenever possible, group external and internal promotions separately, and make them look distinct to avoid any confusion.\n\nIf you want people to notice your content, keep it within their line of sight and avoid wedging it between ad-like elements where it could be associated with advertising erroneously. Users have limited time and mental resources and won’t spend them evaluating every aspect of your interface. Make the distinction between ads and content obvious.\n\nMany site owners choose to feature thumbnails to create visual interest and attract attention. This is fine. However, if you feature images on your site, make sure to choose the right ones; otherwise they become visual noise, and, even worse, give people the wrong impressions.\n\nYou have only milliseconds to inform people of your offerings, so make each visual element count. Images should provide visual interest and serve as communication tools. When done well, thumbnails help tell the story by providing context. People appreciate images that contain useful information and balk at generic images that contain little substance.\n\nEach image requires cognitive effort to discern, especially at small sizes, so choose them wisely. When selecting images, pick ones that supplement the content and are easily discernible in small sizes. Our eyetracking research shows that simple images, that have simple backgrounds and identifiable objects, attract more attention than busy images.\n\nAvoid turning the side column into a junk drawer. Have a strategy for tailored content based on users’ needs. Anticipate the user’s task and offer recommendations to match. Don’t display the same set of links or articles across different pages: it undermines the usefulness of the suggestions and trains people to avoid it. From the user’s perspective, seeing the same irrelevant list repeatedly is like speaking to an agent that doesn’t listen.\n\nRelevant suggestions feel natural and unforced. Consider when to offer broad or narrow topics. For example, at top-level pages (e.g., homepage and section pages), people are much more open to serendipitous discovery. However, at the article level, people are more topic focused and need highly relevant content.\n\nContrary to what many website creators might think, when it comes to side columns, the less graphical it is, the more attention users will pay. Be subtle and relevant, and the right rail can provide value to your site.\n\nUse psychology to predict and explain how your customers think and act\n\nStrategically combine content, visuals, and interactive components to design successful web pages",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Fight Against “Right-Rail Blindness”",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "1. Don’t design content to look like banner ads. A clean sidebar design garners trust.",
+      "id": "toc-1-dont-design-content-to-look-like-banner-ads-a-clean-sidebar-design-garners-trust-1"
+    },
+    {
+      "level": "h2",
+      "text": "2. Position content away from the banner ads to avoid \"guilt by association.\"",
+      "id": "toc-2-position-content-away-from-the-banner-ads-to-avoid-guilt-by-association-2"
+    },
+    {
+      "level": "h2",
+      "text": "3. Feature thumbnail images only if they communicate useful information quickly.",
+      "id": "toc-3-feature-thumbnail-images-only-if-they-communicate-useful-information-quickly-3"
+    },
+    {
+      "level": "h2",
+      "text": "4. Feature content that is relevant and helpful.",
+      "id": "toc-4-feature-content-that-is-relevant-and-helpful-4"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-5"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "The Human Mind and Usability",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Web Page UX Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/hoa-loranger/",
+    "https://www.nngroup.com/articles/fight-right-rail-blindness/",
+    "https://www.nngroup.com/articles/fight-right-rail-blindness/",
+    "https://www.nngroup.com/articles/fight-right-rail-blindness/#toc-1-dont-design-content-to-look-like-banner-ads-a-clean-sidebar-design-garners-trust-1",
+    "https://www.nngroup.com/articles/fight-right-rail-blindness/#toc-2-position-content-away-from-the-banner-ads-to-avoid-guilt-by-association-2",
+    "https://www.nngroup.com/articles/fight-right-rail-blindness/#toc-3-feature-thumbnail-images-only-if-they-communicate-useful-information-quickly-3",
+    "https://www.nngroup.com/articles/fight-right-rail-blindness/#toc-4-feature-content-that-is-relevant-and-helpful-4",
+    "https://www.nngroup.com/articles/fight-right-rail-blindness/#toc-conclusion-5",
+    "https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/",
+    "https://www.nngroup.com/articles/horizontal-attention-leans-left/",
+    "https://www.nngroup.com/articles/closeness-of-actions-and-objects-gui/",
+    "https://www.nngroup.com/articles/mobile-list-thumbnail/",
+    "https://www.nngroup.com/articles/photos-as-web-content/",
+    "https://www.nngroup.com/articles/big-pictures-small-screens/",
+    "https://www.nngroup.com/articles/most-violated-homepage-guidelines/",
+    "https://www.nngroup.com/articles/write-interesting-facts/",
+    "https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/"
+  ]
+}

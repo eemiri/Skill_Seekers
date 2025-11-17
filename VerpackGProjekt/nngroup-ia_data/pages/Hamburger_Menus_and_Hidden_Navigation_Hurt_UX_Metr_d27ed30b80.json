@@ -1,0 +1,109 @@
+{
+  "url": "https://www.nngroup.com/articles/hamburger-menus/",
+  "title": "Hamburger Menus and Hidden Navigation Hurt UX Metrics",
+  "content": "June 26, 2016 2016-06-26\n\nOur quantitative usability testing of hidden menus (such as hamburger icons) and visible menus (such as links across the top of pages) reveals that:\n\nResponsive design has many merits; however, one of its less fortunate effects has been an excessive popularity of mobile-first designs that translate poorly onto larger desktop screens. To be clear, “mobile-first” itself is not the issue. Rather, the issue is taking sufficiently good mobile designs and porting them to desktops where they do not work as well. Mobile-first should not equal mobile-only.\n\n(Obviously, there’s a general principle here: if a design technique is intended to span platforms X and Y, then an uncompromising X-first approach will make Y an afterthought and harm users on Y. To design for X and Y, you need to consider the strengths and needs of both and adapt the two versions of the website accordingly.)\n\nHidden navigation, such as the hamburger menu, is one of the many patterns inspired by mobile designs. Screen space is a precious commodity on mobile. To meet the challenge of prioritizing content while still making navigation (and other chrome) accessible, designers commonly rely on hiding the navigation under a menu — often indicated by the infamous hamburger icon. Like a cheap fast food chain, it got designers addicted to its convenience, and now serves millions each day, both on mobile devices and on desktops.\n\nWhile our qualitative user testing has repeatedly shown that navigation hidden under a drop-down menu is less discoverable on the desktop, we wanted to measure the size of this effect in a quantitative study and assess the relative impact of hidden navigation on the desktop versus mobile. To do so, we partnered with WhatUsersDo (a company specializing in remote usability testing) to run a study with 179 participants who completed tasks on 6 different sites, both on smartphones and desktops. The results of this large study are reported in this article. An additional article includes our detailed research methodology and images of the menus tested.\n\nTo determine the effectiveness and usability of the different menus, we ran usability tests on the desktop and mobile versions of 6 different live websites with different types of navigation designs. Here are the types of navigation that we considered:\n\nNote that, for mobile devices, we did not fully test the visible-navigation condition. (Visible navigation is less common on mobile devices, and, due to other constraints in our study, we were not able to include this condition.) We tested the hidden and combo navigation conditions on mobile.\n\nWe wrote 2 simple tasks for each website. Some tasks could be completed without the use of the general site navigation, while other tasks required the use of navigation (or search). Here’s an example of a task: “Go to http://www.bbc.com and see if there is any information on nature or wildlife you are interested in. Once you find a particular article that is interesting, please say which one it is.”\n\nTo measure the effectiveness of these designs, we collected 5 metrics:\n\nThe first 2 metrics are related to navigation usage, while the last 3 refer to the quality of the user experience.\n\n(More on different types of UX metrics and how to collect and analyze them in our full-day course Measuring User Experience.)\n\nTo quantify the navigation usage, we looked at (1) navigation use: whether navigation was used during a task; and (2) time to navigation: the time from the beginning of the task until the moment when the navigation was used. (We only counted time to navigation if the navigation was used.)\n\nThese metrics tell us whether the navigation is helpful and also whether it is easy to discover. If the navigation is salient, you’d expect it to be used more and sooner than if it was hard to discover.\n\nOur tasks did not direct participants to use the navigation, search, page links, or any other interface features. Rather, people could use whatever they wanted in the interface to do the task. We assumed that if navigation is visible and seems helpful to users, they will click it; if not, they will try other things. Thus, we recognize that not clicking a menu can simply reflect that users perceived something else to be a better choice, and not that they did not notice or recognize the menu.\n\nFor example, on certain pages and tasks, an in-line link may have high information scent — think of looking for a movie on a newspaper site: if the first headline that you see on the page is exactly about that movie, chances are that you’ll pick it without using navigation or search.\n\nOur results indicate that, across both these measures, hidden navigation was significantly less discoverable than visible or combination navigation:\n\nWe ran a mixed-effects logistic regression and found that these differences were statistically significant. This result is not surprising: when (all or some of) the navigation options are visible, they are more salient to users. If nothing else, the screen footprint of visible or combo navigation is larger than that of a menu represented by just an icon or a label, so people will notice it more.\n\n2. People were significantly more likely to use the navigation (whether hidden or partially visible) on mobile than on desktop.\n\nThere are many potential explanations for this finding:\n\nTyping is harder and more error prone on mobile, and people may be more likely to prefer navigation instead of searching, when the navigation is available.\n\nAlthough the numbers seem to indicate a device effect (that is, that participants were faster to use the hidden navigation on mobile than on desktop) or an interaction (that is, that the impact of hidden navigation was higher on desktop than on mobile), these effects were not statistically significant.\n\nAn additional few seconds spent may seem petty, and we agree that it will not be the difference between a fine and a terrible user experience. But in those few moments the user may begin to experience frustration and self-doubt. Add on a few more seconds and the user may abandon the task, or at least the menu.\n\nThe other 3 metrics that we collected focused on the quality of the user experience:\n\nOur findings show that, across all 3 different metrics, hidden navigation significantly decreases user experience both on mobile and on desktop.\n\n1. Both on mobile and desktop, the content discoverability was significantly lower when the navigation was hidden. This measure showed a more than 20% drop in discoverability on sites with hidden navigation, compared with sites with visible or combo navigation. In other words, visible or combo navigation made people more likely to complete the task successfully and without relying on search.\n\nIn the first section of this article, we reported that mobile users were significantly more likely to use the navigation than desktop users (see Figure 1). Here we discuss desktop–mobile differences related to the user-experience metrics.\n\nWhy does hidden navigation have these effects? Throughout the article, we hinted at several answers:\n\nOf these 5 points against hidden navigation, only the last one might decline in future years. Hypothetically, increased design standardization could also occur (which would also increase familiarity), but our experience observing the web design evolve over the decades doesn’t make us optimistic that strong design standards will emerge anytime soon. The 3 biggest points of low salience, low information scent, and extra work will always be a curse on hidden navigation that will reduce its usability.\n\nWhat are the takeaways of this research for your next design project?\n\nDesktop: There is plenty of screen real estate for displaying navigation options, and we recommend:\n\nMobile: For phones, there is no hard-and-fast rule. But our general recommendations are:\n\nRemember: mobile-first is not the same as mobile-only. Plus, of course, follow the other long-established UX guidelines for menu design.\n\nCreate user interfaces using essential principles, techniques, and methods of visual design\n\nTrending UX patterns and their impact on the total user experience",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Hamburger Menus and Hidden Navigation Hurt UX Metrics",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Why Study Hidden and Visible Navigation",
+      "id": "toc-why-study-hidden-and-visible-navigation-1"
+    },
+    {
+      "level": "h2",
+      "text": "Measures: Navigation Usage, Content Discoverability, Time, Task Difficulty",
+      "id": "toc-measures-navigation-usage-content-discoverability-time-task-difficulty-2"
+    },
+    {
+      "level": "h2",
+      "text": "Navigation Usage: Hidden Navigation Used Less and Later in the Task",
+      "id": "toc-navigation-usage-hidden-navigation-used-less-and-later-in-the-task-3"
+    },
+    {
+      "level": "h2",
+      "text": "Hidden Navigation Leads to Worse User Experience",
+      "id": "toc-hidden-navigation-leads-to-worse-user-experience-4"
+    },
+    {
+      "level": "h3",
+      "text": "Differences Between the Desktop and Mobile User Experience",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Why Hidden Navigation Is Less Effective",
+      "id": "toc-why-hidden-navigation-is-less-effective-5"
+    },
+    {
+      "level": "h2",
+      "text": "Navigation Recommendations",
+      "id": "toc-navigation-recommendations-6"
+    },
+    {
+      "level": "h3",
+      "text": "Other Articles Related to the Study This Article was Based on",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Visual Design Fundamentals",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Emerging Patterns in Interface Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/kara-pernice/",
+    "https://www.nngroup.com/articles/author/raluca-budiu/",
+    "https://www.nngroup.com/articles/hamburger-menus/",
+    "https://www.nngroup.com/articles/hamburger-menus/",
+    "https://www.nngroup.com/articles/hamburger-menus/#toc-why-study-hidden-and-visible-navigation-1",
+    "https://www.nngroup.com/articles/hamburger-menus/#toc-measures-navigation-usage-content-discoverability-time-task-difficulty-2",
+    "https://www.nngroup.com/articles/hamburger-menus/#toc-navigation-usage-hidden-navigation-used-less-and-later-in-the-task-3",
+    "https://www.nngroup.com/articles/hamburger-menus/#toc-hidden-navigation-leads-to-worse-user-experience-4",
+    "https://www.nngroup.com/articles/hamburger-menus/#toc-why-hidden-navigation-is-less-effective-5",
+    "https://www.nngroup.com/articles/hamburger-menus/#toc-navigation-recommendations-6",
+    "https://www.nngroup.com/articles/responsive-web-design-definition/",
+    "https://www.nngroup.com/articles/mobile-usability-update",
+    "https://www.nngroup.com/articles/content-chrome-ratio",
+    "https://www.nngroup.com/articles/browser-and-gui-chrome/",
+    "https://www.nngroup.com/articles/killing-global-navigation-one-trend-avoid/",
+    "https://www.nngroup.com/articles/hidden-navigation-methodology/",
+    "https://www.nngroup.com/articles/information-scent/",
+    "https://www.nngroup.com/articles/page-fold-manifesto/",
+    "https://www.nngroup.com/articles/interaction-cost-definition/",
+    "https://www.nngroup.com/articles/search-not-enough/",
+    "https://www.nngroup.com/articles/scaling-user-interfaces",
+    "https://www.nngroup.com/articles/support-mobile-navigation/",
+    "https://www.nngroup.com/articles/mobile-first-not-mobile-only/",
+    "https://www.nngroup.com/articles/menu-design/",
+    "https://www.nngroup.com/articles/mobile-first-not-mobile-only/",
+    "https://www.nngroup.com/articles/hidden-navigation-methodology/",
+    "https://www.nngroup.com/articles/find-navigation-mobile-even-hamburger/",
+    "https://www.nngroup.com/articles/find-navigation-desktop-not-hamburger/"
+  ]
+}

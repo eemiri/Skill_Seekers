@@ -1,0 +1,96 @@
+{
+  "url": "https://www.nngroup.com/articles/childrens-websites-usability-issues/",
+  "title": "Children’s UX: Usability Issues in Designing for Young People",
+  "content": "January 13, 2019 2019-01-13\n\nMillions of children use the internet, and millions more are coming online each year. Many websites and apps specifically target children with educational or entertainment content, and mainstream organizations often have specific “kids’ corner” sections — either as a public service or to build brand loyalty from an early age.\n\nTo separate design myths from usability facts, we turn to empirical user research: observations of a broad range of children as they use a wide variety of websites and apps in the United States and other countries.\n\nThis research covers users aged 3–12 years. (Guidelines for sites targeting people 13–17 years old are available in a report from our separate research with teenagers.)\n\nWe conducted three separate rounds of usability studies, testing a total of 125 children (59 girls and 66 boys):\n\nIn Study 1, we conducted sessions in participants’ homes, at schools, and in a usability lab. All of Study 2 and Study 3 sessions were run in a lab. We tested some users in pairs with a friend or relative, and others individually. Pair sessions worked best for children 6–8 years old. In contrast, for children younger than 6 or older than 8, individual sessions were just as good (and are obviously cheaper, as we had to recruit only one user per session).\n\nAlthough it can be difficult for shy or very young children, we encouraged users to think out loud while they were using the sites. We told the children that they were the experts, and that we wanted them to teach us how children use and think about websites. We then explained that, in order for us to learn, they had to explain what they were thinking at all times.\n\nWe mainly took the users to specific sites or apps and gave them directed tasks that we'd prepared for each site. Often, these tasks differed according to the user’s age and gender. At other times, we gave all users the same task. For example, on 7k7k.com (a Chinese game site), we asked boys and girls to play a ping-pong game. Finally, some sites were tested only by a targeted age group. For example, we only tested the Peppa Pig website and app with 3–5-year-olds, asking them to play a game and watch a video.\n\nWe mainly tested websites and apps targeted at children. In Study 1, we also tested a few general websites targeted at grownup users to assess how children use such sites. And, in Studies 2 and 3, we tested some web-wide tasks, asking users a general question and letting them find the answer on a site of their choosing. For example, we asked children aged 6–12 to find out how to say “thank you” in Japanese. In Study 3, we included mobile and tablet apps that were popular in the U.S. and China.\n\nIn Study 3, we tested 39 websites and 36 apps, covering a broad range of genres:\n\nWe conducted our three studies 8 and 9 years apart (our first children’s study was 18 years ago). Most aspects of usability don’t change much in that time; when we test the same design questions repeatedly, we usually end up with the same findings. For example, guidelines on the best way to structure a menu or how many items a menu should include are typically the same year after year, because such user interface questions are determined more by the human brain’s characteristics and limitations than by changing technologies. (Other design issues are more technologically determined. For example, people’s approach to watching videos online has changed substantially over the last two decades.)\n\nIn addition to the static state of human psychology, usability findings tend to be stable because the user pool is stable. If we take a simplified view of the adult audience — say, anyone from 20 to 80 years of age — then 83% of users will be unchanged from one decade to the next. (In reality, most websites don’t have an even age distribution among their customers, but the point remains: adult users in 10 years will be generally the same people who are using the Web today.)\n\nChildren are a different story, and there are at least three reasons to expect that current usability findings might be different from those of 8 and 17 years ago:\n\nTaken together, these observations imply major changes in what constitutes a usable site or app for kids today compared to when mobile devices and computers first entered the home.\n\nDespite this reasonable case for expecting major changes, our third study actually confirmed most of the guidelines from the previous studies. For example, in our second study, we observed kids skipping the long paragraphs of instructions on the U.S. Mint Kids site. Eight years later, we saw this same behavior when kids encountered lengthy explanations on the Roblox platform.\n\nWe did learn many new things, however, and the number of design guidelines increased from 130 to 156 — partly because we looked at new sites that do new things, and partly because we expanded the devices we tested to include mobile devices, tablets, and laptop computers (not just desktop machines).\n\nCompared to our previous study 8 years ago, participants in this study were much more experienced in using the Internet, although not more experienced with a computer. Many of our users under 6 had never used a computer before, but they were comfortable browsing apps, games, and websites using tablet and mobile devices.\n\nIt was common that our 4 and 5-year-old users already had a year or two of experience interacting with apps and websites, which meant these kids were tech-savvier than the ones we studied 8 years ago. Even 3-year-olds easily recognized the main functions within video players: play, pause, volume controls, and the full-screen icon to make a video bigger. Children swiped horizontally, they scrolled (when the design gave sufficient cues that there was more to see), they used the Home button on a tablet to return to the app grid and pick other games. They enjoyed being able to hold a touchscreen and move it comfortably within their view and reach.\n\nThis comfort with mobile devices wasn’t surprising, given the dramatic increase in mobile device use — globally and especially among children. For example, among children 0–8 years old, Common Sense Media reported that mobile media time (tablets, smartphones, iPods) increased from 5 minutes per day in 2011 to 48 minutes per day in 2017. This generation primarily uses phones and tablets to access online activities from a young age. If they have used a computer, most of them borrowed a parent’s laptop. We found that until around age 9, kids in the U.S. and China largely preferred touchscreen devices and trackpads on the PC to a traditional mouse and keyboard.\n\nWith this increase in screen time, we observed two main behavior changes since our last study:\n\nThe two big conclusions regarding usability for children are:\n\nThe following table summarizes some of the main similarities and differences we've observed in user behavior between children (in this study) and adults (across many other studies).\n\nA consistent finding in our research over the years is the need to target very narrow age groups when designing for children. Indeed, there's no such thing as \"designing for children,\" defined as everybody aged 3–12. At a minimum, you must distinguish between young (3–5), mid-range (6–8), and older (9–12) children. Each group has different behaviors, physical and cognitive capabilities and users get substantially more tech-savvy as they get older. And, those different needs range far beyond the obvious imperative to design differently for pre-readers, beginning readers, and moderately skilled readers.\n\nWe found that young users reacted negatively to content designed for children that were even one school grade below or above their own level. Children are acutely aware of age differences: at one website, a 6-year-old said, \"This website is for babies, maybe 4 or 5 years old. You can tell because of the cartoons and trains.\" (Although you might view both 5- and 6-year-olds as “little kids,” in the mind of a 6-year-old, the difference between them is vast.)\n\nFinally, it's important to retain a consistent user experience rather than bounce users among pages targeting different age groups. In particular, by understanding what attracts children’s attention, you can “bury” the links to service content for parents in places that children are unlikely to click. Text-only footers worked well for this purpose.\n\nWe conducted this research in order to generate usability guidelines for companies, government agencies, and major non-profit organizations that want to design websites for children. Even so, some of our findings have personal implications for parents, teachers, and others who want to help individual children succeed on the internet:\n\nThe full report on our user research with children, with actionable UX design guidelines is available for download.\n\nStrategically combine content, visuals, and interactive components to design successful web pages",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Children’s UX: Usability Issues in Designing for Young People",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Usability Studies",
+      "id": "toc-usability-studies-1"
+    },
+    {
+      "level": "h2",
+      "text": "Changes over Time",
+      "id": "toc-changes-over-time-2"
+    },
+    {
+      "level": "h3",
+      "text": "Biggest Changes",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Children vs. Adult Users",
+      "id": "toc-children-vs-adult-users-3"
+    },
+    {
+      "level": "h2",
+      "text": "Age-Appropriate Design",
+      "id": "toc-age-appropriate-design-4"
+    },
+    {
+      "level": "h2",
+      "text": "Advice for Parents and Educators",
+      "id": "toc-advice-for-parents-and-educators-5"
+    },
+    {
+      "level": "h3",
+      "text": "Full Report",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Web Page UX Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/katie-sherwin/",
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/childrens-websites-usability-issues/",
+    "https://www.nngroup.com/articles/usability-of-websites-for-teenagers/",
+    "https://www.nngroup.com/articles/childrens-websites-usability-issues/",
+    "https://www.nngroup.com/articles/childrens-websites-usability-issues/#toc-usability-studies-1",
+    "https://www.nngroup.com/articles/childrens-websites-usability-issues/#toc-changes-over-time-2",
+    "https://www.nngroup.com/articles/childrens-websites-usability-issues/#toc-children-vs-adult-users-3",
+    "https://www.nngroup.com/articles/childrens-websites-usability-issues/#toc-age-appropriate-design-4",
+    "https://www.nngroup.com/articles/childrens-websites-usability-issues/#toc-advice-for-parents-and-educators-5",
+    "https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/",
+    "https://www.nngroup.com/articles/usability-guidelines-change/",
+    "https://www.nngroup.com/articles/flat-vs-deep-hierarchy/",
+    "https://www.nngroup.com/articles/ia-questions-navigation-menus/",
+    "https://www.nngroup.com/articles/talking-head-video/",
+    "https://www.nngroup.com/articles/animation-usability/",
+    "https://www.nngroup.com/articles/millennials-digital-natives/",
+    "https://www.nngroup.com/articles/the-need-for-web-design-standards/",
+    "https://www.nngroup.com/articles/first-2-words-a-signal-for-scanning/",
+    "https://www.nngroup.com/articles/writing-for-lower-literacy-users/",
+    "https://www.nngroup.com/articles/search-engines-become-answer-engines/",
+    "https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/",
+    "https://www.nngroup.com/articles/usability-for-senior-citizens/",
+    "https://www.nngroup.com/articles/children-ux-physical-development/",
+    "https://www.nngroup.com/articles/kids-cognition/"
+  ]
+}

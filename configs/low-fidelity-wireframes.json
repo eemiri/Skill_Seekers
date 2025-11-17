@@ -1,0 +1,78 @@
+{
+  "name": "low-fidelity-wireframes",
+  "description": "Use this skill when you need to create, design, or understand low-fidelity wireframes. Covers wireframing fundamentals, best practices, step-by-step tutorials, and technical implementation in Figma.",
+  "base_url": "https://www.figma.com/resource-library/",
+  "additional_urls": [
+    "https://www.figma.com/blog/",
+    "https://help.figma.com/hc/en-us/"
+  ],
+  "selectors": {
+    "main_content": "main, article, div[class*='content'], div[class*='post'], .markdown-body, .article-body",
+    "title": "h1, .title, .headline, .post-title",
+    "code_blocks": "pre, code, .code-block, .highlight"
+  },
+  "url_patterns": {
+    "include": [
+      "what-is-wireframing",
+      "how-to-wireframe",
+      "Create-a-basic-wireframe-and-prototype"
+    ],
+    "exclude": [
+      "/search.html",
+      "/category/",
+      "/tag/",
+      "/author/",
+      "comments",
+      "print",
+      "pdf",
+      "/download/",
+      "share",
+      "subscribe"
+    ]
+  },
+  "categories": {
+    "fundamentals": [
+      "wireframing basics",
+      "what is wireframing",
+      "introduction",
+      "fundamentals",
+      "overview",
+      "definition"
+    ],
+    "techniques": [
+      "how to wireframe",
+      "wireframing techniques",
+      "step-by-step",
+      "tutorial",
+      "process",
+      "workflow"
+    ],
+    "tools": [
+      "figma",
+      "prototyping",
+      "tools",
+      "software",
+      "platform",
+      "interface"
+    ],
+    "best_practices": [
+      "best practices",
+      "guidelines",
+      "tips",
+      "recommendations",
+      "principles",
+      "standards"
+    ],
+    "implementation": [
+      "create basic wireframe",
+      "prototype",
+      "implementation",
+      "practical",
+      "hands-on",
+      "technical"
+    ]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 30,
+  "enhancement_prompt": "Focus on creating practical wireframing workflows, step-by-step Figma tutorials, design principles for low-fidelity wireframes, and actionable tips for effective wireframe creation."
+}

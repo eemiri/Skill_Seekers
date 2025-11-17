@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/",
+  "title": "Fancy Formatting, Fancy Words = Looks Like a Promotion = Ignored",
+  "content": "September 3, 2007 2007-09-03\n\nPutting the answer to a typical user's main question in big red type at the top of your homepage would guarantee high usability, right? Wrong — at least for the U.S. Census Bureau's homepage, where 86% of users failed to find the country's current population when it was presented in large red numbers.\n\nHomepage for www.census.gov, as tested.\n\nIn a reduced screenshot, the population count is the only information that's clearly readable, so it makes the task easier than it is in real life. On the actual site, users often ignored the big red characters.\n\nThe following heatmap from one of our eyetracking studies shows how users looked at this homepage. Their task was to find the current population of the United States.\n\nThe areas users looked at the most are colored red; the yellow areas indicate fewer views, followed by the least-viewed blue areas. Gray areas didn't attract any fixations.\n\nAt first, the heatmap seems fine:\n\nOn closer inspection, however, it's clear that users only fixated on the first third of the number that shows current population. In other words, people scanned that area, but didn't actually read the number. (Only a small percentage — as indicated by blue coloring — looked at the last 2/3 of the number.)\n\nAs the following pie chart shows, only 14% of participants used the Population Clock to answer the question. None of the remaining users found the correct answer, though most did find the population for an earlier year somewhere inside the site.\n\nHow users reacted to the Population Clock in the upper right of the Census homepage. Only 14% of test participants used this feature when asked to find the current population. Most people saw the feature, but didn't use it to complete the task.\n\nAlthough it's not the major reason this homepage design failed, banner blindness does play a role here. Users tend to ignore heavily formatted areas because they look like advertisements. Thus, about 1/3 of users never even saw the Population Clock. However, most people did fixate on this area because it's not as overly formatted as most promotional features. So, most users saw the Population Clock; they just didn't use it, even though it contained the exact information they were looking for.\n\nBeyond banner blindness, the major reason this homepage failed is that it used made-up terms or branded descriptions rather than plain-spoken words. Terms like \"Population Clock,\" \"Population Finder,\" and \"QuickFacts\" are not as descriptive as a simple line of text that says:\n\nPopulation of the United States: 302,740,627 (as of Aug. 31, 2007)\n\nThe heatmap above is averaged across users, so it's not the best way to analyze the Census homepage's usability. In this case, there were 4 distinct user behaviors at play, and we need to analyze each separately.\n\nThe following gaze plots show examples of the 4 main classes of user behavior:\n\nEach gaze plot shows one user's eye movements: each blue dot is a fixation, with bigger dots indicating longer periods of looking.\n\nSadly, in this case, neither search, nor navigation, nor the Population Finder led the majority of users to the correct answer. Indeed, search was particularly bad on this site. One user said, \"I know where I can probably find it faster: Google,\" and promptly abandoned the official Census Bureau site's own search. (In fact, she did find a reasonable — though less accurate — answer on another site using an external search.)\n\nAlthough most users found some population number, whether from 2000, 2005, or 2006, it wasn't the current number. As one might expect from the Census Bureau, the site was rife with population statistics. The problem was that the outdated statistics weren't supplemented with links to the current numbers, violating the guideline to situate follow-ups in context.\n\nThe Internet manager in charge of this losing design might defend the work by pointing out that it complies with #4 of my top-10 guidelines for homepage design: Offer a clear starting point for the main tasks users will undertake when visiting the site. Clearly, something was done right, with a task analysis that concluded that it would be a primary goal of visitors to this site to identify the current population of the United States and to have an easy way to find the populations of individual states and cities.\n\nEven better, the site follows several recommendations from the full list of published homepage usability guidelines:\n\n(This site does many other things right; here I'm listing only those guidelines directly related to finding the population number.)\n\nDespite obeying so many usability guidelines, the site has the miserably low success rate of 14% for its most important task. The site fails users because it violates several other guidelines for homepage usability:\n\nSo what good are usability guidelines if — as this example seems to show — they are always in conflict?\n\nActually, the guidelines don't contradict each other when it comes to the Census homepage. (Sometimes we do have conflicting guidelines, as in the matter of intranet staff directories. That's why we call them guidelines: because they aren't always firm and sometimes require interpretation or, in rare cases, deviation.)\n\nIn this case, though, it's possible to feature the high-priority tasks, show the main number directly on the homepage, and have a tool for the rest without using marketing-style terms, heavy formatting, and otherwise making the important area look like an ad or a promotion. That is, the designer could have followed all 6 guidelines simultaneously.\n\nIn many studies of corporate and e-commerce sites, we observe users ignoring the very page sections that have the most business value because the site is selling them too hard. Learn from the Census Bureau's mistake: try a softer approach with more straightforward, user-centered information. Let go of the fancy formatting and the fancy words.\n\nUse psychology to predict and explain how your customers think and act\n\nStrategically combine content, visuals, and interactive components to design successful web pages",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Fancy Formatting, Fancy Words = Looks Like a Promotion = Ignored",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Where People Looked",
+      "id": "toc-where-people-looked-1"
+    },
+    {
+      "level": "h2",
+      "text": "Search-Dominant Users and Other Behaviors",
+      "id": "toc-search-dominant-users-and-other-behaviors-2"
+    },
+    {
+      "level": "h2",
+      "text": "Conflicting Usability Guidelines?",
+      "id": "toc-conflicting-usability-guidelines-3"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "The Human Mind and Usability",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Web Page UX Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/",
+    "https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/",
+    "https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/#toc-where-people-looked-1",
+    "https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/#toc-search-dominant-users-and-other-behaviors-2",
+    "https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/#toc-conflicting-usability-guidelines-3",
+    "https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/",
+    "https://www.nngroup.com/articles/web-writing-use-search-keywords/",
+    "https://www.nngroup.com/articles/top-ten-guidelines-for-homepage-usability/",
+    "https://www.nngroup.com/articles/success-rate-the-simplest-usability-metric/",
+    "https://www.nngroup.com/articles/employee-directory-search-resolving-conflicting-usability-guidelines/"
+  ]
+}

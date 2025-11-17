@@ -1,0 +1,79 @@
+{
+  "url": "https://www.nngroup.com/articles/website-response-times/",
+  "title": "Website Response Times",
+  "content": "June 20, 2010 2010-06-20\n\nUsers really care about speed in interaction design. In 1997, I wrote a column called \"The Need for Speed,\" pointing out how much users hated slow-loading web pages. Back then, big images were the main cause of response-time delays, and our guideline recommended that you keep images small.\n\nToday, most people (in some countries) have broadband, so you might think that download times are no longer a usability concern. And yes, actual image download is rarely an issue for today's users (though images can still cause delays on mobile devices).\n\nStill, response times are as relevant as ever. That's because responsiveness is a basic user interface design rule that's dictated by human needs, not by individual technologies. In a client usability study we just completed, for example, users complained that \"it's being a little slow.\"\n\nResponsiveness matters for two reasons:\n\nA snappy user experience beats a glamorous one, for the simple reason that people engage more with a site when they can move freely and focus on the content instead of on their endless wait.\n\nIn a recent study, we asked users what they thought about various websites they had used in the past. So, their responses were based not on immediate use (as in normal usability studies), but on whatever past experiences were strong enough to form memories. Under these conditions, it was striking to hear users complain about the slowness of certain sites. Slowness (or speed) makes such an impact that it can become one of the brand values customers associate with a site. (Obviously, \"sluggish\" is not a brand value that any marketing VP would actively aim for, but the actual experience of using a site is more important than slogans or advertising in forming customer impressions of a brand.)\n\nIndeed, we get findings related to website speed almost every time we run a study. When sites shave as little as 0.1 seconds off response time, the outcome is a juicy lift in conversion rates. Today or the 1990s? Same effect.\n\nThe 3 response-time limits are the same today as when I wrote about them in 1993 (based on 40-year-old research by human factors pioneers):\n\nA 10-second delay will often make users leave a site immediately. And even if they stay, it's harder for them to understand what's going on, making it less likely that they'll succeed in any difficult tasks.\n\nEven a few seconds' delay is enough to create an unpleasant user experience. Users are no longer in control, and they're consciously annoyed by having to wait for the computer. Thus, with repeated short delays, users will give up unless they're extremely committed to completing the task. The result? You can easily lose half your sales (to those less-committed customers) simply because your site is a few seconds too slow for each page.\n\nInstead of big images, today's big response-time sinners are typically overly complex data processing on the server or overly fancy widgets on the page (or too many fancy widgets).\n\nHere's an example from a recent eyetracking study we conducted to generate new material for our training course on Web Page UX Design. The following gaze plots show two different users' behavior on the same page, which contained a slideshow widget in the top yellow box that required 8 seconds to download:\n\nThe test participant in the top gaze plot fixated a few times within the big empty color block before the content downloaded, then spent the remaining time looking at the rest of the page. This user never looked at the big promotional space after it had rendered.\n\nThe second user (bottom gaze plot) happened to be looking away from the screen during the 8 seconds when the promotional content downloaded. Thus, the first time he looked at the page he saw it as intended, complete with the entire promo.\n\nThe slideshow occupies 23% of the page, not counting a footer that's not shown here. The user who had to endure the download delay spent only 1% of her total viewing time within this space. In contrast, the user who in effect received instantaneous page rendering (because he didn't look until it was done), spent 20% of his viewing time within the slideshow area.\n\nAlthough 8 seconds might not seem like a big delay, it's enough to kill this big promo that the company's web team probably spent weeks designing. If they had allocated the space to something that rendered in 1 second instead of 8, they would have achieved much better results.\n\nResponse times are a matter of user experience: How much time does it take before the computer is ready to serve the user? The reasons behind delays don't matter to users. All they know is that they're getting poor service, which is annoying.\n\nBig images in 1997. Slow servers or overly fancy widgets in 2010. Same effect. Make it snappy, and you'll have a big leg up on the competition and their slow sites.\n\nUse psychology to predict and explain how your customers think and act\n\nStrategically combine content, visuals, and interactive components to design successful web pages\n\nCreate user interfaces using essential principles, techniques, and methods of visual design",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Website Response Times",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Speed Matters",
+      "id": "toc-speed-matters-1"
+    },
+    {
+      "level": "h2",
+      "text": "Response-Time Limits",
+      "id": "toc-response-time-limits-2"
+    },
+    {
+      "level": "h2",
+      "text": "Fancy Widgets, Sluggish Response",
+      "id": "toc-fancy-widgets-sluggish-response-3"
+    },
+    {
+      "level": "h2",
+      "text": "Different Causes, Same Effect",
+      "id": "toc-different-causes-same-effect-4"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "The Human Mind and Usability",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Web Page UX Design",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Visual Design Fundamentals",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/website-response-times/",
+    "https://www.nngroup.com/articles/the-need-for-speed-1997/",
+    "https://www.nngroup.com/articles/mobile-usability-update/",
+    "https://www.nngroup.com/articles/website-response-times/",
+    "https://www.nngroup.com/articles/website-response-times/#toc-speed-matters-1",
+    "https://www.nngroup.com/articles/website-response-times/#toc-response-time-limits-2",
+    "https://www.nngroup.com/articles/website-response-times/#toc-fancy-widgets-sluggish-response-3",
+    "https://www.nngroup.com/articles/website-response-times/#toc-different-causes-same-effect-4",
+    "https://www.nngroup.com/articles/interaction-branding/",
+    "https://www.nngroup.com/articles/conversion-rates/",
+    "https://www.nngroup.com/articles/response-times-3-important-limits/",
+    "https://www.nngroup.com/articles/direct-manipulation/"
+  ]
+}

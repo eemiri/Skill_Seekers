@@ -1,0 +1,72 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully",
+  "title": "Use technical terms carefully",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nTechnical terms come in a variety of shapes and sizes. Sometimes they're everyday words that are given new meanings, like cloud, batch, or dashboard. Other times, common words are combined to create technical terms, like telemedicine or email. Over time, some technical terms become widely understood, but before that happens, they can be confusing to people who aren't familiar with them. Use technical terms when they're the clearest way to communicate your message, but use them with care.\n\nDon't use a technical term when an everyday term will do. For example, don't use rip to refer to copying files from a CD if you can use copy instead.\n\nWhen you must use technical terms for precise communication, define them in context.\n\nWhen you've decided to use a technical term, use that term consistently across products and services, tools, websites, and marketing communications. Aim for one term, one concept.\n\nMany industries and professions have their own terminology: banking, healthcare, construction, IT, and project management, for example.\n\nIf you're writing for an industry or profession, use the words your audience uses. First, verify Microsoft and industry usage. Check the A–Z word list and Merriam-Webster Dictionary. Then look to authoritative industry resources:\n\nTerminology websites, such as Webopedia.com, and Whatis.TechTarget.com.\n\nIndustry standard sites, such as W3C and IEEE.\n\nIndustry research organizations, such as Forrester Research and Gartner.\n\nDomain books, such as the PMI Lexicon of Project Management Terms or the FDIC List of Abbreviations and Glossary of Terms (Appendix B).\n\nDon't create a new term if an existing one serves your purpose. If you must create a new term, verify that it isn’t already being used to mean something else.\n\nTechnology changes at light speed, and customers expect us to use the latest technical terms. But it's crucial to use them correctly and consistently across our products, services, documents, packaging, and marketing. Before you adopt a new term in your content, find out whether other groups are using it, and how.\n\nFirst, check Merriam-Webster Dictionary.\n\nResearch the term on edited industry websites, such as Forrester Research, Gartner, CNET, Recode, Mashable, TechCrunch, WIRED, Gizmodo, HuffPost Tech, and Engadget. For emerging industry terminology, check reputable business and trade websites, such as Fast Company, Entrepreneur, Business Insider, Healthcare IT News, American Banker, and GameSpot.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Use technical terms carefully",
+      "id": "use-technical-terms-carefully"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Use common words whenever possible",
+      "id": "use-common-words-whenever-possible"
+    },
+    {
+      "level": "h2",
+      "text": "Don’t assume everyone will understand technical terms",
+      "id": "dont-assume-everyone-will-understand-technical-terms"
+    },
+    {
+      "level": "h2",
+      "text": "Use technical terms consistently",
+      "id": "use-technical-terms-consistently"
+    },
+    {
+      "level": "h2",
+      "text": "Use industry-specific terms for professional audiences",
+      "id": "use-industry-specific-terms-for-professional-audiences"
+    },
+    {
+      "level": "h2",
+      "text": "Don’t create a new term if one already exists",
+      "id": "dont-create-a-new-term-if-one-already-exists"
+    },
+    {
+      "level": "h2",
+      "text": "Research emerging terminology",
+      "id": "research-emerging-terminology"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully",
+    "https://learn.microsoft.com/en-us/style-guide/word-choice/use-technical-terms-carefully"
+  ]
+}

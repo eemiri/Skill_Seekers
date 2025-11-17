@@ -1,0 +1,81 @@
+{
+  "url": "https://www.nngroup.com/articles/mobile-navigation-patterns/",
+  "title": "Basic Patterns for Mobile Navigation: A Primer",
+  "content": "November 15, 2015 2015-11-15\n\nNavigation complements search for several reasons:\n\nHowever, on mobile devices, both navigation and search come at a price: they occupy screen space and grab users’ attention, both of which are at an even higher premium on mobile than on desktop. If the screen space is really scarce, a search box or navigation links at the top of the page can interfere with the users’ ability to get to new information fast and may make the user work more. Pay attention to navigation and search, make them accessible and discoverable, but don’t forget one of the basic tenets of mobile usability: prioritize content over chrome. This is in fact one of the big challenges of implementing navigation on mobile: how to prioritize content while making navigation accessible and discoverable. Different approaches sacrifice either content prioritization or the accessibility of the navigation.\n\nThe top navigation bar is essentially inherited from desktop design. It is simply a bar that enumerates the main navigational options across the top of the screen. This is quite efficient, but has two disadvantages: (1) it works well only when there are relatively few navigation options; (2) it takes up valuable real estate above the fold.\n\nThe tab bar is a close relative of the top navigation bar specific to apps. It can appear at the top (Android mostly) or at the bottom of the page (iOS mostly). It is usually present on most pages within an app and has the same disadvantages as the navigation bar. One important difference between tab bars and navigation bars is that tab bars are persistent, that is, they are always visible on the screen, whether the user scrolls down the page or not. Navigation bars usually start out being present at the top of the page but disappear once the user has scrolled one or more screens down. (A sticky version of the navigation bar stays put at the top of the screen, or as the user starts scrolling up, reappears at the top of the page.)\n\nTab bars and navigation bars are well suited for sites with relatively few navigation options. If your site has more than 5 options, it’s hard to fit them in a tab or navigation bar and still keep an optimum touch-target size. Solutions such as using a carousel navigation bar or tab bar, like in the Google Play example at the beginning of the article, may work but they are not always appropriate. Out of sight is out of mind, and if the categories are widely different (like the case of an older version of Weather Channel illustrated below), it’s likely that users won’t think to scroll to get to those options, simply because the weak information scent from the visible categories may prevent them from guessing what items are hidden.\n\nIf you decide to use a navigation bar or a tab bar, they should be the main chrome area of the screen and little extra space should be devoted to other utility-navigation options or to search. If the site has 4–5 main navigation options, it may make sense to have them all visible on the screen at all times, especially if these are options that will likely be needed. However, keep in mind that navigation needs to be judged in the context of the overall chrome on a page: even if a site may only have a few top-tier categories, if other utility-navigation links (e.g., shopping cart, account information) and search must also be included, the overall chrome may add up wasting too much space on the page.\n\nThe navigation menu is a menu that contains the main navigation options in a manner that usually hides the detailed options but makes them visible upon request. While the hamburger icon is perhaps the most talked-about signifier for a navigation menu, other labels and/or icons can be used for navigation. (In fact, third-party research seems to suggest that using the word Menu instead of the hamburger icon is slightly more popular with users.) The main advantage of the navigation menu is that it can contain a fairly large number of navigation options in a tiny space and can also easily support submenus, if needed; the disadvantage is that it is less discoverable, since, as the old adage says, “out of sight is out of mind.”\n\nA version of the navigation menu is when the menu has no signifier and is discovered through a gesture. In the Sephora app, on deep pages the menu can be accessed by swiping horizontally on the left edge (a gesture that is problematic in iOS, since, from iOS 7 on, Apple has started pushing the horizontal swipe as Back).\n\nThe navigation menu makes the navigation options least discoverable and is best suited for content-heavy, browse-mostly sites and apps.\n\nIf users rarely care about navigating to specific sections of the site and are mostly content to digest whatever information is presented to them (as is often the case on news sites), then a navigation menu is appropriate. The navigation menu also has the advantage of stealing a minimum amount of space from content, which is the star of browse-mostly sites.\n\nHowever, keep in mind that when navigation is hidden under a menu, even though that menu as a whole may be salient enough, users will have to make a decision to open it and check whether the individual navigation options are relevant. While the navigation menu is becoming standard and many mobile users are familiar with it, many people still simply don’t think to open it. Even users who tried the navigation menu at some point during a session may not remember to do so later on.\n\nIf you decide to use a navigation menu, you need to think seriously about supporting navigation in other ways, such making the IA structure of your site more discoverable by increasing the cross-section links.\n\nThe navigation hub is a page (usually the homepage) that lists all the navigation options. To navigate to a new location, users have to first go back to the hub and then use one of the options listed there. This navigation approach usually devotes the homepage exclusively to navigation (at the expense of content), and incurs an extra step (back to the hub) for each use of the navigation. It can work well in task-based websites and apps, especially when users tend to limit themselves to using only one branch of the navigation hierarchy during a single session.\n\nWith the homepage as navigation hub, prime real estate will be wasted for chrome and all navigation will have to go through the homepage. While these two may seem as major disadvantages (and they are for most types of sites or apps), they can be less of a problem for those sites and apps used not for browsing and consuming content, but for accomplishing a very specific task (for example, checking in for a flight or changing the settings of the phone). Such sites and apps can take advantage of the homepage-as-navigation-hub pattern, especially if users rarely accomplish more than one task during a single session, and thus they don’t need to traverse the navigation tree often (an action that is relatively difficult and annoying if all navigation must go through the homepage).\n\nIn the United example above, most likely you want to either buy a ticket or check in for a flight, but not do both in a single session. Thus, most users won’t have to return to the hub in this example, meaning that it rather serves as an efficient distribution point.\n\nMaking navigation important and accessible is a challenge on mobile due to the limitations of the small screen and to the need of prioritizing the content over the UI elements. Different basic navigation patterns attempt to solve this challenge in different ways that all suffer from a variety of usability problems. The key is to pick the type of mobile navigation where the (inevitable) downsides will hurt your users the least for the kinds of tasks they are most likely to perform on your site:\n\nEssential UX design principles for small-screen websites and apps",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Basic Patterns for Mobile Navigation: A Primer",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Introduction",
+      "id": "toc-introduction-1"
+    },
+    {
+      "level": "h2",
+      "text": "The Navigation Bar and the Tab Bar",
+      "id": "toc-the-navigation-bar-and-the-tab-bar-2"
+    },
+    {
+      "level": "h3",
+      "text": "Top Navigation Bar",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "The Tab Bar",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "The Hamburger Menu (and Variants)",
+      "id": "toc-the-hamburger-menu-and-variants-3"
+    },
+    {
+      "level": "h2",
+      "text": "The Navigation Hub",
+      "id": "toc-the-navigation-hub-4"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-5"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Mobile User Experience",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/raluca-budiu/",
+    "https://www.nngroup.com/articles/mobile-navigation-patterns/",
+    "https://www.nngroup.com/articles/mobile-navigation-patterns/",
+    "https://www.nngroup.com/articles/mobile-navigation-patterns/#toc-introduction-1",
+    "https://www.nngroup.com/articles/mobile-navigation-patterns/#toc-the-navigation-bar-and-the-tab-bar-2",
+    "https://www.nngroup.com/articles/mobile-navigation-patterns/#toc-the-hamburger-menu-and-variants-3",
+    "https://www.nngroup.com/articles/mobile-navigation-patterns/#toc-the-navigation-hub-4",
+    "https://www.nngroup.com/articles/mobile-navigation-patterns/#toc-conclusion-5",
+    "https://www.nngroup.com/articles/touch-target-size/",
+    "https://www.nngroup.com/articles/hamburger-menus/"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+  "title": "Product Releases vs. Sprints: Understanding the Differences",
+  "content": "Last updated: February 2024\n\nAgile is many things. It is a philosophy, an approach to work, and a set of principles. Today it is often used as a blanket term for how many teams approach software development, including the most widely adopted agile methodology — scrum.\n\nScrum is an adaptive process framework. Self-organizing product development teams work together to deliver customer and business value quickly and regularly. These teams work in short, repeatable cycles and deliver small chunks of new functionality.\n\nJump ahead to learn more:\n\nIs a sprint the same as a release?\n\nWho manages a sprint?\n\nWhat is the role of a product manager in a sprint?\n\nThere are four key meetings that drive the scrum process: the sprint planning meeting, the daily scrum, the sprint review meeting, and the sprint retrospective. Product managers serve the scrum team by ensuring that work prioritized and completed within each sprint aligns with the product vision and customer needs.\n\nA sprint is a fixed-length iteration of work that typically lasts between one and four weeks. During a sprint, the scrum team builds and tests a clearly defined set of functionality. The goal is to deliver a complete increment — the value that will be delivered to customers upon completion of a sprint.\n\nWhat is a sprint planning meeting?\n\nMost common agile development methodologies\n\nSprint retrospective template\n\nA sprint should not be confused with a release. A sprint is a time box for completing a defined set of work, whereas a release brings a new product experience to market once it is ready to be delivered.\n\nA product release can occur at the end of a sprint or after several sprints. Regardless of your release cadence, your plan must consider all of the cross-functional activities needed to support the release, such as those belonging to product, sales, support, ops, and marketing.\n\nRelated: How to plan releases across teams\n\nThe scrum team is responsible for managing each sprint. As a product manager, it is helpful to understand how each scrum role contributes. This will help you work effectively with the scrum team to deliver functionality that customers really want.\n\nProduct owner Responsible for maximizing the value of the work completed by the development team. The product owner represents the customer and advocates for business needs.\n\nScrum master Responsible for ensuring the process follows agile principles and values. The scrum master serves as a facilitator and coach who removes impediments, creates an effective working environment, and protects the team from outside interruptions.\n\nScrum team Responsible for implementing the work. The scrum team is self-managed and does all duties required to deliver a working increment, including development and testing.\n\nIn some companies, the product manager assumes the role of product owner. In others, the roles remain distinct — distinguished by internal versus external responsibilities. This is somewhat misleading, though. Most product managers have an inward and external view, but the emphasis is typically on the external. For example, product managers need to know what issues the support team is facing to better understand customer needs. You also must be aware of other aspects of product development that do not directly impact the scrum team, such as marketing plans.\n\nSometimes the two roles are broken out into “product manager” and “technical product manager.” The semantics reflect the organization’s unique structure and how work is managed.\n\nProduct managers are responsible for the strategic direction of the product. This is a holistic effort aimed at delivering both business and customer value. During a sprint, product managers have one job: enable the successful implementation of the product and go-to-market strategy.\n\nWhat does this look like in practice? The details vary of course. But typically you can expect to:\n\nShare the product vision\n\nOwn and update the product roadmap\n\nProvide updates to stakeholders\n\nAttend relevant scrum events\n\nBe available to answer questions\n\nTrust the team and do not interfere\n\nNo matter the particulars, put in the effort to think collectively about what needs to be done. Share plans proactively, communicate often, and work together to deliver on your commitments.\n\nWhat are product goals and initiatives?\n\nStep-by-step product launch checklist\n\nProduct roadmap templates\n\nProduct requirements document\n\nSet product strategy, gather customer feedback, and report on roadmap progress — all in one place. Try Aha! software free for 30 days.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Product releases vs. sprints in scrum",
+      "id": "product-releases-vs-sprints-in-scrum"
+    },
+    {
+      "level": "h4",
+      "text": "See how you can customize workflows for your scrum team — try Aha! Develop.",
+      "id": "see-how-you-can-customize-workflows-for-your-scrum-team-"
+    },
+    {
+      "level": "h2",
+      "text": "What is a sprint?",
+      "id": "what-is-a-sprint"
+    },
+    {
+      "level": "h2",
+      "text": "Is a sprint the same as a release?",
+      "id": "is-a-sprint-the-same-as-a-release"
+    },
+    {
+      "level": "h2",
+      "text": "Who manages a sprint?",
+      "id": "who-manages-a-sprint"
+    },
+    {
+      "level": "h2",
+      "text": "What is the role of a product manager in a sprint?",
+      "id": "what-is-the-role-of-a-product-manager-in-a-sprint"
+    },
+    {
+      "level": "h4",
+      "text": "Popular templates:",
+      "id": "popular-templates"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint#what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint#is-a-sprint-the-same-as-a-release",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint#who-manages-a-spring",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint#what-is-the-role-of-a-product-manager-in-a-sprint",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/agile/agile-glossary",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint#top",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/marketing-plans/",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-good-product-launch-checklist",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

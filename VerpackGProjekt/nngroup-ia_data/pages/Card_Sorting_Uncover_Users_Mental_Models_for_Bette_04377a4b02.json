@@ -1,0 +1,174 @@
+{
+  "url": "https://www.nngroup.com/articles/card-sorting-definition/",
+  "title": "Card Sorting: Uncover Users' Mental Models for Better Information Architecture",
+  "content": "February 2, 2024 2024-02-02\n\nA card-sorting study is a specialty UX research method used to uncover users’ mental models of the information architecture (IA) of your digital product. In other words, card sorting can help your users find the information on your site more easily.\n\nCard sorting is a research method in which study participants place individually labeled cards into groups according to criteria that make the most sense to them.\n\nThe set of cards can include pages, links, images, or descriptions of pages that users would navigate to on your website.\n\nTo run a card-sorting session, present each participant with the unsorted set of cards. Then ask the participant to sort the items, information, or concepts into groupings.\n\nFor example, an athletic-clothing ecommerce site might give a participant a set of cards labeled:\n\nA participant might put Sweatshirts and Tank tops into a category labeled Tops, and Gloves and Hats into a category labeled Accessories.\n\nCard sorting can be conducted in person or remotely. In-person participants use physical index cards, while remote participants use digital cards via web-based tools like Optimal Sort.\n\nRemote card-sorting studies tend to be more common because the supporting software can analyze and reveal common groupings, category names, and item pairings, reducing manual work for researchers.\n\nCard sorting provides insight into how users naturally categorize information on your site and helps teams develop an information architecture that best matches users' mental models, ultimately improving the findability and discoverability of your content.\n\nLet's imagine that you're redesigning the car-rental site Paylesscar.com. The company offers 26 vehicle models that customers can choose from. How would you organize those vehicles into categories so people find their preferred rental quickly? Technical car classifications like economy, intermediate, and full-size are unclear for many users. Instead of using these categories, you could run a card sorting study where users organize vehicles into groups that make sense to them and then see what patterns emerge.\n\nUse card sorting when you need help organizing content, services, or product offerings in an easy and intuitive for your users. (A related method, tree testing, is best used for evaluating existing information architectures.)\n\nConducting a card-sorting study requires four steps:\n\nThe number of cards depends on the complexity of your content, study goals, and user familiarity with your site. We recommend 30­–50 cards to prevent user fatigue and encourage thoughtful groupings from participants. This range may seem high, but once users conceptualize a few groupings, the rest become easier to place.\n\nIn a recent client project where we conducted a card sort with around 50 cards, participants took time establishing key groupings initially, but once they did, the rest of the cards became much easier and quicker to sort.\n\nCreate each card label within a tool of your choice. OptimalSort is a popular option for many UX researchers.\n\nThe cards can include pages, links, images, or descriptions of pages that users would navigate to on your site or application.\n\nAvoid using identical words in labels for different cards because participants will automatically group those instead of thinking about deeper relationships between items. For example, using cards like Toyota Camry, Toyota Matrix, and Toyota Land Cruiser may cause users to group all Toyota cars, overlooking vital details like the size of the car and seat capacity.\n\nConduct a pilot test with a smaller group of participants to assess the appropriate number of cards and whether the card labels are easy to understand.\n\nThe number of participants you need to recruit varies on whether you run a quantitative or qualitative card-sorting study.\n\nIncreasing the number of participants in both approaches won’t negatively impact data findings, but these recommendations consider limited resources and budgets.\n\nEven though it is possible to conduct in-person card sorts (and you may need to do so for certain user populations such as children or people with accessibility challenges), most card-sorting studies today are conducted remotely using a remote video platform.\n\nIn a remote moderated study, the researcher is present and asks follow-up questions live. Video-conferencing tools like Zoom and Microsoft Teams will suffice in this scenario.\n\nIn a remote unmoderated card-sorting study, a platform administers all instructions and questions without a researcher present. Each participant completes their card-sorting session on their own. Depending on the platform, a recording of the session or only the final groupings may be available at the end of the session.\n\nBefore the start of the session, inform users that:\n\nHere’s a template for card-sorting instructions. Modify it to fit the needs of your study:\n\nThank you for agreeing to participate in our study. This study should take [insert time] to complete.\n\nIn this study you will organize a set of cards into groups based on perceived similarities. We encourage you to think out loud and explain your thought process as you sort cards. Your insights will help us understand how to better structure the content on our [website/application].\n\nStep 1: Scan the set of cards.\n\nStep 2: Organize cards into groups that make sense to you. There are no right or wrong ways of grouping cards. Here are a few considerations to keep in mind as you group cards:\n\nStep 3: Label each group of cards.\n\nAsk participants to scan the set of cards and organize them into groups that make sense to them. Remote tools automatically place ungrouped cards separately from the grouped cards. Encouraging users to think out loud during this process can help you understand why they are making certain placement decisions.\n\nAfter each participant organizes the cards into groups, ask them to label each group. It's essential to do this step after (rather than before) they form groups, so participants don't limit themselves to specific categories during the sorting process. Users should be free to rearrange groups at any point.\n\nHow your participants label their cards will depend on whether you’re running an open, closed, or hybrid card sort:\n\nSpecify the card-sort type in the web-based tool of your choice and input predefined categories accordingly.\n\nIn an open card sort, don’t expect participants to create effective labels. Category names they come up with will not necessarily be your final labels. Card sorting doesn't consider other context cues on your website; these cues can influence final label names.\n\nAsk users to explain the rationale behind the groups they created. This step is optional but highly recommended. Follow-up questions in a card sort may include:\n\nIn an unmoderated study, where the is no live facilitator, you may be able to include these questions in a post-sorting survey to get additional insights (depending on your tool). You may choose to include rating-scale questions as well; for example:\n\nOn a scale of 1 (very easy) to 5 (very difficult), how easy was it for you to group the cards into categories?\n\nIn moderated or in-person studies, where a facilitator is guiding the session, tailored questions are possible. For example:\n\nI noticed you placed card X in group Z. Can you tell me more about why you feel that card belongs in that group?\n\nCompile your data into a format that will be useful for analysis. Card-sorting tools offer advantages over physical index cards because sorting results are compiled automatically and displayed through various data visualizations helpful for analysis. Researchers find web-based tools more efficient than manually inputting data into spreadsheets to track groupings and card placements.\n\nIdentifying patterns, common groupings, category names, and themes can be challenging due to the varying placements of cards by participants. Tools like OptimalSort offer diverse visualizations for in-depth analysis of placements.\n\nFor example, a similarity matrix visually represents the relationship between two cards. If you were to conduct a card-sorting study without a card-sorting tool, you would have to manually identify frequencies of card groupings.\n\nEven if you run a quantitative unmoderated card sort, it’s important to run a few moderated sessions to understand what participants are thinking as they group items. You’ll gain insight into the rationale behind the groupings and why a particular card was hard to place. For example, was a card hard to place because the card label was unclear or because it seemed unrelated to the rest of the topics?\n\nIn-person card-sorting studies are less common because online tools have proven more efficient for analysis. The steps of an in-person card-sorting study are mostly the same as for a remote one, but here are a few key differences:\n\nCard sorting is best suited for generating information-architecture structures. It has the following limitations:\n\nCard sorting is a valuable method in information architecture because it gives insight into users' mental models about content groupings on your site. There are a lot of nuances involved in carrying out this research method; therefore, it's crucial to carefully think through your research objectives and the type of card sort you want to conduct.\n\nCard Sorting Variations\n\nOpen vs. Closed vs. Hybrid Card Sort\n\nNo categories are predefined by the researcher.\n\nTo understand how users naturally categorize information\n\nAll categories are predefined by the researcher\n\nTo validate an existing IA (In most cases, tree testing is better for that purpose).\n\nSome categories are predefined by the researcher.\n\nTo understand how users categorize information when you are confident about 1–2 categories in your IA\n\nModerated vs. Unmoderated\n\nFacilitator is present for study sessions.\n\nFor qualitative insights\n\nUnmoderated card sort\n\nFacilitator is not present, and participants conduct card sort using a remote unmoderated tool.\n\nFor quantitative data collection\n\nUsers organize physical index cards into groups.\n\nFor user groups with certain accessibility challenges or younger kids.\n\nUsers organize digital cards using a card-sorting tool and on a remote video platform.\n\nTo get a geographically diverse set of participants and to gain efficiency with data collection and analysis\n\nTullis, Tom, and Wood, Larry. (2004) How Many Users Are Enough for a Card-Sorting Study?, Usability Professionals Association (UPA) 2004 Conference, Minneapolis, MN, June 7–11, 2004.\n\nEthan Lantz, Jared W. Keeley, Michael C. Roberts, Maria Elena Medina-Mora, Pratap Sharan, and Geoffrey M. Reed. 2019. Card Sorting Data Collection Methodology: How many participants is most efficient? Journal of Classification 36, 3 (2019), 649–658. DOI:http://dx.doi.org/10.1007/s00357-018-9292-8\n\nOrganize and structure information to improve findability and discoverability\n\nPick the best UX research method for each stage in the design process",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Card Sorting: Uncover Users' Mental Models for Better Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Definition of Card Sorting",
+      "id": "toc-definition-of-card-sorting-1"
+    },
+    {
+      "level": "h2",
+      "text": "In-Person vs. Remote Card Sorting",
+      "id": "toc-in-person-vs-remote-card-sorting-2"
+    },
+    {
+      "level": "h2",
+      "text": "When to Conduct a Card-Sorting Study",
+      "id": "toc-when-to-conduct-a-card-sorting-study-3"
+    },
+    {
+      "level": "h2",
+      "text": "Card-Sorting Process",
+      "id": "toc-card-sorting-process-4"
+    },
+    {
+      "level": "h2",
+      "text": "Prepare Materials for a Card Sort",
+      "id": "toc-prepare-materials-for-a-card-sort-5"
+    },
+    {
+      "level": "h3",
+      "text": "Decide the Number of Cards",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Label the Cards",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Recruit Participants",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Conduct a Card Sort",
+      "id": "toc-conduct-a-card-sort-6"
+    },
+    {
+      "level": "h3",
+      "text": "Instruct Participants",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Participants Organize Topics into Groups",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Participants Label Each Group",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Ask Follow-up Questions",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Analyze Card-Sorting Data",
+      "id": "toc-analyze-card-sorting-data-7"
+    },
+    {
+      "level": "h3",
+      "text": "Compile Data",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Identify Patterns and Common Groupings",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Combine Patterns Identified with Qualitative Insights",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Conducting an In-Person Card Sort",
+      "id": "toc-conducting-an-in-person-card-sort-8"
+    },
+    {
+      "level": "h2",
+      "text": "Limitations to Card Sorting",
+      "id": "toc-limitations-to-card-sorting-9"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-10"
+    },
+    {
+      "level": "h2",
+      "text": "References",
+      "id": "toc-references-11"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "User Research Methods: From Strategy to Requirements to Design",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/samhita-tankala/",
+    "https://www.nngroup.com/articles/author/katie-sherwin/",
+    "https://www.nngroup.com/articles/card-sorting-definition/",
+    "https://www.nngroup.com/articles/research-methods-glossary/",
+    "https://www.nngroup.com/articles/mental-models/",
+    "https://www.nngroup.com/articles/information-architecture-sitemaps/",
+    "https://www.nngroup.com/articles/card-sorting-definition/",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-definition-of-card-sorting-1",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-in-person-vs-remote-card-sorting-2",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-when-to-conduct-a-card-sorting-study-3",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-card-sorting-process-4",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-prepare-materials-for-a-card-sort-5",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-conduct-a-card-sort-6",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-analyze-card-sorting-data-7",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-conducting-an-in-person-card-sort-8",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-limitations-to-card-sorting-9",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-conclusion-10",
+    "https://www.nngroup.com/articles/card-sorting-definition/#toc-references-11",
+    "https://www.nngroup.com/articles/tree-testing/",
+    "https://www.nngroup.com/articles/card-sorting-terminology-matches/",
+    "https://www.nngroup.com/articles/pilot-testing/",
+    "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/",
+    "https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/",
+    "https://www.nngroup.com/articles/tree-testing/",
+    "https://www.nngroup.com/articles/category-names-suck/",
+    "https://www.nngroup.com/articles/rating-scales/",
+    "https://www.nngroup.com/articles/information-scent/",
+    "https://www.nngroup.com/articles/flat-vs-deep-hierarchy/"
+  ]
+}

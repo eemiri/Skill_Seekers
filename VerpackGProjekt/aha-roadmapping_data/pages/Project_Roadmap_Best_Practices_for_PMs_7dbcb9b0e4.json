@@ -1,0 +1,152 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap",
+  "title": "Project Roadmap: Best Practices for PMs",
+  "content": "Last updated: November 2024\n\nA project roadmap is a visual timeline of progress that gives teams a clear view of the project lifecycle (e.g., initiation, planning, execution, and closure). This type of roadmap helps project managers guide teams toward completing a specific project by breaking it down into manageable phases. It enables you to:\n\nMake prioritization decisions faster\n\nSpot roadblocks and dependencies affecting due dates\n\nCommunicate progress against goals\n\nIn general, project roadmaps include the following components:\n\nProject goals or objectives\n\nResource allocation and budget\n\nImportant phases, milestones, and high-level deadlines\n\nResponsibilities and assigned work for cross-functional teams, stakeholders, or partners\n\nYour project roadmap should be a collaborative and dynamic tool. You will revisit and update it as your project comes to life. Whether you are navigating complex dependencies or streamlining workflows, creating this type of roadmap will help drive a project forward.\n\nThis guide covers project roadmap concepts and breaks down how to create one for an upcoming effort. Learn how you can communicate the right level of detail for every audience — from high-level updates for leadership to actionable tasks for cross-functional teams.\n\nJump ahead to any section:\n\nWhy are project roadmaps important?\n\nWhich projects need a roadmap?\n\nProject roadmap vs. project plan vs. project charter\n\nProject roadmap vs. product roadmap\n\nProject roadmap vs. Gantt chart\n\n3 project roadmap examples\n\nHow to build a project roadmap in 3 steps\n\nA project roadmap is a powerful tool for helping everyone understand a project's goals and your time-based plan for how to achieve them. This type of roadmap helps you with:\n\nShow what each team will deliver and when. Track progress, ensure folks meet deadlines, and keep everyone accountable to their work.\n\nAlignment and prioritization\n\nConnect project goals to the activities and tasks on your roadmap so everyone understands their contributions to your project's success. Priorities might shift, so use the roadmap to guide prioritization decisions and ensure what you are working toward connects back to your goals.\n\nKeep teammates aligned and update key stakeholders on project progress. This type of roadmap communicates plans throughout each phase of a project's lifecycle.\n\nSynchronize shared work, dependencies, and handoffs. This roadmap gives everyone a view of deliverables and timing.\n\nCreate customized roadmap views for various stakeholders to illustrate everyone's role in the project. This gives folks the opportunity to ask questions, sharpen expectations, and quickly spot problems related to scope or limited resources.\n\nRoadmapping: Your starter guide\n\nRoadmaps make strategy work\n\nHow to build a brilliant roadmap\n\nAny project or program with strategic goals, a budget and timeline, and multiple stakeholders can benefit from a roadmap. For example:\n\nA manufacturing facility project manager can manage the rollout of new production lines or equipment.\n\nA business analyst can visualize the implementation of a new business intelligence tool.\n\nAn event manager can share the event strategy and plans for the upcoming year.\n\nYour roadmap's focus will always depend on the specifics of what you manage. Defining the project's scope, success criteria, requirements, and internal and external stakeholders will guide you toward creating a clear and actionable project roadmap.\n\nProject roadmaps, plans, and charters — do project managers need all three? The answer is likely yes, given the differences and purposes of these documents:\n\nA project charter is a document that summarizes project objectives and scope. Think of it like a business case for the project, with high-level goals, major areas of focus, success metrics, and budget. People typically use a charter to get stakeholder buy-in when initiating a new project.\n\nA project plan guides the project team toward the specific details of how you will achieve the project objectives. It can include project requirements, tasks, deadlines, roles, responsibilities, and resources.\n\nThe project roadmap is the visualization of your project plans. It lays out your goals, the work you will do, and when you will deliver it.\n\nYour organization might use other terms for these same concepts. For example, a project charter can also be called a project definition, a project statement, or a project brief. The names of the documents might vary, but their purposes are similar; every successful project requires you to outline the objectives, activities, and deadlines required to move the project forward.\n\nRelated? Definitely. Essentially the same? Absolutely not. Even though there are some similarities, project and product roadmaps have several key differences. Distinguishing between the two is easier when you understand how a project and a product differ.\n\nProject: A series of tasks or plans that are implemented over a set period of time. A project is complete when you have accomplished the goals you set.\n\nProduct: A good or service provided to a group of customers. Products can be anything from physical items to software applications that are delivered to an end user.\n\nTake a look at this overview of the differences between a project and a product roadmap:\n\nThe product roadmap vs. the project roadmap\n\nThe product manager vs. the project manager\n\nProduct management vs. program management vs. project management\n\nMost project managers are familiar with Gantt charts: another type of visual plan that displays the project schedule. Whereas a project roadmap typically shows the general start and end dates for given phases or activities, Gantt charts go deeper. They include the nitty-gritty details about tasks, assignees, and due dates.\n\nThink of your project roadmap as a visualization of your high-level plans and the Gantt chart as the visualization of the specific details the team will deliver. If you build roadmaps in a purpose-built tool such as Aha! Roadmaps, you can create a summary-level roadmap and a Gantt-style view from the same inputs. You can enter project plans once, then drill into the level of detail you need.\n\nProject managers need to share details both at the start of a project and on an ongoing basis to convey progress and revisions along the way. To do this in a way that will engage your audience, consider using the following types of roadmaps:\n\nGreat for: Tracking progress toward shared initiatives or improvements (for example, process efficiencies or cost-saving efforts)\n\nSuccess metrics, or the specific ways you measure progress toward your goal or objective\n\nAn overall timeline for top-priority work\n\nCustomize a project roadmap with goals and strategic initiatives in Aha! Roadmaps.\n\nGreat for: Showcasing specific details of individual projects (for example, upcoming deliverables or a necessary trade-off decision about where to prioritize your time)\n\nProject swimlanes with activities, individual work items, statuses, and due dates\n\nThe timeline for delivery in days, weeks, months, or quarters\n\nShow the details of your work with an activities project roadmap in Aha! Roadmaps.\n\nGreat for: Planning work across teams or functions (for example, coordinating the work required to launch a new partner portal across design, development, QA, and marketing teams)\n\nVisualize project phases with a Gantt chart in Aha! Roadmaps.\n\nTo build an effective project roadmap, you will need an understanding of your project's \"why,\" \"what,\" and \"when.\" With these key pieces defined, you can start drafting your roadmap. Try following these three steps:\n\nComplete project planning: Set clear project goals and determine the criteria for measuring success.\n\nDefine project scope: Decide what needs to be completed in order to achieve your goals, as well as general start and end dates.\n\nPlot your roadmap: Create a visual timeline of your project plans.\n\nSome project managers create roadmap views in spreadsheets or presentation tools. Templates in Excel and PowerPoint can be useful starting points to visualize early plans. But once you get into the details of the work, static documentation is hard to format and keep updated in real time.\n\nProject management software and purpose-built roadmapping tools such as Aha! Roadmaps give you a single source of truth. You can enter project details once, and then tailor roadmap views to your audience. Look for a tool that allows you to display and customize the following elements:\n\nProject capabilities such as Gantt charts and timeline views\n\nGoals and success metrics\n\nInitiatives, activities, and major themes of work\n\nProject phases, milestones, and dependencies\n\nDetailed tasks with assignees and due dates\n\nOf course, your project management duties do not end with building a roadmap. You need to actually steer your project to completion. This is where a tool like Aha! Roadmaps brings value. You can assign and manage all the work in one place. And as you communicate and collaborate on the work items, your plans and project roadmap automatically adjust.\n\nWho is responsible for creating a project roadmap?\n\nThe product or project manager is typically responsible for creating the roadmap. That said, it is a collaborative process: Input from key stakeholders such as functional leads and executives will be necessary to ensure the project roadmap aligns with the company and product strategy.\n\nHow detailed should a project roadmap be?\n\nA project roadmap should have enough detail to clearly communicate your project goals, milestones, and timelines. But avoid getting too specific. Rather than listing every task or dependency, aim to provide a broad view of what needs to be achieved and when.\n\nCan a project roadmap change during the project?\n\nYes. Sometimes, project priorities shift, new challenges emerge, and timelines must expand or contract. When this happens, you will have to adjust the project roadmap to reflect business and team needs.\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is a project roadmap?",
+      "id": "what-is-a-project-roadmap"
+    },
+    {
+      "level": "h4",
+      "text": "Build your project roadmap in Aha! Roadmaps. Sign up for free trial.",
+      "id": "build-your-project-roadmap-in-aha-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "Why are project roadmaps important?",
+      "id": "why-are-project-roadmaps-important"
+    },
+    {
+      "level": "h2",
+      "text": "Which projects need a roadmap?",
+      "id": "which-projects-need-a-roadmap"
+    },
+    {
+      "level": "h3",
+      "text": "Project roadmap vs. project plan vs. project charter",
+      "id": "project-roadmap-vs-project-plan-vs-project-charter"
+    },
+    {
+      "level": "h2",
+      "text": "Project roadmap vs. product roadmap",
+      "id": "project-roadmap-vs-product-roadmap"
+    },
+    {
+      "level": "h3",
+      "text": "Project roadmap vs. Gantt chart",
+      "id": "project-roadmap-vs-gantt-chart"
+    },
+    {
+      "level": "h2",
+      "text": "3 project roadmap examples",
+      "id": "3-project-roadmap-examples"
+    },
+    {
+      "level": "h3",
+      "text": "1. Project initiatives roadmap",
+      "id": "1-project-initiatives-roadmap"
+    },
+    {
+      "level": "h3",
+      "text": "2. Activities roadmap",
+      "id": "2-activities-roadmap"
+    },
+    {
+      "level": "h3",
+      "text": "3. Gantt chart-style roadmap",
+      "id": "3-gantt-chart-style-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "How to build a project roadmap in 3 steps",
+      "id": "how-to-build-a-project-roadmap-in-3-steps"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about project roadmaps",
+      "id": "faqs-about-project-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap",
+    "https://www.aha.io/roadmapping/guide/agile/an-introductory-guide-to-agile-project-management",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#why-are-project-roadmaps-important",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#which-projects-need-a-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#project-roadmap-vs-project-plan-vs-project-charter",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#project-roadmap-vs-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#project-roadmap-vs-gantt-chart",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#3-project-roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#how-to-build-a-project-roadmap-in-3-steps",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices",
+    "https://www.aha.io/roadmapping/guide/what-are-product-metrics#what-are-the-most-common-types-of-product-metrics",
+    "https://www.aha.io/roadmapping/guide/product-management/how-product-managers-achieve-stakeholder-alignment",
+    "https://www.aha.io/roadmapping/guide/roadmap/roadmap-milestones",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/business-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/innovation-roadmap",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/go-to-market-roadmap",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap",
+    "https://www.aha.io/roadmapping/guide/technology-roadmap",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

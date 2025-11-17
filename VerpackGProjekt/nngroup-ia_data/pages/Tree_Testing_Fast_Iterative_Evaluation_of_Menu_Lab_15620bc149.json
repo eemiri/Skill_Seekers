@@ -1,0 +1,172 @@
+{
+  "url": "https://www.nngroup.com/articles/tree-testing/",
+  "title": "Tree Testing: Fast, Iterative Evaluation of Menu Labels and Categories",
+  "content": "August 6, 2023 2023-08-06\n\nDeveloping an effective navigation hierarchy is a challenge. Even when following best practices for understandable information architecture, you cannot be sure that your categorization and labeling choices will make sense to your users. As we often say at NN/g, if you’re not checking, you’re guessing; you need to test your information architecture to be sure that your users will be able to find key resources and features.\n\nThis article discusses tree testing, a research method used to assess the findability of resources after you have created your proposed navigation hierarchy.\n\nMuch like usability testing, tree testing is a task-based research method where you ask participants to look for key resources.\n\nTree test: An evaluation of a hierarchical category structure, or tree, by having users find the locations in the tree where specific resources or features can be found.\n\nTo conduct a tree test, you don’t need to create any prototypes, design layouts, or visuals, nor do you have to write any content. You need to prepare only two things:\n\nAs the participant clicks on categories, they expand to reveal subcategories. The participant clicks through the tree until they have found the location that they believe contains the information specified in the task.\n\nYour tree should be a list of all the categories and subcategories in your global navigation (and, potentially, in your utility navigation, as well). Go beyond creating just the top-level navigation categories — define your tree down to the lowest level of subcategories that will contain the resources you will ask study participants to find.\n\nYou could conduct a tree test using a paper prototype (or any clickable prototyping tool), but a service designed specifically for tree testing will vastly expedite the data analysis and is well worth it. Userzoom and Treejack are both good options for conducting tree testing.\n\nPrepare your tree in a spreadsheet, where you can easily visualize and edit it, then copy and paste the entire hierarchy into your tree-testing tool. The spreadsheet should be formatted with your homepage in the top cell of Column A, then lower levels listed out in columns from left to right. Make sure to list only one category on each row, so that your levels will be correctly parsed when you import the hierarchy.\n\nOnce you have pasted your hierarchy into the testing tool, the categories are parsed and used to automatically create a clickable menu hierarchy in which each category can be expanded to show the corresponding subcategories.\n\nThe tasks you ask users to complete are just as important as the tree itself. Here are some typical task types:\n\nFor each task you write, you should also define the correct answer(s), corresponding to where the information is located within the tree. This information will allow the testing tool to automatically calculate success rates for each task.\n\nEach task should test a category label by asking the user to find something contained within that category. As with usability-testing tasks, tree-testing task instructions should avoid using terms that give away the answers. Preventing priming can sometimes be accomplished by describing a scenario and motivation. However, keep in mind that users may not read the instructions carefully and may easily miss important details if they are buried in a lengthy story.\n\nHere are a few different possible phrasings for evaluating the Starting a Business category on the New Mexico state-government tree (depicted above):\n\nTree-Test Task Formulation\n\nGives away the answer by using the exact label term, Starting a Business\n\nLong and packed with extraneous words that might sidetrack the participants\n\nAvoids both mistakes above\n\nSometimes a tree test may involve several trees rather than just one. For example, if you are considering different labels (i.e., word choices) for the same category, you may want to test two different trees to compare how the terms perform.\n\nThere’s no need to test multiple trees if you just want to compare different locations for a label — such as whether tomatoes should be placed under Fruits or Vegetables. Instead of testing two different trees for each location, you can test a single tree and compare how many users clicked Fruits vs. how many clicked Vegetables. (You’ll also be able to tell which category they tried first if they clicked on both.)\n\nIf you test multiple trees, use a between-subjects study design, in which each participant sees a single tree version in a session. Otherwise, the experience with the first tree may affect users’ behavior when interacting with the second tree.\n\nSome tree-testing tools allow you to randomly assign participants to different versions of the tree, in a manner similar to an A/B test on a live website, whereas others require that you manually assign participants to entirely different studies (and manually compare the data).\n\nTree testing can be used both as a qualitative and a quantitative research method, depending on whether you are interested in a formative or summative evaluation.\n\nTree testing can be used to rapidly test and iterate on ideas for information architecture at the beginning of a project, as it doesn’t require designing layouts, content, or interactions. Much like usability testing, qualitative tree testing requires only a few participants to gather insights for how to improve the navigation schema. It is often done as a moderated study, to benefit from the ability to have a trained facilitator probe when participants do interesting things. However, qualitative tree testing is not appropriate for gathering statistics (such as success rate or time on task).\n\nTree testing can be used to benchmark a navigation structure and compare it against other options (such as competitors, other ideas, or future redesigns). Quantitative tree testing requires a larger sample size. Like most quantitative study designs, it usually doesn’t produce deep insights into why users think or behave in specific ways but does allow for precise measurement of how long it takes users to find a resource, what proportion of users were successful, and so on. This information is very useful when you are comparing several options for a navigation schema: it’s quite common for product teams to have many different ideas on how to structure their IA, and tree testing can uncover the best option.\n\nWe recommend beginning a quantitative tree test with a small qualitative study for two reasons:\n\nCard sorting and tree testing are two key research methods that are specific to information architecture. Many newcomers to information architecture often misunderstand the purpose of card sorting, and use it inappropriately, instead of a tree test.\n\nIn card-sorting, users are given a list of representative content items to group and label as they see fit. In tree testing, users must find a specific item in a category tree.\n\nThe two methods are used for different purposes. Card sorting is a generative method used for discovering possible groupings for your categories or content. It captures users’ mental models of what belongs together and why, and what to call these groups but is not a particularly good method for evaluating a navigation hierarchy. Tree testing, on the other hand, is a method solely used for evaluating a potential navigation hierarchy; you must create the full category structure and name everything before you can test it, but it can reveal whether users are able to find key resources within your proposed structure.\n\nCard sorting does not usually produce the exact categorization scheme you should follow. For example, participants in a card sort often create a generic category to hold a few items which don’t seem to fit anywhere else; this is understandable, but if you were to include an “other stuff” category in your menu, the same users would avoid it like the plague. (Website visitors are notoriously reluctant to click on vague labels because they quite rightly suspect they’ll have to do a lot of work to sift through the content.)\n\nTree testing can fit quite well in a few different stages of the product-development process.\n\nOne common information-architecture research recipe is to:\n\nTree testing is useful because it:\n\nTree testing (especially its quantitative version) is often executed as a remote, unmoderated study. After recruiting representative users, you send them a link to the study, and the testing tool walks them through the process of completing the tasks using their own computer. The testing tool is much better than a human would be at keeping track of exactly which categories users click on.\n\nHowever, this format does not capture the full context of user behavior (such as comments made while performing the task) and you can’t ask personalized followup questions.\n\nTo minimize the effects of the format, conduct at least a few moderated pilot sessions before collecting the bulk of your data. In these moderated sessions you can ensure the task wording is understandable and get a chance to pick up on nuances that might otherwise be hard to spot.\n\nFor example, in the pilot of a recent quantitative tree testing study, we noticed that many users avoided a certain category because the label was so broad that they feared the content would be overwhelming. This trend wasn’t noticeable in the quantitative results due to the task-order randomization, but it was evident as you sat through each session and saw task after task where users ignored an obvious choice. That insight alone made the pilot test a day well spent.\n\nYou can also partially compensate for the inability to ask followup questions in unmoderated tree tests by including a short survey after the tree test. Rather than asking users to recall any labels they found confusing, provide them with a list of labels and ask them to check which were difficult to understand. This question can be followed up with an open-ended question inviting users to share any further comments and feedback, to elicit unexpected assumptions or misunderstandings that may not be apparent from the click history.\n\nTree-testing software typically comes with the limitation that users can choose only bottom-level items in the tree as their answer for a task; in other words, these systems assume that the categories that have child elements don’t have pages of their own. This draws from the directory metaphor on computers–- in my Mac’s Finder, I can have folders that contain files, but the folder itself isn’t a file, it’s just an empty box to put files in.\n\nThis is not always the case for actual websites, where a category in a navigation hierarchy may have a landing page of its own and still have child pages below it. For example, on the NN/g site, we have a navigation category called Consulting. That category Consulting isn’t just a folder – it’s a page, but it also acts as a folder with multiple child pages below (such as Benchmarking, IA & Navigation Analysis, and Usability Testing).\n\nUnfortunately, tree-testing software cannot account for that sort of real-world design. You cannot mark a category (which is a branch on the tree) as the correct answer, only the lowest level (a leaf at the deepest level of its branch).\n\nTree testing focuses exclusively on evaluating the findability of key resources in your category structure and whether the text labels are understandable to users. This is both its great strength and a significant weakness. Since the menu that users interact with is completely devoid of visual styling and content, the experience is different than interacting with the full design. For example, a design with mega menus provides a quite different browsing experience than the one tested in a tree test, since it simultaneously displays the contents of several subcategories.\n\nHowever, even these inherent limitations can often be overcome or minimized with careful data analysis — for example, by focusing on whether the user selects the correct top-level category, rather than on success rates for sites with mega menus.\n\nOverall, these limitations are a small price to pay for the benefit of quickly being able to iterate and evaluate major structural changes to an information hierarchy early in the design process. You can create a completely new tree to test just by editing your spreadsheet — with absolutely no design or coding required.\n\nOrganize and structure information to improve findability and discoverability\n\nStudy your users’ real-life behaviors and make data-informed design decisions\n\nUse metrics from quantitative research to demonstrate value",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Tree Testing: Fast, Iterative Evaluation of Menu Labels and Categories",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "What Is Tree Testing?",
+      "id": "toc-what-is-tree-testing-1"
+    },
+    {
+      "level": "h2",
+      "text": "The Tree-Testing Process",
+      "id": "toc-the-tree-testing-process-2"
+    },
+    {
+      "level": "h3",
+      "text": "Define the Tree",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Select a Tool",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Input the Tree into the Tool",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Tree-Testing Tasks",
+      "id": "toc-tree-testing-tasks-3"
+    },
+    {
+      "level": "h3",
+      "text": "Avoiding Common Task-Phrasing Mistakes",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Multiple Trees",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Qualitative vs. Quantitative Tree Testing",
+      "id": "toc-qualitative-vs-quantitative-tree-testing-4"
+    },
+    {
+      "level": "h3",
+      "text": "Qualitative Tree Testing",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Quantitative Tree Testing",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Tree Testing vs. Card Sorting: Different Purposes",
+      "id": "toc-tree-testing-vs-card-sorting-different-purposes-5"
+    },
+    {
+      "level": "h2",
+      "text": "When to Use Tree Testing",
+      "id": "toc-when-to-use-tree-testing-6"
+    },
+    {
+      "level": "h2",
+      "text": "Benefits of Tree Testing",
+      "id": "toc-benefits-of-tree-testing-7"
+    },
+    {
+      "level": "h2",
+      "text": "Limitations of Tree Testing",
+      "id": "toc-limitations-of-tree-testing-8"
+    },
+    {
+      "level": "h3",
+      "text": "Lack of Context in Unmoderated Studies",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Correct Answers Can Be Only a Leaf, Not a Branch",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-9"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Analytics and User Experience",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Measuring UX and ROI",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/tree-testing/",
+    "https://www.nngroup.com/articles/navigation-you-are-here/",
+    "https://www.nngroup.com/articles/ia-study-guide/",
+    "https://www.nngroup.com/articles/tree-testing/",
+    "https://www.nngroup.com/articles/tree-testing/#toc-what-is-tree-testing-1",
+    "https://www.nngroup.com/articles/tree-testing/#toc-the-tree-testing-process-2",
+    "https://www.nngroup.com/articles/tree-testing/#toc-tree-testing-tasks-3",
+    "https://www.nngroup.com/articles/tree-testing/#toc-qualitative-vs-quantitative-tree-testing-4",
+    "https://www.nngroup.com/articles/tree-testing/#toc-tree-testing-vs-card-sorting-different-purposes-5",
+    "https://www.nngroup.com/articles/tree-testing/#toc-when-to-use-tree-testing-6",
+    "https://www.nngroup.com/articles/tree-testing/#toc-benefits-of-tree-testing-7",
+    "https://www.nngroup.com/articles/tree-testing/#toc-limitations-of-tree-testing-8",
+    "https://www.nngroup.com/articles/tree-testing/#toc-conclusion-9",
+    "https://www.nngroup.com/articles/usability-testing-101/",
+    "https://www.nngroup.com/articles/accordion-icons/",
+    "https://www.nngroup.com/articles/better-usability-tasks/",
+    "https://www.nngroup.com/articles/navigation-you-are-here/",
+    "https://www.nngroup.com/articles/utility-navigation/",
+    "https://www.nngroup.com/articles/information-scent/",
+    "https://www.nngroup.com/articles/fixing-bad-intranet-navigation/",
+    "https://www.nngroup.com/articles/task-scenarios-usability-testing/",
+    "https://www.nngroup.com/articles/priming/",
+    "https://www.nngroup.com/articles/between-within-subjects/",
+    "https://www.nngroup.com/articles/putting-ab-testing-in-its-place/",
+    "https://www.nngroup.com/articles/formative-vs-summative-evaluations/",
+    "https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/",
+    "https://www.nngroup.com/articles/metrics-qualitative/",
+    "https://www.nngroup.com/articles/discovery-phase/",
+    "https://www.nngroup.com/articles/category-names-suck/",
+    "https://www.nngroup.com/articles/benchmarking-ux/",
+    "https://www.nngroup.com/articles/polyhierarchy/",
+    "https://www.nngroup.com/articles/remote-usability-tests/",
+    "https://www.nngroup.com/articles/recruiting-test-participants-for-usability-studies/",
+    "https://www.nngroup.com/articles/pilot-testing/",
+    "https://www.nngroup.com/articles/open-ended-questions/",
+    "https://www.nngroup.com/articles/mega-menus-work-well/"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "chaos-engineering",
+  "description": "Use this skill when implementing chaos engineering practices, designing resilience experiments, building fault injection systems, or verifying system reliability under failure conditions. Covers chaos engineering principles, tools (Chaos Monkey, Litmus Chaos, Gremlin), experiment design, and resilience verification.",
+  "base_url": "https://principlesofchaos.org/",
+  "additional_urls": [
+    "https://netflix.github.io/chaosmonkey/",
+    "https://docs.litmuschaos.io/",
+    "https://litmuschaos.io/",
+    "https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main'], div.post-content, div.documentation",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "chaos",
+      "principles",
+      "monkey",
+      "litmus",
+      "experiment",
+      "resilience",
+      "fault",
+      "tutorial"
+    ],
+    "exclude": [
+      "/tag/",
+      "/author/",
+      "/category/",
+      "comment",
+      "login",
+      "signup",
+      "privacy",
+      "terms"
+    ]
+  },
+  "categories": {
+    "principles": ["principles", "methodology", "foundation", "theory"],
+    "tools": ["chaos-monkey", "litmus", "gremlin", "tool", "platform"],
+    "experiments": ["experiment", "test", "scenario", "injection", "fault"],
+    "tutorials": ["tutorial", "guide", "practice", "how-to", "example"],
+    "best_practices": ["best-practice", "practice", "pattern", "strategy"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

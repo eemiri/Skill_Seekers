@@ -1,0 +1,61 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts",
+  "title": "Keys and keyboard shortcuts",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nThis term collection covers how to refer to keyboard shortcuts and the names of specific keys.\n\nFor information about describing customers' interactions with UI, see Procedures and instructions.\n\nIn general, use sentence capitalization for key names. Examples the Shift key the Page up key\n\nCapitalize letter keys in general references. Example the K key\n\nLowercase and bold a letter key when instructing customers to enter the letter (unless you're instructing them to enter a capital letter). Example enter k\n\nOn the first mention, you can use the definite article the and the word key with the key name if necessary for clarity. Example Select the F1 key.\n\nOn subsequent mentions, refer to the key by its name only. Example Select F1.\n\nIf you need guidance for a key name that isn't on this list, use sentence capitalization and spell it as it appears on the keyboard.\n\nBecause special character names could be confused with an action (such as +) or be difficult to see, always spell out the following special character names: Plus sign, Minus sign, Hyphen, Period, and Comma.\n\nTo avoid confusion, it's OK to add the character in parentheses after spelling out the name.Example Plus sign (+)\n\nUse discretion. This might not be necessary for commonly used characters, such as the period (.).\n\nTo show a key combination that includes punctuation requiring use of the Shift key, such as the question mark, use Shift and the name or symbol of the shifted key. Using the name of the unshifted key, such as 4 rather than $, could be confusing or even wrong. For example, the ? and / characters aren't shifted keys on every keyboard. Always spell out Plus sign, Minus sign, Hyphen, Period, and Comma.\n\nExamplesCtrl+Shift+? Ctrl+Shift+* Ctrl+Shift+Comma\n\nSee also Special character term collection\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Keys and keyboard shortcuts",
+      "id": "keys-and-keyboard-shortcuts"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Keyboard actions and access",
+      "id": "keyboard-actions-and-access"
+    },
+    {
+      "level": "h2",
+      "text": "Key names",
+      "id": "key-names"
+    },
+    {
+      "level": "h2",
+      "text": "Special character names",
+      "id": "special-character-names"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/keys-keyboard-shortcuts",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/",
+    "https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/mouse-mouse-interaction-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/special-characters"
+  ]
+}

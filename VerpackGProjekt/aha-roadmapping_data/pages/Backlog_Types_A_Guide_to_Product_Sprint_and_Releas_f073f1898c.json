@@ -1,0 +1,113 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+  "title": "Backlog Types: A Guide to Product, Sprint, and Release Backlogs",
+  "content": "Last updated: February 2025\n\nEvery product team is responsible for capturing new ideas and requests for enhancements. These inputs are what drive business innovation and a collaborative team environment. But you need to do more than just be a sounding board for a lot of ideas. You need a way to gather and evaluate requests for your current roadmap. In order to manage ideas and active work, most product teams use some sort of backlog.\n\nThere are three main types of backlogs — product, sprint, and release. The product backlog is a dynamic list of all product work, continuously updated based on priorities and feedback. A sprint backlog nests within the product backlog and contains user stories you assign to specific sprints. Release backlogs hold features you need to implement for a particular release.\n\nExplore this topic more below. Feel free to jump ahead using these links:\n\nA background on backlogs\n\nTypes of backlogs: a closer look\n\nThe difference between each type of backlog\n\nHow do you order and manage your backlog?\n\nWhat tools can you use to manage your backlog?\n\nThe concept of a backlog is rooted in agile methodologies. Many teams use adaptive planning techniques to continuously prioritize what to build and when. However, it is now common even for teams that do not follow a strict agile approach to use backlogs for organizing and prioritizing work items.\n\nRequests for new features and enhancements to existing functionality can be added to a backlog and ranked based on business value, for example. This approach makes it easy for product managers to quickly prioritize the most important work. It can also be useful to create backlogs for additional planning stages after feature requests are captured. This helps you narrow the list of what you want to implement — so you can focus on prioritizing and wait to build out requirements as you get closer to when you plan to ship.\n\nUnderstanding the difference between the three main types of backlogs and when to use each helps you deliver against your product roadmap in an incremental and iterative way. The graphic below illustrates each type. It highlights how creating product, release, and sprint backlogs can help you define the most important work items to be completed at different stages in your planning process:\n\nUsing product, release, and sprint backlogs helps streamline your product planning process. Familiarize yourself with the key elements of each backlog so you can confidently decide when to use each type:\n\nDefine and prioritize which features should be worked on in upcoming releases.\n\nDefine which features need to be completed within a release.\n\nDefine which user stories need to be completed within a sprint.\n\nProduct managers decide which work items go into the product backlog, ensuring each item delivers the highest value.\n\nProduct managers collaborate with the engineering team to set the scope of a release based on the capacity of the team.\n\nThe development team decides how many sprints will be required for a release and how many user stories they can commit to in each sprint.\n\nProduct backlogs contain product features. A product feature is a slice of business functionality that has a corresponding benefit or set of benefits for the product's end user.\n\nRelease backlogs also contain product features. These are pulled from the product backlog. Each feature should be small enough to complete in a single release cycle.\n\nSprint backlogs contain user stories. A user story describes a product feature from the perspective of the end user and clearly defines a software requirement.\n\nDuration of each release\n\nDuration of each sprint\n\nProduct backlog items are estimated in points or time based on the difficulty and effort required to implement them.\n\nA max point or time capacity is set for each release. The release date and number of features included in a release backlog is determined by past velocity and resources available.\n\nUser stories are estimated in story points or time. The development team uses their past velocity and current capacity to determine a max story point number or time value for each sprint.\n\nCompare features in your product backlog to confirm their strategic importance. Use scorecards with multiple metrics to evaluate influential factors like business value and effort.\n\nPrioritize release backlog items based on the business value they will deliver and the effort required to complete them. It is important to use linear rank ordering (i.e., 1, 2, 3, 4) to avoid inflation of priority.\n\nPrioritize user stories based on how critical the functionality is and the estimate. This ensures it is easy to decide which stories can be pushed out into another sprint if they cannot be completed.\n\nProduct managers keep work items moving forward by continually gathering and prioritizing feedback.\n\nProduct managers define all acceptance criteria — so the problem the functionality will solve is clear. They check that the scope of work aligns with the team's capacity to deliver the release.\n\nDevelopment teams have a planning meeting before each sprint. They review the release backlog and decide which user stories to complete in the upcoming sprint.\n\nCreate a report on feature categories, themes, and scores to review your product backlog. Use this view to show the big picture of feature priority. You will see which low-scoring features should be revisited to determine if they should move up in value.\n\nMonitor the real-time progress of a release with a release burndown chart. See feature status, burnup, and burndown measured against pre-determined time frames. This shows the amount of remaining work the team needs to complete to stay on track.\n\nTrack sprint progress and work that is remaining using a sprint burndown chart. Use this view during the daily scrum meeting to make sure the team is on track and will complete all user stories in the sprint.\n\nProduct managers are responsible for setting product strategy and deciding what features to build in order to achieve overall business goals. These features are stored in a product backlog — along with bug fixes and other technical items — that need to be worked on in the future. Each feature includes a high-level description of the desired user experience.\n\nA product backlog requires continuous refinement as new items are added and priorities change. As features are prioritized for implementation, each one is then moved to a release backlog. Here, the requirements for each feature are defined in greater detail. The team also estimates the effort needed to deliver each feature in time or story points. This information is used to set the overall scope of a release based on the team's capacity.\n\nOnce release planning is complete, the engineering team divides the work into sprint cycles. Features in the release backlog are broken down into user stories that are small enough to be completed within a sprint. User stories are then moved into a sprint backlog. This helps the team understand exactly what needs to be completed during each iteration of work.\n\nFeature prioritization templates\n\nThemes, epics, stories, and tasks\n\nCreate one unified product and engineering backlog in Aha! Develop\n\nBacklogs are great for helping product managers organize what to build and when. They provide a useful structure for continuously evaluating what to prioritize and then committing to developing those items in clearly defined iterations.\n\nHowever, creating and managing backlogs using manual tools like spreadsheets can be challenging. These can quickly become outdated because they are not connected to the tool the development team is using to manage their work. Or you may find that it is too time-consuming to input data, create a hierarchy of work, and translate that into a report or chart.\n\nManaging your backlogs in one central place makes it easy to move quickly and effectively communicate with stakeholders. This is where web-based software tools like Aha! come in handy. You can use these for intaking, estimating, prioritizing, and moving around backlog items. Confidently share beautiful priority reports, burndown charts, and more knowing everything is up to date.\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Product backlogs vs. sprint backlogs vs. release backlogs",
+      "id": "product-backlogs-vs-sprint-backlogs-vs-release-backlogs"
+    },
+    {
+      "level": "h4",
+      "text": "Do your release planning in Aha! Roadmaps. Sign up for a trial.",
+      "id": "do-your-release-planning-in-aha-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "A background on backlogs",
+      "id": "a-background-on-backlogs"
+    },
+    {
+      "level": "h2",
+      "text": "Types of backlogs: a closer look",
+      "id": "types-of-backlogs-a-closer-look"
+    },
+    {
+      "level": "h2",
+      "text": "The difference between each type of backlog",
+      "id": "the-difference-between-each-type-of-backlog"
+    },
+    {
+      "level": "h2",
+      "text": "How do you order and manage your backlog?",
+      "id": "how-do-you-order-and-manage-your-backlog"
+    },
+    {
+      "level": "h2",
+      "text": "What tools can you use to manage your backlog?",
+      "id": "what-tools-can-you-use-to-manage-your-backlog"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog#a-background-on-backlogs",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog#types-of-backlogs-a-closer-look",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog#the-difference-between-each-type-of-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog#how-do-you-order-and-manage-your-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog#what-tools-can-you-use-to-manage-your-backlog",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-development",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog#top",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-burndown-chart",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog#top",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-grooming",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog#top",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-a-product-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-release-sprint-backlog",
+    "https://www.aha.io/roadmapping/guide/release-management/product-backlog-refinement",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

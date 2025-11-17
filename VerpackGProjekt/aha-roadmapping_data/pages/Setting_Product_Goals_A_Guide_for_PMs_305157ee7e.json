@@ -1,0 +1,114 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+  "title": "Setting Product Goals: A Guide for PMs",
+  "content": "Goals are essential for a winning product strategy. Without them, product teams struggle to make meaningful progress. Sure, you can make your best guess as a product manager about what you believe to be the most impactful work. You might get by with savvy gut decisions in the short-term. But if you want to build towards lasting success and deliver real value to customers, you need to establish concrete goals to work towards.\n\nWhat is a product goal?\n\nWhy should you set product goals?\n\nExamples of product goals\n\nWhat are common product goal frameworks?\n\nVisualizing product goals on your roadmap\n\nA product goal is a measurable, time-bound objective that supports your product vision. It defines what you want to accomplish and how you will evaluate your success. For example, you may set a product goal to double your revenue in the next 12 months — with a success metric of $100M to consider this goal achieved. (See more examples below.)\n\nMany organizations set new product goals annually, bi-annually, or quarterly. Goal-setting is a collaborative process between leadership and the product team, guided by higher-level business needs in addition to the overall product strategy. As part of this process, you will also define product initiatives — that broad themes of work you are planning to achieve each goal. After setting goals and initiatives, that is when you can start product planning and building out a roadmap.\n\nSetting product goals takes serious thought — it requires you to have a full understanding of where you are headed and why. But it is a necessary task for any product development team that wants to build something that customers will love.\n\nThe products you build represent the future success of the business. Product goals are like stepping stones on that path to success. That is what makes them so important — product goals represent tangible, noteworthy achievements on the way to making your vision a reality.\n\nBeyond this, product goals are beneficial in a number of ways:\n\nProduct goals encourage a goal-first approach. Defining product goals at the outset helps ensure they will be top-of-mind throughout product development. It is hard to avoid getting swept up in a flurry of ideas, requests, and priorities from stakeholders — but product goals will help you stay grounded in the work that matters most.\n\nProduct goals provide direction for your plans. Product goals are a link between what you want to achieve and the work you will do to achieve it. Each area of tactical investment — initiatives, epics, features, and releases — should tie back to your goals.\n\nProduct goals help with efficient prioritization. Prioritizing work is central to any product manager's role. Evaluating new ideas and features against your goals — alongside other factors like popularity, need, effort, and confidence — will help you understand what will be the most valuable to build.\n\nProduct goals rally the broader product team around the work to be done. When you have buy-in from engineering, marketing, sales, and other internal teams on your product goals, it creates a shared sense of purpose. Product goals can unite the group on important targets and help everyone see how their efforts contribute to overall success — especially when you visualize your goals on a strategic roadmap.\n\nWhat is product vision?\n\nWhat are product goals and initiatives?\n\nWhat is a strategic product planning process?\n\nMapping goals in Aha! software (Template)\n\nProduct goals are specific to your business and offering. As a best practice, you should set three to five product goals for a given time period. More than that and you will likely get bogged down with tracking each one — and your plans may become muddled with too many objectives to work towards.\n\nAt a basic level, a product goal should describe:\n\nWhat you want to achieve\n\nWhen you want to achieve it\n\nHow you will measure if the goal was achieved (your success metric)\n\nYou can also set different types of product goals to examine your success from different angles. In the table below are a few product goal examples to help you think about how to set your own:\n\nBusiness-driven goals Goals focused on revenue, growth strategies, hiring and development, and cost-saving process improvements.\n\nExample product goal: Increase company revenue\n\nTime frame: 12 months\n\nSuccess metric: +20 percent revenue\n\nMarket-driven goals Goals related to market awareness, perception, and virality — like expanding into a new market, outperforming competitors, or developing strategic partnerships.\n\nExample product goal: Become a top-rated mobile app\n\nTime frame: 12 months\n\nSuccess metric: #1 rated in iOS and Android marketplaces\n\nCustomer-driven goals Goals tied to customer happiness and the overall customer experience — measured by product usage, customer satisfaction, and value delivered.\n\nExample product goal: Reduce trial time to value (TTV)\n\nSuccess metric: Average trial TTV of 10 days\n\nProduct teams often use goal-setting frameworks for consistency. Two of the most common goal frameworks — objectives and key results (OKRs) and SMART goals — can be applied to business- and product-level goals as well as team and individual goals.\n\nWith the OKR framework, you define objectives (what you want to achieve) and pair each one with three key results (how success will be measured). Compelling objectives are concise, easy to understand, and actionable — while key results should be time-bound and measurable. Together, objectives and key results form your product goals. In the image below, you can see some examples of OKRs:\n\nAn example of how you can define OKRs and track progress in Aha! Roadmaps\n\nIf you want to practice setting your own OKRs, try this OKR whiteboard template in Aha! software. This template is easily customizable and shareable — plus, it includes guidance for defining everything you want to accomplish. You can also track statuses and progress scores for each OKR.\n\nStart using this template now\n\nSMART stands for specific, measurable, attainable, relevant, and time-bound. This framework serves as a sort of checklist for setting individual or team goals — each one should meet the criteria outlined in SMART. Meaning:\n\nSpecific: Communicate exactly what you want to achieve.\n\nMeasurable: Include a quantifiable outcome to determine progress.\n\nAttainable: Make goals ambitious but reasonable. (Goals that are impossibly difficult or too easy can be equally de-motivating.)\n\nRelevant: Align goals with business objectives and the overall product vision.\n\nTime-bound: Set a time frame for when you want to complete your goal.\n\nIn the image below, you can see a detailed product goal example that fits the SMART goal framework:\n\nAn example of how to define and track SMART goals Aha! Roadmaps\n\nCombining each component of the SMART goal framework, your product goals might look like the following:\n\nDouble the average weekly time in account by 2X in the second half of the year\n\nRaise the trial-to-paid conversion rate by 5% in the second half of the year\n\nExpand into 5 new global markets this year\n\nThese product goals could then be aligned with company-level goals to show how work at the product-level impacts overall organizational success.\n\nTo try this framework on your own, check out our SMART goals template. Like the OKR template, it comes equipped with expert guidance and examples to help you set meaningful objectives for your product or team.\n\nStart using this template now\n\nOnce your product goals are set, planning begins. As your initiatives, releases, and features begin to take shape, it can be helpful to visualize everything on a roadmap. That way, you can see how your strategy and planned work fit together in one view — so your team has a clear understanding of the big picture and how their work supports product goals.\n\nAn example roadmap showing goals, success metrics, and progress toward related initiatives created in Aha! Roadmaps\n\nIf you are ready to capture your product goals and build a strategic roadmap, try Aha! Roadmaps — the best product management software for modern teams. With Aha! Roadmaps, it is simple to link product goals and initiatives to detailed work to show how everything ties together. Then, turn your strategy into a visual roadmap that aligns everyone around the timing and priorities.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How to set product goals",
+      "id": "how-to-set-product-goals"
+    },
+    {
+      "level": "h2",
+      "text": "What is a product goal?",
+      "id": "what-is-a-product-goal"
+    },
+    {
+      "level": "h4",
+      "text": "C﻿apture and track product goals in Aha! Roadmaps. Try for free.",
+      "id": "c-apture-and-track-product-goals-in-aha-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "Why should you set product goals?",
+      "id": "why-should-you-set-product-goals"
+    },
+    {
+      "level": "h2",
+      "text": "Examples of product goals",
+      "id": "examples-of-product-goals"
+    },
+    {
+      "level": "h2",
+      "text": "What are common product goal frameworks?",
+      "id": "what-are-common-product-goal-frameworks"
+    },
+    {
+      "level": "h3",
+      "text": "Objectives and key results (OKRs) framework",
+      "id": "objectives-and-key-results-okrs-framework"
+    },
+    {
+      "level": "h3",
+      "text": "SMART goal framework",
+      "id": "smart-goal-framework"
+    },
+    {
+      "level": "h2",
+      "text": "Visualizing product goals on your roadmap",
+      "id": "visualizing-product-goals-on-your-roadmap"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals#what-is-a-product-goal",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals#why-should-you-set-product-goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals#examples-of-product-goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals#what-are-common-product-goal-frameworks",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals#visualizing-product-goals-on-your-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals#examples-of-product-goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals#top",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals#top",
+    "https://www.aha.io/roadmapping/guide/what-are-product-metrics",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-market-fit",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-differentiation",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-i-price-my-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "name": "nngroup-ia",
+  "total_pages": 150,
+  "base_url": "https://www.nngroup.com/",
+  "pages": [
+    {
+      "title": "Information Architecture: Study Guide",
+      "url": "https://www.nngroup.com/articles/ia-study-guide/"
+    },
+    {
+      "title": "Information Architecture Articles & Videos",
+      "url": "https://www.nngroup.com/topic/information-architecture/"
+    },
+    {
+      "title": "Information Architecture: Study Guide",
+      "url": "https://www.nngroup.com/articles/ia-study-guide/#toc-information-architecture-and-organization-principles-1"
+    },
+    {
+      "title": "Information Architecture: Study Guide",
+      "url": "https://www.nngroup.com/articles/ia-study-guide/#toc-research-methods-for-ia-2"
+    },
+    {
+      "title": "Information Architecture: Study Guide",
+      "url": "https://www.nngroup.com/articles/ia-study-guide/#toc-navigation-design-3"
+    },
+    {
+      "title": "The Difference Between Information Architecture (IA) and Navigation",
+      "url": "https://www.nngroup.com/articles/ia-vs-navigation/"
+    },
+    {
+      "title": "Information Scent: How Users Decide Where to Go Next",
+      "url": "https://www.nngroup.com/articles/information-scent/"
+    },
+    {
+      "title": "Flat vs. Deep Website Hierarchies",
+      "url": "https://www.nngroup.com/articles/flat-vs-deep-hierarchy/"
+    },
+    {
+      "title": "Top 10 Information Architecture (IA) Mistakes",
+      "url": "https://www.nngroup.com/articles/top-10-ia-mistakes/"
+    },
+    {
+      "title": "Top 3 IA Questions about Navigation Menus",
+      "url": "https://www.nngroup.com/articles/ia-questions-navigation-menus/"
+    },
+    {
+      "title": "The 3-Click Rule for Navigation Is False",
+      "url": "https://www.nngroup.com/articles/3-click-rule/"
+    },
+    {
+      "title": "Polyhierarchies Improve Findability for Ambiguous IA Categories",
+      "url": "https://www.nngroup.com/articles/polyhierarchy/"
+    },
+    {
+      "title": "How to Handle Category Outliers in Your IA",
+      "url": "https://www.nngroup.com/articles/ia-category-outliers/"
+    },
+    {
+      "title": "“Learn More” Links: You Can Do Better",
+      "url": "https://www.nngroup.com/articles/learn-more-links/"
+    },
+    {
+      "title": "3 Common IA Mistakes (that Are All Due to Low Information Scent)",
+      "url": "https://www.nngroup.com/articles/3-ia-mistakes/"
+    },
+    {
+      "title": "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work",
+      "url": "https://www.nngroup.com/articles/taxonomy-101/"
+    },
+    {
+      "title": "Qualitative Usability Testing: Study Guide",
+      "url": "https://www.nngroup.com/articles/qual-usability-testing-study-guide/"
+    },
+    {
+      "title": "Quantitative Research: Study Guide",
+      "url": "https://www.nngroup.com/articles/quantitative-research-study-guide/"
+    },
+    {
+      "title": "Card Sorting: Uncover Users' Mental Models for Better Information Architecture",
+      "url": "https://www.nngroup.com/articles/card-sorting-definition/"
+    },
+    {
+      "title": "Card Sorting: Pushing Users Beyond Terminology Matches",
+      "url": "https://www.nngroup.com/articles/card-sorting-terminology-matches/"
+    },
+    {
+      "title": "Card Sorting: How Many Users to Test",
+      "url": "https://www.nngroup.com/articles/card-sorting-how-many-users-to-test/"
+    },
+    {
+      "title": "Tree Testing: Fast, Iterative Evaluation of Menu Labels and Categories",
+      "url": "https://www.nngroup.com/articles/tree-testing/"
+    },
+    {
+      "title": "Tree Testing Part 2: Interpreting the Results",
+      "url": "https://www.nngroup.com/articles/interpreting-tree-test-results/"
+    },
+    {
+      "title": "Low Findability and Discoverability: Four Testing Methods to Identify the Causes",
+      "url": "https://www.nngroup.com/articles/navigation-ia-tests/"
+    },
+    {
+      "title": "Menu-Design Checklist: 17 UX Guidelines",
+      "url": "https://www.nngroup.com/articles/menu-design/"
+    },
+    {
+      "title": "Hamburger Menus and Hidden Navigation Hurt UX Metrics",
+      "url": "https://www.nngroup.com/articles/hamburger-menus/"
+    },
+    {
+      "title": "Killing Off the Global Navigation: One Trend to Avoid",
+      "url": "https://www.nngroup.com/articles/killing-global-navigation-one-trend-avoid/"
+    },
+    {
+      "title": "Navigation: You Are Here",
+      "url": "https://www.nngroup.com/articles/navigation-you-are-here/"
+    },
+    {
+      "title": "Breadcrumbs: 11 Design Guidelines for Desktop and Mobile",
+      "url": "https://www.nngroup.com/articles/breadcrumbs/"
+    },
+    {
+      "title": "Local Navigation Is a Valuable Orientation and Wayfinding Aid",
+      "url": "https://www.nngroup.com/articles/local-navigation/"
+    },
+    {
+      "title": "Sticky Headers: 5 Ways to Make Them Better",
+      "url": "https://www.nngroup.com/articles/sticky-headers/"
+    },
+    {
+      "title": "Left-Side Vertical Navigation on Desktop: Scalable, Responsive, and Easy to Scan",
+      "url": "https://www.nngroup.com/articles/vertical-nav/"
+    },
+    {
+      "title": "Utility Navigation: What It Is and How to Design It",
+      "url": "https://www.nngroup.com/articles/utility-navigation/"
+    },
+    {
+      "title": "Footers 101: Design Patterns and When to Use Each",
+      "url": "https://www.nngroup.com/articles/footers/"
+    },
+    {
+      "title": "Mega Menus Work Well for Site Navigation",
+      "url": "https://www.nngroup.com/articles/mega-menus-work-well/"
+    },
+    {
+      "title": "Centered Logos Hurt Website Navigation",
+      "url": "https://www.nngroup.com/articles/centered-logos/"
+    },
+    {
+      "title": "Basic Patterns for Mobile Navigation: A Primer",
+      "url": "https://www.nngroup.com/articles/mobile-navigation-patterns/"
+    },
+    {
+      "title": "Mobile Subnavigation",
+      "url": "https://www.nngroup.com/articles/mobile-subnavigation/"
+    },
+    {
+      "title": "Accordion Icons: Which Signifiers Work Best?",
+      "url": "https://www.nngroup.com/articles/accordion-icons/"
+    },
+    {
+      "title": "The Difference Between Information Architecture (IA) and Navigation",
+      "url": "https://www.nngroup.com/articles/ia-vs-navigation/#toc-what-is-website-information-architecture-1"
+    },
+    {
+      "title": "The Difference Between Information Architecture (IA) and Navigation",
+      "url": "https://www.nngroup.com/articles/ia-vs-navigation/#toc-what-is-website-navigation-2"
+    },
+    {
+      "title": "The Difference Between Information Architecture (IA) and Navigation",
+      "url": "https://www.nngroup.com/articles/ia-vs-navigation/#toc-relationship-between-ia-and-navigation-3"
+    },
+    {
+      "title": "The Difference Between Information Architecture (IA) and Navigation",
+      "url": "https://www.nngroup.com/articles/ia-vs-navigation/#toc-define-the-ia-before-designing-navigation-4"
+    },
+    {
+      "title": "The Definition of User Experience (UX)",
+      "url": "https://www.nngroup.com/articles/definition-user-experience/"
+    },
+    {
+      "title": "Carousel Usability: Designing an Effective UI for Websites with Content Overload",
+      "url": "https://www.nngroup.com/articles/designing-effective-carousels/"
+    },
+    {
+      "title": "Accordions Are Not Always the Answer for Complex Content on Desktops",
+      "url": "https://www.nngroup.com/articles/accordions-complex-content/"
+    },
+    {
+      "title": "Articles",
+      "url": "https://www.nngroup.com/articles/author/raluca-budiu/"
+    },
+    {
+      "title": "Information Scent: How Users Decide Where to Go Next",
+      "url": "https://www.nngroup.com/articles/information-scent/#toc-what-is-information-scent-1"
+    },
+    {
+      "title": "Information Scent: How Users Decide Where to Go Next",
+      "url": "https://www.nngroup.com/articles/information-scent/#toc-what-makes-up-information-scent-2"
+    },
+    {
+      "title": "Information Scent: How Users Decide Where to Go Next",
+      "url": "https://www.nngroup.com/articles/information-scent/#toc-social-foraging-word-of-mouth-and-recommendations-from-others-3"
+    },
+    {
+      "title": "Information Scent: How Users Decide Where to Go Next",
+      "url": "https://www.nngroup.com/articles/information-scent/#toc-why-click-bait-doesnt-work-in-the-long-run-4"
+    },
+    {
+      "title": "Information Foraging: A Theory of How People Navigate on the Web",
+      "url": "https://www.nngroup.com/articles/information-foraging/"
+    },
+    {
+      "title": "Perceived Value in User Interfaces",
+      "url": "https://www.nngroup.com/articles/perceived-value/"
+    },
+    {
+      "title": "A Link is a Promise",
+      "url": "https://www.nngroup.com/articles/link-promise/"
+    },
+    {
+      "title": "User-centric vs. Maker-centric Language: 3 Essential Guidelines",
+      "url": "https://www.nngroup.com/articles/user-centric-language/"
+    },
+    {
+      "title": "Information Foraging: Why Google Makes People Leave Your Site Faster",
+      "url": "https://www.nngroup.com/articles/information-foraging-leave-site/"
+    },
+    {
+      "title": "Fight Against “Right-Rail Blindness”",
+      "url": "https://www.nngroup.com/articles/fight-right-rail-blindness/"
+    },
+    {
+      "title": "Banner Blindness Revisited: Users Dodge Ads on Mobile and Desktop",
+      "url": "https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/"
+    },
+    {
+      "title": "Brand Intention vs. Brand Interpretation",
+      "url": "https://www.nngroup.com/articles/brand-intention-interpretation/"
+    },
+    {
+      "title": "Vanity Metrics: Add Context to Add Meaning",
+      "url": "https://www.nngroup.com/articles/vanity-metrics/"
+    },
+    {
+      "title": "Brand Is Experience in the Digital Age",
+      "url": "https://www.nngroup.com/articles/brand-experience-ux/"
+    },
+    {
+      "title": "Articles",
+      "url": "https://www.nngroup.com/articles/author/kathryn-whitenton/"
+    },
+    {
+      "title": "Breadcrumb Navigation Increasingly Useful",
+      "url": "https://www.nngroup.com/articles/breadcrumb-navigation-useful/"
+    },
+    {
+      "title": "Site Map Usability",
+      "url": "https://www.nngroup.com/articles/site-map-usability/"
+    },
+    {
+      "title": "Articles",
+      "url": "https://www.nngroup.com/articles/author/jakob-nielsen/"
+    },
+    {
+      "title": "IA Task Failures Remain Costly",
+      "url": "https://www.nngroup.com/articles/ia-task-failures-remain-costly"
+    },
+    {
+      "title": "Top 10 Information Architecture (IA) Mistakes",
+      "url": "https://www.nngroup.com/articles/top-10-ia-mistakes/#toc-structure-mistakes-1"
+    },
+    {
+      "title": "Top 10 Information Architecture (IA) Mistakes",
+      "url": "https://www.nngroup.com/articles/top-10-ia-mistakes/#toc-navigation-mistakes-2"
+    },
+    {
+      "title": "When Search Engines Become Answer Engines",
+      "url": "https://www.nngroup.com/articles/search-engines-become-answer-engines/"
+    },
+    {
+      "title": "Search Is Not Enough: Synergy Between Navigation and Search",
+      "url": "https://www.nngroup.com/articles/search-not-enough/"
+    },
+    {
+      "title": "Mini-IA: Structuring the Information About a Concept",
+      "url": "https://www.nngroup.com/articles/mini-ia-structuring-information/"
+    },
+    {
+      "title": "Bad Intranet Navigation Labels: 3 Workarounds",
+      "url": "https://www.nngroup.com/articles/fixing-bad-intranet-navigation/"
+    },
+    {
+      "title": "Four Dangerous Navigation Approaches that Can Increase Cognitive Strain",
+      "url": "https://www.nngroup.com/articles/navigation-cognitive-strain/"
+    },
+    {
+      "title": "Universal Navigation: Connecting Subsites to Main Sites",
+      "url": "https://www.nngroup.com/articles/universal-navigation/"
+    },
+    {
+      "title": "Investor Relations (IR) on Corporate Websites",
+      "url": "https://www.nngroup.com/articles/investor-relations-ir/"
+    },
+    {
+      "title": "Flat-Design Best Practices",
+      "url": "https://www.nngroup.com/articles/flat-design-best-practices/"
+    },
+    {
+      "title": "Children’s UX: Usability Issues in Designing for Young People",
+      "url": "https://www.nngroup.com/articles/childrens-websites-usability-issues/"
+    },
+    {
+      "title": "Teenager’s UX: Designing for Teens",
+      "url": "https://www.nngroup.com/articles/usability-of-websites-for-teenagers/"
+    },
+    {
+      "title": "Fancy Formatting, Fancy Words = Looks Like a Promotion = Ignored",
+      "url": "https://www.nngroup.com/articles/fancy-formatting-looks-like-an-ad/"
+    },
+    {
+      "title": "Does User Annoyance Matter?",
+      "url": "https://www.nngroup.com/articles/does-user-annoyance-matter/"
+    },
+    {
+      "title": "5 Tips for Avoiding Confusing Category Names",
+      "url": "https://www.nngroup.com/articles/category-names-suck/"
+    },
+    {
+      "title": "Use Old Words When Writing for Findability",
+      "url": "https://www.nngroup.com/articles/web-writing-use-search-keywords/"
+    },
+    {
+      "title": "Top 3 IA Questions about Navigation Menus",
+      "url": "https://www.nngroup.com/articles/ia-questions-navigation-menus/#toc-how-many-categories-should-we-have-1"
+    },
+    {
+      "title": "Top 3 IA Questions about Navigation Menus",
+      "url": "https://www.nngroup.com/articles/ia-questions-navigation-menus/#toc-should-categories-be-listed-in-alphabetical-order-2"
+    },
+    {
+      "title": "Top 3 IA Questions about Navigation Menus",
+      "url": "https://www.nngroup.com/articles/ia-questions-navigation-menus/#toc-should-hover-activated-menus-be-eliminated-since-touch-devices-dont-allow-hovering-3"
+    },
+    {
+      "title": "Top 3 IA Questions about Navigation Menus",
+      "url": "https://www.nngroup.com/articles/ia-questions-navigation-menus/#toc-conclusion-4"
+    },
+    {
+      "title": "The 3-Click Rule for Navigation Is False",
+      "url": "https://www.nngroup.com/articles/3-click-rule/#toc-the-3-click-rule-1"
+    },
+    {
+      "title": "The 3-Click Rule for Navigation Is False",
+      "url": "https://www.nngroup.com/articles/3-click-rule/#toc-origin-of-the-3-click-rule-2"
+    },
+    {
+      "title": "The 3-Click Rule for Navigation Is False",
+      "url": "https://www.nngroup.com/articles/3-click-rule/#toc-3-click-rule-pushes-toward-overly-broad-navigation-uis-3"
+    },
+    {
+      "title": "The 3-Click Rule for Navigation Is False",
+      "url": "https://www.nngroup.com/articles/3-click-rule/#toc-practices-better-than-counting-clicks-4"
+    },
+    {
+      "title": "The 3-Click Rule for Navigation Is False",
+      "url": "https://www.nngroup.com/articles/3-click-rule/#toc-summary-5"
+    },
+    {
+      "title": "The 3-Click Rule for Navigation Is False",
+      "url": "https://www.nngroup.com/articles/3-click-rule/#toc-references-6"
+    },
+    {
+      "title": "10 Usability Heuristics for User Interface Design",
+      "url": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+    },
+    {
+      "title": "Interaction Elasticity",
+      "url": "https://www.nngroup.com/articles/interaction-elasticity/"
+    },
+    {
+      "title": "Usability Metrics",
+      "url": "https://www.nngroup.com/articles/usability-metrics/"
+    },
+    {
+      "title": "The Need for Speed, 23 Years Later",
+      "url": "https://www.nngroup.com/articles/the-need-for-speed/"
+    },
+    {
+      "title": "Better Link Labels: 4Ss for Encouraging Clicks",
+      "url": "https://www.nngroup.com/articles/better-link-labels/"
+    },
+    {
+      "title": "Dropdowns: Design Guidelines",
+      "url": "https://www.nngroup.com/articles/drop-down-menus/"
+    },
+    {
+      "title": "Accot-Zhai Steering Law: Implications for UI Design",
+      "url": "https://www.nngroup.com/articles/steering-law/"
+    },
+    {
+      "title": "4 Noteworthy Intranet Design Trends in 2019",
+      "url": "https://www.nngroup.com/articles/intranet-design-trends-2019/"
+    },
+    {
+      "title": "Website Response Times",
+      "url": "https://www.nngroup.com/articles/website-response-times/"
+    },
+    {
+      "title": "Polyhierarchies Improve Findability for Ambiguous IA Categories",
+      "url": "https://www.nngroup.com/articles/polyhierarchy/#toc-introduction-1"
+    },
+    {
+      "title": "Polyhierarchies Improve Findability for Ambiguous IA Categories",
+      "url": "https://www.nngroup.com/articles/polyhierarchy/#toc-definition-2"
+    },
+    {
+      "title": "Polyhierarchies Improve Findability for Ambiguous IA Categories",
+      "url": "https://www.nngroup.com/articles/polyhierarchy/#toc-restrained-use-of-polyhierarchies-supports-multiple-mental-models-3"
+    },
+    {
+      "title": "Polyhierarchies Improve Findability for Ambiguous IA Categories",
+      "url": "https://www.nngroup.com/articles/polyhierarchy/#toc-wayfinding-and-polyhierarchies-can-conflict-4"
+    },
+    {
+      "title": "Polyhierarchies Improve Findability for Ambiguous IA Categories",
+      "url": "https://www.nngroup.com/articles/polyhierarchy/#toc-conclusion-5"
+    },
+    {
+      "title": "Filters vs. Facets: Definitions",
+      "url": "https://www.nngroup.com/articles/filters-vs-facets/"
+    },
+    {
+      "title": "How to Handle Category Outliers in Your IA",
+      "url": "https://www.nngroup.com/articles/ia-category-outliers/#toc-card-sorts-reveal-unexpected-groupings-1"
+    },
+    {
+      "title": "How to Handle Category Outliers in Your IA",
+      "url": "https://www.nngroup.com/articles/ia-category-outliers/#toc-categorization-theory-humans-arent-strictly-rational-2"
+    },
+    {
+      "title": "How to Handle Category Outliers in Your IA",
+      "url": "https://www.nngroup.com/articles/ia-category-outliers/#toc-approach-1-place-outliers-in-subcategories-in-navigation-3"
+    },
+    {
+      "title": "How to Handle Category Outliers in Your IA",
+      "url": "https://www.nngroup.com/articles/ia-category-outliers/#toc-approach-2-leave-outliers-within-the-main-category-and-support-alternate-seeking-behaviors-through-metadata-4"
+    },
+    {
+      "title": "How to Handle Category Outliers in Your IA",
+      "url": "https://www.nngroup.com/articles/ia-category-outliers/#toc-approach-3-polyhierarchy-in-both-levels-5"
+    },
+    {
+      "title": "How to Handle Category Outliers in Your IA",
+      "url": "https://www.nngroup.com/articles/ia-category-outliers/#toc-summary-6"
+    },
+    {
+      "title": "How to Handle Category Outliers in Your IA",
+      "url": "https://www.nngroup.com/articles/ia-category-outliers/#toc-references-7"
+    },
+    {
+      "title": "Mental Models",
+      "url": "https://www.nngroup.com/articles/mental-models/"
+    },
+    {
+      "title": "Interaction Cost",
+      "url": "https://www.nngroup.com/articles/interaction-cost-definition/"
+    },
+    {
+      "title": "Articles",
+      "url": "https://www.nngroup.com/articles/author/katie-sherwin/"
+    },
+    {
+      "title": "“Learn More” Links: You Can Do Better",
+      "url": "https://www.nngroup.com/articles/learn-more-links/#toc-why-learn-more-is-a-problem-1"
+    },
+    {
+      "title": "“Learn More” Links: You Can Do Better",
+      "url": "https://www.nngroup.com/articles/learn-more-links/#toc-what-to-say-instead-3-solutions-2"
+    },
+    {
+      "title": "“Learn More” Links: You Can Do Better",
+      "url": "https://www.nngroup.com/articles/learn-more-links/#toc-examples-of-effective-alternatives-3"
+    },
+    {
+      "title": "“Learn More” Links: You Can Do Better",
+      "url": "https://www.nngroup.com/articles/learn-more-links/#toc-now-you-try-4"
+    },
+    {
+      "title": "“Learn More” Links: You Can Do Better",
+      "url": "https://www.nngroup.com/articles/learn-more-links/#toc-conclusion-5"
+    },
+    {
+      "title": "Why Web Users Scan Instead of Reading",
+      "url": "https://www.nngroup.com/articles/why-web-users-scan-instead-reading/"
+    },
+    {
+      "title": "3 Common IA Mistakes (that Are All Due to Low Information Scent)",
+      "url": "https://www.nngroup.com/articles/3-ia-mistakes/#toc-1-vague-calls-to-action-arent-magical-spells-1"
+    },
+    {
+      "title": "3 Common IA Mistakes (that Are All Due to Low Information Scent)",
+      "url": "https://www.nngroup.com/articles/3-ia-mistakes/#toc-2-forced-parallel-language-2"
+    },
+    {
+      "title": "3 Common IA Mistakes (that Are All Due to Low Information Scent)",
+      "url": "https://www.nngroup.com/articles/3-ia-mistakes/#toc-3-awkward-and-vague-conversational-language-3"
+    },
+    {
+      "title": "3 Common IA Mistakes (that Are All Due to Low Information Scent)",
+      "url": "https://www.nngroup.com/articles/3-ia-mistakes/#toc-summary-4"
+    },
+    {
+      "title": "\"Get Started\" Stops Users",
+      "url": "https://www.nngroup.com/articles/get-started/"
+    },
+    {
+      "title": "Maintain Consistency and Adhere to Standards (Usability Heuristic #4)",
+      "url": "https://www.nngroup.com/articles/consistency-and-standards/"
+    },
+    {
+      "title": "The Impact of Tone of Voice on Users' Brand Perception",
+      "url": "https://www.nngroup.com/articles/tone-voice-users/"
+    },
+    {
+      "title": "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work",
+      "url": "https://www.nngroup.com/articles/taxonomy-101/#toc-4-types-of-organization-models-in-ia-1"
+    },
+    {
+      "title": "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work",
+      "url": "https://www.nngroup.com/articles/taxonomy-101/#toc-why-create-taxonomies-and-why-should-uxers-be-involved-2"
+    },
+    {
+      "title": "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work",
+      "url": "https://www.nngroup.com/articles/taxonomy-101/#toc-other-types-of-controlled-vocabularies-thesauri-and-ontologies-3"
+    },
+    {
+      "title": "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work",
+      "url": "https://www.nngroup.com/articles/taxonomy-101/#toc-building-a-taxonomy-4"
+    },
+    {
+      "title": "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work",
+      "url": "https://www.nngroup.com/articles/taxonomy-101/#toc-summary-5"
+    },
+    {
+      "title": "Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work",
+      "url": "https://www.nngroup.com/articles/taxonomy-101/#toc-sources-6"
+    },
+    {
+      "title": "Service Design 101",
+      "url": "https://www.nngroup.com/articles/service-design-101/"
+    },
+    {
+      "title": "Site Search Suggestions",
+      "url": "https://www.nngroup.com/articles/site-search-suggestions/"
+    },
+    {
+      "title": "Content Inventory and Auditing 101",
+      "url": "https://www.nngroup.com/articles/content-audits/"
+    },
+    {
+      "title": "Search-Log Analysis: The Most Overlooked Opportunity in Web UX Research",
+      "url": "https://www.nngroup.com/articles/search-log-analysis/"
+    },
+    {
+      "title": "Use Specialized Language for Specialized Audiences",
+      "url": "https://www.nngroup.com/articles/specialized-words-specialized-audience/"
+    },
+    {
+      "title": "Articles",
+      "url": "https://www.nngroup.com/articles/author/kate-moran/"
+    },
+    {
+      "title": "Qualitative Usability Testing: Study Guide",
+      "url": "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-qualitative-usability-testing-the-method-1"
+    },
+    {
+      "title": "Qualitative Usability Testing: Study Guide",
+      "url": "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-participants-2"
+    },
+    {
+      "title": "Qualitative Usability Testing: Study Guide",
+      "url": "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-tasks-3"
+    },
+    {
+      "title": "Qualitative Usability Testing: Study Guide",
+      "url": "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-facilitating-a-usability-test-4"
+    },
+    {
+      "title": "Qualitative Usability Testing: Study Guide",
+      "url": "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-remote-usability-testing-5"
+    },
+    {
+      "title": "Qualitative Usability Testing: Study Guide",
+      "url": "https://www.nngroup.com/articles/qual-usability-testing-study-guide/#toc-special-usability-testing-studies-or-user-groups-6"
+    },
+    {
+      "title": "Usability (User) Testing 101",
+      "url": "https://www.nngroup.com/articles/usability-testing-101/"
+    },
+    {
+      "title": "Quantitative vs. Qualitative Usability Testing",
+      "url": "https://www.nngroup.com/articles/quant-vs-qual/"
+    }
+  ]
+}

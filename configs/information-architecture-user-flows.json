@@ -1,0 +1,55 @@
+{
+  "name": "information-architecture-user-flows",
+  "description": "When to use this skill: Use for information architecture, user flow design, IA research, organizing digital content, creating user journey maps, designing navigation systems, and making sense of complex information structures.",
+  "base_url": "https://www.nngroup.com",
+  "start_urls": [
+    "https://www.nngroup.com/articles/ia-study-guide/",
+    "http://archive.iainstitute.org/tools/",
+    "https://www.howtomakesenseofanymess.com/",
+    "https://www.interaction-design.org/literature/topics/user-flows",
+    "https://www.lucidchart.com/blog/how-to-make-a-user-flow-diagram"
+  ],
+  "selectors": {
+    "main_content": "article, main, .content, .post-content, .entry-content, div[role='main']",
+    "title": "h1, .title, .page-title, .entry-title, .post-title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["/articles/", "/tools/", "/literature/", "/blog/"],
+    "exclude": ["/?s=", "/page/", "/category/", "/tag/", "/search", "/admin", "/wp-admin", "/login"]
+  },
+  "categories": {
+    "ia_fundamentals": ["information architecture", "fundamentals", "principles", "basics", "introduction"],
+    "ia_methods": ["methods", "techniques", "approaches", "process", "methodology"],
+    "user_flows": ["user flow", "user journey", "flowchart", "workflow", "task flow"],
+    "navigation_design": ["navigation", "menu", "structure", "organization", "hierarchy"],
+    "content_organization": ["content", "organization", "categorization", "taxonomy", "labeling"],
+    "ia_tools": ["tools", "templates", "software", "resources", "guides"],
+    "research_analysis": ["research", "analysis", "testing", "evaluation", "user research"],
+    "case_studies": ["case study", "example", "real world", "practical", "implementation"],
+    "best_practices": ["best practice", "guidelines", "standards", "recommendations", "tips"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 871,
+  "enhancement_keywords": [
+    "information architecture principles",
+    "user flow design patterns",
+    "navigation design best practices",
+    "content organization methods",
+    "IA research techniques",
+    "user journey mapping",
+    "card sorting",
+    "tree testing",
+    "persona development",
+    "wireframing for IA",
+    "taxonomy design",
+    "metadata architecture",
+    "search system design",
+    "wayfinding principles",
+    "mental models in UX",
+    "IA documentation",
+    "governance frameworks",
+    "content strategy",
+    "UX deliverables"
+  ]
+}

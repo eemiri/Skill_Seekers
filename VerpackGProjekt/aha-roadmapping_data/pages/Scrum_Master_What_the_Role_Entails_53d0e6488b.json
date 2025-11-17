@@ -1,0 +1,86 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+  "title": "Scrum Master: What the Role Entails",
+  "content": "A scrum master, also known as a scrum leader, keeps the development team aligned and on track. You help the team evaluate work to be done, communicate progress, and collaborate to reach development goals. As the name suggests, scrum masters operate within teams that follow the scrum approach to agile development. Along with product owners and the development team, scrum masters are one of three common scrum roles.\n\nYou can think of scrum master as the coach of the scrum team. While you help the team follow proper scrum workflows and stay on task, your role is to guide and motivate, not enforce. You are a leader on the team — but you do not manage individual team members.\n\nWhile scrum master has some overlap with other roles on the development team, it has its own unique place. And it takes a deep understanding of scrum development to be a scrum master. This is why scrum masters typically go through training and certification programs to hone skills specific to the role.\n\nScrum masters meet with the scrum team regularly to review in-progress and upcoming work. In scrum terms, these meetings are called events or ceremonies. A big part of a scrum master's role is to facilitate these meetings. You help your team organize the next batch of work during sprint planning, solicit feedback on particular deliverables during sprint reviews, and assess the team's efficiency during sprint retrospectives.\n\nScrum masters also remove any roadblocks that might impede the team's productivity. Roadblocks can include things like a manager asking to pull a developer onto a different project or a user story that has grown too complex to complete in one sprint.\n\nBeing an effective scrum master requires developing a core set of leadership skills including:\n\nCoaching: Your team will look to you for encouragement and support. You will need to motivate by example — and bring solutions to every challenge the team faces.\n\nCommunication: Facilitating meetings, explaining agile concepts, and understanding team issues requires scrum masters to be excellent communicators.\n\nEmpathy: You need to deeply understand your team and empathize with their objectives and constraints. This will allow you to tailor your approach to each person and scenario.\n\nOrganization: You need to help your team bring order to their workflows. A firm understanding of how to visualize workflows on scrum and kanban boards is a must.\n\nTo help clarify what a scrum master is — and is not — here is how the role compares and interacts with other common development roles.\n\nA development or engineering manager is responsible for leading the development team and ensuring that high-quality work is produced. Whether or not they are part of an agile team, a development manager ensures that the team stays aligned with organizational goals.\n\nCompared to scrum masters, development managers have greater authority over the engineers who are building the product. Development managers are managers in the traditional sense of the word. They oversee a team of reports and make hiring decisions — responsibilities beyond the scope of scrum masters. But both roles lead and motivate the team.\n\nThink of it this way: Scrum masters lead the team in scrum principles, artifacts, and events while development managers lead the people management side of the equation. When both roles are present, each can apply their expertise to the benefit of the team.\n\nWhile these two roles might seem similar on the surface, scrum masters and project managers are actually quite different. For example, both roles have the responsibility to keep their teams on track, but a project manager is not a coach — they are the decision-maker and owner of the development project. They are accountable to the business for the project meeting deadlines and its overall success. Scrum masters do not own projects in this way.\n\nAnother notable difference is that scrum master is an agile role, while project manager is traditionally a waterfall role. This can result in two contrasting approaches to workflow management.\n\nIt is common for teams migrating from waterfall to agile to assume that a project manager will be a natural fit for the scrum master role. But since the two methodologies are so different, it can be jarring for a project manager to transition from rigid structure and control to an agile environment where changes are frequent and welcome. In this case, it is usually best to hire a trained scrum master and keep the two roles separate.\n\nBoth scrum masters and program managers work to mitigate risk and help the scrum team reach its targets. The main difference? Scrum masters have the scrum expertise to quickly identify roadblocks facing the immediate team while program managers have the cross-functional relationships required to resolve external roadblocks.\n\nTake escalation for example. As scrum master, you are laser-focused on the work in progress. You are always watching to ensure scrum processes are followed and that sprint items can be completed on time. That puts you in the best position to spot risks and bottlenecks early on. Once those problems are identified, program managers come in as escalation points.\n\nProgram managers typically coordinate with multiple teams to understand external forces (e.g., production delays from another team or budget limitations) that could put product releases in jeopardy. They have the relationships and leverage within the larger organization to address external forces causing problems for individual teams. With this positioning, they can actively mitigate risks identified by individual scrum masters.\n\nScrum masters and program managers each contribute process expertise to their teams. Program managers can collaborate with individual scrum masters to address systemic process issues. While scrum teams do not usually have their own program managers, they can call on program managers on an as-needed basis to share process guidance.\n\nAs with other roles on this list, scrum masters and product managers often work closely together, but they each have their own responsibilities.\n\nThink of the standard \"why,\" \"when,\" \"what,\" and \"how\" questions that frame product development. Product managers define the first three — “why,” “when” and “what.” They consider overall business strategy and objectives, build the roadmaps that guide product development, and prioritize work to be done. Once those features are assigned to a release or sprint, scrum masters take it from there and define the \"how.\" They make sure the work is completed according to scrum guidelines.\n\nProduct managers orchestrate the various work streams contributing to a product release, so when it comes to roadblocks — they can team up with scrum masters to resolve issues stemming from cross-functional work requests. And throughout each release cycle, scrum masters and product managers meet to review overall strategy and establish priorities for the scrum team.\n\nReady to learn more about the scrum methodology and scrum teams? Here is our guide to scrum and a handy scrum glossary.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is a scrum master?",
+      "id": "what-is-a-scrum-master"
+    },
+    {
+      "level": "h2",
+      "text": "Scrum master responsibilities",
+      "id": "scrum-master-responsibilities"
+    },
+    {
+      "level": "h2",
+      "text": "Scrum master vs. development manager",
+      "id": "scrum-master-vs-development-manager"
+    },
+    {
+      "level": "h2",
+      "text": "Scrum master vs. project manager",
+      "id": "scrum-master-vs-project-manager"
+    },
+    {
+      "level": "h2",
+      "text": "Scrum master vs. program manager",
+      "id": "scrum-master-vs-program-manager"
+    },
+    {
+      "level": "h2",
+      "text": "Scrum master vs. product manager",
+      "id": "scrum-master-vs-product-manager"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/scrum-certifications",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/kanban-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master#top",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-product-management",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master#top",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/agile-glossary",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "url": "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-ueberblick",
+  "title": "HowTo: Registrierung - Das neue Verpackungsgesetz (VerpackG) 2025",
+  "content": "You can find an English translation of this article here: HowTo: Registration at the German Packaging Register.\n\nDie Registrierung im Verpackungsregister muss durch einen Mitarbeiter des zu registrierenden Unternehmens erfolgen. Dabei muss es sich aber nicht um einen Vertretungsberechtigten handeln.\n\nUm die Registrierung durchführen zu können, sollten vorher bereits bestimmte Daten zusammengestellt werden, die während der Antragsprozedur angegeben werden müssen. Dazu gehören vor allem die folgenden Informationen:\n\nIm Verpackungsregister wird neben dem Unternehmensnamen die angegebene Anschrift inkl. Telefonnummer für alle sichtbar veröffentlicht! Wählen Sie daher sinnvollerweise geeignete Daten, da diese sicherlich für SPAM missbraucht werden könnten!\n\nGeben Sie alle Marken von Produkten und Verpackungen an, die von Ihnen potentiell als Erstinverkehrbringer in Deutschland vertrieben werden könnten. Es entstehen keine Zusatzkosten durch die Nennung zahlreicher Marken. Geben Sie weiterhin immer auch Ihren eigenen Unternehmensnamen als Marke mit an. So sichern Sie sich für den Fall ab, dass Sie Produkte bzw. Verpackungen ohne Marke anbieten. Verwenden Sie hier keine Hilfsbezeichnungen wie “Noname” oder “Blanko”. Die Angabe von mehr als einer Marke (=Firmenname) ist jedoch in Deutschland keine Pflicht – genauso wenig, wie die Kennzeichnung der Produkte mit Marken!\n\nRufen Sie zunächst den Registrierungsdialog des Verpackungsregisters LUCID auf. Sofern notwendig, können Sie die Eingabesprache über das Sprachmenü oben rechts ändern.\n\nDie Registrierung besteht aus folgenden Schritten:\n\nGeben Sie hier die folgenden Daten ein:\n\nGeben Sie hier die folgenden Daten ein:\n\nKlicken Sie dann “Login erstellen”.\n\nDer Login ist somit erstellt und es wird an die angegebene eMail-Adresse ein Aktivierungslink versendet, den Sie innerhalb 24 Std. anklicken müssen, bevor Sie mit der Registrierung fortfahren können. Sie können sich dann jeweils mit eMail-Adresse und Kennwort über “Login” anmelden und fortfahren, um die Registrierung innerhalb 7 Tagen abzuschließen.\n\nLoggen Sie sich mit der angegebenen eMail-Adresse und Ihrem Passwort ins Verpackungsregister ein. Geben Sie nun die folgenden Daten ein:\n\nAchtung: Denken Sie daran, dass diese Daten (außer der eMail-Adresse) später für jeden im Verpackungsregister öffentlich einsehbar sein werden!\n\nFür die Angaben zu den Verpackungen, die Sie in Verkehr bringen, können Sie per Klick zwischen zwei Kategorien wählen:\n\nHersteller ist, wer die Verpackungen erstmals mit Ware befüllt. Ob eine Verpackung systembeteiligungspflichtig ist, können Sie in der Katalogdatenbank der ZSVR überprüfen, die systembeteiligungspflichtige Verpackungen auflistet. Müssen Sie selbst keine Systembeteiligung vornehmen, bittet LUCID Sie, dies zu bestätigen oder durch “Zurück” ihre Systembeteiligung zu korrigieren.\n\nFügen Sie hier für die Marken Ihrer Produkte bzw. Verpackungen die Markennamen ein, unter denen Sie als Hersteller/Erstinverkehrbringer mit Ware befüllte Verpackungen erstmals in Verkehr bringen. Markennamen sind die Worte, die auf der Verpackung stehen, um sie von anderen zu unterscheiden. Sie sind nach Verpackungen mit und ohne Systembeteiligungspflicht zu unterscheiden. Die Namen der Obermarken genügen hier. Falls Sie keine Markennamen nutzen, geben Sie nur ihren Firmennamen an.\n\nWeitere Marken können über das Dialogfenster hinzugefügt werden. Falls Sie zahlreiche Marken gleichzeitig eintragen lassen wollen, können Sie auch eine Datei im XML-Format hochladen. Die Markennamen müssen von der ZSVR im öffentlichen Register veröffentlicht werden.\n\nIm letzten Schritt werden die verschiedenen Angaben noch einmal zur Kontrolle zusammengefasst. Bevor der Registrierungsantrag abgeschickt werden kann, sind noch einige Erklärungen bzw. Einwilligungen erforderlich:\n\nHinweis: Auch wenn zum Zeitpunkt der Registrierung noch keine Beteiligung bei einem (Dualen) System besteht, sollte hier Ja ausgewählt werden. Ansonsten wird die Registrierung noch nicht freigegeben. Dazu sollte dann baldmöglichst die Zuweisung eines oder mehrerer Systeme erfolgen. Die erforderliche Systembeteiligung erhalten Sie gerne auch von uns.\n\nNach dem “Absenden” des Registrierungsantrags wird die Registrierungsnummer sofort im Dashboard angezeigt und parallel per eMail versendet. Sie können an dieser Stelle zum Dashboard wechseln.\n\nIm LUCID-Dashboard sehen Sie auf einen Blick Ihre Registrierungsnummer, letzten Login, Unternehmensname, Registrierungsstatus und letzte Stammdatenaktualisierung.\n\nLetztere muss immer aktuell gehalten werden – sobald sich Änderungen in den Stammdaten, Verpackungsarten oder Markenaktualisierungen ergeben, müssen diese hier unverzüglich angepasst werden!\n\nDie Herstellerangaben samt Änderungen werden täglich von der ZSVR aktualisiert im öffentlichen Teil des Registers angezeigt.\n\nIm Dashboard haben Sie Bearbeitungszugriff auf:\n\n- Profil - Leistungen - Qualifikationen - Referenzen",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "HowTo: Registrierung",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Auf einen Blick",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Tipps & Tricks",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Vorbereitung: Checkliste",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Registrierungsprozedur",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Schritt 1: Login erstellen",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Herstellerdaten und Verantwortlichen eingeben",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Logindaten/Bearbeiter eingeben",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Login aktivieren",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Schritt 2: Stammdaten eingeben",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Schritt 3: Angaben zu den Verpackungen",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Schritt 4: Markennamen angeben",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Schritt 5: Registrierungsantrag prüfen und absenden",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Dashboard",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "INHALTSÜBERSICHT",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Brauchen Sie Hilfe?",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.verpackungsgesetz.com/author/s/",
+    "https://www.verpackungsgesetz.com/en/topics/howto-registration/",
+    "https://www.verpackungsgesetz.com/umsetzung/pflichten/#hinweispflichten",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-ueberblick",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-ueberblick",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-ueberblick",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-ueberblick",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-vorbereitung",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-vorbereitung",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-prozedur",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-prozedur",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-schritt01",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-schritt01",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-schritt02",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-schritt02",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-schritt03",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-schritt03",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-schritt04",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-schritt04",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-schritt05",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-schritt05",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-dashboard",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-dashboard",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-hinweise",
+    "https://www.verpackungsgesetz.com/themen/howto-registrierung/#artikel-registrierung-hinweise",
+    "https://www.verpackungsgesetz.com/hilfe/#hilfe-profil",
+    "https://www.verpackungsgesetz.com/hilfe/#hilfe-leistungen",
+    "https://www.verpackungsgesetz.com/hilfe/#hilfe-qualifikationen",
+    "https://www.verpackungsgesetz.com/hilfe/#hilfe-referenzen",
+    "https://www.verpackungsgesetz.com/kontakt/"
+  ]
+}

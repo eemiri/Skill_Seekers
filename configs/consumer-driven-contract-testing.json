@@ -1,0 +1,43 @@
+{
+  "name": "consumer-driven-contract-testing",
+  "description": "Use this skill when implementing consumer-driven contract testing with Pact. Provides comprehensive guidance on contract testing, Pact framework, provider verification, and CDC best practices.",
+  "base_url": "https://docs.pact.io/",
+  "additional_urls": [
+    "https://pactflow.io/how-pact-works/",
+    "https://docs.pact.io/consumer",
+    "https://docs.pact.io/faq",
+    "https://pactflow.io/what-is-consumer-driven-contract-testing/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main'], div.main-content, div.markdown",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/docs/",
+      "/consumer",
+      "/provider",
+      "/faq",
+      "/how-pact-works",
+      "/what-is-consumer-driven-contract-testing"
+    ],
+    "exclude": [
+      "/search",
+      "/feed",
+      "/blog",
+      "?search",
+      "#comments"
+    ]
+  },
+  "categories": {
+    "getting_started": ["getting started", "introduction", "quick start", "overview"],
+    "consumer": ["consumer", "consumer test", "consumer side"],
+    "provider": ["provider", "provider verification", "provider side"],
+    "pact_broker": ["pact broker", "broker", "pactflow"],
+    "best_practices": ["best practice", "pattern", "guideline", "recommendation"],
+    "faq": ["faq", "question", "troubleshoot"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

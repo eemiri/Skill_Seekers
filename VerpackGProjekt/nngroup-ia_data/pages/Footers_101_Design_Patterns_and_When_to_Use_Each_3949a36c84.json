@@ -1,0 +1,158 @@
+{
+  "url": "https://www.nngroup.com/articles/footers/",
+  "title": "Footers 101: Design Patterns and When to Use Each",
+  "content": "February 24, 2019 2019-02-24\n\nAs UX professionals, we tend to dedicate our time and energy to everything above the fold. That’s because global navigation, search, and high-priority content are positioned above the fold and users tend to spend a disproportionate amount of their time at the top of any given page. Consequently, footers, which appear at the bottom of web pages, get the short end of the UX time and resource budget. However, you should still pay attention to footers because they can greatly enhance a user’s experience.\n\nFooter: An area located at the bottom of every page on a website, below the main body content.\n\nThe term “footer” comes from the print world, in which the “footer” is a consistent design element that is seen across all pages of a document. However, as we explained 20 years ago, the difference between print design and web design means that design elements like footers change their meaning (in this case by becoming actionable) when they’re ported from print to online.\n\nWebsite footers of the past were either small utility areas with little information or big dumping grounds for miscellaneous links. Visually, they often contained tiny text that was hardly legible. Today, footers have matured and now serve as an important reference point for people as they complete a variety of tasks on websites.\n\nWhile footers get less attention than the top of the page, they still receive a fair amount of use. These are the two most common use cases for footers:\n\nIn both of these cases, no matter what content ends up in the footer, that footer should be consistent, predictable, and easily discoverable. Consider these use cases, your website’s goal, and your footer’s goal when determining which type of footer to offer and which content to offer in the footer.\n\nWhile satisfying these user scenarios may not be the absolutely highest-priority goal for a website, designing a good footer is still a worthy endeavor, because footers have a particularly wonderful usability characteristic: they will never get in the way of users who get their needs satisfied higher up on the page. Thus, except for overly bloated footers that could delay page download or rendering, a footer is a cost-free addition to the user experience. It can help, but it can’t hurt.\n\nSite designers choose many different types of content for their footers for various reasons. Footer elements can be combined depending on the business and user goals. Here are some of the most common footer components, examples, and recommended situations in which to use them:\n\nMost sites, at a minimum, tend to include utility navigation in the footer, pointing to:\n\nWhile many sites have utility navigation located in the top-most areas of their site, the footer is where users look when they search for these specific items. Users will often go directly to the footer to find contact information or locate ways to get customer support. Whether you have links to these utility items at the top of your page or not, always include them in the footer as well. (A utility area at the top of the page should still be used for tools-like utilities, such as search, login/account information, and language-selection.)\n\nLike the physical mat at people’s homes, a doormat navigation is the first thing you see when you arrive and the last thing you see when you leave — that is, it is included both at the top and the bottom of the page. Thus, a footer can include the global navigation. This component is beneficial when the pages are long (as it is the case with many modern mobile designs), since it allows users to quickly move to a different section of the site without scrolling back to reach the main navigation.\n\nUse for: sites with long pages, especially if the global navigation is unavailable while at the bottom of the page\n\nA footer may contain links to secondary tasks of interest to the user. Some examples of secondary tasks include:\n\nThese secondary tasks are usually not present in the global navigation or utility navigation. This type of footer content is common on sites with multiple user groups with different user journeys.\n\nUse for: helping users find secondary content that might not be directly related to the main purpose of the site\n\nFor example, Dwell Magazine’s website showcases categories outside the magazine topics, including About, Dwell Magazine, Professionals, and Merchants — which might interest its secondary user groups: media and design professionals, merchants, investors, and advertisers (and prospective employees).\n\nA site-map–styled footer component showcases a combination of the global navigation and other important pages not present in the global navigation. Unlike doormat navigation, it exposes lower-level subcategories of the main categories. It is helpful for:\n\nA site-map footer component does not include the complete site map, unless the site has few pages (about 25 or fewer). Any more than that and the footer risks becoming unwieldy and difficult to use. (Alternatively, you can provide a full-featured site map on a separate page, and link to it in the footer, which is where users expect to find such a link.)\n\nUse for: large sites with multiple levels of information or subdomains\n\nMany of our study participants described being motivated to pick a site based on the awards and testimonials received by that site. Highlighting accolades in the footer can be a good tactic when building authority and credibility. However, showing too many testimonials and awards could also raise a red flag for customers, giving the impression that the company needs to show testimonials because it is not mature or stable. A solution is to add this content to the footer.\n\nRun usability tests and A/B tests with your audience to determine whether this strategy is appropriate for your footer, and what the right number of testimonials is.\n\nUse for: startups or for companies with less brand awareness\n\nSome companies are so massive that they own or preside over dozens of other companies. Some use universal navigation to connect these child companies with the parent one. It can also be helpful to include a list of subsidiaries and brands in the footer to reinforce awareness of other brands or companies that fall under the organization’s portfolio and also help users find their way around.\n\nUse for: large, multinational organizations with many subsidiaries or partnered brands\n\nUsers will often go directly to the footer to find information such as coupons and promotions or to simply staying up to date with the company’s sales and product releases. Thus, the footer can include information that allows customers to stay engaged with the company — social-media links (or at a minimum, links to the company’s social-media accounts) and mailing list signup prompts.\n\nBefore including an embedded social-media feed widget in the footer, consider how often the company posts on each social-media site. A less active social-media account may not warrant an embedded social-media feed, but might still benefit from linking to the social accounts.\n\nUse for: all types of sites if using social-media links; sites with heavy emphasis on visuals or aesthetics (arts, beauty, lifestyle brands, or creative spaces) if using an embedded social-media feed widget\n\nMany ecommerce, entertainment, and other sites which encourage browsing opt for an infinite scroll in order to keep users on the page. Content continually loads so there is no consistent bottom on every page, and thus no footer section. However, the content that would have been in the footer (typically, utility-navigation links) appears as a “mini footer” in the right rail, or within a larger, expanded global navigation.\n\nFor the footer to be helpful it needs to be present on all pages of the site. Some sites try to utilize the same footer for both static-length and dynamic-length pages. However, when users attempt to use these footers on sites with infinite scroll, it often becomes a frustrating game of “whack-a-mole” where users try to click on links as quickly as possible before they vanish again below the fold. Instead, if you plan on using infinite scroll, consider placing a mini footer in the right rail and ensure that it is sticky alongside the main content as the user scrolls.\n\nUse for: pages with infinite scroll\n\nWhile footers traditionally stay consistent across many pages, sometimes it can be helpful to customize the footer based on information that’s presented on the page. Particularly for a site with multiple audiences, a contextual footer can surface content that may not have made it into the global navigation, but might still be critical for some users.\n\nFor example, the Medium.com homepage does not have a footer; the page shows an infinitely scrolling list of articles. (The page has a right-rail mini footer as recommended above.) However, on a specific story’s page, Medium shows a task-based footer that varies depending on whether the viewer is a subscriber or not.\n\nUse for: sites with different user roles (e.g. “content creator” vs “content consumer” or “member” vs. “nonmember”)\n\nFooters have come a long way since the 1990s, but to this day, they are still subject to common design pitfalls:\n\nA footer is the place users go when users they’re lost. If we want to leave a lasting good impression, it’s critical that we don’t neglect the bottom of the page. After all, even the most mundane, utilitarian sections of an interface can make the biggest impact on a user’s experience.\n\nJakob Nielsen & Kara Pernice, 2010, Eyetracking Web Usability, The New Riders\n\nUse psychology to predict and explain how your customers think and act\n\nStrategically combine content, visuals, and interactive components to design successful web pages\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Footers 101: Design Patterns and When to Use Each",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Footer Basics",
+      "id": "toc-footer-basics-1"
+    },
+    {
+      "level": "h2",
+      "text": "People Use Footers",
+      "id": "toc-people-use-footers-2"
+    },
+    {
+      "level": "h2",
+      "text": "Footer Elements",
+      "id": "toc-footer-elements-3"
+    },
+    {
+      "level": "h2",
+      "text": "Utility Links",
+      "id": "toc-utility-links-4"
+    },
+    {
+      "level": "h2",
+      "text": "Doormat Navigation",
+      "id": "toc-doormat-navigation-5"
+    },
+    {
+      "level": "h2",
+      "text": "Secondary Tasks",
+      "id": "toc-secondary-tasks-6"
+    },
+    {
+      "level": "h2",
+      "text": "Site Map",
+      "id": "toc-site-map-7"
+    },
+    {
+      "level": "h2",
+      "text": "Testimonials or Awards",
+      "id": "toc-testimonials-or-awards-8"
+    },
+    {
+      "level": "h2",
+      "text": "Brands Within the Organization",
+      "id": "toc-brands-within-the-organization-9"
+    },
+    {
+      "level": "h2",
+      "text": "Customer Engagement",
+      "id": "toc-customer-engagement-10"
+    },
+    {
+      "level": "h1",
+      "text": "Variations on Footers",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Infinite Scroll & the Mini Footer",
+      "id": "toc-infinite-scroll-the-mini-footer-11"
+    },
+    {
+      "level": "h2",
+      "text": "Contextual Footers",
+      "id": "toc-contextual-footers-12"
+    },
+    {
+      "level": "h1",
+      "text": "Common Footer Pitfalls (& solutions)",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Conclusion",
+      "id": ""
+    },
+    {
+      "level": "h3",
+      "text": "Resources",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "The Human Mind and Usability",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Web Page UX Design",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/therese-fessenden/",
+    "https://www.nngroup.com/articles/footers/",
+    "https://www.nngroup.com/articles/footers/",
+    "https://www.nngroup.com/articles/footers/#toc-footer-basics-1",
+    "https://www.nngroup.com/articles/footers/#toc-people-use-footers-2",
+    "https://www.nngroup.com/articles/footers/#toc-footer-elements-3",
+    "https://www.nngroup.com/articles/footers/#toc-utility-links-4",
+    "https://www.nngroup.com/articles/footers/#toc-doormat-navigation-5",
+    "https://www.nngroup.com/articles/footers/#toc-secondary-tasks-6",
+    "https://www.nngroup.com/articles/footers/#toc-site-map-7",
+    "https://www.nngroup.com/articles/footers/#toc-testimonials-or-awards-8",
+    "https://www.nngroup.com/articles/footers/#toc-brands-within-the-organization-9",
+    "https://www.nngroup.com/articles/footers/#toc-customer-engagement-10",
+    "https://www.nngroup.com/articles/footers/#toc-infinite-scroll-the-mini-footer-11",
+    "https://www.nngroup.com/articles/footers/#toc-contextual-footers-12",
+    "https://www.nngroup.com/articles/page-fold-manifesto/",
+    "https://www.nngroup.com/articles/scrolling-and-attention/",
+    "https://www.nngroup.com/articles/differences-between-print-design-and-web-design/",
+    "https://www.nngroup.com/articles/let-users-control-font-size/",
+    "https://www.nngroup.com/articles/legibility-readability-comprehension/",
+    "https://www.nngroup.com/articles/utility-navigation/",
+    "https://www.nngroup.com/articles/customer-service-model/",
+    "https://www.nngroup.com/articles/investor-relations-ir/",
+    "https://www.nngroup.com/articles/authority-principle",
+    "https://www.nngroup.com/articles/multivariate-testing/",
+    "https://www.nngroup.com/articles/universal-navigation/",
+    "https://www.nngroup.com/articles/newsletters/",
+    "https://www.nngroup.com/articles/infinite-scrolling/",
+    "https://www.nngroup.com/articles/quicklinks-label-intranet/",
+    "https://www.nngroup.com/articles/quicklinks-label-intranet/",
+    "https://www.nngroup.com/articles/exhaustive-review-eyetracking/",
+    "https://www.nngroup.com/articles/low-contrast/"
+  ]
+}

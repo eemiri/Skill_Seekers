@@ -1,0 +1,148 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap",
+  "title": "Product Portfolio Roadmaps: Best Practices for PMs",
+  "content": "Last updated: February 2024\n\nManaging a product portfolio suite is complex work. Besides keeping track of multiple dates and dependencies, you have to make sure that each product is progressing against the broader goals and supporting all the other products in the portfolio. This is why many teams rely on portfolio roadmaps to link the complex relationships that exist across different products.\n\nA portfolio roadmap is a tool that provides a clear picture of a company's overall product strategy and timeline for all its initiatives. Portfolio roadmaps showcase multiple product plans on a single roadmap to help executives and product managers understand how each product relates to the overall goals and initiatives.\n\nConstructing a product portfolio roadmap brings visibility to the key areas of strategic investment across your comprehensive product portfolio. Seeing everything laid out in one view makes it easy to track progress and keep the team aligned on the work that matters most.\n\nUse the following links to jump ahead to a specific section:\n\nBenefits of a portfolio roadmap\n\nHow to create a portfolio roadmap\n\nPortfolio roadmap tools\n\nWhen you create a product portfolio roadmap, you can link strategy across products as well as up to the product line, division, and ultimately, the company. Connecting the goals and initiatives within a product portfolio ensures that the strategy set at the product line level is consistent with the strategy set for each product. This provides organizations with much-needed clarity and analysis at the macro level.\n\nFor example, consider a suite of products with a shared underlying platform. If one product has an initiative to improve analytics, the company can deliver a more consistent user experience if all the products in the portfolio adopt this as an overarching initiative. Instead of each group focusing on its own offering in isolation, teams can work together to make sure that the initiatives set for each product support the initiatives set for the product line. (This is also why many companies choose to bring portfolio product managers and program managers on board. These folks focus more on the success of related products or projects that support specific strategic initiatives.)\n\nPortfolio planning can also spur innovation — because seeing the portfolio-level direction in one view makes it easier to notice any gaps in strategy. This can spark new ideas as you spot opportunities that could support the goals you have already established.\n\nBelow is a sample portfolio roadmap for a fictitious product line called Fredwin Platform. Within the product line, there are multiple products: Fredwin Cycling, Fredwin Swimming, and Fredwin Running. This single view presents the overall direction and links across the products.\n\nIn this example, note that there is one item in the general \"Releases\" swimlane for Fredwin Cycling. This means one product had a release that did not roll up to any particular company or product line-level strategy — underscoring the importance of adhering to strategic tie-ins during execution.\n\nA centralized view ensures that each product in the portfolio is working toward building the right features and is focused on the key initiatives that roll up to initiatives at the product-line levels.\n\nWhat is the Complete Product Experience (CPE)?\n\nWhat is enterprise transformation?\n\nWhat is a business roadmap?\n\nUse a portfolio roadmap to show executives and teammates a consolidated view of product plans. Here are four key steps for building your first portfolio roadmap:\n\nSet the overall vision and identify goals at the top level of your product portfolio. You can set strategy at either the product-line level or company level. Identifying the vision and business goals for the portfolio helps the organization better understand where you are going as well as the success metrics that you want to achieve.\n\nVisible and interconnected goals are a key component of product portfolio success. Document yours with the dedicated Vision model in Aha! Roadmaps.\n\nAfter aligning on goals, identify the high-level strategic initiatives for the product line. Initiatives are large areas of investment or themes of delivery that will help you reach your goals. The initiatives at the top level then inform the strategy down to each product within the product line. Taking this top-down approach ensures a consistent strategy and alignment among the portfolio plans.\n\nOrganizations typically have a long list of desired initiatives — several of which can support your goals. However, it is important to prioritize initiatives that will have the biggest impact on achieving goals. One way to do this is to create a scorecard defining the most important factors for ranking initiatives. Use these data-driven scores to identify which strategic initiatives matter most for advancing the vision and goals.\n\nWith Aha! Roadmaps, you can rank initiatives with a value scorecard. Use a pre-defined formula or customize your own depending on your organization's preferences.\n\nThis evaluation period is crucial because it ensures that you focus on what matters most — not only for specific products, but across all products in the portfolio. You then need to set a timeline for completion so the entire team can better plan for the work ahead.\n\nOnce you set initiatives, it is time to determine the releases and features that link back to the initiatives. This ensures that the strategy flows on through the tactical efforts for the product and that key features actually relate back to the higher-level strategy. Mapping the tactical work back to the strategy allows everyone to see how the high-level vision and goals carry through each release or feature.\n\nA typical portfolio roadmap template includes the product line(s) and child product(s). At the product-line level, it includes:\n\nStrategic initiatives for the product line\n\nReleases for child products\n\nEach swimlane includes a strategic initiative for the product line as well as milestones for each child product's completed releases over time. This allows everyone to see when releases will be worked on and how they map to high-level initiatives.\n\nA portfolio roadmap also incorporates strategic direction at the product level. Similar to product lines, it includes:\n\nStrategic initiatives for the product\n\nReleases for the product\n\nExecutives and team members can then dive deeper into the roadmap to better understand the key activities and when they will be completed.\n\nHow to create a product portfolio hierarchy in Aha! Roadmaps\n\nVideo: Build a portfolio roadmap in Aha! Roadmaps\n\nThe product manager vs. the product portfolio manager\n\nA roadmap is a communication tool. Ultimately, it is only useful if it is openly shared. With this in mind, portfolio managers should share product roadmaps across the organization to ensure that everyone is in sync with the plans.\n\nThere are many different ways to manage and share a portfolio roadmap. Some teams use spreadsheets and static documents, but these tools are not meant for roadmapping. You must manually update and share your document as the roadmap progresses, which can be cumbersome. And major confusion can occur when colleagues view outdated versions of these files.\n\nThis is one reason that many teams opt for a purpose-built roadmapping tool like Aha! Roadmaps. You can visualize your portfolio roadmap in a variety of ways and link strategic initiatives to your releases and features. It is easy to create compelling roadmaps, collaborate with teammates, and share roadmaps across the organization in real time — so everyone is aware of the direction and key initiatives for the product portfolio.\n\nIf you want to get started quickly, you can also try this lightweight whiteboard template in Aha! software. This is a great way to see your upcoming releases laid out in a single whiteboard view during initial roadmap planning. You can then convert details on the whiteboard into real work items in Aha! Roadmaps.\n\nStart using this template now\n\nWhat separates a good product portfolio roadmap from a bad one?\n\nA product portfolio roadmap demonstrates how all product work relates to your company's overarching goals and initiatives. A good product portfolio roadmap touches on the \"why,\" \"what,\" and \"when\" — showcasing the work you are prioritizing and how it will help you meet your goals.\n\nAt the same time, make sure your product portfolio roadmap is flexible. If your product plans change, you should be able to adjust your roadmap's details painlessly.\n\nHow do you present your product portfolio roadmap?\n\nPresenting your product portfolio roadmap to stakeholders? Here are two best practices to keep in mind to ensure everything runs smoothly:\n\nFocus on your goals: Rather than listing metrics or going through your roadmap's details line by line, turn your presentation into a narrative. Everything you share should tie back to your overarching story: how the ongoing work within each product in your portfolio aligns with your strategic initiatives.\n\nInclude live views: A live product portfolio roadmap automatically updates when the team makes changes and work progresses. This also means there is no need for you to check (and double-check) whether everything on the presentation is up to date. In Aha! Roadmaps, for instance, there is an option to make live roadmap views within presentations update automatically.\n\nWhat is the ideal time frame for an effective product portfolio roadmap?\n\nThe time frame you select for your product portfolio roadmap should help stakeholders visualize the long-term work your team has planned, all without losing focus on the work that is in progress or soon to be finished. Although every team operates differently, most goals are attainable within three to 12 months — making one year a good time frame option for your roadmap.\n\nWhat are some tools for visualizing product portfolio roadmaps?\n\nMost teams use dedicated whiteboarding or roadmapping software to build product portfolio roadmaps. Either tool helps you craft your plans visually — so everyone understands how individual products tie back to company goals. And both tools are available within Aha! Roadmaps.\n\nOur software helps product builders craft actionable product portfolio roadmaps (and many other types of roadmaps). You can also create stunning visuals and documentation with our expertly crafted templates.\n\nYou need a clear overview of what you want to achieve — and a plan to reach those goals.\n\nSee what's new in Aha! Roadmaps: the complete product management solution.\n\nUse this template to showcase how planned work aligns with strategy.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is a product portfolio roadmap?",
+      "id": "what-is-a-product-portfolio-roadmap"
+    },
+    {
+      "level": "h4",
+      "text": "Create your own portfolio roadmap in Aha! Roadmaps — free for 30 days.",
+      "id": "create-your-own-portfolio-roadmap-in-aha-roadmaps-"
+    },
+    {
+      "level": "h2",
+      "text": "Benefits of a portfolio roadmap",
+      "id": "benefits-of-a-portfolio-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "How to create a portfolio roadmap",
+      "id": "how-to-create-a-portfolio-roadmap"
+    },
+    {
+      "level": "h3",
+      "text": "Step 1: Identify your goals",
+      "id": "step-1-identify-your-goals"
+    },
+    {
+      "level": "h3",
+      "text": "Step 2: Prioritize key initiatives",
+      "id": "step-2-prioritize-key-initiatives"
+    },
+    {
+      "level": "h3",
+      "text": "Step 3: Link tactical work with strategic initiatives",
+      "id": "step-3-link-tactical-work-with-strategic-initiatives"
+    },
+    {
+      "level": "h3",
+      "text": "Step 4: Visualize your portfolio roadmap",
+      "id": "step-4-visualize-your-portfolio-roadmap"
+    },
+    {
+      "level": "h2",
+      "text": "Portfolio roadmap tools",
+      "id": "portfolio-roadmap-tools"
+    },
+    {
+      "level": "h3",
+      "text": "Portfolio roadmap template",
+      "id": "portfolio-roadmap-template"
+    },
+    {
+      "level": "h4",
+      "text": "FAQs about product portfolio roadmaps",
+      "id": "faqs-about-product-portfolio-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "How to build a brilliant roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Latest functionality in Aha! Roadmaps",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Product roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-a-product-portfolio",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-a-portfolio-product-management",
+    "https://www.aha.io/roadmapping/guide/release-management/how-do-product-managers-plan-releases-across-teams",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap#benefits-of-a-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap#how-to-create-a-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap#portfolio-roadmap-tools",
+    "https://www.aha.io/roadmapping/guide/product-management/which-tools-do-product-managers-use",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-a-portfolio-product-management#:~:text=Portfolio%20product%20managers%20oversee%20new,dance%20just%20right%20takes%20balance.",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-program-manager",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/product-strategy/complete-product-experience",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation",
+    "https://www.aha.io/roadmapping/guide/roadmap/business-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/report-on-progress",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-can-i-estimate-the-value-of-new-product-ideas",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/visualize-data",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/roadmap-examples",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/business-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/features-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/innovation-roadmap",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/go-to-market-roadmap",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/product-roadmap/what-is-a-product-portfolio-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/project-roadmap",
+    "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap",
+    "https://www.aha.io/roadmapping/guide/technology-roadmap",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/best-practices"
+  ]
+}

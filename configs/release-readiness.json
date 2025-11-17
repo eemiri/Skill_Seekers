@@ -1,0 +1,46 @@
+{
+  "name": "release-readiness",
+  "description": "Use this skill when planning software releases, creating go/no-go decision frameworks, building release readiness checklists, or evaluating release criteria. Covers pre-launch testing, release management best practices, and structured decision-making for production deployments.",
+  "base_url": "https://www.process.st/templates/software-release-readiness-checklist/",
+  "additional_urls": [
+    "https://www.frugaltesting.com/blog/best-practices-for-qa-release-readiness-a-complete-pre-launch-testing-guide",
+    "https://launchdarkly.com/blog/release-management-checklist/",
+    "https://fourweekmba.com/go-no-go-decision-making/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div.content, div[role='main'], div.post-content, div.entry-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "release",
+      "readiness",
+      "checklist",
+      "go-no-go",
+      "deployment",
+      "testing",
+      "qa",
+      "launch"
+    ],
+    "exclude": [
+      "/tag/",
+      "/author/",
+      "/category/",
+      "comment",
+      "login",
+      "signup",
+      "privacy",
+      "terms"
+    ]
+  },
+  "categories": {
+    "checklists": ["checklist", "template", "steps", "process"],
+    "qa_testing": ["testing", "qa", "quality", "test", "bug"],
+    "decision_framework": ["go-no-go", "decision", "criteria", "evaluation", "framework"],
+    "release_management": ["release", "deployment", "rollout", "launch", "production"],
+    "best_practices": ["best-practice", "guide", "practice", "tip", "strategy"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

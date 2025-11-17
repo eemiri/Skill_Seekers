@@ -1,0 +1,109 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#how-to-define-value-in-product-development",
+  "title": "Value-Based Product Development: What PMs Should Know",
+  "content": "Last updated: February 2024\n\nProduct development is the lifeblood of any meaningful company. What you create today represents the future of the business — whether you are a product manager working on enhancements to an existing offering, part of a team developing something entirely new, or an executive reevaluating the company’s overall strategic direction. The goal is to invest in what will bring the most value to everyone involved.\n\nBut as anyone who has worked in product development knows, it is incredibly difficult to estimate something that has not been done before. How much money, how many people, and how much time will it take to transform a raw idea through to go-to-market release and beyond? You need answers because there are real costs — financial, staffing, and other resources — that will affect both the team and business performance.\n\nEach stage of the product development process represents a significant amount of work from various functional groups. Most companies begin with strategy, then move through ideation, planning, building, market launch, and ongoing support. Typically there is fluidity between the cycles with shifting priorities and new information. And as many organizations embrace agile workflows, the urge to go fast can add pressure to make quick decisions.\n\nIf you can focus on optimizing the product development engine to reflect the most current value exchange — from release to release — the team will tune into what will drive more of it forward.\n\nAha! co-founder and CEO\n\nWe all want to build products that customers love. But product builders are busy and cannot afford to start from scratch with every release. You need a way to templatize the process towards optimal outcomes. Value-based product development is a practical way to move beyond tactical discussions and look more holistically at the overall worth of what you prioritize, the effort it takes to build, and the actual benefit of doing so.\n\nThis guide will cover how to:\n\nDefine value in product development\n\nCreate a value scorecard\n\nEstimate and measure value\n\nLet’s start with another value-based concept that you have likely heard of — value-based strategy. The concept behind it is that you can price a product or service based on the customer’s perception of its worth. There are various frameworks related to value-based pricing, such as Harvard Business School’s “value stick.” The value stick takes into account a variety of factors, such as the customer's willingness to pay, the supplier's willingness to sell, the cost to produce, and the final price the company sets.\n\nValue-based pricing is a strategy that enables companies to price an offering according to perceived value rather than actual cost to produce. Value-based pricing strategies are helpful when you are looking for ways to maximize profit. It can be especially powerful when your customer is driven by emotion or a sense of scarcity. But this strategy focuses on the purchase phase. What about all of the phases that a product goes through before it is purchase-ready?\n\nValue-based product development is an end-to-end process that enables product teams to create the most value for the least effort. Value-based product development is much more expansive. New ideas are evaluated against strategic goals, effort to develop, and customer needs. You can adapt it to any organization, industry, or workflow because it puts assessing value at the center of product-related decisions. Value scores are set and adjusted at every phase of development and the team can measure what was ultimately achieved.\n\nWhat is product development?\n\nWhat is the Complete Product Experience (CPE)?\n\nThe definition of value-based product development above is deceptively simple. There are so many moving parts and competing priorities within each phase that tracking value (effort required vs. reward gained) throughout can seem challenging at first.\n\nMost product teams tend to think through these types of questions when evaluating individual features and choosing what to prioritize on the product roadmap next. There is so much work to be done — administrative, meetings, fixing bugs — that you naturally tackle what is most pressing right now. Tactical focus is a job hazard and requirement for most product management and engineering folks.\n\nYour product team may already be considering the following areas and basic questions during planning sessions:\n\nCustomers: What will they gain?\n\nBusiness: Is there alignment with business goals?\n\nTechnology: Do you have the right skills and tools?\n\nGo-to-market: Are internal teams ready to promote, sell, and support?\n\nStakeholders: Will other partners be impacted?\n\nWithout a shared definition of value, many teams rely solely on product metrics to determine how new functionality performed in market. While reporting on product KPIs and OKRs is important, these do not typically paint a full-color picture of the investment the organization made, what the return actually was, and whether customers got what they wanted. It also does not give product teams a way to gauge how accurate their estimations were.\n\nTeams that follow value-based product development first settle on value metrics that can be used consistently to vet what gets built and understand performance. Then they can move into speccing out requirements. This allows product teams to estimate value during idea management and early concepting, refine during feature scoping, and then measure the actual value upon release.\n\nA value scorecard is a good way to ensure that the team has consistent criteria for evaluating at each phase. Purpose-built product development software should include an interactive scorecard that you can use to track value as you move from ideation to implementation. These scorecards are typically editable and you can choose to add additional metrics, including how you want to weigh the scoring system.\n\nIf you do not yet have access to product development software, you can still create a value scorecard template for your team using formulas in a static spreadsheet tool like Excel. It can be tedious to update the scorecard and share out updated versions, but the process only works if value is tracked at every stage.\n\nThe table below represents high-level metrics that you start with — each one can be weighted based on your company and product.\n\nValue scorecard metrics\n\nHow many people does it affect?\n\nHow important is it for those that require it?\n\nHow closely connected is it to the company/product strategy?\n\nHow much work will it take to build?\n\nWhat is your certainty of scores above?\n\nSuccessful value-based product development is a result of consistent scoring and measurement. Product teams should expect to capture a series of value estimates and scores at set milestones during the product development process. There are a few benefits to this approach. First, it allows you to rely on objective criteria when evaluating new ideas or concepts. Then as work moves through your team’s workflow, you are able to update the score in real time to ensure that everyone is focused on the most important items. Over time, the team can reflect on past value scores and see how accurate those estimates were, improving and learning as you go.\n\nStages of product development\n\nFeature prioritization templates\n\nHow to measure product value\n\nYou want to use consistent value metrics from idea to development and eventual go-to-market release. Product teams who use purpose-built product development software have an advantage here. If your software solution includes all aspects of bringing a concept to life — strategizing, ideation, planning, building, launching, and ongoing analysis — then you are able to benefit from referencing the same data in the same system. Tools such as Aha! Knowledge, Aha! Ideas, Aha! Roadmaps, and Aha! Develop sync automatically, creating the ideal experience for product management and engineering teams.\n\nIf your team is not yet using a single system of record for all aspects of product development, you can still measure value. You will just need to be vigilant about ensuring that all teammates are following the same scoring process and updating all versions of in-review ideas, feature backlogs, roadmap views, and development work. This can be tedious and leaves a wide margin for error — one out-of-date roadmap can threaten the integrity of your final value measurement.\n\nThe checkpoints below offer opportunities to hone your value scores at every stage, using the metrics outlined above: population, need, strategy, and effort. (Confidence can be calibrated each time you update the overall score.)\n\nSet an initial value estimate early in the idea management process when the concept is raw and not refined. If you use idea management software to crowdsource feedback, you can get a good sense of the population based on the number of votes an idea receives. But remember, this is very early in the process. So you might not have a firm understanding of how important it would be to those affected — the need value in the score. There will be time later on to validate as you investigate. And obviously you will have very little knowledge of the effort required since you have not yet spoken to your engineering teams. Naturally, your confidence level for these two metrics will be lower during ideation.\n\nCreate a detailed value estimate during roadmap planning and feature scoping. At this stage, the product team will have discussed potential pitfalls and opportunities that might pop up once work begins. You may have spoken with customers to gain a deeper understanding of how the functionality would impact them. This level of research and definition will help you assess how important the new functionality is and the potential effort required to build. Since you are using the same set of metrics to assess each feature, the team can make more confident decisions when planning upcoming releases.\n\nThis is the product value scorecard available in Aha! software.\n\nAmend the score to reflect the actual effort required. Work with engineering to understand at a detailed level what each feature will cost in terms of resources. These insights might impact your overall value assessment of whether it makes sense to go ahead. Once the engineering team begins work, you will want to update this metric at least twice during development since effort estimates often shift once they get into the details. Being able to track how the score changes at this stage is helpful for the future. You can make a direct comparison between how the product value score changed between the initial value estimate and the refined value estimate. Disciplined scoring leads to better and better decision-making over time.\n\nMeasure actual worth of what was delivered. This is the truly powerful aspect of value-based product development. The team can answer the question: What is achieved once the functionality is in production and customers use it? Product development represents a meaningful investment across the organization. You can map your realized value back to the overall business and product strategy — gains or losses towards the goals you set. Product managers should capture a rough estimate of realized value post-launch. Being able to showcase this realized value to stakeholders creates accountability for everyone involved.\n\nWhen you take a disciplined approach to measuring value like the one outlined above, everyone on the product team is accountable for the impact of what is built. Product value becomes explicit, comprehensible, and more meaningful.\n\n2x2 prioritization matrix\n\nAha! is the world's #1 product development software. Start a free trial today.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is value-based product development?",
+      "id": "what-is-value-based-product-development"
+    },
+    {
+      "level": "h4",
+      "text": "Build products that matter. Start your Aha! software trial — free for 30 days.",
+      "id": "build-products-that-matter-start-your-aha-software-trial-"
+    },
+    {
+      "level": "h2",
+      "text": "How to define value in product development",
+      "id": "how-to-define-value-in-product-development"
+    },
+    {
+      "level": "h3",
+      "text": "Value-based pricing vs. value-based product development",
+      "id": "value-based-pricing-vs-value-based-product-development"
+    },
+    {
+      "level": "h3",
+      "text": "Explore your definition of value",
+      "id": "explore-your-definition-of-value"
+    },
+    {
+      "level": "h2",
+      "text": "How to create a value scorecard",
+      "id": "how-to-create-a-value-scorecard"
+    },
+    {
+      "level": "h2",
+      "text": "How to measure value throughout product development",
+      "id": "how-to-measure-value-throughout-product-development"
+    },
+    {
+      "level": "h3",
+      "text": "Checkpoints for measuring value",
+      "id": "checkpoints-for-measuring-value"
+    },
+    {
+      "level": "h4",
+      "text": "Popular templates:",
+      "id": "popular-templates"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/marketing-roadmaps/go-to-market-roadmap",
+    "https://www.aha.io/roadmapping/guide/stages-of-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#how-to-define-value-in-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#how-to-create-a-value-scorecard",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#how-to-measure-value-throughout-product-development",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/complete-product-experience",
+    "https://www.aha.io/roadmapping/guide/release-management/product-feature-checklist",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development-software",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-to-measure-product-value",
+    "https://www.aha.io/roadmapping/guide/release-management/capacity-planning",
+    "https://www.aha.io/roadmapping/guide/stages-of-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-to-measure-product-value",
+    "https://www.aha.io/roadmapping/guide/release-management",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-viable-product",
+    "https://www.aha.io/roadmapping/guide/plans/what-is-a-minimum-lovable-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-market-fit",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-differentiation",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-i-price-my-product",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-value",
+    "https://www.aha.io/roadmapping/guide/product-strategy/value-based-product-development",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

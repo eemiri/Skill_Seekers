@@ -1,0 +1,43 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples",
+  "title": "Code examples",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nCode examples illustrate how to use a programming element to implement specific functionality. They might include:\n\nDevelopers use code examples to:\n\nMany developers copy example code from documentation into their own code or adapt code examples to their own needs.\n\nTo create useful code examples, identify tasks and scenarios that are meaningful for your audience, and then create examples that illustrate those scenarios. Code examples that demonstrate product features are useful only when they address the problems that developers are trying to solve.\n\nGuidelines for planning code examples\n\nCreate concise examples that exemplify key development tasks. Start with simple examples and build up complexity after you cover common scenarios.\n\nPrioritize frequently used elements and elements that may be difficult to understand or tricky to use.\n\nDon't use code examples to illustrate obvious points or contrived scenarios.\n\nCreate code examples that are easy to scan and understand. Reserve complicated examples for tutorials and walkthroughs, where you can provide a step-by-step explanation of how the example works.\n\nAdd an introduction to describe the scenario and explain anything that might not be clear from the code. List the requirements and dependencies for using or running the example.\n\nProvide an easy way for developers to copy and run the code. If the code example demonstrates interactive and animated features, consider providing a way for the developer to run the example directly from your content page.\n\nUse appropriate keywords, linking strategies, and other search engine optimization (SEO) techniques to improve the visibility and usability of the code examples. For example, add links to relevant code example pages and content pages to improve SEO across your content. See Search and writing.\n\nGuidelines for writing code examples\n\nDesign code for reuse. Help developers determine what to modify. Add comments to explain details, but don't overdo it. Don't state the obvious.\n\nShow expected output, either in a separate section after the code example or by using code comments within the code example.\n\nConsider accessibility requirements for code that creates UI. For example, include alternate text for images.\n\nWrite secure code. For example, always validate user input, never hard-code passwords in code, and use code-analysis tools to detect security issues.\n\nShow exception handling only when it's intrinsic to the example. Don't catch exceptions thrown when invalid arguments are passed to parameters.\n\nAlways compile and test your code.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Code examples",
+      "id": "code-examples"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/code-examples",
+    "https://learn.microsoft.com/en-us/style-guide/search-writing"
+  ]
+}

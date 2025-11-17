@@ -1,0 +1,140 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+  "title": "Agile vs. Lean: Understanding the Differences",
+  "content": "What is the difference between agile and lean? Let's start with basic definitions. Lean is a management methodology aimed at eliminating wasted time and resources through systematic analysis of processes and value streams.\n\nAgile is an umbrella term for a philosophical approach to software development that prioritizes early and continuous delivery of valuable functionality that satisfies customers. Many frameworks and methodologies (including, at times, lean) are often folded under the umbrella of agile.\n\nLean is a method for reducing waste within your development process — agile is a philosophy that encourages development teams to rapidly deliver software with users in mind.\n\nDefinitions done. Now, back to the beginning: What is the difference between agile and lean? The question itself says a lot about the person asking and the answer sought. If you are curious about which approach will help your development team waste less time, reduce bottlenecks, and ship lots of quality code then you are already in an agile-lean mindset — even if you are not yet an expert on the history and practices of each.\n\nThis guide offers a primer on agile and lean, providing deep comparison between the two. We cannot give you the answer you seek (which methodology is best). But we can give you the tools you need to make an informed decision:\n\nWhat is lean software development?\n\nWhat is agile software development?\n\nAgile values and lean principles\n\nAgile and lean comparison charts\n\nDecision tree for selecting a development methodology\n\nLean can be traced back to the Toyota Production System, which formed between the 1940s and 1970s. The Toyota system centered around concepts of jidoka (“automation with a human touch” meant to prevent defective products) and “just-in-time” processes (which produce only what is needed for the next step in a continuous flow). Other core concepts include waste reduction, kaizen (continuous improvement), and respect for and empowerment of people (especially line workers).\n\nToyota’s approach built upon other paradigms for manufacturing and management. And it inspired many more. As technology rapidly advanced in the late 1980s, many developers began to look at the system for inspiration on how to improve outdated modes of delivering software.\n\nIn 1996 James P. Womack published Lean Thinking, which included case studies from a wide range of industries. Just six years later Mary and Tom Poppendieck leveraged lean manufacturing in their book Lean Software Development: An Agile Toolkit, which outlined how development teams could apply the methods to building software.\n\nTake bottlenecks. In the original lean manufacturing model, a bottleneck might be resolved by establishing routine preventative maintenance for a piece of equipment. In lean software development, the bottleneck is more likely to do with task management and hand-offs between teams — your development team completes 10 features, but your quality assurance (QA) team only has the capacity to review two. Lean practices help you spot this bottleneck so you can adjust workloads and team capacity.\n\nOr consider employee management. Toyota determined that people on the factory floor should have the power to pause production if they spotted a potential problem to keep minor issues from ballooning into major roadblocks. In software development, this could look like team members finding a bug and pausing deployment to fix the code — without necessarily getting approval from a manager first.\n\nAgile formed in the late 1990s. It was a direct response to single-pass software development methodologies where requirements are defined at the start of the development process and projects are completed in sequential phases. As new technologies turbocharged the speed of software development, rigid workflow processes like these became roadblocks to innovation.\n\nIn 2001, a group of agile practitioners came together for a summit in Utah. Each had already developed their own methodologies such as Extreme Programming (XP), Crystal, and scrum. But they were interested in formalizing a guide for forward-thinking development teams who wanted a better way to develop products — which became the Agile Manifesto.\n\nThe manifesto sparked a revolution that had been brewing for years. The agile approach promised quicker release cycles, happier teams, and more satisfied customers. But as agile concepts gained popularity, the catchall nature of the term led to some confusion. Does “going agile” require following a certain workflow methodology? Is holding a daily standup enough to claim the mantle?\n\nThe murkiness remains. Because the manifesto outlines an ethos for software development rather than prescribed steps, there is a natural propensity to seek out defined frameworks and processes. This is especially true in complex enterprise organizations that want to benefit from the promise of agile but face practical implications for how to roll out the principles at scale. It can be challenging to separate beliefs from tactics.\n\nWhat is agile software development?\n\nAgile and lean share foundational beliefs. Each has its own set of values and principles that are meant to guide development teams. As you read through the list below, take a moment to jot down the areas of symmetry and dissonance — this can help you later on as you decide which approach is best for your own team.\n\nThe Agile Manifesto outlined four core values and 12 principles to guide agile teams.\n\nIndividuals and interactions over processes and tools\n\nWorking software over comprehensive documentation\n\nCustomer collaboration over contract negotiation\n\nResponding to change over following a plan\n\nOur highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n\nWelcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n\nDeliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n\nBusiness people and developers must work together daily throughout the project.\n\nBuild projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n\nThe most efficient and effective method of conveying information to and within the development team is face-to-face conversation.\n\nWorking software is the primary measure of progress.\n\nAgile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n\nContinuous attention to technical excellence and good design enhances agility.\n\nSimplicity — the art of maximizing the amount of work not done — is essential.\n\nThe best architectures, requirements, and designs emerge from self-organizing teams.\n\nAt regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.\n\nWhat are best practices of agile development teams?\n\nWhat is an agile roadmap?\n\nJames Womack defined five lean principles in his 1996 book:\n\nIdentify the value desired by the customer.\n\nMap the value stream for each product and challenge all of the wasted steps currently necessary to provide it.\n\nCreate flow continuously through the remaining value-added steps (after wasted steps removed).\n\nEstablish pull between all steps where continuous flow is possible.\n\nSeek perfection wherein the steps, time, and resources needed to serve customers is reduced.\n\nThe Poppendiecks outlined seven lean principles in their 2001 book:\n\nEliminate waste: If something (i.e. a meeting, task, or process) does not add value, find a way to cut it from your workflow.\n\nEnsure quality: Build quality checks into each stage of your development process through frequent testing, incremental development, constant feedback, and automation.\n\nCreate knowledge: Maintain thorough documentation of team processes and past work so no learning is lost. This can be done through formal documentation, wiki sites, knowledge sharing sessions, and ongoing training.\n\nDefer commitment: Rather than making decisions about things months in advance, constantly gather information so you can make informed decisions as you go.\n\nDeliver fast: Get your product to market quickly by releasing your MVP and then improve features and functionality based on customer feedback.\n\nRespect people: Build healthy teams by encouraging open communication, working through problems as a team, and creating an environment of support.\n\nOptimize the whole: Think of your work and your team as an integrated, interconnected system. This means taking a big picture view to identify bottlenecks, always keeping team capacity in mind as you assess upcoming work, and carefully considering the downstream impact of decisions you make today.\n\nRelated video: What is lean product process and development?\n\nAgile and lean share the same fundamental objective — to enable development teams to deliver what customers will love. There are similarities in the foundational construct and differences in the implementation. Lean management reorganizes teams that previously worked separately (with the risk of delay) to align towards more efficiency as a collective. Agile encourages cross-functional teams to the same end.\n\nBoth agile and lean prioritize rapid delivery of working software. Continuous improvement and people-first processes are hallmarks of each approach.\n\nArea of overlap between agile and lean\n\nBreak work down into small batches (ex. sprints)\n\nDeliver incremental value\n\nProvide consistent updates to customers\n\nIncorporate customer feedback\n\nContinuous improvement\n\nOptimize workflows to drive efficiency\n\nAdopt work management methodologies (i.e. kaizen in lean and scrum in agile)\n\nEstablish trust in relationships\n\nFacilitate collaboration\n\nEmpower teams with increased autonomy\n\nThe overlap between agile and lean leads many teams to seek out a blended approach. The Scaled Agile Framework (SAFe®), for example, brings in values of both agile and lean and applies them to large organizations. SAFe® teams might use kanban (a lean workflow organization system) to create systems at different levels of the organization while also supporting agile approaches through program increments and scrum at the team level.\n\nWhat is the Scaled Agile Framework (SAFe®)?\n\nBest practices for configuring Aha! to support SAFe®\n\nThe main difference between agile and lean is that one is a philosophy and one is a methodology. But inspect closer and you will find more nuanced differences in what each prioritizes. Agile is focused on users, managing uncertainty, and delivering working software. Lean is focused on eliminating waste, managing processes, and delivering value. These differences also reveal common misconceptions about the potential negatives of adopting agile or lean methods.\n\nThe free flowing ethos of agile is often targeted as being ripe for chaos. The waste eradication mindset of lean is sometimes equated with cost-cutting measures. Both can be true. But like most things in life, the results are situational. A complex organization with many teams building many products needs more process to ensure consistency and quality than a fledgling startup. Companies operating with dynamic market forces will tolerate variability if it means faster delivery.\n\nRelated: Product development dictionary\n\nThe typical caveats apply. Every team is unique and there is not one perfect way to choose the ideal methodology to ensure success for yours. The decision is not about choosing one over the other. (Many organizations choose both agile and lean.)\n\nRather than thinking about it as going all in with one or the other, take the time to evaluate your team honestly and incorporate the elements that will complement and challenge you best. We created a series of questions, scoring mechanisms, and analysis tools that serve as a decision tree that you can use as part of your evaluation.\n\nFirst, capture the basics:\n\nHow critical is what you are building to the business?\n\nWhat is the scope of the effort?\n\nAre there budget or resource constraints?\n\nHow long do you have to deliver?\n\nHow large is your team?\n\nA project that is wide in scope, restricted by resources, but has a long runway for delivery could be a good fit for lean methods — since you can optimize at every point to streamline costs and reduce waste. A project that is business critical, somewhat limited in scope, and must be delivered in a tight timeframe may be better suited to agile methods that emphasize rapid iteration based on user feedback. Team size is an important factor too. Scrum teams, for example, are ideally composed of three to six people. Lean teams can easily double that.\n\nNext, consider the team, customer, and organization. Answer the questions below with a ranking between one and 10 — with one being very poor or low and 10 being excellent or high.\n\nHow competent is your development team?\n\nHow skilled is your team at communicating?\n\nWhat is the depth of your team’s understanding of the customer problem?\n\nHow critical is customer collaboration to development?\n\nWhat level of urgency do customers have to find a solution?\n\nIs the organizational culture disciplined?\n\nIs the management style hierarchical?\n\nHow flexible is the organization to change?\n\nIf you scored extremely high at team communication, customer collaboration and urgency, as well as organizational tolerance to change then agile methods will likely enhance your existing way of working. If you scored high in your team’s understanding of the customer problem and organizational discipline then lean methods will likely focus you even further.\n\nNow, visualize your findings in a SWOT analysis. Take everything from above and map your team’s strengths, weaknesses, opportunities, and threats to success. This exercise is not a one-time effort. As your work evolves and your team matures you can update the SWOT to reflect current capabilities and areas for improvement. Make these updates part of your team’s workflow to reinforce transparency and encourage accountability.\n\nS﻿tart using this template now\n\nWhat is an agile roadmap?",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Is there a difference between agile and lean approaches?",
+      "id": "is-there-a-difference-between-agile-and-lean-approaches"
+    },
+    {
+      "level": "h2",
+      "text": "What is lean software development?",
+      "id": "what-is-lean-software-development"
+    },
+    {
+      "level": "h4",
+      "text": "Ready to give your team an agile-lean tool? Try Aha! Develop.",
+      "id": "ready-to-give-your-team-an-agile-lean-tool"
+    },
+    {
+      "level": "h2",
+      "text": "What is agile software development?",
+      "id": "what-is-agile-software-development"
+    },
+    {
+      "level": "h2",
+      "text": "Agile values and lean principles",
+      "id": "agile-values-and-lean-principles"
+    },
+    {
+      "level": "h3",
+      "text": "Agile principles and values",
+      "id": "agile-principles-and-values"
+    },
+    {
+      "level": "h4",
+      "text": "Agile values:",
+      "id": "agile-values"
+    },
+    {
+      "level": "h3",
+      "text": "Lean principles",
+      "id": "lean-principles"
+    },
+    {
+      "level": "h2",
+      "text": "Agile and lean comparison charts",
+      "id": "agile-and-lean-comparison-charts"
+    },
+    {
+      "level": "h3",
+      "text": "Similarities between agile and lean",
+      "id": "similarities-between-agile-and-lean"
+    },
+    {
+      "level": "h3",
+      "text": "Differences between agile and lean",
+      "id": "differences-between-agile-and-lean"
+    },
+    {
+      "level": "h2",
+      "text": "Decision tree for selecting a development methodology",
+      "id": "decision-tree-for-selecting-a-development-methodology"
+    },
+    {
+      "level": "h4",
+      "text": "Customize a SWOT analysis template in Aha! software. Try it now.",
+      "id": "customize-a-swot-analysis-template-in-aha-software"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean#what-is-lean-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean#what-is-agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean#agile-values-and-lean-principles",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean#agile-and-lean-comparison-charts",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean#decision-tree-for-selecting-a-development-methodology",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean#Top",
+    "https://www.aha.io/roadmapping/guide/requirements-management",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/agile-transformation",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean#Top",
+    "https://www.aha.io/roadmapping/guide/agile/best-practices",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean#Top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/kanban-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/scaled-agile-framework",
+    "https://www.aha.io/roadmapping/guide/dictionary",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean#Top",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/agile-roadmap",
+    "https://www.aha.io/roadmapping/guide/agile/agile-glossary",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/development-methodologies",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-agile-product-management",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/an-introductory-guide-to-agile-project-management",
+    "https://www.aha.io/roadmapping/guide/agile-development/what-is-the-role-of-a-software-engineer",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/what-is-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/agile-transformation",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-lean",
+    "https://www.aha.io/roadmapping/guide/agile/agile-vs-waterfall",
+    "https://www.aha.io/roadmapping/guide/agile/best-practices",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-an-agile-retrospective",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-burndown-chart",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-issue-tracking",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-unit-testing",
+    "https://www.aha.io/roadmapping/guide/agile/agile-metrics",
+    "https://www.aha.io/roadmapping/guide/agile/agile-dictionary",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.nngroup.com/articles/search-not-enough/",
+  "title": "Search Is Not Enough: Synergy Between Navigation and Search",
+  "content": "September 7, 2014 2014-09-07\n\nWe have many times deplored the current desktop trend of replacing the global navigation with a hamburger menu and we saw that it reflects a poor understanding of the idea of minimizing the chrome. But one question that can be legitimately asked is: why should we care about navigation if we have search? Now that search has gotten good, why isn’t search enough? After all, the success of sites such as Google and Amazon shows that users search; not only that, but they actually love the search box, and even on mobile, where typing is tedious and error prone, they don’t shy back from searching.\n\nHere are 5 reasons why websites cannot expect users to rely on search only.\n\nIn order to formulate a good search query users need to know fairly well what they are searching for. They need to understand the search space and put in the right keywords. Sometimes that is easy — for instance, when searching for the closest Safeway store, most users can quickly come up with a reasonably good query. But when a domain novice is trying to buy a new oven or a new lawnmower, he is likely to need some guidance in the search space: what types of attributes are relevant for an oven? What lawnmowers are out there?\n\nCategory landing pages often have navigation that helps the user quickly get a mental model of the search space: what subcategories are available and what attributes are relevant for that particular category. In the example of lawn mowers, by going to Sears.com's Lawn Mowers page we find out that there are self-propelled mowers, push mowers, cordless rechargeable and corded ones, reel mowers, and dethatchers. We can also see that the type of terrain may be relevant, as well as other details such as the type of discharge and speed. All these give a pretty comprehensive picture of what may be important when you search for lawn mowers, even if this may be the first time you do it.\n\nFacets, widely used by many modern sites interfaces, have exactly this great benefit: they transform search into navigation and solve the problem of a user confronted with an unfamiliar search space. Facets structure the search space and make the user get a sense of the type of information she can expect to find there.\n\nEven when users are familiar with the search space, search requires them to recall information from their memory. To come up with a meaningful query, a user needs to think about attributes that are relevant for his goal and incorporate them in the query.\n\nNavigation replaces the recall with recognition (and thus follows one of the 10 usability heuristics for UI design): instead of forcing users to come up with a complex query, they can recall only a minimum and then use recognition to augment their query with relevant terms. In the lawn mower example, if search was the only tool available, you would have to come up with your own constraints and then translate them into terms that are likely to be relevant on this website. Thus you may start with “I'd like to exercise a little while doing it,” and then attempt to retrieve from memory query terms matching that goal. Translating the user goal into a search query that is understandable by the site is no easy task (and in fact people often fail at it — see below) and imposes a higher cognitive load than simply selecting the right link from the page.\n\nCompare Sears’ interface with that of Netflix. Assume that you want to watch a movie with a 14-year old who’s into physical comedy but does not appreciate language humor.\n\nIn the Comedies section it’s very hard to figure out which of the movies will satisfy those constraints. You have two choices: either go through the list one movie at the time until you find one that seems ok, or go to the search box and try to guess which terms would best describe to the system the movie that you’re looking for. Maybe “physical comedy PG-13”? Or even “Jim Carrey PG-13”? Good luck with that task!\n\nAs you can see, this latter exercise is a lot more difficult than finding the right lawn mower at Sears. Additional filters on Netflix’s site would have made it easier to find movies that satisfy more sophisticated criteria than the few listed under Subgenres. (One of the filters under Subgenres includes Teen movies, but from there, the user would still have to figure out the right search terms or to go sequentially through all the alternatives presented on that page.)\n\nSearch forces users to work more because not only must they come up with a query, but they also must type it. Typing has high interaction cost; it is error prone and time consuming even with a full keyboard (and even more so on a touch screen). The interaction cost of search is greater than that of browsing. True, some of that interaction cost is mitigated by autosuggestions (as shown by this radical ROI improvement on Intranets), but autosuggestions usually work well when the query is fairly common and simple. Plus, many sites do not have a good implementation of this feature.\n\nEven if users are able to come up with a reasonable search string, chances are that the results returned will often be irrelevant. Big search engines have behind them complex algorithms and a huge database to search in; even if the query is not perfectly formulated, chances are that some relevant results will still be found. That is often not the case on specialized sites. A search for “physical comedy PG-13” and for “Jim Carrey PG-13” on Netflix’s site returned no relevant results, as you can see from the screenshots below.\n\nMoreover, users often make mistakes when they type. Most site searches are not well equipped to accommodate typos and abbreviations. Indeed searching for “Jim Carey”[sic] on Netflix returns completely irrelevant movies, whereas “jim carey” on Bing returns a correction and information about the actor.\n\nA while back Jakob Nielsen called users’ search skills “incompetent”. It is still true. We keep seeing this over and over again: people have no understanding of what makes a good search query on a website. Their search mental model is corrupted by the big search engines and they expect search to work in the same way on every site. We’ve seen people searching for “dressy comfort shoes size 7.5 black low heel” on e-commerce sites and being completely puzzled by the type of results that they get. Some sites attempt to do some parsing of the search string and map it onto their attribute space, but most of the time that mapping is very poor, as you can see in the Zappos example below.\n\nGetting some results (albeit too many and irrelevant) may be arguably better than getting no results at all, like in this example below from Autozone: the search for “wipers camry” returns no results.\n\nSite search is vital and can save the day for those users who have well defined goals and a good understanding of the information space in which they are searching. However, if you’re considering pushing search on your site at the expense of navigation, think again. Navigation serves important functions: it shows people what they can find on the site, and teaches them about the structure of the search space. Using the navigation categories is often faster and easier for users than generating a good search query. Plus, many times site search does not work well or requires users to have a good understanding of its limitations.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Search Is Not Enough: Synergy Between Navigation and Search",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "1. Search Requires Knowledge of the Search Space",
+      "id": "toc-1-search-requires-knowledge-of-the-search-space-1"
+    },
+    {
+      "level": "h2",
+      "text": "2. Search Increases Memory Load",
+      "id": "toc-2-search-increases-memory-load-2"
+    },
+    {
+      "level": "h2",
+      "text": "3. Search Has Higher Interaction Cost than Browsing",
+      "id": "toc-3-search-has-higher-interaction-cost-than-browsing-3"
+    },
+    {
+      "level": "h2",
+      "text": "4. Site Search Often Works Poorly",
+      "id": "toc-4-site-search-often-works-poorly-4"
+    },
+    {
+      "level": "h2",
+      "text": "5. Users Have Poor Search Skills and Don’t Know How Search Works",
+      "id": "toc-5-users-have-poor-search-skills-and-dont-know-how-search-works-5"
+    },
+    {
+      "level": "h2",
+      "text": "Conclusion",
+      "id": "toc-conclusion-6"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/raluca-budiu/",
+    "https://www.nngroup.com/articles/search-not-enough/",
+    "https://www.nngroup.com/articles/search-not-enough/",
+    "https://www.nngroup.com/articles/search-not-enough/#toc-1-search-requires-knowledge-of-the-search-space-1",
+    "https://www.nngroup.com/articles/search-not-enough/#toc-2-search-increases-memory-load-2",
+    "https://www.nngroup.com/articles/search-not-enough/#toc-3-search-has-higher-interaction-cost-than-browsing-3",
+    "https://www.nngroup.com/articles/search-not-enough/#toc-4-site-search-often-works-poorly-4",
+    "https://www.nngroup.com/articles/search-not-enough/#toc-5-users-have-poor-search-skills-and-dont-know-how-search-works-5",
+    "https://www.nngroup.com/articles/search-not-enough/#toc-conclusion-6"
+  ]
+}

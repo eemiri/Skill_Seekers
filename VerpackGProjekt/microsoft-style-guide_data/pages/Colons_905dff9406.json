@@ -1,0 +1,63 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/punctuation/colons",
+  "title": "Colons",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nInclude a colon at the end of a phrase that directly introduces a list. Example You can create a backup of all sorts of things to make the transition easier, including:\n\nTo learn more, see Lists.\n\nUse colons sparingly at the end of a statement followed by a second statement that expands on it. Example Microsoft ActiveSync doesn't recognize this device for one of two reasons: the device wasn't connected properly or the device isn't a smartphone.\n\nMost of the time, two sentences are more readable.\n\nWhen you use a colon in a sentence, lowercase the word that follows it unless:\n\nThe colon introduces a direct quotation. Example What does it mean when I see a message that asks: \"Are you trying to visit this site?\"\n\nThe first word after the colon is a proper noun. Example We're considering three cities for the event: Los Angeles, Munich, and Tokyo.\n\nWhen you use a colon in a title or heading, capitalize the word that follows it. Examples Block party: Communities use Minecraft to create public spaces Why girls lose interest in STEM: New research has some answers Get started with Azure IoT: An interactive developer guide\n\nDon’t use a colon when introducing lists of radio buttons or checkboxes.\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Colons",
+      "id": "colons"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Preceding lists",
+      "id": "preceding-lists"
+    },
+    {
+      "level": "h2",
+      "text": "Within sentences",
+      "id": "within-sentences"
+    },
+    {
+      "level": "h2",
+      "text": "In titles and headings",
+      "id": "in-titles-and-headings"
+    },
+    {
+      "level": "h2",
+      "text": "In UI",
+      "id": "in-ui"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/colons",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/colons",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/colons",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/colons",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/colons",
+    "https://learn.microsoft.com/en-us/style-guide/punctuation/colons",
+    "https://learn.microsoft.com/en-us/style-guide/scannable-content/lists"
+  ]
+}

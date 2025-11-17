@@ -1,0 +1,114 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/what-is-product-analytics",
+  "title": "Product Usage Analytics: What It Is and Why It Matters",
+  "content": "Last updated: March 2025\n\nProduct usage analytics describes the process of tracking and analyzing how users engage with your offering. It involves collecting data, studying user actions and product metrics, and uncovering insights that will inform your prioritization decisions. By analyzing product usage, you can better understand your end user behaviors. You can also see how the feature or functionality changes you make are impacting experiences and identify any friction points.\n\nAs a product manager, when you refer to product analytics you are likely thinking about quantitative metrics. For example, you might be assessing usage for a set of features or looking at data to see where new users drop off in your trial signup process. Product analytics can help eliminate guesswork by providing data-driven reference points to guide product decision-making.\n\nKeep in mind you will also need to gather qualitative feedback — from customer calls, support tickets, and an ideas portal. Together qualitative and quantitative data paint a full picture of the Complete Product Experience (CPE) so you can improve each touchpoint that customers have with your company and product.\n\nLet's go deeper to learn more about the power of product analytics in informing strategic product decisions. Jump ahead using the links below:\n\nWhy is product analytics important?\n\nWhich teams use product analytics?\n\nWhat is the difference between product analytics and product metrics?\n\nIs product analytics the same as marketing analytics?\n\nHow do product analytics tools work?\n\nHow to use product analytics to make better product decisions\n\nWhen to invest in a product analytics tool\n\nUnderstanding and empathizing with the end users' needs, desires, and pain points is fundamental.\n\nAha! Product Leader All-Star\n\nThe more customer input you can get, the better. Product analytics is one of the best (and most efficient) ways to collect customer data across a broad set of users. When you know exactly how users engage with your product, you can prioritize features and enhancements that will serve them best.\n\nProduct analytics can also inform how you define your product goals and initiatives. Analyzing user engagement can help you identify benchmarks, compare data across time, and determine product gaps that you need to address. Tying goals to measurable outcomes ensures that you can track the product team's progress towards meeting them.\n\nRead more: How to make data-driven product decisions\n\nProduct analytics is primarily used by product teams but it is useful for other teams, too. Cross-functional teammates collaborate with you to build, market, sell, and support your product. So it makes sense that they have a stake in product usage and want to know more about the value the product provides.\n\nHere are some of the ways that teams across an organization use product analytics:\n\nTo monitor engagement and inform customer conversations\n\nProduct analytics clarify how to help customers use the product more efficiently and explore new functionality.\n\nTo identify areas of friction\n\nEngineers can hone in on which fixes to prioritize based on the level of user engagement.\n\nTo determine if product performance is on track to reach business goals\n\nProduct metrics, like customer retention and revenue, are used as indicators of overall business success.\n\nTo make decisions about the product roadmap — from product strategy to feature prioritization\n\nQuantitative data enriches your understanding of who your customers are and how they interact with your product.\n\nTo better understand customer personas and how to reach them\n\nProduct marketing teams can build engagement strategies by segmenting customers into groups based on common characteristics (like demographics or in-app behavior).\n\nTo identify areas of the user experience that can be improved\n\nUX managers pinpoint whether desired outcomes are being achieved by observing user actions like clicks and page views.\n\nAnalytics vs. metrics — the same thing? It sure sounds like they could be. And no one is likely to correct you if you mistake the terms. But if we are being precise here (and we like to be), here is how you can parse meaning:\n\nAnalytics is the information you can glean from the data\n\nMetrics are the specific data points that inform your analysis\n\nThe metrics you choose to include within product analysis will vary based on your strategic planning process, industry, company size, and product type. In general, product metrics can be grouped into the following categories:\n\nBusiness metrics: Data about company performance\n\nProduct usage metrics: Usage data that illuminates how users interact with your product or offering\n\nCustomer satisfaction: Metrics that help you understand whether customers are happy with their overall experience\n\nRoadmap progress: Data about how the product team is progressing against the release timeline\n\nDepending on the metrics you choose, it can be helpful to build a consolidated view of the data. The example below shows a product performance dashboard in Aha! Roadmaps — focused on progress towards strategic goals and delivering against the roadmap.\n\nWith Aha! software you can report on nearly every data element in your account then tailor your dashboard to include the exact information you need.\n\nQualitative vs. quantitative data for product managers\n\n15 KPI metrics every software product manager should know\n\n7 ways the Aha! team uses reports to show product development progress\n\n18 metrics every SaaS product manager should know\n\nMcKinsey's take on what it means to be data-driven\n\nWhile product managers and marketing managers may both use analytics, what you track — and what you are looking to learn from the data — are different. Marketing analytics tends to focus on engagement with marketing campaigns and activities. This is often measured in views, conversion rates, trials, sales, add-ons, brand awareness, and share-of-voice.\n\nThat said, there will be some overlap. Both product and marketing teams care about revenue and growth rates as well as delivering value to customers. You should be united in shared goals and understand how each team's work contributes to the product and company vision.\n\nProduct analytics tools capture data by tracking user actions within your product or website. Examples of user actions include clicks, page views, and signups. Product analytics tools help you understand how customers engage with your product by extracting insights from this data. Here are some common examples of product analytics tool capabilities:\n\nAttribution analysis: Analyzing customer touchpoints (e.g., demos, sales conversations, website visits) that lead to purchase.\n\nChurn analysis: Examining your customer loss rate to better understand what causes customers to leave.\n\nCohort analysis: Measuring behavioral patterns over time by separating users into related groups or cohorts.\n\nConversion analysis: Determining if customers are completing the desired conversion actions (e.g., signing up for a trial) or discovering where they drop off.\n\nFunnel analysis: Mapping the customer journey through different stages that lead to a goal. This helps you understand points of friction or churn.\n\nRetention analysis: Understanding the factors that entice your customers to stay (the inverse of churn analysis).\n\nSegmentation: Dividing users into groups based on demographics, behavior, persona, and more to uncover deeper insights.\n\nRelated: Popular product analytics tools\n\nBecause it is your primary tool for collecting, understanding, and visualizing your product data, it is a good idea to invest in product analytics whenever you have a viable product. The sooner you invest in product analytics, the more it will benefit you as your company grows — from informing your very first product launch to helping you retain important customers.\n\nNo matter which product analytics tool you choose, the overall objective should be the same — improve your product and customer experience. This means thinking broadly about what you are building and zeroing in on the data that brings the greatest insights. This is the mindset that leads to creating a product that customers love.\n\nThere are many product analytics tools on the market. Consider the product metrics you want to track, the types of analysis you intend to perform, necessary integrations, and budget to help you choose the best tool for your product and team.\n\nData is plentiful. But deeply understanding what the data is telling you and taking action is more challenging. Numbers alone will not tell the full story. For example, if your paid account conversion rates are decreasing, you cannot immediately conclude that no one wants to buy your product. There could be something else in the signup experience that is causing users to abandon it.\n\nSo, how can you figure out what the data is telling you and then act upon it? To begin, you need to clearly define the questions you are trying to answer and tie them to the product goals you aim to achieve. Some of the most fundamental questions include:\n\nHow do customers find us?\n\nWho are our most valuable customers?\n\nWhat does product usage look like for our most valuable customers?\n\nWhat causes customers to stop using our products?\n\nFor most organizations, it will take time to sufficiently answers these questions. It may require an investment in new data models or broadening the skill set of the team.\n\nThe table below includes additional questions to help you explore the meaning behind the metrics. Of course, you will want to supplement your analysis with questions of your own.\n\nAttracting and acquiring customers\n\nIs each section of our website engaging and accurate?\n\nIs our product positioning and messaging clear?\n\nWhat is the trial signup experience like?\n\nConverting to paid customers\n\nHow quickly do trial users convert to paid customers?\n\nAre there specific product features that drive paid signups?\n\nWhere do trial signups fall off in their product usage?\n\nProduct usage and customer retention\n\nWhat are the most and least popular product features?\n\nHow long do users spend in our application?\n\nHow long does it take users to complete specific tasks?\n\nDo customers expand their usage or add new users to their accounts over time?\n\nWhat is slowing down our release process?\n\nIs our feature prioritization framework clear and easy to follow?\n\nHas team momentum improved or worsened in the last six months?\n\nHow can we improve team or individual capacity?\n\nRemember that answering these types of questions requires quantitative data alongside qualitative discovery. This helps you get closer to the \"why\" behind the metrics and reveal truths that data alone may not uncover.\n\nTry speaking directly to customers at different parts of the customer journey and collect qualitative data via interviews, ideas portals, empathy sessions, and surveys. With both product analytics and customer feedback in hand, you will be well-equipped to make meaningful improvements to your product.\n\nHow to gather customer feedback\n\nOne metric every product team should track (yet few do)",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is product usage analytics?",
+      "id": "what-is-product-usage-analytics"
+    },
+    {
+      "level": "h4",
+      "text": "Build products like you always wanted — start a free trial of Aha! software.",
+      "id": "build-products-like-you-always-wanted-"
+    },
+    {
+      "level": "h2",
+      "text": "Why is product analytics important?",
+      "id": "why-is-product-analytics-important"
+    },
+    {
+      "level": "h2",
+      "text": "Which teams use product analytics?",
+      "id": "which-teams-use-product-analytics"
+    },
+    {
+      "level": "h2",
+      "text": "What is the difference between product analytics and product metrics?",
+      "id": "what-is-the-difference-between-product-analytics-and-product-metrics"
+    },
+    {
+      "level": "h2",
+      "text": "Is product analytics the same as marketing analytics?",
+      "id": "is-product-analytics-the-same-as-marketing-analytics"
+    },
+    {
+      "level": "h2",
+      "text": "How do product analytics tools work?",
+      "id": "how-do-product-analytics-tools-work"
+    },
+    {
+      "level": "h2",
+      "text": "When to invest in a product analytics tool",
+      "id": "when-to-invest-in-a-product-analytics-tool"
+    },
+    {
+      "level": "h2",
+      "text": "How to use product analytics to make better product decisions",
+      "id": "how-to-use-product-analytics-to-make-better-product-decisions"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#why-is-product-analytics-important",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#which-teams-use-product-analytics",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#whati-is-the-difference-between-product-analytics-and-product-metrics",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#is-product-analytics-the-same-as-marketing-analytics",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#how-do-product-analytics-tools-work ",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#how-to-use-product-analytics-to-make-better-product-decisions",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#when-to-invest-in-a-product-analytics-tool",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-are-product-features",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-are-product-goals-and-initiatives",
+    "https://www.aha.io/roadmapping/guide/product-strategy/data-driven-product-management-an-essential-guide",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#top",
+    "https://www.aha.io/roadmapping/guide/product-management/what-makes-up-the-product-team",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-ux-manager",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#top",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#top",
+    "https://www.aha.io/roadmapping/guide/marketing/which-tools-do-marketing-managers-use",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#top",
+    "https://www.aha.io/roadmapping/guide/product-management/which-tools-do-product-managers-use#analytics",
+    "https://www.aha.io/roadmapping/guide/marketing-strategy/what-is-buyer-experience",
+    "https://www.aha.io/roadmapping/guide/product-management/which-tools-do-product-managers-use#analytics",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#top",
+    "https://www.aha.io/roadmapping/guide/stages-of-product-development",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics#top",
+    "https://www.aha.io/roadmapping/guide/product-strategy/goals",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-positioning",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritization-framework",
+    "https://www.aha.io/roadmapping/guide/release-management/what-is-user-story-mapping",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/product-strategy/data-driven-product-management-an-essential-guide",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-to-measure-product-value",
+    "https://www.aha.io/roadmapping/guide/what-is-product-analytics",
+    "https://www.aha.io/roadmapping/guide/what-are-product-metrics",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

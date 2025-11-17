@@ -1,0 +1,28 @@
+{
+  "name": "high-fidelity-prototypes",
+  "description": "Use this skill when working with high-fidelity prototypes, UX prototyping, interactive design, or creating realistic design mockups",
+  "base_url": "https://www.figma.com/resource-library/high-fidelity-prototyping/",
+  "selectors": {
+    "main_content": "article",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["figma.com", "helpx.adobe.com", "nngroup.com"],
+    "exclude": ["/search.html", "/_static/", "/wp-admin/", "/login", "/register", "/cart", "/checkout", "/support/"]
+  },
+  "additional_urls": [
+    "https://helpx.adobe.com/xd/help/create-prototypes.html",
+    "https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/",
+    "https://www.nngroup.com/articles/promptframes/"
+  ],
+  "categories": {
+    "prototyping": ["prototype", "prototyping", "mockup", "wireframe"],
+    "tools": ["figma", "adobe xd", "sketch", "design tools"],
+    "methods": ["methodology", "technique", "approach", "process"],
+    "fidelity": ["high-fidelity", "low-fidelity", "hi-fi", "lo-fi", "realistic"],
+    "testing": ["usability testing", "user testing", "testing", "validation"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

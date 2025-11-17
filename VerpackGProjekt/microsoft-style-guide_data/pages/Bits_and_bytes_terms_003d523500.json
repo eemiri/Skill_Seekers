@@ -1,0 +1,43 @@
+{
+  "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms",
+  "title": "Bits and bytes terms",
+  "content": "Access to this page requires authorization. You can try signing in or changing directories.\n\nAccess to this page requires authorization. You can try changing directories.\n\nIn general, spell out bit and byte terms on the first mention unless:\n\nIn those cases, or after you’ve spelled out the term on the first mention, it’s OK to use abbreviations for -bit or -byte terms. Use abbreviations only with numbers in specific measurements, such as 128 TB.\n\nInsert a space between the abbreviation and the numeral, or hyphenate if the measurement modifies a noun. Examples 512 gigabytes (GB) of RAM From 1 GB to a maximum of 2 GB 23 MB/day up to 2 terabytes of physical memory with 8 terabytes of address space 200 MB of available hard-drive space a 650-MB limit\n\nIn measurements, when the unit of measure isn't abbreviated, use the singular form of the unit of measure when the number is 1. Use the plural form for all other measurements. Examples 0 megabytes 0.5 megabytes 1 megabyte 15 megabytes\n\nUse of to add a modifier to a measurement used as a noun. Example The operation requires 200 MB of available hard-drive space.\n\nUse commas in numbers that have four or more digits, regardless of how the numbers appear in the UI. Example 1,024 MB\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nWas this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?",
+  "headings": [
+    {
+      "level": "h4",
+      "text": "Share via",
+      "id": ""
+    },
+    {
+      "level": "h1",
+      "text": "Bits and bytes terms",
+      "id": "bits-and-bytes-terms"
+    },
+    {
+      "level": "h2",
+      "text": "In this article",
+      "id": "ms--in-this-article"
+    },
+    {
+      "level": "h2",
+      "text": "Feedback",
+      "id": "ms--feedback"
+    },
+    {
+      "level": "h2",
+      "text": "Additional resources",
+      "id": "ms--additional-resources-mobile-heading"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/bits-bytes-terms",
+    "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/units-of-measure-terms"
+  ]
+}

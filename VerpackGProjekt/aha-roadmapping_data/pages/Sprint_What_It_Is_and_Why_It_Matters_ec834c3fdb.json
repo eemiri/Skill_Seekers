@@ -1,0 +1,111 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+  "title": "Sprint: What It Is and Why It Matters",
+  "content": "Last updated: February 2024\n\nSprints set the rhythm of scrum. A sprint is a fixed-length iteration during which the scrum team completes a set amount of work. Sprints encourage predictability and rapid learning. Immediately after one ends, a new sprint begins. And the cycle continues — a consistent drumbeat of development.\n\nScrum is one of the most popular agile software development methodologies. It offers a defined process framework for planning and delivering usable software. But ubiquity brings dilution.\n\nMany engineering teams who do not follow the full scrum framework will break development work into increments they call sprints. Are they agile? Or some sort of scrum hybrid? And does it really matter?\n\nTo answer that last question: yes and no. If you are a scrum devotee? The rules matter. Terminology is part of adherence to a particular framework. In large organizations in particular, consistent planning processes are essential for coordinated delivery across many development teams. But what matters most is that you are delivering business and customer value at a consistent pace, incorporating user feedback and collective learning as you go. The wrapper is not as important as what is inside.\n\nScrum is popular for a reason. For many organizations, it works. So sprint forward toward your goals — in the way that best suits your team.\n\nEverything happens during a sprint. You can think of a sprint as a discrete project within the broader effort of developing a product. All of the scrum events — planning, daily scrums, review, and retrospectives — occur during the time frame set by the scrum team.\n\nThere are specific rules within a sprint, as defined in the scrum guide (which is updated annually). A sprint may be cancelled if the product goal becomes obsolete — but only the product owner has the authority to do so.\n\nCurrent rules related to an in-progress sprint include:\n\nNo changes can be made that would endanger the sprint goal\n\nQuality does not decrease\n\nThe product backlog is refined as needed\n\nScope may be clarified and renegotiated with the product owners as more is learned\n\nThe aim of a sprint is to make progress against the product goal. So the scrum team determines and agrees to a consistent duration for completing work. Most sprints range from two to four weeks — but should not be longer than one month. If the time box bloats past a month or so, you can end up with too much complexity and associated risk. Work becomes unwieldy. And the scrum team loses out on the opportunity to review and adapt. Rapid iteration with built-in learning cycles is the benefit of compressed sprint time frames.\n\nSprint planning is collaborative. The intent is quite simple. You want to choose what will be prioritized and how that work will be done. During a sprint planning session the ​​product owner, scrum master, and development team work through the following questions together:\n\nWhy is this sprint important?\n\nWhat can be done during this sprint?\n\nHow will the chosen work get done?\n\nThe product owner shares the goal that needs to be achieved during the sprint and selects items from the product backlog that support the goal. Features chosen must align with the overall product vision and product roadmap. The sprint goal should be clearly understood by everyone on the scrum team, so that success can be objectively measured.\n\nOnce the backlog items for the sprint are chosen, the team creates a plan for how that work will be done. This “plan” is called the sprint backlog. It is prioritized and then managed by the team as items move through the workflow.\n\nAccording to the scrum framework, a planning event should reflect the duration of the sprint. There is a limit of eight hours in total for a four-week sprint. Shorter sprints will have shorter planning events.\n\nMany teams use sprint planning templates to visualize and organize this work. A template also helps to prompt the planning discussion — so you can get the whole team invested and aligned on what comes next. To get started, you can try this template in Aha! software.\n\nStart using this template now\n\nThe sprint review is the penultimate event before the sprint concludes. Like most events in scrum, there are limits on how much time a sprint review should take — no more than four hours for a four-week sprint.\n\nThe purpose of the sprint review is for the scrum team and stakeholders (invited by the product owner) to review what was planned and what was accomplished. Progress against the product goal is discussed. The development team shows the work that they have done and answers questions. The product owner shares the current product backlog. Then together, based on the results, the entire group will discuss what to do next.\n\nAdaptability and rapid learning are hallmarks of scrum. The sprint retrospective is an opportunity for the team to introspect and evaluate how to improve. This event occurs immediately after the sprint review.\n\nAll members of the scrum team — including the product owner, the scrum master, and the developers — should participate in the sprint retrospective. Sprint retrospectives are typically an hour or less. But if a sprint was riddled with complications or hurdles, the team could spend longer debating the best way to avoid in the future.\n\nDuring a sprint retrospective, the scrum team should evaluate the past sprint and decide what to start doing, keep doing, or stop doing. These choices should not be based on emotion or opinion. Instead, outcomes of a sprint retrospective should be based on fact, experience, or some other empirical evidence.\n\nRelated: Sprint retrospective templates\n\nScrum ensures transparency, collaboration, and flexibility. Most scrum teams use purpose-built software to store product and sprint backlogs, as well as to manage the in-progress work. If you are evaluating tools for your scrum team, look for agile software development products that offer the ability to:\n\nManage work on a scrum board\n\nCollaborate during daily scrums\n\nDocument reviews and retrospectives\n\nProduct requirements document\n\nSprint planning meeting",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "What is a sprint?",
+      "id": "what-is-a-sprint"
+    },
+    {
+      "level": "h2",
+      "text": "What is scrum?",
+      "id": "what-is-scrum"
+    },
+    {
+      "level": "h2",
+      "text": "What happens during a sprint?",
+      "id": "what-happens-during-a-sprint"
+    },
+    {
+      "level": "h3",
+      "text": "The rules of a sprint",
+      "id": "the-rules-of-a-sprint"
+    },
+    {
+      "level": "h3",
+      "text": "The length of a sprint",
+      "id": "the-length-of-a-sprint"
+    },
+    {
+      "level": "h2",
+      "text": "What is sprint planning?",
+      "id": "what-is-sprint-planning"
+    },
+    {
+      "level": "h4",
+      "text": "Try this sprint planning template on a whiteboard — start a free trial.",
+      "id": "try-this-sprint-planning-template-on-a-whiteboard-"
+    },
+    {
+      "level": "h2",
+      "text": "What is a sprint review?",
+      "id": "what-is-a-sprint-review"
+    },
+    {
+      "level": "h2",
+      "text": "What is a sprint retrospective?",
+      "id": "what-is-a-sprint-retrospective"
+    },
+    {
+      "level": "h2",
+      "text": "What tools do scrum teams use to manage sprints?",
+      "id": "what-tools-do-scrum-teams-use-to-manage-sprints"
+    },
+    {
+      "level": "h4",
+      "text": "Popular templates:",
+      "id": "popular-templates"
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/agile-software-development",
+    "https://www.aha.io/roadmapping/guide/agile/agile-glossary",
+    "https://www.aha.io/roadmapping/guide/agile/best-practices",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/product-strategy/what-is-product-vision",
+    "https://www.aha.io/roadmapping/guide/product-roadmap",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint#top",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint#top",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint#top",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-are-scrum-roles",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-scrum-master",
+    "https://www.aha.io/roadmapping/guide/product-development-methodologies/scrum",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-sprint-planning-meeting",
+    "https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup",
+    "https://www.aha.io/roadmapping/guide/agile/sprint-review",
+    "https://www.aha.io/roadmapping/guide/release-management/product-manager-sprint",
+    "https://www.aha.io/roadmapping/guide/agile/themes-vs-epics-vs-stories-vs-tasks",
+    "https://www.aha.io/roadmapping/guide/agile/how-to-implement-scrum",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "url": "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas",
+  "title": "Product Personas: How Product Managers Define Who Customers Are",
+  "content": "Last updated: September 2025\n\nCustomer personas help product managers focus on real customer needs — not assumptions. This guide breaks down the differences between buyer and user personas, explains why they matter, and walks through how to create and apply them to your product strategy. You'll also see how to build and link personas in Aha! software to keep customer context front and center.\n\nYou always hear that it is essential to understand your customers. But when you have many thousands of customers — each with unique personalities, challenges, and goals — how can you actually get to know them? Enter product personas.\n\nIn product development, teams use product personas to typify various customers. These are fictional (but research-based) profiles of your ideal users that help you categorize potential buyers. (In Aha! Roadmaps, you can create and link these profiles directly to your product plans.) These product personas bring to life the people you build your product for, capturing details such as their behaviors, needs, and motivations. Though their names and backgrounds might be made up, personas are always based on real people and data.\n\nMost importantly, personas make up a key component of your product strategy by representing the target audience for your efforts. They also help product managers build curiosity around who your customers are and empathy for their problems so everyone can make informed product decisions.\n\nReady to learn how to create or elevate your own customer personas? Keep reading or skip ahead here:\n\nTypes of customer personas: Buyer vs. user\n\nWhy customer personas matter for product managers\n\nHow to create customer personas\n\nThe terms might sound interchangeable. But customer, buyer, and user personas have distinct meanings. Customer personas refer to the broader category, which includes the two primary types: buyer personas and user personas. These are often developed by different teams (including product management, marketing, and others).\n\nHere is a quick overview of each term:\n\nA fictional profile of the ideal customer for your business. This is based on market research and real data about existing customers, including their demographics, behavioral patterns, challenges, and goals.\n\nCross-functional input, depending on the type\n\nEntire customer journey and experience\n\nA type of customer persona that represents your ideal buyer. This is focused on decision makers in the purchasing process who may or may not use the product.\n\nBuyer personas often have leadership or operations roles.\n\nMarketing, sales, and customer success teams (with input from product management)\n\nCustomer acquisition and marketing strategies (including go-to-market strategy)\n\nA type of customer persona that represents the ideal end user of your product. This person may or may not be involved in the purchasing process.\n\nUser personas often have practitioner roles (e.g., software engineers, product managers, project managers, etc.)\n\nProduct management and user experience teams with input from engineering and marketing\n\nProduct strategy and decision-making\n\nAlthough some organizations work with generalized customer personas, many define buyer and user personas separately. This is where things get nuanced. Your product's buyers and users will often be distinct groups, but they can sometimes be the same people.\n\nFor example, a product operations manager might be involved in evaluating and purchasing new software for their team (as a buyer), but will also work in the software themselves to set up new workflows (as a user). That means this individual can represent two different personas depending on where they are in the customer journey.\n\nPersonas help create empathy for customers. This is an essential part of product management and product development overall. The better you understand who your customers are, what they care about, and what struggles they experience, the better you can address their needs.\n\nIt takes ongoing customer research to build this level of understanding. Personas give you an effective way to capture and share what you find. You can distill the most important attributes of your target customers — such as their goals, challenges, likes, and dislikes — concisely. This forms a core piece of your product strategy and helps the team stay focused on creating an outstanding customer experience. It also serves to remind everyone of the real people behind your business and product data.\n\nSpecifically, creating buyer and user personas has several key benefits.\n\nCreating buyer personas helps you:\n\nUnderstand your ideal customers and what matters to them\n\nCreate positioning and messaging that resonates\n\nPrioritize impactful programs, campaigns, and activities\n\nOptimize the buyer journey so you can nurture and acquire more customers\n\nCreating user personas helps you:\n\nKnow the \"why\" behind product decisions\n\nFocus on important user groups' needs\n\nPrioritize features that solve actual user problems\n\nImplement new functionality that considers how customers will actually use it\n\nAs a product manager, you will probably be more involved in defining user personas than buyer personas. And it might seem that users are more relevant to your work overall. But remember that what you build influences purchasing decisions, too. Buyers are often on the lookout for specific features and services that will serve the needs of users on their team. That is why you have to think about both groups — this is part of delivering a Complete Product Experience.\n\nAn example of a fictional customer persona created in Aha! Roadmaps.\n\nHow to gather customer feedback\n\nWhat is a customer journey map?\n\nA guide to the Complete Product Experience\n\nYou will probably need to create several customer personas to capture everyone interested in your product — that is, multiple types of buyers and users. For instance, if you are building software, you might need one user persona for the people who use your product every day: one for people who only need to access certain views and reports, and another for those who administer your product to the team.\n\nThe guidance in the following steps will help you build customer personas for users and buyers alike. (Ideally, your team will follow a similar approach to defining both.)\n\nPersonas are fictional. But the information behind them must be as truthful as possible. It is important to learn all you can about your target customers. Consider questions like: What is their role? What do they enjoy about it, and what do they struggle with? How long have they been in their industry? The answers can help you envision typical buyers and users and think about your product from their perspective.\n\nThe specific details of your persona profiles will vary based on your industry, market, and product. Here are the different types of information that can be useful to gather:\n\nPersonal background: Age, education, location, and interests\n\nProfessional background: Job title, income level, skills, responsibilities, and experience\n\nPsychographic information: Goals, challenges, likes, and dislikes\n\nYou can use qualitative and quantitative data to inform your persona research. You probably have access to quite a bit already; try reading review sites, online communities, or support tickets. Analyze product usage and talk to customer-facing teams that you work with. And of course, nothing beats interviewing customers directly. (Bonus: Get organized with this customer research plan template.)\n\nStart using this template now\n\nAfter gathering your customer data, look for trends. The idea is to pick out shared characteristics and behavior patterns. A good place to start is by grouping customers who have similar roles and levels of experience. Then, other similarities will begin to emerge.\n\nRemember that each group should have a unique set of goals, needs, and wants. Understanding these differences will be essential to guiding how you prioritize, design, and develop new product features. (We will get into some examples in the next step.)\n\nNow, you are ready to craft your personas. Give each customer group a name and short descriptive phrase (e.g., Rachel: recreational mountain biker). You can also select an image or icon to represent them. This part might feel silly, but using real names helps humanize your personas and make them memorable for the team. You can then write up an overview that distills the essential elements of their background and preferences.\n\nA whiteboard tool can give you a boost during this step. Below are examples of user personas for a fictional cycling app called Fredwin Cycling using the personas whiteboard template in Aha! software. The table helps summarize key details for multiple personas in one convenient, easy-to-share view.\n\nStart using this template now\n\nIf you use Aha! Roadmaps, you can create detailed persona records directly in your workspace. This includes their background, goals, challenges, and more — they link each persona to the features, epics, or goals they influence. That way, every decision stays grounded in real customer context.\n\nSee how personas work in Aha! software\n\nSome teams also use external tools like HubSpot's persona builder to structure this step, especially when getting started.\n\nIt is now time to share your customer personas with the wider organization. Whatever format you choose to capture your personas, it is important to make them easily accessible. That way, everyone can keep customers top of mind and present in everything they do.\n\nWell-crafted personas are a great way to communicate research about your target customers. These are useful reminders of the ultimate purpose of your product: to serve the needs of real people. When you know your customers deeply and understand what they want to achieve with your product, you can deliver solutions that truly delight them.\n\nCustomer research plan\n\nA strategy roadmap showcases how you will accomplish your goals through specific efforts in a given time frame. Learn more here.\n\nMake adjustments as plans change, show progress, and create tailored views for different audiences.\n\nVisualize high-level initiatives to communicate your product direction and timelines for major bodies of work.",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "How product managers define customer personas",
+      "id": "how-product-managers-define-customer-personas"
+    },
+    {
+      "level": "h4",
+      "text": "Make personas part of your product planning process",
+      "id": "make-personas-part-of-your-product-planning-process"
+    },
+    {
+      "level": "h4",
+      "text": "Create strategic customer personas in Aha! Roadmaps. Try it free.",
+      "id": "create-strategic-customer-personas-in-aha-roadmaps"
+    },
+    {
+      "level": "h2",
+      "text": "Types of customer personas: Buyer vs. user",
+      "id": "types-of-customer-personas-buyer-vs-user"
+    },
+    {
+      "level": "h2",
+      "text": "Why customer personas matter for product managers",
+      "id": "why-customer-personas-matter-for-product-managers"
+    },
+    {
+      "level": "h2",
+      "text": "How to create customer personas",
+      "id": "how-to-create-customer-personas"
+    },
+    {
+      "level": "h3",
+      "text": "1. Research your customers",
+      "id": "1-research-your-customers"
+    },
+    {
+      "level": "h3",
+      "text": "2. Group your typical customers",
+      "id": "2-group-your-typical-customers"
+    },
+    {
+      "level": "h3",
+      "text": "3. Build out personas with a template",
+      "id": "3-build-out-personas-with-a-template"
+    },
+    {
+      "level": "h3",
+      "text": "4. Share personas with the team",
+      "id": "4-share-personas-with-the-team"
+    },
+    {
+      "level": "h4",
+      "text": "Popular templates",
+      "id": "popular-templates"
+    },
+    {
+      "level": "h2",
+      "text": "Read next",
+      "id": "read-next"
+    },
+    {
+      "level": "h5",
+      "text": "What is a strategy roadmap?",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "How to build a strategy roadmap",
+      "id": ""
+    },
+    {
+      "level": "h5",
+      "text": "Strategic roadmap template",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas#types-of-customer-personas-buyer-vs-user",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas#why-customer-personas-matter-for-product-managers",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas#how-to-create-customer-personas",
+    "https://www.aha.io/roadmapping/guide/what-is-product-development",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-manager",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas#types-of-customer-personas-buyer-vs-user",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas#why-customer-personas-matter-for-product-managers",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas#how-to-create-customer-personas",
+    "https://www.aha.io/roadmapping/guide/marketing-strategy/market-research",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-product-operations",
+    "https://www.aha.io/roadmapping/guide/launch/what-is-a-go-to-market-strategy",
+    "https://www.aha.io/roadmapping/guide/agile-development/what-is-the-role-of-a-software-engineer",
+    "https://www.aha.io/roadmapping/guide/agile/an-introductory-guide-to-agile-project-management",
+    "https://www.aha.io/roadmapping/guide/product-management/what-is-the-role-of-a-product-operations-manager",
+    "https://www.aha.io/roadmapping/guide/product-strategy/customer-journey-map",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas#top",
+    "https://www.aha.io/roadmapping/guide/product-management",
+    "https://www.aha.io/roadmapping/guide/product-strategy",
+    "https://www.aha.io/roadmapping/guide/enterprise-transformation/what-is-customer-experience",
+    "https://www.aha.io/roadmapping/guide/product-strategy/data-driven-product-management-an-essential-guide",
+    "https://www.aha.io/roadmapping/guide/marketing-templates/market-positioning-templates",
+    "https://www.aha.io/roadmapping/guide/marketing-strategy/what-is-buyer-experience",
+    "https://www.aha.io/roadmapping/guide/release-management/prioritize-product-features",
+    "https://www.aha.io/roadmapping/guide/product-strategy/complete-product-experience",
+    "https://www.aha.io/roadmapping/guide/idea-management/how-do-product-managers-gather-customer-feedback",
+    "https://www.aha.io/roadmapping/guide/product-strategy/customer-journey-map",
+    "https://www.aha.io/roadmapping/guide/product-strategy/complete-product-experience",
+    "https://www.aha.io/roadmapping/guide/idea-management/customer-questions-for-product-innovation",
+    "https://www.aha.io/roadmapping/guide/product-strategy/data-driven-product-management-an-essential-guide",
+    "https://www.aha.io/roadmapping/guide/product-management/what-are-some-product-management-job-titles",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-feature-or-user-story-template",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide",
+    "https://www.aha.io/roadmapping/guide/product-templates",
+    "https://www.aha.io/roadmapping/guide/strategy",
+    "https://www.aha.io/roadmapping/guide/research",
+    "https://www.aha.io/roadmapping/guide/marketing-strategy/market-research",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-define-user-personas",
+    "https://www.aha.io/roadmapping/guide/product-strategy/how-should-product-managers-research-competitors",
+    "https://www.aha.io/roadmapping/guide/discovery",
+    "https://www.aha.io/roadmapping/guide/ideation",
+    "https://www.aha.io/roadmapping/guide/roadmaps",
+    "https://www.aha.io/roadmapping/guide/whiteboards",
+    "https://www.aha.io/roadmapping/guide/documentation",
+    "https://www.aha.io/roadmapping/guide/plans",
+    "https://www.aha.io/roadmapping/guide/designs",
+    "https://www.aha.io/roadmapping/guide/development",
+    "https://www.aha.io/roadmapping/guide/launches",
+    "https://www.aha.io/roadmapping/guide/reports",
+    "https://www.aha.io/roadmapping/guide/foundational-concepts",
+    "https://www.aha.io/roadmapping/guide/meetings",
+    "https://www.aha.io/roadmapping/guide/career-growth",
+    "https://www.aha.io/roadmapping/guide/teamwork",
+    "https://www.aha.io/roadmapping/guide/roadmap/strategy-roadmap"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "url": "https://www.nngroup.com/articles/3-click-rule/#toc-practices-better-than-counting-clicks-4",
+  "title": "The 3-Click Rule for Navigation Is False",
+  "content": "August 11, 2019 2019-08-11\n\nThe 3-click rule is a persistent, unofficial heuristic that says that no page should take more than 3 clicks (or taps on a touchscreen) to access. A variation pronounces that the most important information should take no more than 3 clicks to get to. Often, designers apply this rule for website navigation and information-seeking tasks, but some also invoke it for other types of tasks (such as completing a form or a wizard).\n\nThe 3-click rule assumes that users will become frustrated and will likely give up on tasks that require more than three total clicks to be completed. It is a simple way of assessing the interaction cost of important information-seeking tasks, but its superficial simplicity is also its downfall.\n\nThe big problem with the 3-click rule is that it has not been supported by data in any published studies to date. In fact, a study by Joshua Porter has debunked it; the study showed that user dropoff does not increase when the task involves more than 3 clicks, nor does satisfaction decrease. Limiting interaction cost is indeed important, but the picture is more complicated than simply counting clicks and having a rule of thumb for the maximum number allowed.\n\nClick counting by itself is not a meaningful metric for several reasons:\n\nIn this article we will focus on why the 3-click rule should not be used blindly for designing website IA and navigation.\n\nThe earliest published reference to the 3-click rule (that this author could locate) is in Jeffrey Zeldman’s 2001 book, Taking Your Talent to the Web, in which he mentions an already widespread concept of the 3-click rule among the web designer community of the time. This book offers no data to support the assertion of 3 clicks as a maximum, simply noting the reasoning that, “It’s widely agreed, even by people who are not idiots, that web users are driven by a desire for fast gratification. If they can’t find what they’re looking for within three clicks, they might move on to somebody else’s site.”\n\nWhile we have seen demonstrable evidence over the years that web users are indeed driven by a desire for fast gratification, it is notable the first print appearance of the 3-click rule is not supported by evidence or studies, but simply by the assertion that users “might” move on to someone else’s site.\n\nOne of the main design implications of the 3-click rule is that navigation menus should not require users to click through multiple levels in order to find the information they care about. While this idea is reasonable, pursuing it relentlessly often requires designers to prioritize broad IAs (information architectures) over deep IAs.\n\nIn order to avoid long sequences of clicks, designers end up using many specific top-level categories in their menus, rather than fewer and less overwhelming top-level choices. Both very broad and very deep IA structures have their own usability problems. Very broad IAs with a large number of categories at the top level are more laborious for users to assess and require a lot of UI space. Very deep structures with few top-level categories and a great number of tiers require either a lot of menu diving (often with frustrating hover-revealed menus or confusing sequential menus), or large time spent waiting for category landing pages to load on the journey to low-level pages.\n\nInterestingly, in practice this means that many designers have to choose between two UX myths (neither supported by data): either no more than 3 clicks or no more than 7 main-navigation categories. This is why such simple rules of thumb, no matter how reasonable they may sound, are unhelpful — they aren’t supported by research, and they conflict, so they push designers to make tradeoff decisions between equally poor user experiences.\n\nClick counting is a rough way of assessing interaction cost and task efficiency, as it does not take into account cognitive factors that occur when users need to read and understand a long list of options, figure out where they currently are in the site’s structure, or build expectations of how much more work they need to do to get to their destination goal. These elements are at least as important as the sheer number of clicks involved in getting to a particular page.\n\nMore important to good navigation are the following:\n\nAlthough limiting the amount of effort required to access key information or to accomplish a task is important, the 3-click rule is arbitrary. There is nothing inherent about 3 clicks as a magical threshold before users will get frustrated. More important than focusing on the raw number of clicks is to ensure that navigation is well organized with clear pathways, that content gets progressively more specific the deeper into the site structure your users advance, and that your site visitors always know where they currently are and how to get to their destination.\n\nTaking Your Talent to the Web: A Guide for the Transitioning Designer, Jeffrey Zeldman, 2001\n\nPorter, Josh. (2003). Testing the Three-Click Rule. (link)\n\nOrganize and structure information to improve findability and discoverability\n\nEssential UX design principles for small-screen websites and apps",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "The 3-Click Rule for Navigation Is False",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "The 3-Click Rule",
+      "id": "toc-the-3-click-rule-1"
+    },
+    {
+      "level": "h2",
+      "text": "Origin of the 3-Click Rule",
+      "id": "toc-origin-of-the-3-click-rule-2"
+    },
+    {
+      "level": "h2",
+      "text": "3-Click Rule Pushes Toward Overly Broad Navigation UIs",
+      "id": "toc-3-click-rule-pushes-toward-overly-broad-navigation-uis-3"
+    },
+    {
+      "level": "h2",
+      "text": "Practices Better Than Counting Clicks",
+      "id": "toc-practices-better-than-counting-clicks-4"
+    },
+    {
+      "level": "h2",
+      "text": "Summary",
+      "id": "toc-summary-5"
+    },
+    {
+      "level": "h2",
+      "text": "References",
+      "id": "toc-references-6"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Mobile User Experience",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/3-click-rule/",
+    "https://www.nngroup.com/articles/3-click-rule/",
+    "https://www.nngroup.com/articles/3-click-rule/#toc-the-3-click-rule-1",
+    "https://www.nngroup.com/articles/3-click-rule/#toc-origin-of-the-3-click-rule-2",
+    "https://www.nngroup.com/articles/3-click-rule/#toc-3-click-rule-pushes-toward-overly-broad-navigation-uis-3",
+    "https://www.nngroup.com/articles/3-click-rule/#toc-practices-better-than-counting-clicks-4",
+    "https://www.nngroup.com/articles/3-click-rule/#toc-summary-5",
+    "https://www.nngroup.com/articles/3-click-rule/#toc-references-6",
+    "https://www.nngroup.com/articles/ten-usability-heuristics/",
+    "https://www.nngroup.com/articles/interaction-elasticity/",
+    "https://www.nngroup.com/articles/usability-metrics/",
+    "https://www.nngroup.com/articles/the-need-for-speed/",
+    "https://www.nngroup.com/articles/flat-vs-deep-hierarchy/",
+    "https://www.nngroup.com/articles/ia-questions-navigation-menus/",
+    "https://www.nngroup.com/articles/mobile-subnavigation/",
+    "https://www.nngroup.com/articles/information-scent/",
+    "https://www.nngroup.com/articles/better-link-labels/",
+    "https://www.nngroup.com/articles/navigation-you-are-here/",
+    "https://www.nngroup.com/articles/breadcrumbs/",
+    "https://www.nngroup.com/articles/mega-menus-work-well/",
+    "https://www.nngroup.com/articles/drop-down-menus/",
+    "https://www.nngroup.com/articles/steering-law/",
+    "https://www.nngroup.com/articles/intranet-design-trends-2019/",
+    "https://www.nngroup.com/articles/mobile-navigation-patterns/",
+    "https://www.nngroup.com/articles/website-response-times/"
+  ]
+}

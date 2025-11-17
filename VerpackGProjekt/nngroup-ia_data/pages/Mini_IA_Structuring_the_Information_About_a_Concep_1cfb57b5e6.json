@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nngroup.com/articles/mini-ia-structuring-information/",
+  "title": "Mini-IA: Structuring the Information About a Concept",
+  "content": "June 20, 2011 2011-06-20\n\nIn our course, IA 1: Structuring and Organizing Web-Based Information, one of the topics is \"Mini Information Architecture.\" This isn't something that's often discussed, and several people have asked me what we mean by this term.\n\nThe definition of mini-IA is simple: it's how you structure the information about a single topic, concept, product, or article. For example, the Alertbox column you're reading now has the simplest possible mini-IA — a single page, with a linear presentation of the information.\n\nWhen something is covered on a single page, we don't usually think of the presentation as \"information architecture.\" Indeed, the structuring of information within this page would typically be covered in our course Writing for the Web 2: Presenting Compelling Content. However, the very decision to stick to a single-page format is an IA matter.\n\nOften, it's better to break up information into multiple units rather than use an overly long linear flow. You can then present these multiple units across a few pages or use a within-page navigation system, such as tabs or carrousels.\n\nLet me first dismiss a popular mini-IA as being almost universally bad for usability: If you have a long article, it's almost never good to simply chop it up into a linear sequence of pages. If the only navigation is a link saying \"continue\" or \"next page,\" then it's typically better to stick it all on a single page and rely on scrolling instead of page-turning.\n\n(The exception here is for content presented on tablets such as the iPad, where the swiping gesture provides a generic command for moving between pages.)\n\nIn many situations, the best alternative is to chunk information into individual content units, focusing on logical cohesiveness; you can then describe each unit accordingly and let users navigate directly to the unit that meets their needs. (Note: \"page 3 of 5\" is neither descriptive nor deserving of its own page.)\n\n(For wizard-style interactions, such as e-commerce checkout, a linear page-turning progression is usually best because even though each step is logically cohesive, they're in an application workflow, so you can't go to step 3 without first completing step 2.)\n\nTo illustrate a usage-relevant structure, let's look at two example structures that present information about exercises in a mobile fitness app:\n\nLists of exercises in two iPhone apps: You Are Your Own Gym (left) and Full Fitness (right)\n\nThe example on the left employs a useful mini-IA for pushup exercises: it puts all the exercises together in a list that's ordered from the easiest to the hardest. In contrast, the example on the right sorts the exercises alphabetically, which is usually bad.\n\nThe Full Fitness screenshot (right) shows only a part of the complete list and includes incline pushup, modified pushup, and plain old pushup. How do you know which one to pick if you want a variation that's a bit more challenging than your last exercise? Is \"modified\" easy or difficult?\n\n\"Modified\" obviously emits poor information scent — the word tells you what the exercise is not , instead of what it is . \"Incline\" is better, though not as clear as the equivalent \"hands elevated\" label used by You Are Your Own Gym . Quick, what's the difference between an incline and a decline pushup? I bet you can't answer that as quickly (or as correctly) as you might decipher \"hands elevated\" vs. \"feet elevated.\" Simpler words are usually best.\n\n(Except if you're writing for an expert audience. But advanced fitness enthusiasts definitely won't need to look up how to perform an incline pushup even if that's what they might prefer calling this exercise.)\n\nThe designers of Full Fitness would have surely benefited from the course on writing for online. That said, their main problem is structural. Even with improved labels, the current Full Fitness scheme would remain less usable than the You Are Your Own Gym solution, which recognizes that pushup variations deserve their own mini-IA structured according to the best way to make sense of different pushup exercises. (Here: progressing from easy to hard as you get stronger.)\n\nAs an aside, both apps use thumbnail photos to further explain the exercises and help users determine which one to choose. And both have usability problems. You Are Your Own Gym 's photos have too much background detail to be easily understood given their small size. Full Fitness 's photos are cleaner and almost as easy to grasp as the Own Gym photos, even though they're much smaller. I usually criticize tiny thumbnails, but most of the Full Fitness images (except for the two machine exercises) are clean enough to adequately differentiate the exercises. (For more on how to select proper images for small screens, see the course on Visual Design for Mobile Devices and Tablets.)\n\nWhen you have a lot of information about a topic, there are 3 ways of presenting it:\n\nHere, I've argued that usability is often enhanced by the middle approach. However, a mini-IA makes sense only if you can structure this localized information space according to a principle that supports the users' tasks and mental models.\n\nSince the Web's beginning, internally focused structuring has been one of the most user-repellent design mistakes. Our research into intranet IA, for example, has repeatedly found that both usage and employee productivity skyrocket when a department-based IA is replaced by a task-based IA.\n\nAlong similar lines, a mini-IA won't help if it's structured according to your internal organizational chart or any other way that fails to match how customers want to access information. But if you embrace a mini-IA — identifying a usage-based structuring scheme as a basis for a clear and modest navigation system — you'll likely have a winner on your hands.\n\nOrganize and structure information to improve findability and discoverability",
+  "headings": [
+    {
+      "level": "h1",
+      "text": "Mini-IA: Structuring the Information About a Concept",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "In This Article:",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Linear Paging? Usually Bad",
+      "id": "toc-linear-paging-usually-bad-1"
+    },
+    {
+      "level": "h2",
+      "text": "Example: Usage-Relevant Structure",
+      "id": "toc-example-usage-relevant-structure-2"
+    },
+    {
+      "level": "h2",
+      "text": "Usage-Driven Structure",
+      "id": "toc-usage-driven-structure-3"
+    },
+    {
+      "level": "h2",
+      "text": "Related Courses",
+      "id": ""
+    },
+    {
+      "level": "h4",
+      "text": "Information Architecture",
+      "id": ""
+    },
+    {
+      "level": "h2",
+      "text": "Related Topics",
+      "id": ""
+    }
+  ],
+  "code_samples": [],
+  "patterns": [],
+  "links": [
+    "https://www.nngroup.com/articles/author/jakob-nielsen/",
+    "https://www.nngroup.com/articles/mini-ia-structuring-information/",
+    "https://www.nngroup.com/articles/mini-ia-structuring-information/",
+    "https://www.nngroup.com/articles/mini-ia-structuring-information/#toc-linear-paging-usually-bad-1",
+    "https://www.nngroup.com/articles/mini-ia-structuring-information/#toc-example-usage-relevant-structure-2",
+    "https://www.nngroup.com/articles/mini-ia-structuring-information/#toc-usage-driven-structure-3",
+    "https://www.nngroup.com/articles/ipad-usability-year-one/",
+    "https://www.nngroup.com/articles/generic-commands/",
+    "https://www.nngroup.com/articles/chunking/",
+    "https://www.nngroup.com/articles/alphabetical-sorting-must-mostly-die/",
+    "https://www.nngroup.com/articles/information-foraging/",
+    "https://www.nngroup.com/articles/web-writing-use-search-keywords/",
+    "https://www.nngroup.com/articles/top-10-web-design-mistakes-of-2003/",
+    "https://www.nngroup.com/articles/how-little-do-users-read/",
+    "https://www.nngroup.com/articles/mental-models/",
+    "https://www.nngroup.com/articles/intranet-information-architecture-ia/"
+  ]
+}
