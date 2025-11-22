@@ -1,0 +1,31 @@
+{
+  "name": "epic-mapping",
+  "description": "When users ask about epic mapping, SAFe epics, feature decomposition, portfolio epics, business epics, agile epic management, or hierarchical agile planning",
+  "base_url": "https://scaledagileframework.com/epic/",
+  "urls": [
+    "https://scaledagileframework.com/epic/",
+    "https://www.atlassian.com/agile/project-management/epics",
+    "https://www.atlassian.com/agile/tutorials/epics",
+    "https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/define-features-epics?view=azure-devops",
+    "https://agility.ac/frequent-agile-questions/what-are-the-stories-features-capabilities-and-epics-in-safe"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .main-content, .post-content, .article-body, body",
+    "title": "title, h1, .title, .article-title, .post-title",
+    "code_blocks": "pre, code, .code-example, .snippet, .example, .diagram"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", "/feed", "/atom", "/rss", "/#", "javascript:", "mailto:", "tel:", "/login", "/signup", "/cart", "/premium"]
+  },
+  "categories": {
+    "frameworks": ["saf", "scaled", "agile", "framework", "enterprise"],
+    "definitions": ["definition", "what", "is", "introduction", "basics"],
+    "management": ["management", "tracking", "monitoring", "reporting"],
+    "decomposition": ["decomposition", "breakdown", "splitting", "hierarchy"],
+    "portfolio": ["portfolio", "business", "strategic", "investment"],
+    "implementation": ["implementation", "tools", "jira", "azure", "devops"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

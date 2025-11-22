@@ -1,0 +1,51 @@
+{
+  "name": "change-tracking",
+  "description": "When to use this skill: Use when working with version management, change tracking, release management, or version control in Jira, Azure DevOps, or software development projects. Helps with managing versions, tracking changes, handling backlogs, and coordinating releases across development teams.",
+  "base_url": "https://support.atlassian.com/jira-cloud-administration/docs/manage-versions/",
+  "selectors": {
+    "main_content": "main[role='main'], article, .page-content",
+    "title": "title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "manage-versions",
+      "manage-change",
+      "managing-versions",
+      "backlogs",
+      "version",
+      "release",
+      "change",
+      "azure/devops",
+      "jira-cloud-administration",
+      "agile/scrum"
+    ],
+    "exclude": [
+      "/search.html",
+      "/_static/",
+      "api.",
+      "cdn.",
+      "javascript:",
+      "mailto:",
+      ".pdf",
+      ".zip",
+      "download"
+    ]
+  },
+  "categories": {
+    "version_management": ["version", "manage-versions", "managing-versions", "release", "release-management"],
+    "change_tracking": ["change", "manage-change", "track", "tracking", "audit", "history"],
+    "backlog_management": ["backlog", "scrum", "agile", "sprint", "planning"],
+    "azure_devops": ["azure", "devops", "azure-devops", "boards", "queries"],
+    "jira_config": ["jira", "administration", "admin", "configuration", "settings"],
+    "workflows": ["workflow", "process", "approval", "transition", "status"],
+    "reporting": ["report", "dashboard", "metrics", "analytics", "chart"]
+  },
+  "rate_limit": 0.8,
+  "max_pages": 300,
+  "enhance": true,
+  "skip_scrape": false,
+  "depth_limit": 3,
+  "timeout": 30,
+  "user_agent": "Skill-Seeker-Bot/1.0 (Documentation Scraper)"
+}

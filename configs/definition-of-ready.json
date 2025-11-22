@@ -1,0 +1,31 @@
+{
+  "name": "definition-of-ready",
+  "description": "When users ask about Definition of Ready (DoR), story readiness criteria, backlog refinement, sprint planning preparation, or ensuring stories are ready for development",
+  "base_url": "https://www.scrum.org/resources/blog/ready-or-not-demystifying-definition-ready-scrum",
+  "urls": [
+    "https://www.scrum.org/resources/blog/ready-or-not-demystifying-definition-ready-scrum",
+    "https://www.atlassian.com/agile/project-management/definition-of-ready",
+    "https://www.andycleff.com/2015/05/agile-definition-of-ready/",
+    "https://www.programstrategyhq.com/post/dor-and-dod-checklists",
+    "https://www.wrike.com/agile-guide/faq/what-is-definition-of-ready/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .main-content, .post-content, .article-body, body",
+    "title": "title, h1, .title, .article-title, .post-title",
+    "code_blocks": "pre, code, .code-example, .snippet, .checklist, .criteria-example"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", "/feed", "/atom", "/rss", "/#", "javascript:", "mailto:", "tel:", "/login", "/signup", "/cart", "/premium"]
+  },
+  "categories": {
+    "definition": ["definition", "ready", "dor", "criteria", "checklist"],
+    "backlog": ["backlog", "refinement", "grooming", "preparation"],
+    "planning": ["planning", "sprint", "iteration", "estimation"],
+    "requirements": ["requirements", "acceptance", "criteria", "specification"],
+    "collaboration": ["collaboration", "team", "communication", "discussion"],
+    "quality": ["quality", "standards", "completion", "verification"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 80
+}

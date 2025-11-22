@@ -1,39 +1,31 @@
 {
   "name": "definition-of-done",
-  "description": "Use this skill when working with user stories, acceptance criteria, story review, Definition of Done (DoD), agile testing, or ensuring quality standards in agile development. Helps teams understand what 'done' means and how to verify story completion.",
-  "base_url": "https://qase.io/blog/definition-of-done/",
+  "description": "Use for guidance on creating and implementing Definition of Done, understanding its role in Scrum, and ensuring product increment quality",
+  "base_url": "https://www.scrum.org/resources/what-definition-done",
+  "start_urls": [
+    "https://www.scrum.org/resources/what-definition-done",
+    "https://www.scrum.org/resources/blog/definition-done-dod-explanation-and-example",
+    "https://www.scrum.org/resources/blog/definition-done-what-it-and-how-it-supports-scrum-events",
+    "https://www.scrum.org/resources/blog/simple-example-definition-done",
+    "https://www.scrum.org/resources/blog/walking-through-definition-done"
+  ],
   "selectors": {
-    "main_content": "article, main, div.post-content, div.content",
-    "title": "h1, title",
-    "code_blocks": "pre, code"
+    "main_content": "article, main, .content, .post-content, .entry-content, .blog-post, .post-body, .resource-content",
+    "title": "h1, .entry-title, .post-title, .page-title, .blog-title, .resource-title",
+    "code_blocks": "pre, code, .example, .code-block, .highlight"
   },
   "url_patterns": {
-    "include": [
-      "/definition-of-done",
-      "/done",
-      "/dod",
-      "/acceptance-criteria",
-      "/user-stories",
-      "/story-review",
-      "/agile-testing",
-      "/quality"
-    ],
-    "exclude": [
-      "/search",
-      "/tag/",
-      "/author/",
-      "/category/",
-      "/_static/",
-      "/cdn-cgi/"
-    ]
+    "include": ["scrum.org/resources", "scrum.org/blog"],
+    "exclude": ["/wp-admin/", "/wp-login.php", "/feed/", "/comments/", "calendar", "events", "/tag/", "/category/"]
   },
   "categories": {
-    "fundamentals": ["definition", "fundamentals", "basics", "what-is", "introduction"],
-    "testing": ["testing", "test", "qa", "quality-assurance"],
-    "practices": ["practices", "implementation", "how-to", "guide", "checklist"],
-    "examples": ["example", "template", "sample", "case-study"],
-    "team": ["team", "collaboration", "scrum", "agile"]
+    "fundamentals": ["what is definition of done", "basics", "introduction", "fundamentals"],
+    "examples": ["example", "template", "sample", "case study"],
+    "scrum_events": ["scrum events", "sprint planning", "daily scrum", "sprint review", "sprint retrospective"],
+    "implementation": ["implementation", "how to", "creating", "developing", "establishing"],
+    "best_practices": ["best practices", "guidelines", "recommendations", "tips"],
+    "quality": ["quality", "standards", "acceptance criteria", "product increment"]
   },
   "rate_limit": 1.0,
-  "max_pages": 50
+  "max_pages": 30
 }

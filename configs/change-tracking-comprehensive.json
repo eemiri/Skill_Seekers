@@ -1,0 +1,95 @@
+{
+  "name": "change-tracking",
+  "description": "When to use this skill: Use when working with version management, change tracking, release management, or version control in Jira, Azure DevOps, or software development projects. Helps with managing versions, tracking changes, handling backlogs, release planning, sprint management, and coordinating releases across development teams. Covers Jira Cloud/Server, Azure DevOps, and agile methodologies.",
+  "base_url": "https://support.atlassian.com/jira-cloud-administration/docs/manage-versions/",
+  "sources": [
+    {
+      "name": "jira-cloud-versions",
+      "base_url": "https://support.atlassian.com/jira-cloud-administration/docs/manage-versions/",
+      "selectors": {
+        "main_content": "main[role='main'], article, .content",
+        "title": "title",
+        "code_blocks": "pre, code"
+      }
+    },
+    {
+      "name": "azure-devops-change",
+      "base_url": "https://learn.microsoft.com/en-us/azure/devops/cross-service/manage-change",
+      "selectors": {
+        "main_content": "main[role='main'], article, .content",
+        "title": "title",
+        "code_blocks": "pre, code"
+      }
+    },
+    {
+      "name": "jira-server-versions",
+      "base_url": "https://confluence.atlassian.com/adminjiraserver/managing-versions-938847201.html",
+      "selectors": {
+        "main_content": "#main-content, .page-content, main[role='main']",
+        "title": "title",
+        "code_blocks": "pre, code"
+      }
+    },
+    {
+      "name": "agile-backlogs",
+      "base_url": "https://www.atlassian.com/agile/scrum/backlogs",
+      "selectors": {
+        "main_content": "main[role='main'], article, .content",
+        "title": "title",
+        "code_blocks": "pre, code"
+      }
+    }
+  ],
+  "selectors": {
+    "main_content": "main[role='main'], article, #main-content, .page-content",
+    "title": "title, h1",
+    "code_blocks": "pre, code, .code"
+  },
+  "url_patterns": {
+    "include": [
+      "manage-versions",
+      "manage-change",
+      "managing-versions",
+      "backlogs",
+      "version",
+      "release",
+      "change",
+      "azure/devops",
+      "jira-cloud-administration",
+      "agile/scrum",
+      "adminjiraserver"
+    ],
+    "exclude": [
+      "/search.html",
+      "/_static/",
+      "api.",
+      "cdn.",
+      "javascript:",
+      "mailto:",
+      ".pdf",
+      ".zip",
+      "download",
+      "?ref=",
+      "#"
+    ]
+  },
+  "categories": {
+    "version_management": ["version", "manage-versions", "managing-versions", "release", "release-management", "release-planning"],
+    "change_tracking": ["change", "manage-change", "track", "tracking", "audit", "history", "change-log"],
+    "backlog_management": ["backlog", "scrum", "agile", "sprint", "planning", "user-story", "epic"],
+    "azure_devops": ["azure", "devops", "azure-devops", "boards", "queries", "work-items", "pipelines"],
+    "jira_config": ["jira", "administration", "admin", "configuration", "settings", "project-setup"],
+    "workflows": ["workflow", "process", "approval", "transition", "status", "state-machine"],
+    "reporting": ["report", "dashboard", "metrics", "analytics", "chart", "burndown", "velocity"],
+    "agile_practices": ["agile", "scrum", "kanban", "lean", "iteration", "retrospective", "stand-up"],
+    "release_coordination": ["release", "deployment", "coordination", "integration", "testing", "qa"],
+    "team_collaboration": ["team", "collaboration", "communication", "stakeholder", "sync", "alignment"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150,
+  "enhance": true,
+  "skip_scrape": false,
+  "depth_limit": 3,
+  "timeout": 30,
+  "user_agent": "Skill-Seeker-Bot/1.0 (Documentation Scraper)"
+}

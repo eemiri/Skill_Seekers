@@ -1,0 +1,31 @@
+{
+  "name": "story-refinement",
+  "description": "When users ask about user story refinement, story splitting, backlog grooming, adding detail to user stories, story conversations, or story canvas techniques in agile development",
+  "base_url": "https://www.mountaingoatsoftware.com/agile/user-stories",
+  "urls": [
+    "https://www.mountaingoatsoftware.com/agile/user-stories",
+    "https://www.atlassian.com/agile/project-management/user-stories",
+    "https://www.linkedin.com/pulse/two-ways-add-detail-user-stories-mike-cohn",
+    "https://agilealliance.org/user-story-conversations/",
+    "https://www.scrum.org/resources/blog/complex-refinement-user-story-canvas"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .main-content, .post-content, .article-body, body",
+    "title": "title, h1, .title, .article-title, .post-title",
+    "code_blocks": "pre, code, .code-example, .snippet, .example, .story-example"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", "/feed", "/atom", "/rss", "/#", "javascript:", "mailto:", "tel:", "/login", "/signup", "/cart", "/premium"]
+  },
+  "categories": {
+    "fundamentals": ["user", "stories", "basics", "introduction", "fundamentals"],
+    "refinement": ["refinement", "grooming", "detail", "splitting", "breaking"],
+    "techniques": ["techniques", "methods", "approaches", "canvas", "template"],
+    "conversations": ["conversations", "collaboration", "discussion", "3c's"],
+    "acceptance": ["acceptance", "criteria", "definition", "done", "testing"],
+    "estimation": ["estimation", "sizing", "points", "planning"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 80
+}

@@ -1,0 +1,65 @@
+{
+  "name": "ux-metrics",
+  "description": "Use this skill when working with UX metrics, user experience measurement, usability testing, performance tracking, or user-centered design evaluation. Includes frameworks like HEART, SUS, success rates, and performance metrics like TTI.",
+  "base_url": "https://www.nngroup.com/",
+  "start_urls": [
+    "https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/",
+    "https://www.nngroup.com/articles/usability-metrics/",
+    "https://measuringu.com/sus/",
+    "https://web.dev/articles/tti",
+    "https://www.nngroup.com/articles/success-rate-the-simplest-usability-metric/"
+  ],
+  "selectors": {
+    "main_content": "main, article, .article-content, .post-content, div[role='main'], .entry-content",
+    "title": "h1, .entry-title, .post-title, .article-title",
+    "code_blocks": "pre, code, .highlight, .code-block"
+  },
+  "url_patterns": {
+    "include": [
+      "/articles/",
+      "/pubs/",
+      "/sus/",
+      "/tti",
+      "/success-rate",
+      "/usability-metrics",
+      "/measuring-"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/author/",
+      "#",
+      "?",
+      "/newsletter",
+      "/events",
+      "/training"
+    ]
+  },
+  "categories": {
+    "frameworks": ["heart", "framework", "user-centered metrics", "large-scale", "google research"],
+    "usability_metrics": ["usability metrics", "success rate", "task completion", "effectiveness", "efficiency"],
+    "satisfaction": ["sus", "system usability scale", "satisfaction", "questionnaire", "survey"],
+    "performance": ["tti", "time to interactive", "performance metrics", "web vitals", "load responsiveness"],
+    "measurement_methods": ["measuring", "measurement", "tracking", "analytics", "data collection"],
+    "practical_application": ["how to", "implementation", "case study", "example", "best practices"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150,
+  "enhancement": {
+    "focus_areas": [
+      "UX measurement frameworks and methodologies",
+      "Usability metrics calculation and interpretation",
+      "User satisfaction measurement techniques",
+      "Web performance metrics and user experience",
+      "Practical implementation of UX tracking"
+    ],
+    "example_types": [
+      "HEART framework implementation examples",
+      "SUS questionnaire calculation examples",
+      "Success rate measurement formulas",
+      "Performance metric threshold examples",
+      "UX tracking setup examples"
+    ]
+  }
+}

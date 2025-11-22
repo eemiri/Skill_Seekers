@@ -1,0 +1,39 @@
+{
+  "name": "stakeholder-sync",
+  "description": "Use for stakeholder communication, engagement strategies, and management tactics in product development and Agile environments",
+  "base_url": "https://www.scrum.org/resources/blog/",
+  "start_urls": [
+    "https://www.scrum.org/resources/blog/stakeholder-communication-strategy-part-3-4-steps-stakeholder-engagement",
+    "https://www.scrum.org/resources/blog/creating-stakeholder-engagement-approach",
+    "https://www.scrum.org/resources/blog/11-proven-stakeholder-communication-tactics",
+    "https://www.scrum.org/resources/blog/effective-stakeholder-management"
+  ],
+  "additional_urls": [
+    "https://www.romanpichler.com/downloads/tools/How-to-Lead-in-Product-Management-Extract.pdf"
+  ],
+  "selectors": {
+    "main_content": "div.node-content, div.view-content, article, .field-name-body",
+    "title": "h1, h2.page-header, .page-title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "stakeholder-communication-strategy",
+      "creating-stakeholder-engagement-approach",
+      "11-proven-stakeholder-communication-tactics",
+      "effective-stakeholder-management"
+    ],
+    "exclude": ["/search.html", "/user/", "/login", "/register", "/resources/blog/$"]
+  },
+  "categories": {
+    "communication": ["communication", "tactics", "strategy"],
+    "engagement": ["engagement", "approach", "management"],
+    "leadership": ["leadership", "product", "management"],
+    "methods": ["steps", "methods", "framework"],
+    "tools": ["tools", "templates", "extract"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 15,
+  "enhance": true,
+  "skill_type": "product_management"
+}

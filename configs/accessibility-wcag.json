@@ -1,0 +1,31 @@
+{
+  "name": "accessibility-wcag",
+  "description": "When users ask about accessibility guidelines, WCAG compliance, ARIA usage, contrast checking, or web accessibility testing",
+  "base_url": "https://www.w3.org/WAI/standards-guidelines/wcag/",
+  "urls": [
+    "https://www.w3.org/WAI/standards-guidelines/wcag/",
+    "https://webaim.org/standards/wcag/checklist",
+    "https://www.a11yproject.com/checklist/",
+    "https://www.w3.org/WAI/ARIA/apg/",
+    "https://webaim.org/resources/contrastchecker/"
+  ],
+  "selectors": {
+    "main_content": "main, article, div[role='main'], .content, .main-content, body",
+    "title": "title, h1, .title",
+    "code_blocks": "pre, code, .code-example"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", "/feed", "/atom", "/rss", "/#", "javascript:", "mailto:", "tel:"]
+  },
+  "categories": {
+    "guidelines": ["guidelines", "wcag", "principles", "standards"],
+    "checklist": ["checklist", "testing", "audit"],
+    "aria": ["aria", "accessible", "rich", "internet", "applications"],
+    "contrast": ["contrast", "color", "checker", "ratio"],
+    "testing": ["testing", "evaluation", "tools", "checker"],
+    "examples": ["examples", "patterns", "techniques"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 150
+}

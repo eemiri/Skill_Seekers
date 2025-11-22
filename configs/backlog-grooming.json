@@ -1,0 +1,65 @@
+{
+  "name": "backlog-grooming",
+  "description": "Use this skill when working with product backlog management, backlog refinement, user story prioritization, Scrum product owner responsibilities, or agile backlog grooming techniques. Includes Atlassian's best practices and Scrum.org guidelines.",
+  "base_url": "https://www.atlassian.com/",
+  "start_urls": [
+    "https://www.atlassian.com/agile/scrum/backlog-refinement",
+    "https://www.atlassian.com/agile/scrum/backlogs",
+    "https://www.scrum.org/resources/tips-effective-product-backlog-management",
+    "https://www.scrum.org/resources/what-product-backlog-management",
+    "https://www.scrum.org/resources/blog/10-tips-product-owners-product-backlog-management"
+  ],
+  "selectors": {
+    "main_content": "main, article, .content, .article-content, div[role='main'], .css-1g6rrvi",
+    "title": "h1, .title, .page-title, h2",
+    "code_blocks": "pre, code, .code-block, .highlight"
+  },
+  "url_patterns": {
+    "include": [
+      "/agile/scrum/",
+      "/resources/",
+      "/blog/",
+      "/backlog",
+      "/product-backlog",
+      "/backlog-refinement"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/author/",
+      "#",
+      "?",
+      "/events",
+      "/training",
+      "/certification"
+    ]
+  },
+  "categories": {
+    "backlog_refinement": ["backlog refinement", "backlog grooming", "refinement", "grooming"],
+    "product_backlog_management": ["product backlog management", "backlog management", "product owner"],
+    "prioritization": ["prioritization", "ordering", "ranking", "value", "impact"],
+    "user_stories": ["user story", "story", "requirements", "features"],
+    "scrum_framework": ["scrum", "agile", "framework", "methodology", "ceremonies"],
+    "best_practices": ["tips", "best practices", "guidelines", "recommendations", "effective"],
+    "techniques": ["techniques", "methods", "approaches", "strategies"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100,
+  "enhancement": {
+    "focus_areas": [
+      "Backlog refinement meeting facilitation",
+      "Product backlog prioritization techniques",
+      "User story writing and refinement",
+      "Scrum product owner responsibilities",
+      "Agile backlog management best practices"
+    ],
+    "example_types": [
+      "Backlog refinement meeting agendas",
+      "User story template examples",
+      "Prioritization matrix examples",
+      "Definition of Ready examples",
+      "Backlot grooming checklists"
+    ]
+  }
+}

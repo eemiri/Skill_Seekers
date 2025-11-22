@@ -1,0 +1,26 @@
+{
+  "name": "jira-server-versions",
+  "description": "Jira Server version management and release tracking documentation.",
+  "base_url": "https://confluence.atlassian.com/adminjiraserver/managing-versions-938847201.html",
+  "selectors": {
+    "main_content": "#main-content, .page-content, main[role='main']",
+    "title": "title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["adminjiraserver", "managing-versions"],
+    "exclude": ["/search.html", "/_static/", "api.", "cdn.", "javascript:", "mailto:", ".pdf", ".zip", "download"]
+  },
+  "categories": {
+    "version_management": ["version", "managing-versions", "release", "release-management"],
+    "jira_config": ["jira", "administration", "admin", "configuration", "settings"],
+    "server_management": ["server", "instance", "deployment", "installation"]
+  },
+  "rate_limit": 0.8,
+  "max_pages": 30,
+  "enhance": true,
+  "skip_scrape": false,
+  "depth_limit": 1,
+  "timeout": 30,
+  "user_agent": "Skill-Seeker-Bot/1.0 (Documentation Scraper)"
+}

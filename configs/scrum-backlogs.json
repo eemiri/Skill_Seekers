@@ -1,0 +1,27 @@
+{
+  "name": "scrum-backlogs",
+  "description": "Scrum backlog management, sprint planning, and agile change tracking documentation.",
+  "base_url": "https://www.atlassian.com/agile/scrum/backlogs",
+  "selectors": {
+    "main_content": "main[role='main'], article, .content",
+    "title": "title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["agile/scrum", "backlogs"],
+    "exclude": ["/search.html", "/_static/", "api.", "cdn.", "javascript:", "mailto:", ".pdf", ".zip", "download"]
+  },
+  "categories": {
+    "backlog_management": ["backlog", "scrum", "agile", "sprint", "planning"],
+    "workflows": ["workflow", "process", "approval", "transition", "status"],
+    "change_tracking": ["change", "track", "tracking", "history"],
+    "agile_practices": ["agile", "scrum", "kanban", "lean", "iteration"]
+  },
+  "rate_limit": 0.8,
+  "max_pages": 30,
+  "enhance": true,
+  "skip_scrape": false,
+  "depth_limit": 2,
+  "timeout": 30,
+  "user_agent": "Skill-Seeker-Bot/1.0 (Documentation Scraper)"
+}

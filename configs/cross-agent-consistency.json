@@ -1,0 +1,29 @@
+{
+  "name": "cross-agent-consistency",
+  "description": "Cross-Agent Consistency Check - Ensuring consistency and alignment across different agents, teams, and stakeholders in software development projects",
+  "base_url": "https://fullscale.io/blog/cross-functional-collaboration-development-product-design/",
+  "start_urls": [
+    "https://fullscale.io/blog/cross-functional-collaboration-development-product-design/",
+    "https://www.scrum.org/resources/importance-stakeholders-scrum",
+    "https://www.mural.co/blog/cross-functional-alignment",
+    "https://akfpartners.com/growth-blog/6-principles-for-structuring-cross-functional-teams-that-deliver-results"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .post-content, .blog-content, .entry-content",
+    "title": "h1, .title, .post-title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/tag/", "/category/", "/search", "/feed", "/rss", "/wp-admin", "/wp-content"]
+  },
+  "categories": {
+    "collaboration": ["collaboration", "cross-functional", "teamwork", "alignment"],
+    "stakeholders": ["stakeholder", "stakeholders", "product owner", "scrum master"],
+    "principles": ["principles", "structure", "framework", "methodology"],
+    "consistency": ["consistency", "alignment", "coordination", "integration"],
+    "teams": ["team", "teams", "organization", "structure"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 25
+}

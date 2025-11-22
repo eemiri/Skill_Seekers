@@ -1,0 +1,63 @@
+{
+  "name": "design-tokens",
+  "description": "Use this skill when working with design tokens, design systems, token formatting, or cross-platform design consistency. Includes DTCG format specification, Style Dictionary implementation, and real-world design system examples.",
+  "base_url": "https://styledictionary.com/",
+  "start_urls": [
+    "https://www.designtokens.org/",
+    "https://www.designtokens.org/tr/drafts/format/",
+    "https://styledictionary.com/",
+    "https://carbondesignsystem.com/elements/color/tokens/",
+    "https://designsystem.digital.gov/design-tokens/"
+  ],
+  "selectors": {
+    "main_content": "main, article, .content, .documentation, div[role='main']",
+    "title": "h1, title, .page-title",
+    "code_blocks": "pre, code, .code-block, .highlight"
+  },
+  "url_patterns": {
+    "include": [
+      "/design-tokens/",
+      "/elements/",
+      "/docs/",
+      "/guides/",
+      "/reference/",
+      "/format/",
+      "/tokens/"
+    ],
+    "exclude": [
+      "/search",
+      "/api-reference",
+      "/examples",
+      "/gallery",
+      "/community",
+      "#",
+      "?"
+    ]
+  },
+  "categories": {
+    "specification": ["specification", "format", "standard", "dtcg", "technical reports"],
+    "implementation": ["style dictionary", "tool", "export", "platform", "transform"],
+    "examples": ["carbon", "ibm", "uswds", "implementation", "case study", "example"],
+    "guides": ["getting started", "guide", "tutorial", "introduction", "basics"],
+    "concepts": ["what are", "introduction", "overview", "concepts", "principles"],
+    "advanced": ["advanced", "custom", "extension", "custom transforms", "plugins"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150,
+  "enhancement": {
+    "focus_areas": [
+      "Design token format standards and specifications",
+      "Implementation patterns and best practices",
+      "Cross-platform token management",
+      "Real-world design system examples",
+      "Tool-specific implementation guides"
+    ],
+    "example_types": [
+      "Token JSON structure examples",
+      "Style Dictionary configuration examples",
+      "CSS/Sass token implementation examples",
+      "Color system token examples",
+      "Typography and spacing token examples"
+    ]
+  }
+}

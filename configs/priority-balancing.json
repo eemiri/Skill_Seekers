@@ -1,0 +1,24 @@
+{
+  "name": "priority-balancing",
+  "description": "Priority balancing and backlog management techniques including prioritization frameworks, risk management, and agile backlog optimization",
+  "base_url": "https://miro.com/agile/how-to-prioritize-product-backlog/",
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .docs-content, .markdown-body, .post-content, .entry-content",
+    "title": "h1, .page-title, .article-title, .entry-title, title",
+    "code_blocks": "pre, code, .code-block, .highlight"
+  },
+  "url_patterns": {
+    "include": ["atlassian.com", "mountaingoatsoftware.com", "innolution.com", "miro.com", "fibery.io"],
+    "exclude": ["/search", "/tag/", "/category/", "/wp-admin/", "/login", "/register", "/archive/"]
+  },
+  "categories": {
+    "backlog_management": ["backlog", "scrum", "agile", "product backlog"],
+    "prioritization": ["prioritization", "priority", "ranking", "framework"],
+    "risk_management": ["risk", "management", "mitigation", "assessment"],
+    "techniques": ["technique", "method", "approach", "framework"],
+    "best_practices": ["best practice", "guideline", "recommendation", "process"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100,
+  "request_timeout": 30
+}

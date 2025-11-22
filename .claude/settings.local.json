@@ -84,7 +84,16 @@
       "WebFetch(domain:www.gremlin.com)",
       "WebFetch(domain:pactflow.io)",
       "WebFetch(domain:www.nngroup.com)",
-      "WebFetch(domain:www.userinterviews.com)"
+      "WebFetch(domain:www.userinterviews.com)",
+      "WebFetch(domain:www.designtokens.org)",
+      "WebFetch(domain:styledictionary.com)",
+      "Bash(cat:*)",
+      "WebFetch(domain:innolution.com)",
+      "WebFetch(domain:www.linkedin.com)",
+      "WebFetch(domain:fibery.io)",
+      "WebFetch(domain:resources.scrumalliance.org)",
+      "Bash(echo:*)",
+      "Bash(configs/story-approval.json)"
     ],
     "deny": [],
     "ask": []

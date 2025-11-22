@@ -1,0 +1,43 @@
+{
+  "name": "retro-feedback-integration",
+  "description": "When teams need to conduct effective sprint retrospectives and integrate feedback into their agile development process",
+  "base_url": "https://www.scrum.org/resources/what-is-a-sprint-retrospective",
+  "start_urls": [
+    "https://www.scrum.org/resources/what-is-a-sprint-retrospective",
+    "https://www.scrum.org/resources/facilitation-techniques-sprint-retrospective",
+    "https://www.scrum.org/resources/making-your-sprint-retrospectives-more-effective",
+    "https://www.atlassian.com/agile/scrum/retrospectives",
+    "https://resources.scrumalliance.org/Article/sprint-retrospective"
+  ],
+  "selectors": {
+    "main_content": "div.article-content, main, article, div.content, div.entry-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "scrum.org/resources",
+      "atlassian.com/agile/scrum",
+      "resources.scrumalliance.org"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/author/",
+      "?",
+      "#",
+      "login",
+      "register"
+    ]
+  },
+  "categories": {
+    "basics": ["what is", "introduction", "basics", "overview"],
+    "techniques": ["techniques", "facilitation", "activities", "exercises"],
+    "effectiveness": ["effective", "improvement", "better", "enhance", "optimize"],
+    "implementation": ["implementation", "practice", "application", "examples"],
+    "advanced": ["advanced", "expert", "master", "deep dive"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

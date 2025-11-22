@@ -1,0 +1,31 @@
+{
+  "name": "ab-testing",
+  "description": "Use for guidance on A/B testing methodology, statistical significance, sample size calculation, and implementation best practices",
+  "base_url": "https://www.convert.com/blog/a-b-testing/statistical-significance/",
+  "start_urls": [
+    "https://www.convert.com/blog/a-b-testing/statistical-significance/",
+    "https://cxl.com/ab-test-calculator/",
+    "https://firebase.google.com/docs/ab-testing",
+    "https://developers.google.com/search/docs/crawling-indexing/website-testing",
+    "https://guessthetest.com/calculating-sample-size-in-a-b-testing-everything-you-need-to-know/"
+  ],
+  "selectors": {
+    "main_content": "article, main, .content, .post-content, .entry-content, .article-content, .doc-content, .markdown-body, .devsite-main-content",
+    "title": "h1, .entry-title, .post-title, .page-title, .doc-title",
+    "code_blocks": "pre, code, .example, .code-block, .highlight"
+  },
+  "url_patterns": {
+    "include": ["convert.com", "cxl.com", "firebase.google.com", "developers.google.com", "guessthetest.com"],
+    "exclude": ["/wp-admin/", "/wp-login.php", "/feed/", "/comments/", "calendar", "events"]
+  },
+  "categories": {
+    "statistical_concepts": ["statistical significance", "p-value", "confidence interval", "sample size", "power"],
+    "tools_calculators": ["calculator", "tools", "ab-test-calculator", "sample-size"],
+    "implementation": ["firebase", "google", "implementation", "setup", "configuration"],
+    "best_practices": ["best practices", "guidelines", "tips", "common mistakes"],
+    "website_testing": ["website testing", "seo", "crawling", "indexing"],
+    "methodology": ["methodology", "process", "framework", "approach"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

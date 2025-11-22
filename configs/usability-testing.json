@@ -1,0 +1,24 @@
+{
+  "name": "usability-testing",
+  "description": "Usability testing methodologies, templates, and checklists for evaluating user experience",
+  "base_url": "https://www.nngroup.com/articles/usability-checklist/",
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.post-content, div.entry-content, .content-area, .guide-content, .blog-content",
+    "title": "h1, .entry-title, .post-title, .page-title, title",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search", "/tag/", "/category/", "/wp-admin/", "/login", "/register"]
+  },
+  "categories": {
+    "checklists": ["checklist", "template", "form", "evaluation"],
+    "moderated_testing": ["moderated", "facilitation", "moderating", "interview"],
+    "methodologies": ["methodology", "method", "approach", "process"],
+    "templates": ["template", "form", "script", "protocol"],
+    "best_practices": ["best practice", "guideline", "recommendation", "tip"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100,
+  "request_timeout": 30
+}

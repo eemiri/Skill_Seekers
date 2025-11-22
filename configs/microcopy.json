@@ -1,0 +1,29 @@
+{
+  "name": "microcopy-lean-content-v2",
+  "description": "Use for guidance on microcopy, UX writing, error messages, empty states, and lean content strategies",
+  "base_url": "https://uxwritinghub.com/what-is-microcopy/",
+  "start_urls": [
+    "https://uxwritinghub.com/what-is-microcopy/",
+    "https://careerfoundry.com/en/blog/ux-design/what-is-microcopy-ux/",
+    "https://uxwritinghub.com/empty-state-examples/",
+    "https://uxwritinghub.com/error-message-examples/"
+  ],
+  "selectors": {
+    "main_content": "div.entry-content, article, main, .content, .post-content, .entry-content, .post-inner, .elementor-widget-theme-post-content, .elementor-widget-container",
+    "title": "h1, .entry-title, .post-title, .elementor-heading-title",
+    "code_blocks": "pre, code, .example, blockquote"
+  },
+  "url_patterns": {
+    "include": ["uxwritinghub.com", "careerfoundry.com"],
+    "exclude": ["/wp-admin/", "/wp-login.php", "/feed/", "/comments/"]
+  },
+  "categories": {
+    "microcopy_basics": ["what is microcopy", "microcopy definition", "ux writing"],
+    "error_messages": ["error message", "error handling", "validation", "form errors"],
+    "empty_states": ["empty state", "no data", "zero state", "placeholder content"],
+    "examples": ["examples", "patterns", "best practices", "guidelines"],
+    "content_strategy": ["lean content", "content strategy", "minimal copy", "concise writing"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

@@ -1,0 +1,30 @@
+{
+  "name": "internationalization-localization",
+  "description": "When users ask about internationalization (i18n), localization (l10n), right-to-left languages, text direction, character encoding, or creating multilingual applications",
+  "base_url": "https://www.w3.org/International/quicktips/",
+  "urls": [
+    "https://www.w3.org/International/quicktips/",
+    "https://w3c.github.io/bp-i18n-specdev/",
+    "https://centus.com/blog/right-to-left-languages-translation",
+    "https://www.smartling.com/blog/translate-rtl-languages"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .main-content, .post-content, .article-body, body",
+    "title": "title, h1, .title, .article-title, .post-title",
+    "code_blocks": "pre, code, .code-example, .snippet, .example"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", "/feed", "/atom", "/rss", "/#", "javascript:", "mailto:", "tel:", "/login", "/signup", "/cart"]
+  },
+  "categories": {
+    "standards": ["standards", "guidelines", "specifications", "best", "practices"],
+    "quicktips": ["quick", "tips", "getting", "started", "basics"],
+    "rtl": ["rtl", "right-to-left", "direction", "arabic", "hebrew"],
+    "encoding": ["encoding", "unicode", "utf-8", "character", "sets"],
+    "localization": ["localization", "l10n", "translation", "cultural"],
+    "internationalization": ["internationalization", "i18n", "global", "multilingual"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 80
+}

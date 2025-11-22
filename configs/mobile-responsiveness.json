@@ -1,0 +1,24 @@
+{
+  "name": "mobile-responsiveness",
+  "description": "Mobile responsiveness design patterns, breakpoints, and responsive UI guidelines for modern web development",
+  "base_url": "https://mui.com/material-ui/customization/breakpoints/",
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .mdc-layout-grid, .content, .docs-content, .markdown-body",
+    "title": "h1, .page-title, .article-title, title",
+    "code_blocks": "pre, code, .code-block, .highlight"
+  },
+  "url_patterns": {
+    "include": ["m1.material.io", "nngroup.com", "lukew.com", "mui.com"],
+    "exclude": ["/search", "/tag/", "/category/", "/wp-admin/", "/login", "/register", "/archive/"]
+  },
+  "categories": {
+    "responsive_design": ["responsive", "adaptive", "mobile", "breakpoint"],
+    "breakpoints": ["breakpoint", "media query", "viewport", "screen size"],
+    "material_design": ["material", "m1", "material design", "guidelines"],
+    "ui_patterns": ["layout", "grid", "flexbox", "component"],
+    "best_practices": ["best practice", "guideline", "recommendation", "pattern"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100,
+  "request_timeout": 30
+}

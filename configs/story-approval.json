@@ -1,0 +1,66 @@
+{
+  "name": "story-approval",
+  "description": "Use this skill when working with user story acceptance, product owner approval processes, acceptance criteria definition, sprint review acceptance, or agile story validation techniques. Includes Scrum.org discussions, Atlassian best practices, and industry acceptance criteria guidelines.",
+  "base_url": "https://www.atlassian.com/",
+  "start_urls": [
+    "https://www.scrum.org/forum/scrum-forum/32022/sprint-review-acceptance-user-story-product-owner",
+    "https://www.linkedin.com/pulse/product-owner-acceptance-testing-agile-delivery-model-jan-kremer",
+    "https://www.scrum.org/forum/scrum-forum/37569/should-product-owner-accept-stories-aka-pbis",
+    "https://www.atlassian.com/work-management/project-management/acceptance-criteria",
+    "https://resources.scrumalliance.org/Article/need-know-acceptance-criteria"
+  ],
+  "selectors": {
+    "main_content": "main, article, .content, .article-content, div[role=\"main\"], .forum-content, .post-content",
+    "title": "h1, .title, .page-title, .forum-title, .post-title",
+    "code_blocks": "pre, code, .code-block, .highlight, .example"
+  },
+  "url_patterns": {
+    "include": [
+      "/work-management/project-management/",
+      "/forum/scrum-forum/",
+      "/pulse/",
+      "/resources.scrumalliance.org/Article/",
+      "/acceptance-criteria",
+      "/story-approval",
+      "/product-owner"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/author/",
+      "#",
+      "?",
+      "/events",
+      "/training",
+      "/certification"
+    ]
+  },
+  "categories": {
+    "acceptance_criteria": ["acceptance criteria", "criteria", "requirements", "conditions", "definition of done"],
+    "product_owner_responsibilities": ["product owner", "PO responsibilities", "approval", "acceptance", "validation"],
+    "sprint_review": ["sprint review", "review", "demonstration", "stakeholder", "feedback"],
+    "story_validation": ["story validation", "testing", "verification", "quality", "completion"],
+    "definition_of_done": ["definition of done", "DoD", "completion", "standards", "ready"],
+    "best_practices": ["best practices", "guidelines", "recommendations", "tips", "techniques"],
+    "team_collaboration": ["team collaboration", "stakeholder", "communication", "agreement", "alignment"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 80,
+  "enhancement": {
+    "focus_areas": [
+      "Acceptance criteria writing and definition",
+      "Product owner story approval processes",
+      "Sprint review acceptance procedures",
+      "Definition of Done implementation",
+      "Team collaboration in story validation"
+    ],
+    "example_types": [
+      "Acceptance criteria template examples",
+      "Story acceptance checklists",
+      "Definition of Done examples",
+      "Sprint review agenda templates",
+      "Story validation testing examples"
+    ]
+  }
+}

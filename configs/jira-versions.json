@@ -1,0 +1,26 @@
+{
+  "name": "jira-versions",
+  "description": "Jira version management and tracking documentation for project releases and version control.",
+  "base_url": "https://support.atlassian.com/jira-cloud-administration/docs/manage-versions/",
+  "selectors": {
+    "main_content": "main[role='main']",
+    "title": "title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["jira-cloud-administration"],
+    "exclude": ["/search.html", "/_static/", "api.", "cdn.", "javascript:", "mailto:", ".pdf", ".zip", "download"]
+  },
+  "categories": {
+    "version_management": ["version", "manage-versions", "release", "release-management"],
+    "jira_config": ["jira", "administration", "admin", "configuration", "settings"],
+    "workflows": ["workflow", "process", "approval", "transition", "status"]
+  },
+  "rate_limit": 0.8,
+  "max_pages": 50,
+  "enhance": true,
+  "skip_scrape": false,
+  "depth_limit": 2,
+  "timeout": 30,
+  "user_agent": "Skill-Seeker-Bot/1.0 (Documentation Scraper)"
+}

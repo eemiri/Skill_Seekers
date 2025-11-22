@@ -1,0 +1,25 @@
+{
+  "name": "design-ux-review",
+  "description": "Design and UX review methodologies including heuristic evaluation, usability heuristics, design critiques, and UI testing checklists",
+  "base_url": "https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/",
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.post-content, div.entry-content, .content-area, .article-content, .post-body",
+    "title": "h1, .entry-title, .post-title, .page-title, .article-title, title",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search", "/tag/", "/category/", "/wp-admin/", "/login", "/register", "/events/"]
+  },
+  "categories": {
+    "heuristic_evaluation": ["heuristic", "evaluation", "assessment", "review"],
+    "usability_heuristics": ["usability", "heuristic", "principle", "guideline"],
+    "design_critiques": ["critique", "feedback", "review", "assessment"],
+    "ui_testing": ["testing", "checklist", "ui", "handoff", "qa"],
+    "methodologies": ["methodology", "process", "approach", "framework"],
+    "best_practices": ["best practice", "guideline", "recommendation", "principle"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100,
+  "request_timeout": 30
+}

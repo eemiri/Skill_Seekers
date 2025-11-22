@@ -1,0 +1,31 @@
+{
+  "name": "developer-handoff",
+  "description": "When users ask about design-to-development handoff processes, design specifications, dev mode workflows, or collaborating with developers from design tools",
+  "base_url": "https://help.figma.com/hc/en-us/articles/15023124644247-Guide-to-Dev-Mode",
+  "urls": [
+    "https://help.figma.com/hc/en-us/articles/15023124644247-Guide-to-Dev-Mode",
+    "https://helpx.adobe.com/xd/help/publish-design-specs.html",
+    "https://www.interaction-design.org/literature/topics/design-handoffs",
+    "https://blog.logrocket.com/ux-design/creating-design-specs-developer-handoff/",
+    "https://www.uxpin.com/studio/blog/10-ways-to-improve-design-to-development-handoff/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .main-content, .article-content, body",
+    "title": "title, h1, .title, .article-title",
+    "code_blocks": "pre, code, .code-example, .snippet"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", "/feed", "/atom", "/rss", "/#", "javascript:", "mailto:", "tel:", "/cart", "/checkout", "/login"]
+  },
+  "categories": {
+    "process": ["handoff", "process", "workflow", "collaboration"],
+    "tools": ["figma", "adobe", "xd", "sketch", "tools", "software"],
+    "specifications": ["specs", "specifications", "documentation", "requirements"],
+    "guidelines": ["guidelines", "best", "practices", "tips"],
+    "implementation": ["implementation", "development", "coding", "integration"],
+    "communication": ["communication", "feedback", "review", "approval"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

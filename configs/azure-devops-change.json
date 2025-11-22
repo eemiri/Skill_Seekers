@@ -1,0 +1,27 @@
+{
+  "name": "azure-devops-change",
+  "description": "Azure DevOps change management, version control, and release tracking documentation.",
+  "base_url": "https://learn.microsoft.com/en-us/azure/devops/cross-service/manage-change",
+  "selectors": {
+    "main_content": "main[role='main']",
+    "title": "title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["azure/devops", "manage-change"],
+    "exclude": ["/search.html", "/_static/", "api.", "cdn.", "javascript:", "mailto:", ".pdf", ".zip", "download"]
+  },
+  "categories": {
+    "azure_devops": ["azure", "devops", "azure-devops", "boards", "queries"],
+    "change_tracking": ["change", "manage-change", "track", "tracking", "audit", "history"],
+    "version_management": ["version", "release", "release-management"],
+    "workflows": ["workflow", "process", "approval", "transition", "status"]
+  },
+  "rate_limit": 0.8,
+  "max_pages": 50,
+  "enhance": true,
+  "skip_scrape": false,
+  "depth_limit": 2,
+  "timeout": 30,
+  "user_agent": "Skill-Seeker-Bot/1.0 (Documentation Scraper)"
+}

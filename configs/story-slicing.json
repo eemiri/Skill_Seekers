@@ -1,0 +1,31 @@
+{
+  "name": "story-slicing",
+  "description": "Use for guidance on user story splitting, story slicing techniques, epic breakdown, and agile story management best practices",
+  "base_url": "https://www.mountaingoatsoftware.com/blog/five-simple-but-powerful-ways-to-split-user-stories",
+  "start_urls": [
+    "https://www.mountaingoatsoftware.com/blog/five-simple-but-powerful-ways-to-split-user-stories",
+    "https://www.mountaingoatsoftware.com/blog/two-examples-of-splitting-epics",
+    "https://www.mountaingoatsoftware.com/blog/how-to-work-with-complex-user-stories-that-cannot-be-split",
+    "https://www.mountaingoatsoftware.com/blog/five-story-splitting-mistakes-and-how-to-stop-making-them",
+    "https://www.mountaingoatsoftware.com/blog/advice-on-how-to-split-reporting-user-stories"
+  ],
+  "selectors": {
+    "main_content": "article, main, .content, .post-content, .entry-content, .blog-post, .post-body",
+    "title": "h1, .entry-title, .post-title, .page-title, .blog-title",
+    "code_blocks": "pre, code, .example, .code-block, .highlight"
+  },
+  "url_patterns": {
+    "include": ["mountaingoatsoftware.com/blog"],
+    "exclude": ["/wp-admin/", "/wp-login.php", "/feed/", "/comments/", "calendar", "events", "/tag/", "/category/"]
+  },
+  "categories": {
+    "splitting_techniques": ["splitting techniques", "ways to split", "how to split", "story breakdown"],
+    "epic_handling": ["epics", "complex stories", "large user stories", "epic breakdown"],
+    "common_mistakes": ["mistakes", "errors", "common pitfalls", "what not to do"],
+    "reporting_stories": ["reporting", "analytics", "data stories", "dashboard stories"],
+    "best_practices": ["best practices", "guidelines", "principles", "recommendations"],
+    "complex_stories": ["complex stories", "cannot be split", "difficult stories", "challenging stories"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 20
+}

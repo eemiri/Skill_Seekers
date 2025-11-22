@@ -1,0 +1,31 @@
+{
+  "name": "motion-design",
+  "description": "When users ask about motion design principles, animation timing, easing functions, CSS transitions, UI animation best practices, or creating meaningful motion in interfaces",
+  "base_url": "https://m1.material.io/motion/duration-easing.html",
+  "urls": [
+    "https://m1.material.io/motion/duration-easing.html",
+    "https://design.google/library/making-motion-meaningful",
+    "https://medium.com/@ryan_brownhill/crafting-easing-curves-for-user-interfaces-34f39e1b4a43",
+    "https://easings.net/",
+    "https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .main-content, .post-content, .article-body, body",
+    "title": "title, h1, .title, .article-title, .post-title",
+    "code_blocks": "pre, code, .code-example, .snippet, .css-example"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", "/feed", "/atom", "/rss", "/#", "javascript:", "mailto:", "tel:", "/login", "/signup", "/paywall"]
+  },
+  "categories": {
+    "principles": ["principles", "guidelines", "theory", "meaningful"],
+    "timing": ["duration", "timing", "speed", "pace"],
+    "easing": ["easing", "curves", "animation", "transitions"],
+    "css": ["css", "transitions", "animations", "keyframes"],
+    "examples": ["examples", "demos", "interactive", "playground"],
+    "best_practices": ["best", "practices", "guidelines", "recommendations"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}
