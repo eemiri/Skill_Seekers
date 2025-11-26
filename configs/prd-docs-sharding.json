@@ -1,0 +1,30 @@
+{
+  "name": "prd-docs-sharding",
+  "description": "Product Requirements Document (PRD) templates, best practices, and documentation sharding techniques for product managers and development teams",
+  "base_url": "https://www.atlassian.com/agile/product-management/requirements",
+  "seed_urls": [
+    "https://www.atlassian.com/agile/product-management/requirements",
+    "https://affine.pro/blog/prd-template",
+    "https://www.aha.io/roadmapping/guide/requirements-management/what-is-a-good-product-requirements-document-template",
+    "https://www.figma.com/resource-library/product-requirements-document/",
+    "https://plan.io/blog/one-pager-prd-product-requirements-document/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .article-content, #main-content, .blog-content, .post-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["requirements", "prd", "product-requirements", "template", "documentation"],
+    "exclude": ["/search", "/login", "/signup", "/cart", "/checkout", "/pricing", "/contact"]
+  },
+  "categories": {
+    "fundamentals": ["what-is", "overview", "introduction", "basics", "definition", "requirements"],
+    "templates": ["template", "format", "structure", "example", "sample"],
+    "best_practices": ["best-practices", "tips", "guide", "how-to", "effective"],
+    "process": ["process", "workflow", "methodology", "approach", "steps"],
+    "tools": ["tools", "software", "figma", "notion", "confluence"]
+  },
+  "rate_limit": 1.5,
+  "max_pages": 10
+}

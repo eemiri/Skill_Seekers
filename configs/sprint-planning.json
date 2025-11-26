@@ -1,0 +1,41 @@
+{
+  "name": "sprint-planning",
+  "description": "Use this skill when helping with sprint planning, agile scrum ceremonies, sprint backlog management, or understanding how to run effective sprint planning meetings",
+  "base_url": "https://www.atlassian.com/agile/scrum/sprint-planning",
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content-wrapper",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/agile/scrum/sprint-planning",
+      "/blog/agile/sprint-planning",
+      "/agile/scrum/sprints"
+    ],
+    "exclude": [
+      "/search",
+      "/login",
+      "/signup",
+      "/pricing",
+      "/software",
+      "/try",
+      "/contact",
+      "/careers",
+      "/partners",
+      "/trust"
+    ]
+  },
+  "seed_urls": [
+    "https://www.atlassian.com/agile/scrum/sprint-planning",
+    "https://www.atlassian.com/blog/agile/sprint-planning-atlassian",
+    "https://www.atlassian.com/agile/scrum/sprints"
+  ],
+  "categories": {
+    "sprint_planning": ["sprint-planning", "planning", "ceremony"],
+    "sprints": ["sprints", "sprint", "iteration"],
+    "best_practices": ["best", "tips", "practices", "how-to"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 10
+}

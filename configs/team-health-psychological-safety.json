@@ -1,0 +1,18 @@
+{
+  "name": "team-health-psychological-safety",
+  "description": "Use this skill when working on team dynamics, psychological safety assessments, agile team health checks, team effectiveness improvements, or fostering safe team environments",
+  "sources": [
+    "https://rework.withgoogle.com/intl/en/guides/understanding-team-effectiveness",
+    "https://agilealliance.org/resources/experience-reports/cultivating-psychological-safety-in-agile-teams/",
+    "https://www.scrum.org/resources/blog/health-checks-agile-teams",
+    "https://psychsafety.com/psychological-safety-and-agile-teams/"
+  ],
+  "categories": {
+    "psychological_safety": ["psychological safety", "safety", "trust", "fear", "risk"],
+    "team_effectiveness": ["effectiveness", "dynamics", "performance", "team"],
+    "health_checks": ["health check", "assessment", "survey", "metrics", "indicators"],
+    "agile_practices": ["agile", "scrum", "sprint", "retrospective", "ceremony"]
+  },
+  "created": "2025-11-22",
+  "version": "1.0"
+}

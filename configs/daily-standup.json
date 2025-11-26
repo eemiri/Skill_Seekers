@@ -1,0 +1,42 @@
+{
+  "name": "daily-standup",
+  "description": "Use this skill when facilitating daily standups, improving daily scrum effectiveness, choosing standup formats (person-by-person vs story-by-story), and addressing common standup anti-patterns.",
+  "base_url": "https://www.mountaingoatsoftware.com/blog/ten-tips-for-more-effective-daily-scrums",
+  "start_urls": [
+    "https://www.mountaingoatsoftware.com/blog/ten-tips-for-more-effective-daily-scrums",
+    "https://www.scrum.org/resources/blog/facilitation-tips-daily-scrum",
+    "https://www.mountaingoatsoftware.com/blog/should-the-daily-standup-be-person-by-person-or-story-by-story"
+  ],
+  "selectors": {
+    "main_content": "main, article, .article-content, .content-body, .post-content, .entry-content, .blog-post",
+    "title": "h1, .entry-title, .post-title, .article-title, title",
+    "code_blocks": "pre, code, .highlight, .code-block"
+  },
+  "url_patterns": {
+    "include": [
+      "daily-scrum",
+      "standup",
+      "daily",
+      "facilitation"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/author/",
+      "?tab=",
+      "/newsletter",
+      "/pricing",
+      "/login",
+      "/cart"
+    ]
+  },
+  "categories": {
+    "tips": ["tips", "effective", "better", "improve"],
+    "facilitation": ["facilitation", "facilitate", "run", "conduct"],
+    "formats": ["person-by-person", "story-by-story", "format", "structure"],
+    "best_practices": ["best practices", "should", "how to", "guide"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 10
+}

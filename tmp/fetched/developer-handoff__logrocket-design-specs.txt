@@ -1,0 +1,259 @@
+URL: https://blog.logrocket.com/ux-design/creating-design-specs-developer-handoff/
+
+Advisory boards aren’t only for executives. 
+Join the LogRocket Content Advisory Board today
+ →
+
+Blog
+
+Dev
+
+Product Management
+
+UX Design
+
+Podcast
+
+Product Leadership
+
+Features
+
+Solutions
+
+Solve User-Reported Issues
+
+Surface User Struggle
+
+Optimize Conversion and Adoption
+
+Get a Demo
+
+Sign In
+
+        2024-03-28    
+
+        1582    
+
+        #design systems#ui design#ux writing    
+
+Rafael Basso
+
+188041
+
+ 
+
+ 
+
+ 
+
+        Mar 28, 2024 ⋅ 5 min read    
+
+Creating design specs for smoother developer handoff
+
+ 
+
+Rafael Basso
+
+Rafael de Rezende Basso is a Brazilian UX/UI designer based in Dublin. He has technical know-how in creating user-centered solutions, matching user’s desires with business requirements. You can follow his work at 
+Design Relax
+, 
+his portfolio
+, and 
+his LinkedIn
+.
+
+                Table of contents            
+
+ 
+
+What is a design spec?
+
+ 
+
+What are the differences between design specs, design systems, and style guides?
+
+ 
+
+Design specs step-by-step
+
+ 
+
+1. Show alignments
+
+ 
+
+2. Display color codes
+
+ 
+
+3. Add font sizes
+
+ 
+
+4. Assets
+
+ 
+
+5. User flows
+
+ 
+
+6. Design resources
+
+ 
+
+7. Gather everything in one place
+
+ 
+
+8. Communication is key
+
+ 
+
+9. Dev mode tools
+
+ 
+
+10. After the refinements, what happens?
+
+Introducing Galileo AI
+
+LogRocket’s Galileo AI watches every session, surfacing impactful user struggle and key behavior patterns.
+
+LEARN MORE
+
+We all know that designers and developers sometimes have some hiccups during a project. However, we have a few guidelines to follow to avoid those roadblocks and improve communication across different teams.
+
+Designers create it, developers make it work. Can you imagine an app designed by engineers or developed by designers? It would be the worst app in history.
+
+As designers, we must have a surgical eye for all UI elements like colors, fonts, alignments, margins, etc. Everything from our side must be pixel perfect.
+
+On the other hand, developers do not have this trained eye, and they don’t have to. They need to be masters of the technology behind the scenes and ensure all functionalities are working well.
+
+Because of that, it’s normal during the development phase for the design to be lifeless, demanding tons of rework, countless call meetings, and unnecessary stress from both sides.
+
+How can you sort this out? By creating a design spec before handing off your work to the developers.
+
+What is a design spec?
+
+A design spec is a document or a set of documents where you should specify all UI aspects like colors, styles, margins, alignments, sizes, assets, and so on. In addition, it should include a map of functionalities like related strategies, user flows, pipelines, and every other document you’ve used to plan your design.
+
+The design spec is not only useful for designers and developers but also for product and quality analysis teams. They should have access to it, understand the flow and its requirements, and ensure the design meets business expectations.
+
+What are the differences between design specs, design systems, and style guides?
+
+As we said, a design spec is a file or a set of files with the design aspects, assets, flows, and prototypes that are relevant only for the project you are working on.
+
+Meanwhile, a 
+style guide
+ is a set of rules and standards that help creatives maintain a consistent and professional brand identity across different media and platforms. It covers how to apply visual elements, such as logos, colors, fonts, and images, as well as how to write and edit content, such as tone, voice, grammar, and punctuation.
+
+Lastly, a 
+design system
+ is a framework that guides designers and developers to create consistent products. Unlike style guides, which focus only on UI and writing, a design system includes technical aspects, such as pieces of code, components, and best practices.
+
+Now that we know the term for design specs (and what it isn’t), let’s get into making them.
+
+Design specs step-by-step
+
+How would one pull all these seemingly disparate resources together so everyone is on the same page?
+
+1. Show alignments
+
+Once your designs are done, duplicate every single screen and start to add measurement details. For example, 16px margin (top, bottom, left, and right), 20px from card one to card two, picture height 40px width, and so on and so forth:
+
+Over 200k developers and product managers use LogRocket to create better digital experiences
+
+Learn more →
+
+2. Display color codes
+
+Colors are crucial elements on the UI, so you must ensure developers are adding exactly the shade you need. To do this, copy and paste the color code provided by your design tool into your design specs:
+
+3. Add font sizes
+
+During the development, depending on the product, your specs could have a preset library and the developers should stick with it. So if you need to change it, or even if you want to keep consistency with the existing library, just show the font size you want for every single text:
+
+4. Assets
+
+Put all relevant assets (PNG, SVG, JPEG) into one folder and share it with everyone involved.
+
+However, you might think, “Devs have access to Zeplin or Figma Dev Mode. Why should I waste my time doing it?”
+
+It is definitely not a waste of time at all. By doing it, you will make sure they will not miss any part of your design and also avoid messages asking for it.
+
+Let’s picture a scenario here: A developer needs an SVG to add an icon. This person sends you a message asking for it, but you are having lunch and will answer only after one hour. If you have saved all assets in the same place and shared with everyone involved, this hour would not be wasted.
+
+5. User flows
+
+Adding all user experience flow details is crucial for good communication among product, design, and development.
+
+At this stage, the designer and the product manager should catch up and write down every single aspect, trying to make the language on the document easy for everyone involved to understand.
+
+Depending on the company, this part could be written by the product manager. However, it doesn’t mean the designer should not help with this process. Both professionals should be on the same page to pitch the flow to the developers, avoiding possible flaws.
+
+One tip is to write pretending you are the user, see the example below:
+
+As a user, I want to click on the logo and go back to the home page.
+
+The logo is placed on the left side of the page
+
+The logo has a link to the homepage.
+
+Once the user clicks on it, the user will be redirected to the home page
+
+I know it sounds repetitive and sometimes even silly, but we must ensure everyone understands it perfectly, so we need to write down the process with every single aspect explained in detail.
+
+6. Design resources
+
+It is nice to add to the design specs the prototypes, Dev Mode links, and all resources you have that could help the developers.
+
+7. Gather everything in one place
+
+We have in the market tons of tools that help us organize our Agile environment, tools like Jira and Monday. Normally, scrum teams have their backlog on those tools and the design spec will be one more (or much more) ticket(s) on their list.
+
+It is a good idea to attach all the files we mentioned before to this ticket. Otherwise, we could miss an important piece of the puzzle.
+
+8. Communication is key
+
+Talking to developers is mandatory, but not only when handing off your work to them.
+
+You should include their team early on in the process, showcasing your research, ideas, and mostly the prototypes to avoid any roadblocks.
+
+Once the files are ready and the tickets are written, now is the time to finally hand them off.
+
+We normally have “refinement” sessions with the entire scrum team (architects, engineers, a product manager, quality analysis, and of course the designer). At this stage, we go over the ticket and make sure all aspects there are clear to everyone involved. Normally, those meetings are led by the product manager and the designer might interject whenever necessary.
+
+As I said before, those calls are refinement meetings. They exist to refine what is written on the ticket, to ensure everybody gets the meaning of the flow, and sometimes even rethinking the designs. Back and forth could happen, and we should be prepared.
+
+Recording this meeting for later reference is also a good idea.
+
+9. Dev mode tools
+
+During the handoff, make sure your designs are uploaded to a dev mode tool, like Zepli. Or, if your team has all Figma licenses, you don’t need to export anything to an external tool.
+
+However, regardless of the tool, be certain the document is very well organized, having the screen in sequence following the user flow you already showed to the team, and please avoid bitmaps on your designs as they tell nothing to the developers.
+
+10. After the refinements, what happens?
+
+You had a few refinement meetings, where you discussed all design aspects and the devs “sized” them using Agile methods. So, now your work is done? I’m sorry to inform you, but no.
+
+After development, a design review is mandatory, because even with those countless meetings and documents you shared, you could miss some pieces of the puzzle. Again, developers do not have the trained eye you have to see small details, and we all know small details matter a lot because they have a huge impact on the user experience.
+
+The review will be another simple document. It could be a Word doc, Excel sheet, or an extra ticket with all the small fixes the devs need to make.
+
+Once this document is ready, maybe an extra screenshot with the missing details could help you to explain issues to them better:
+
+Conclusion
+
+To conclude, the steps to create a design spec are:
+
+Communicating properly with devs since the beginning of the project
+
+Create images with all visual specifications (margin, colors, font-family, font-size, etc)
+
+Include all assets in the document. It could be a zip file or a link to a folder where you placed them all
+
+Write the tickets pretending to be the user (As a user I need/want to…
+
+[Content truncated]

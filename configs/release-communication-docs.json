@@ -1,0 +1,48 @@
+{
+  "name": "release-communication-docs",
+  "description": "Use this skill when writing release notes, changelogs, version announcements, API documentation, technical documentation, or setting up release automation workflows. Covers best practices for user-facing release communication.",
+  "base_url": "https://keepachangelog.com/",
+  "selectors": {
+    "main_content": "article, main, .content",
+    "title": "title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": []
+  },
+  "categories": {
+    "changelogs": ["changelog", "keepachangelog", "common-changelog", "auto-changelog"],
+    "release_notes": ["release-notes", "release notes", "announcement", "launch"],
+    "style_guides": ["style", "writing", "technical-writing", "documentation"],
+    "api_docs": ["openapi", "swagger", "specification", "api"],
+    "automation": ["release-it", "github-actions", "ci-cd", "automation", "conventional-commits"],
+    "tooling": ["gitlab", "readthedocs", "hosting", "tools"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100,
+  "sources": [
+    "https://keepachangelog.com/en/1.1.0/",
+    "https://common-changelog.org/",
+    "https://www.productplan.com/learn/release-notes-best-practices/",
+    "https://www.appcues.com/blog/release-notes-examples",
+    "https://www.aha.io/roadmapping/guide/launch/how-to-write-excellent-release-notes",
+    "https://www.thegooddocsproject.dev/template/release-notes",
+    "https://frill.co/blog/posts/release-notes-best-practices",
+    "https://developers.google.com/tech-writing",
+    "https://developers.google.com/style/",
+    "https://learn.microsoft.com/en-us/style-guide/welcome/",
+    "https://learn.microsoft.com/en-us/style-guide/developer-content/reference-documentation",
+    "https://www.atlassian.com/work-management/knowledge-sharing/documentation/standards",
+    "https://www.atlassian.com/work-management/knowledge-sharing/documentation/process-documentation",
+    "https://docs.gitlab.com/user/project/releases/",
+    "https://github.com/release-it/release-it",
+    "https://swagger.io/specification/",
+    "https://swagger.io/docs/specification/v3_0/about/",
+    "https://docs.readthedocs.com/platform/",
+    "https://github.com/cookpete/auto-changelog",
+    "https://dev.to/devsatasurion/automate-changelogs-to-ease-your-release-282",
+    "https://github.com/marketplace/actions/slack-release-notifications",
+    "https://www.conventionalcommits.org/en/v1.0.0/"
+  ]
+}

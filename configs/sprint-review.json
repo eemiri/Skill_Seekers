@@ -1,0 +1,29 @@
+{
+  "name": "sprint-review",
+  "description": "When users ask about sprint reviews, demo meetings, stakeholder feedback sessions, sprint inspection, or how to facilitate effective sprint reviews in Scrum and Agile",
+  "base_url": "https://www.scrum.org/resources/what-is-a-sprint-review",
+  "urls": [
+    "https://www.atlassian.com/agile/scrum/sprint-reviews",
+    "https://www.scrum.org/resources/blog/facilitation-tips-sprint-review",
+    "https://www.scrum.org/resources/what-is-a-sprint-review",
+    "https://resources.scrumalliance.org/Article/sprint-review"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .main-content, .post-content, .article-body, body",
+    "title": "title, h1, .title, .article-title, .post-title",
+    "code_blocks": "pre, code, .code-example, .snippet, .example"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", "/feed", "/atom", "/rss", "/#", "javascript:", "mailto:", "tel:", "/login", "/signup", "/cart", "/premium"]
+  },
+  "categories": {
+    "fundamentals": ["sprint", "review", "definition", "purpose", "basics", "what-is"],
+    "facilitation": ["facilitation", "tips", "techniques", "running", "moderating"],
+    "stakeholders": ["stakeholder", "feedback", "participants", "attendees", "customers"],
+    "best_practices": ["practices", "effective", "successful", "approaches", "strategies"],
+    "comparison": ["retrospective", "difference", "versus", "planning"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 20
+}

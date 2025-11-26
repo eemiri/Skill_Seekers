@@ -1,0 +1,131 @@
+URL: https://www.eleken.co/blog-posts/design-qa-checklist-to-test-ui-and-prepare-for-design-handoff
+
+Article
+Design process
+updated on: 
+19 Mar
+,
+2025
+Design QA Checklist to Test UI and Prepare For Design Handoff
+10
+min to read
+Table of contents
+TL;DR
+The line between love and hate in the design is thin. Hours spent on approving concepts, preparing mood boards, color palettes, and brand collateral lists donât guarantee the client will be satisfied with the result. Tiny imperfections and concealed bugs may result in the end-product looking unfinished and not worth paying for. For teams who want to get rid of headaches during the design handoff (not to say to stay motivated), the design QA checklist should become a near-at-hand tool.
+If youâve started to search in Google âwhat is a QA checklist?â â stop. Because in this article,
+ Eleken
+ has drawn up everything one needs to know about a checklist in testing designs and how to adhere to it. Weâve also prepared a ready-to-use checklist design team can download and use in its day-to-day work. So, enjoy!
+The most common UI/UX design problemsÂ 
+Designers face loads of stumbling stones on their way to creating a seamless website landing page or application interface. A truly skilled UI/UX designer is a ninja in matching client requirements, personal design preferences, and common
+ UI/UX design principles
+. 
+
+Struggling with design handoff?
+
+Read more
+
+However, even experienced designers have to polish the final results before presenting them to clients. Below we grouped some of the most common concerns.
+CTA buttons are too small
+The graphics and color intensity may be so strong that interactive elements, for example, buttons, can fade. The same might happen if thereâs not enough padding inside the button or if it looks too unusual, for example, has a weird shape.Â 
+If buttons are too small, CTAs become less clear and noticeable. As a result, they fade on the page and don't lead to user conversions.
+Messy overlapping
+Managing overlaps and collages is a tough task. Opened menus, popups, and sticky elements complicate across-site navigation and make the page look cluttered.
+Image source
+Poor navigation
+âGo backâ arrows, and scrollable carousels make UX much easier. If the elements mentioned arenât visible or donât work properly, users may leave the website or app without browsing it and deepening the content. As a result, the average session duration will decrease dramatically.
+No hover over buttons, links, or form fields
+When you move a mouse cursor over an interactive object, you want to have that feeling that you can click on it, right? In design, this effect comes through hovering (highlighting) clickable objects: buttons, links, menu items, and so on. A hover focuses user attention and encourages taking actions, for instance, clicking on a button or filling in the subscription form.
+Text that looks like a link (and vice versa)
+Underlined words deceive users because they look like hyperlinks. So, itâs better not to misuse them.
+Neglecting white space
+There should be enough âairâ or blank space (not necessarily white) between elements. If not, the layout wonât look balanced and users will feel overwhelmed with the information and visuals they see.
+Insufficient color contrast
+Text contrast against the background isnât just a matter of personal design preferences. Low-contrast content is one of the major website accessibility issues that
+ Google suggests fixing
+. Moreover, because around
+ 5% of people
+ suffer from color blindness, itâs important that you stick to the
+ 1.4.3 contrast minimum
+.
+Broken text alignment on mobile
+Centered content can be not as accessible on mobile, as it is on desktop. And for users, itâs neither easy to skim through text canvases of left-aligned content. A way out may be - to apply justified text alignment.
+Important information isnât highlighted enough
+In the attempt to carry out creative ideas, it may be difficult to focus on whatâs first of all noteworthy on the webpage. For example, if you create a âPricingâ landing page for a SaaS company, subscription plans names and prices should be clear-cut. Other on-page elements, like pop-ups or banners, shouldnât distract usersâ attention from the âBuy nowâ buttons.
+Snov.io before the redesign
+â
+Disregarded
+ core web vitals
+Although Google webmaster guidelines arenât something a UX designer should be proficient with, keep in mind that the faster content elements render while the page loads, the better the websiteâs overall âquality scoreâ will be.
+Poor design versatility
+The client may want to impose changes, so you should be able to adjust the prototype effortlessly - at any given moment, even after the release.
+Design QA process with a quality control checklist
+So, what is a checklist in testing? Simply put, this is a sequence of stages to assess the accuracy of the software. Quite the opposite to ad hoc testing checklists allow structuring and systematizing the quality assurance process. They prevent excessive testing and allow covering all functional components of the end-product.
+In design, the QA should cover all 5 quality dimensions of design outcomes. Weâve prepared a full quality assurance checklist that will come in handy for pretty any design team.
+First we review the 
+consistency
+:
+1. Review overall layout
+Balanced pages are more pleasing to the eye, so always double-check whether design elements, including margins, paddings, and borders, look aligned. Choose a single focal point within a grid to deem other elementsâ positions. Make sure thereâs enough whitespace between objects and re-use motifs, where possible.
+Image source
+2. Check content
+Dip into on-page content styling. If there are several similar text containers on a single webpage, their formatting (font and background colors, font size, text alignment) should be the same.
+To combine several fonts, choose complementary yet not too similar ones. Also, maintain visual hierarchy and use contrasting font sizes - to distinguish them better.
+Image credit
+3. Look at visual elements
+Use the same
+ UX design patterns
+ for buttons, forms, and drop-down menus all over the website or app, and align them correspondingly. Also, make sure related elements look coherently. For example, a âBuy PRO planâ button should be more highlighted than its âStart free planâ alternative.
+Image source
+Then we move on to 
+functionality
+:
+4. Make a trial run of navigation
+Navigation tests imply developing scenarios or use cases. For example:
+âstart with the homepage â try to find contact option as soon as possibleâ
+or 
+âproceed to the checkout page â go back to the online shopping cart â edit the orderâ
+.
+In these tests, users have to click certain navigational âhitzonesâ (the parts of the interface that can be clicked). If, for some reason, users donât click on one of the expected hitzones, theyâre asked to provide feedback on what went wrong. After, you can adjust the initial
+ UX flow
+ diagram and improve navigation.
+5. Check submenus
+Submenus may be a bottleneck in Ecommerce website and app design due to that space in the header is quite limited. To smooth the UI, you can add hover and wavy transitions. If you design an Ecommerce app for a big retailer, itâs reasonable to use multi-level submenus. For booking websites or apps â use popup filtering bars and icons instead of text.
+6. Try using the search box (if any)
+There are 3 common issues with search boxes to avoid:
+theyâre hardly noticeable
+their input fields are too short
+the âSubmitâ button is styled the same as the input field.
+Also, try not to create too advanced search boxes because they usually confuse users and make them want to back off search attempts at all.
+Image source
+â
+7. Test drop-down lists
+Although
+ SEO managers donât like drop-downs
+, these lists still have their place in web design. The only thing is - not to overuse them.
+Ask yourself whether you can replace a drop-down list with toggle switches, checkboxes, steppers, or radio buttons. If the answer is âNoâ, then make sure an opened drop-down list doesnât end up going off the screen. In case the list is too detailed, for example, contains
+ more than 5 options
+, enhance it with multiple select options.
+Image source
+â
+8. Check the design of the hamburger menu
+Some
+ say
+ that itâs better to replace hamburgers with tab bars or toggle menus because of better UX. But itâs still a matter of preferences. If you do implement a hamburger menu in the design, make it noticeable and self-evident. The menu should give users an idea about what they can access on the website or app. Perhaps, in some cases, itâs good to list the most important elements and leave hamburgers for less relevant stuff (the way Facebook does in its app).
+Now it's turn to check the 
+responsiveness
+:
+9. Check appearance on different screen sizes
+Lack of responsiveness usually results in inconvenient scrolling and zooming, so make sure users will be able to browse the website from any device with no losses in functionality. To test responsiveness, you can use emulating tools, like
+ BrowserStack
+ or others.
+10. Check appearance in different browsers
+Chrome, Safari, Internet Explorer, and other browsers have distinct layout engines and interpret code languages differently. Thereâs nothing bad with it - itâs just about double-checking if the text and graphics still display correctly.
+Then, check the 
+interactive elements
+:
+11. Try filling in forms
+Whether you use a subscription form, a downloadable lead magnet, or embed Calendly on the website, try out how these work. Enhance forms with popups, like âThank you!â or âProcessing...â messages. And donât forget that every form should be integrated with a CRM.
+12. Test popups
+Cookie notification messages and overlay banners should match page colors yet be well-marked and eye-catching. Use a color block to highlight the popup even more and make the text easier to read. And donât forget to add
+
+[Content truncated]

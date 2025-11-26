@@ -1,0 +1,20 @@
+{
+  "name": "workshop-facilitation",
+  "description": "Use this skill when planning, facilitating, or improving workshops including story mapping, impact mapping, sprint planning, retrospectives, and other collaborative sessions",
+  "sources": [
+    "https://jpattonassociates.com/story-mapping/",
+    "https://cardboardit.com/user-story-mapping-guide/",
+    "https://www.impactmapping.org/book.html",
+    "https://openpracticelibrary.com/practice/impact-mapping/",
+    "https://www.agilebusiness.org/resource/facilitated-workshop.html"
+  ],
+  "categories": {
+    "story_mapping": ["story", "mapping", "user", "backlog", "journey"],
+    "impact_mapping": ["impact", "goals", "actors", "deliverables", "outcomes"],
+    "facilitation": ["facilitator", "workshop", "meeting", "participants", "agenda"],
+    "remote": ["remote", "virtual", "online", "video", "miro", "mural"],
+    "techniques": ["techniques", "methods", "practices", "tools", "templates"]
+  },
+  "created": "2025-01-23",
+  "version": "1.0"
+}

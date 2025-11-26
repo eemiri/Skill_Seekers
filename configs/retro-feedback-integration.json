@@ -1,8 +1,8 @@
 {
   "name": "retro-feedback-integration",
-  "description": "When teams need to conduct effective sprint retrospectives and integrate feedback into their agile development process",
+  "description": "Sprint retrospective facilitation, feedback collection, and continuous improvement techniques for Agile teams",
   "base_url": "https://www.scrum.org/resources/what-is-a-sprint-retrospective",
-  "start_urls": [
+  "seed_urls": [
     "https://www.scrum.org/resources/what-is-a-sprint-retrospective",
     "https://www.scrum.org/resources/facilitation-techniques-sprint-retrospective",
     "https://www.scrum.org/resources/making-your-sprint-retrospectives-more-effective",
@@ -10,34 +10,60 @@
     "https://resources.scrumalliance.org/Article/sprint-retrospective"
   ],
   "selectors": {
-    "main_content": "div.article-content, main, article, div.content, div.entry-content",
+    "main_content": "article, main, div[role=\"main\"], .content, .article-content, #main-content",
     "title": "h1, title",
     "code_blocks": "pre, code"
   },
   "url_patterns": {
     "include": [
-      "scrum.org/resources",
-      "atlassian.com/agile/scrum",
-      "resources.scrumalliance.org"
+      "retrospective",
+      "sprint-retrospective",
+      "retro"
     ],
     "exclude": [
       "/search",
-      "/tag/",
-      "/category/",
-      "/author/",
-      "?",
-      "#",
-      "login",
-      "register"
+      "/login",
+      "/signup",
+      "/cart",
+      "/checkout"
     ]
   },
   "categories": {
-    "basics": ["what is", "introduction", "basics", "overview"],
-    "techniques": ["techniques", "facilitation", "activities", "exercises"],
-    "effectiveness": ["effective", "improvement", "better", "enhance", "optimize"],
-    "implementation": ["implementation", "practice", "application", "examples"],
-    "advanced": ["advanced", "expert", "master", "deep dive"]
+    "fundamentals": [
+      "what-is",
+      "overview",
+      "introduction",
+      "basics",
+      "definition"
+    ],
+    "facilitation": [
+      "facilitation",
+      "techniques",
+      "activities",
+      "exercises",
+      "format"
+    ],
+    "best_practices": [
+      "effective",
+      "tips",
+      "best-practices",
+      "improvement",
+      "making"
+    ],
+    "templates": [
+      "template",
+      "format",
+      "structure",
+      "agenda"
+    ],
+    "tools": [
+      "tools",
+      "software",
+      "board",
+      "miro",
+      "mural"
+    ]
   },
-  "rate_limit": 0.5,
-  "max_pages": 50
+  "rate_limit": 1.0,
+  "max_pages": 10
 }

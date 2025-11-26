@@ -1,0 +1,21 @@
+{
+  "name": "sprint-reporting-velocity",
+  "description": "Use this skill when working with sprint metrics, velocity tracking, burndown charts, cumulative flow diagrams, sprint reports, and agile team performance measurement",
+  "sources": [
+    "https://www.atlassian.com/agile/project-management/velocity-scrum",
+    "https://www.atlassian.com/agile/tutorials/burndown-charts",
+    "https://businessmap.io/kanban-resources/kanban-analytics/cumulative-flow-diagram",
+    "https://axify.io/blog/sprint-report",
+    "https://learn.microsoft.com/en-us/azure/devops/report/dashboards/team-velocity?view=azure-devops",
+    "https://learn.microsoft.com/en-us/azure/devops/boards/backlogs/manage-issues-impediments?view=azure-devops"
+  ],
+  "categories": {
+    "velocity": ["velocity", "story points", "capacity", "estimation", "forecast"],
+    "burndown": ["burndown", "burn", "remaining", "progress", "sprint"],
+    "cfd": ["cumulative", "flow", "diagram", "wip", "throughput", "cycle"],
+    "reports": ["report", "metrics", "dashboard", "analytics", "kpi"],
+    "impediments": ["blocker", "impediment", "issue", "risk", "obstacle"]
+  },
+  "created": "2025-01-23",
+  "version": "1.0"
+}

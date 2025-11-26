@@ -1,0 +1,24 @@
+{
+  "name": "retrospective-facilitation",
+  "description": "Retrospective facilitation techniques, frameworks, and best practices for agile teams. Use when facilitating sprint retrospectives, team retrospectives, or continuous improvement sessions.",
+  "urls": [
+    "https://www.scrum.org/resources/facilitation-techniques-sprint-retrospective",
+    "https://pragprog.com/titles/dlret2/agile-retrospectives-second-edition/",
+    "https://www.benlinders.com/2016/7-retrospective-facilitation-good-practices/",
+    "https://www.scrum.org/resources/blog/use-what-so-what-now-what-during-sprint-retrospective",
+    "https://blog.logrocket.com/product-management/6-liberating-structures-to-spice-up-your-retrospectives/"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .post-content, .entry-content, .article-content, #content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "categories": {
+    "techniques": ["technique", "activity", "exercise", "format", "structure", "liberating"],
+    "facilitation": ["facilitation", "facilitator", "facilitate", "practice", "good practice"],
+    "frameworks": ["what-so-what-now-what", "framework", "method", "approach"],
+    "retrospective": ["retrospective", "retro", "sprint", "review", "reflection"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 10
+}

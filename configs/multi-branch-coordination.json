@@ -1,0 +1,46 @@
+{
+  "name": "multi-branch-coordination",
+  "description": "Use this skill when working with Git branching strategies, coordinating multiple release branches, Gitflow workflow, PI planning for scaled teams, and managing parallel development streams.",
+  "base_url": "https://www.atlassian.com/agile/software-development/branching",
+  "start_urls": [
+    "https://www.atlassian.com/agile/software-development/branching",
+    "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+    "https://www.easyagile.com/blog/the-ultimate-guide-to-pi-planning-2020-safe-edition/",
+    "https://spin.atomicobject.com/2016/05/19/managing-multiple-releases-production/",
+    "https://www.methodsandtools.com/archive/archive.php?id=12"
+  ],
+  "selectors": {
+    "main_content": "main, article, .article-content, .content-body, div[role='main'], #main-content, .post-content, .entry-content",
+    "title": "h1, .entry-title, .post-title, .article-title, title",
+    "code_blocks": "pre, code, .highlight, .code-block"
+  },
+  "url_patterns": {
+    "include": [
+      "branching",
+      "gitflow",
+      "workflow",
+      "pi-planning",
+      "release",
+      "archive"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/author/",
+      "?tab=",
+      "/newsletter",
+      "/pricing",
+      "/login"
+    ]
+  },
+  "categories": {
+    "branching_strategies": ["branching", "branch", "strategy", "model"],
+    "gitflow": ["gitflow", "git flow", "workflow", "feature branch"],
+    "pi_planning": ["pi planning", "safe", "program increment", "scaled agile"],
+    "release_management": ["release", "production", "deployment", "multiple releases"],
+    "best_practices": ["best practices", "tips", "how to", "guide"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 20
+}

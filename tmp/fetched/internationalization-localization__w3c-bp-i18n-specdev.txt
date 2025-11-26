@@ -1,0 +1,173 @@
+URL: https://w3c.github.io/bp-i18n-specdev/
+
+This document provides a checklist of internationalization-related considerations when developing a specification. Most checklist items point to detailed supporting information in other documents. Where such information does not yet exist, it can be given a temporary home in this document.  
+The  information in this document will change regularly as new content is added and existing content is modified in the light of experience and discussion.
+
+This document provides advice to specification developers about how to incorporate requirements for international use. What is currently available here is expected to be useful immediately, but is still an early draft and the document is in flux, and will grow over time as knowledge applied in reviews and discussions can be crystallized into guidelines.
+
+Introduction
+
+Developers of specifications need advice  to ensure that what they produce will work for communities around the globe.
+
+The Internationalization (i18n) WG tries to assist working groups  by reviewing specifications and engaging in discussion. Often, however, such interventions come later in the process than would be ideal, or mean that the i18n WG has to repeat the same information for each working group it interacts with.
+
+It would be better if specification developers could access a checklist of best practices, which points  to explanations, examples and rationales where developers need it. Developers would then be able to build this knowledge into their work from the earliest stages, and could thereby reduce  rework needed when the i18n WG reviews their specification.
+
+This document contains the beginnings of a checklist, and points to locations where you can find explanations, examples and rationales for recommendations made.  If there is no such other place, that extra information will be added to this document. It may also be used to develop ideas and organize them.
+
+The guidelines in this document are not intended to be hard and fast requirements. This document will achieve a significant part of its purpose if, where you don't understand the guidelines or disagree with them, you contact the Internationalization WG to discuss what should be done.
+
+In this document, the term 
+natural language
+ is usually used to refer to the portions of a document or protocol intended for human consumption. The term 
+localizable text
+ is used to refer to the natural language content of formal languages, protocol syntaxes and the like, as distinct from 
+syntactic content
+ or 
+user-supplied values
+. See the [[I18N-GLOSSARY]] for definitions of these and other terms used by the Internationalization Working Group.
+
+Create a github checklist
+
+A checklist feature is provided with this page to help you review your spec for internationalization. The results of the review should be posted to a GitHub issue.
+
+Follow these steps for each section that is relevant to your spec:
+
+Open the checklist by clicking on "Show the self-review checklist".
+
+For each requirement that is relevant to your spec, click on the first checkbox.
+
+For each requirement that your spec fulfills, click on the second checkbox. (Tip: To save time, clicking on the second checkbox will automatically turn on the first checkbox, too.)
+
+When finished, click on the button "Create markdown for GitHub". This will produce markdown for just the requirements that you indicated were relevant to your spec.
+
+Copy the markdown code to a comment in a GitHub issue where you are capturing the results of your self-review work. If you have already done a review using the short review checklist you should copy the results produced here to other comment fields in that issue. This keeps all the review information together. Note that you'll need to repeat this copy-paste for each of the sections that contain requirements relevant to your spec.
+
+Add clarification notes for the results by editing the markdown in the GitHub issue.
+
+Ensure that your GitHub issue has the i18n-tracker label set, so that the Internationalization WG is aware of your review results.
+
+When and how to write an 
+Internationalization Considerations
+ section in your spec
+
+See related review comments.
+
+All additions of or changes to an 
+Internationalization Considerations
+ section MUST be reviewed by the Internationalization (i18n) WG.
+
+If you create an internationalization considerations section, it MUST have the title 
+Internationalization Considerations
+ or 
+Internationalization (i18n) Considerations
+.
+
+Specifications are not required to include a special section or appendix describing internationalization considerations of their specification. In general, the Internationalization WG instead prefers that information about language, regional, or cultural variation, support, or adaptation appear in the body of the specification, closely associated with the relevant features.
+
+However, there are a few cases in which you might consider providing a section like this. Consider including an internationalization considerations section when:
+
+International features require additional explanation that would otherwise interfere with or clutter-up the body of the specification.
+
+You wish to provide examples of features, such as localization, without interfering with the body of the specification. For example, summaries of the general approach taken, or factors that affect the approach taken throughout the document.
+
+There are specific limitations or problems that your specification is unable to address, such as (but not limited to) technology that is evolving but not yet ready for inclusion; limitations discovered during the horizontal review process that you intend to address in future versions; or deliberate design decisions that limit or impact certain languages, groups, or cultures.
+
+You have other information you wish to provide to adopters or implementers that doesn't fit with the remainder of your spec.
+
+If you decide to create an Internationalization Considerations section, it will usually be as an appendix. However, the order and placement relative to other parts of your spec or to other appendices is up to you.
+
+If you decide to create an Internationalization Considerations section, you need to mention it in your horizontal review request to the Internationalization WG. The review request template includes a checkbox which allows you to do this easily.
+
+Language
+
+Language basics
+
+Useful background and overviews for this section
+
+Why use the language attribute?
+.
+
+Types of language declaration
+. How 'metadata' and 'text-processing' types of language information differ.
+
+Use cases for bidi and language metadata on the Web
+.
+
+It should be possible to associate a language with any piece of 
+localizable text
+ or 
+natural language
+ content.
+
+more
+
+Why use the language attribute?
+
+Use cases for bidi and language metadata on the Web
+
+Where possible, there should  be a way to label 
+natural language
+ changes in inline text.
+
+Text is rendered or processed differently according to the language it is in. For example, screen readers need to be prompted when a language changes, and spell checkers should be language-sensitive. When rendering text a knowledge of language is need in order to apply correct fonts, hyphenation, line-breaking, upper/lower case changes, and other features.
+
+For example, ideographic characters such as 雪, 刃, 直, 令, 垔 have slight but important differences when used with  Japanese vs Chinese fonts, and it's important not to apply a Chinese font to the Japanese text, and vice versa when it is presented to a user.
+
+Consider whether it is useful to express the [=intended linguistic audience=] of a resource, in addition to specifying the language used for 
+text processing
+.
+
+more
+
+Types of language declaration
+
+Language information for a given resource can be used with two main objectives in mind: for text-processing, or as a statement of the intended use of the resource. We will explain the difference below.
+
+Text-processing language information
+
+A language declaration that indicates the [=text-processing language=] for a range of text must associate  a single language  value with a specific range of text.
+
+When specifying the 
+text-processing language
+ you are declaring the language in which 
+a specific range of text is actually written
+, so that user agents or applications that manipulate the text, such as voice browsers, spell checkers,  style processors, hyphenators, etc., can apply the appropriate rules to the text in question. So we are, by necessity, talking about associating a 
+single
+ language with a 
+specific
+ range of text.
+
+It is normal to express a text-processing language as the default language, for processing the resource as a whole, but it may also be necessary to indicate where the language changes within the resource.
+
+Use the HTML 
+lang
+ and XML 
+xml:lang
+ language attributes where appropriate to identify the 
+text processing language
+, rather than creating a new attribute or mechanism.
+
+  
+    To identify the text-processing language for a range of text, HTML provides the 
+lang
+ attribute, while XML provides 
+xml:lang
+ which can be used in all XML formats. It's useful to continue using those attributes for relevant markup formats, since authors recognize them, as do HTML and XML processors.
+  
+
+Language metadata about the resource as a whole
+
+It may also be useful to describe the language of a resource 
+as a whole
+. This type of language declaration is called the 
+intended linguistic audience
+ 
+of a resource
+. For example, such metadata may be used for searching, serving the right language version, classification, etc. 
+
+This type of language declaration differs from that of the text-processing declaration in that (a)  the value for such declarations may be more than one  language subtag, and (b) the language value declared doesn't indicate which bits of a multilingual resource are in which language.
+
+It should be possible to associate a  metadata-type language declaration (which indi
+
+[Content truncated]

@@ -1,0 +1,103 @@
+{
+  "name": "cicd-deployment-release",
+  "description": "CI/CD pipelines, deployment strategies, and release automation. Use for Jenkins pipelines, GitLab CI, CircleCI, Azure DevOps, blue-green deployments, canary releases, feature flags, infrastructure as code (Terraform), GitOps (ArgoCD, Flagger), DORA metrics, and SRE practices.",
+  "sources": [
+    {
+      "name": "Jenkins Pipeline",
+      "urls": [
+        "https://www.jenkins.io/doc/book/pipeline/",
+        "https://www.jenkins.io/doc/book/pipeline/syntax/",
+        "https://www.jenkins.io/doc/book/pipeline/getting-started/"
+      ]
+    },
+    {
+      "name": "GitLab CI/CD",
+      "urls": [
+        "https://docs.gitlab.com/topics/build_your_application/",
+        "https://docs.gitlab.com/user/analytics/dora_metrics/"
+      ]
+    },
+    {
+      "name": "CircleCI",
+      "urls": [
+        "https://circleci.com/docs/",
+        "https://circleci.com/docs/guides/deploy/deployment-overview/"
+      ]
+    },
+    {
+      "name": "Azure DevOps",
+      "urls": [
+        "https://learn.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops",
+        "https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/?view=azure-pipelines"
+      ]
+    },
+    {
+      "name": "Deployment Strategies",
+      "urls": [
+        "https://circleci.com/blog/canary-vs-blue-green-downtime/",
+        "https://www.harness.io/blog/blue-green-canary-deployment-strategies",
+        "https://www.cncf.io/blog/2023/05/04/mastering-deployment-strategies-a-comprehensive-guide-to-blue-green-canary-and-more/",
+        "https://opensource.com/article/17/5/colorful-deployments",
+        "https://traefik.io/glossary/kubernetes-deployment-strategies-blue-green-canary",
+        "https://spacelift.io/blog/kubernetes-deployment-strategies",
+        "https://spot.io/resources/kubernetes-autoscaling/8-kubernetes-deployment-strategies/",
+        "https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3"
+      ]
+    },
+    {
+      "name": "Feature Flags",
+      "urls": [
+        "https://launchdarkly.com/docs/home/flags/import",
+        "https://launchdarkly.com/compare/launchdarkly-vs-harness/",
+        "https://www.split.io/launchdarkly-comparison/"
+      ]
+    },
+    {
+      "name": "SRE & Continuous Delivery",
+      "urls": [
+        "https://sre.google/sre-book/table-of-contents/",
+        "https://sre.google/books/",
+        "https://sre.google/resources/book-update/",
+        "https://martinfowler.com/books/continuousDelivery.html",
+        "https://martinfowler.com/bliki/ContinuousDelivery.html",
+        "https://martinfowler.com/tags/delivery.html"
+      ]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "urls": [
+        "https://developer.hashicorp.com/terraform",
+        "https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code",
+        "https://docs.aws.amazon.com/prescriptive-guidance/latest/choose-iac-tool/terraform.html",
+        "https://docs.cloud.google.com/docs/terraform/iac-overview",
+        "https://cloud.google.com/docs/terraform/resource-management/managing-infrastructure-as-code"
+      ]
+    },
+    {
+      "name": "DORA Metrics",
+      "urls": [
+        "https://www.atlassian.com/devops/frameworks/dora-metrics",
+        "https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance",
+        "https://circleci.com/blog/dora-metrics/",
+        "https://www.splunk.com/en_us/blog/learn/devops-metrics.html"
+      ]
+    },
+    {
+      "name": "GitOps",
+      "urls": [
+        "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/",
+        "https://argo-cd.readthedocs.io/en/stable/",
+        "https://flagger.app/"
+      ]
+    }
+  ],
+  "categories": {
+    "ci_cd_platforms": ["jenkins", "gitlab", "circleci", "azure", "pipeline", "workflow"],
+    "deployment_strategies": ["blue-green", "canary", "rolling", "recreate", "a-b", "shadow", "feature-flag"],
+    "infrastructure_as_code": ["terraform", "iac", "infrastructure", "provisioning", "cloudformation"],
+    "gitops": ["argocd", "flagger", "flux", "gitops", "kubernetes", "progressive"],
+    "sre_practices": ["sre", "reliability", "monitoring", "observability", "incident", "postmortem"],
+    "dora_metrics": ["dora", "deployment-frequency", "lead-time", "mttr", "change-failure-rate"],
+    "release_management": ["release", "versioning", "changelog", "semantic", "automation"]
+  }
+}

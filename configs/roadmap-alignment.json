@@ -1,0 +1,46 @@
+{
+  "name": "roadmap-alignment",
+  "description": "Use this skill when working with product roadmap alignment, connecting roadmaps to OKRs and strategy, agile roadmap practices, and ensuring stakeholder alignment on product direction.",
+  "base_url": "https://www.atlassian.com/agile/product-management/roadmaps",
+  "start_urls": [
+    "https://romanpichler.medium.com/okrs-and-product-roadmaps-5c00773b32c0",
+    "https://www.scrum.org/resources/blog/tips-agile-product-roadmaps-product-roadmap-examples",
+    "https://framework.scaledagile.com/roadmap",
+    "https://www.atlassian.com/agile/agile-at-scale/okr",
+    "https://www.atlassian.com/agile/product-management/roadmaps"
+  ],
+  "selectors": {
+    "main_content": "main, article, .article-content, .content-body, div[role='main'], #main-content, .post-content",
+    "title": "h1, .entry-title, .post-title, .article-title, title",
+    "code_blocks": "pre, code, .highlight, .code-block"
+  },
+  "url_patterns": {
+    "include": [
+      "roadmap",
+      "okr",
+      "product-management"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/author/",
+      "#",
+      "?tab=",
+      "/newsletter",
+      "/events",
+      "/training",
+      "/pricing",
+      "/login"
+    ]
+  },
+  "categories": {
+    "okrs": ["okr", "objectives", "key results", "goals", "strategy"],
+    "agile_roadmaps": ["agile roadmap", "product roadmap", "tips", "examples"],
+    "safe_roadmap": ["safe", "scaled agile", "pi planning", "portfolio"],
+    "fundamentals": ["what is", "introduction", "basics", "overview"],
+    "best_practices": ["best practices", "tips", "how to", "alignment"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 20
+}

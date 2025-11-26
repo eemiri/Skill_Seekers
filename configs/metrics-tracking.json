@@ -1,0 +1,48 @@
+{
+  "name": "metrics-tracking",
+  "description": "Use this skill when working with agile metrics, velocity tracking, burndown charts, sprint metrics, team performance measurement, and forecasting in Scrum/Agile projects.",
+  "base_url": "https://www.atlassian.com/agile/project-management/metrics",
+  "start_urls": [
+    "https://www.atlassian.com/agile/project-management/metrics",
+    "https://www.atlassian.com/agile/tutorials/burndown-charts",
+    "https://learn.microsoft.com/en-us/azure/devops/report/dashboards/team-velocity?view=azure-devops",
+    "https://learn.microsoft.com/en-us/azure/devops/report/dashboards/velocity-guidance?view=azure-devops",
+    "https://www.scruminc.com/velocity/"
+  ],
+  "selectors": {
+    "main_content": "main, article, .article-content, .content-body, div[role='main'], #main-content, .ms-DocumentBody",
+    "title": "h1, .entry-title, .post-title, .article-title, title",
+    "code_blocks": "pre, code, .highlight, .code-block"
+  },
+  "url_patterns": {
+    "include": [
+      "metrics",
+      "velocity",
+      "burndown",
+      "dashboards",
+      "report"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/author/",
+      "#",
+      "?tab=",
+      "/newsletter",
+      "/events",
+      "/training",
+      "/pricing",
+      "/login"
+    ]
+  },
+  "categories": {
+    "velocity": ["velocity", "team velocity", "sprint velocity", "forecasting"],
+    "burndown": ["burndown", "burn down", "chart", "sprint progress"],
+    "agile_metrics": ["metrics", "agile metrics", "kpi", "measurement", "tracking"],
+    "forecasting": ["forecast", "prediction", "planning", "estimation"],
+    "best_practices": ["best practices", "guidance", "tips", "how to", "anti-pattern"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 20
+}

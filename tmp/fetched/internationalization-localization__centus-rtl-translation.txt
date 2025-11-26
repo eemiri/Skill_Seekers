@@ -1,0 +1,382 @@
+URL: https://centus.com/blog/right-to-left-languages-translation
+
+Centus
+    
+
+                        ->
+                    
+
+        Blog
+    
+
+                        ->
+                    
+
+        Localization
+    
+
+                        ->
+                    
+
+                        Right-to-Left (RTL) Localization: The Definitive Guide
+                    
+
+                Right-to-Left (RTL) Localization: The Definitive
+
+Guide
+
+Localization
+
+Chidinma Egwuogu
+
+                        17 May 2024
+                    
+
+ 7 min. read
+
+Contents
+
+Over a billion people around the world use right-to-left languages. Ignore this business opportunity at your own peril.
+
+To unlock the full potential of your 
+multilingual website
+, make it accessible to RTL audiences. Sounds like something worth trying?
+
+Read on, and I’ll show you how to adjust your design for RTL languages and perform RTL localization.
+
+Let’s get rolling.
+
+Difference between RTL and LTR languages
+
+The key difference between RTL and LTR-oriented languages lies in their writing direction. RTL scripts start at the right side of the page and move leftward. Conversely, LTR scripts move from left to right. Common examples of RTL scripts are Arabic and Hebrew. As for LTR scripts, you are reading one now.
+
+A minor difference? Not really. Make the language read from left to right and see your UX/UI turn upside down. I will show you how to get it right in the following sections.
+
+Note
+: The term “right-to-left (RTL) languages" refers to writing systems and not languages themselves. Some RTL languages, like Serbo-Croatian, can be written in two directions.
+
+How many languages are written from right to left?
+
+There are over 12 main right-to-left languages in the world. Although, the exact number can vary depending on how languages and scripts are classified. These languages are predominantly used across the Middle East, North Africa, and parts of South Asia.
+
+Arabic, Persian (Farsi), Sindhi, Hebrew, and Urdu are the most widely spoken RTL languages, as shown in the table below:
+
+Language
+
+Countries
+
+Number of Speakers
+
+ISO Code
+
+Arabic
+
+Algeria, Bahrain, Comoros, Chad, Djibouti, Egypt, Eritrea, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Palestine, Qatar, Saudi Arabia, Somalia, Sudan, Syria, Tunisia, United Arab Emirates, Yemen
+
+310 million
+
+AR
+
+Hebrew
+
+Israel, also spoken by Jewish communities worldwide
+
+9 million
+
+HE
+
+Persian/Farsi
+
+Iran, Afghanistan, Tajikistan
+
+110 million
+
+FA
+
+Urdu
+
+Pakistan, India
+
+230 million
+
+UR
+
+Kurdish (Sorani)
+
+Iraq, Iran, Turkey, Syria
+
+8 million
+
+CKB
+
+Hanifi Roghinya
+
+Myanmar (Rakhine State), Bangladesh
+
+2.5 million
+
+RHG
+
+Pashto
+
+Afghanistan, Pakistan
+
+50 million
+
+PS
+
+Maldivian (Dhivehi)
+
+Maldives
+
+340,000
+
+DV
+
+Sindhi
+
+Pakistan, India
+
+25 million
+
+SD
+
+N'Ko
+
+Guinea, Mali, Ivory Coast, Burkina Faso
+
+N/A
+
+NQO
+
+Fula (Fulfulde)
+
+West Africa (Guinea, Mali, Senegal etc.)
+
+40+ million
+
+FF
+
+Syraic
+
+Middle East (historically), Southeast
+
+N/A
+
+SYR
+
+The sheer number of speakers for these RTL languages highlights the potential for your businesses, if you are looking to 
+expand internationally
+. To put a finer point on this, consider:
+
+The Middle East and North Africa, a region dominated by languages written right to left, have a combined GDP of over 
+$4.4 trillion
+.
+
+India has the 
+second largest
+ online market, only surpassed by China.
+
+E-commerce in the MENA region is expected to reach a market volume of 
+$50 billion
+ by 2025.
+
+Now, let’s show you the steps and strategies to localize RTL languages effectively.
+
+How to perform RTL localization
+
+In a website properly localized for RTL languages, everything aligns with RTL reading patterns: from the layout to text to the overall UX. This involves translating text, adjusting its alignment, mirroring the user interface, and repositioning interactional elements.
+
+Let’s start with translation.
+
+1. Translate content
+
+Translate your website content into the target RTL language. This is, arguably, the most important step in the entire RTL localization process. But don’t let it intimidate you.
+
+You can effortlessly perform RTL translation with a localization management solution, like 
+Centus
+.
+
+Use Centus to pre-translate your content automatically. Then, assign it for review by your team. Taking this step is worth it, as machine translation engines are 
+not 100% accurate
+.
+
+You can share your new RTL translations with your team so they can leave comments and review where necessary. Once the translations have been approved, move on to the next step.
+
+2. Mirror the user interface
+
+Look at the page you are reading. You immediately know where to find the burger menu, breadcrumbs, and other navigational elements. And so do your RTL readers. Unless, of course, you forget to mirror your UI for them. Don’t overlook this step!
+
+Overall layout
+: Entire interface elements should be mirrored. This includes menus, buttons, icons text fields, and even the direction of animations and transitions.
+
+Navigation drawers
+: Typically found on the left in LTR layouts, it should be moved to the right in RTL layouts.
+
+Back and forward navigation
+: Navigation buttons should also be mirrored. The back button should point to the left and be placed on the left, while the forward button should point to the right and be placed on the right.
+
+Let’s see how Nike approaches RTL localization of its UI. Below is the English version of their website.
+
+Note how the Nike swoosh logo moved to the right side of the screen. The menu switched sides too.
+
+Note
+: Icons that convey universal actions (e.g., play, pause) or logos should not be mirrored.
+
+Other UI elements requiring localization are:
+
+Scrollbar
+: Place scrollbars on the left side of the screen.
+
+Action buttons
+: Place primary action buttons on the left side and secondary actions on the right. For instance, in a confirmation dialog, the 
+Confirm
+ button should be on the left side, and the 
+Cancel
+ button on the right.
+
+3. Adjust text and fonts
+
+Your website content has a super narrow window to make a good impression. Therefore, serve your audience the right content and present it with the right typography.
+
+Direction and alignment
+: Text should flow from the right and be aligned that way too.
+
+RTL-compatible fonts
+: Choose fonts that support RTL scripts and ensure that characters are displayed correctly.
+
+Font size and weight
+: Arabic and Hebrew lack uppercase letters, so they can appear smaller next to all-caps Latin text. For visual balance, increase the RTL font size by 2 points for buttons, labels, and titles.
+
+Numbers
+: Display numbers in the LTR format users are accustomed to. For instance, the sentence “We ate 35 apples together” shouldn’t have the number flipped. Learn more in our 
+number localization guide
+.
+
+Pro tip
+: Use the 
+Unicode Bidirectional Text (BiDi) Override characters
+ to control the direction of specific text segments within an RTL layout. This allows for exceptions like LTR numbers or proper names.
+
+4. Localize forms
+
+If you want more than just website visitors, localize forms. Thus, you’ll give them a chance to turn into prospects and your website a chance to turn into a leak-proof funnel-popper.
+
+Form fields
+: Align form labels to the right of the fields. Placeholder and input text should also start from the right.
+
+Checkboxes and switches
+: Place them to the left of their labels to maintain the natural reading flow.
+
+Column order
+: In tables, columns should also follow an RTL pattern, with the most important column starting from the right.
+
+Calendar layout
+: The layout of calendars should be mirrored, with the days of the week starting from the right. For instance, in a date picker, the days should start from Sunday on the right and end with Saturday on the left.
+
+5. Localize visual elements
+
+Don’t forget to bring the RTL-first mindset to your website’s visuals. It can give your visitors a smoother experience and, hopefully, bump the conversion rate.
+
+The visual elements that require RTL localization are:
+
+Tables
+: Adjust text direction and justification.
+
+Charts and graphs
+: Adjust axes and data points to start from the right.
+
+Progress bars and loaders
+: Animate them from right to left.
+
+Exceptions
+: Do not mirror video progress bars, elements representing real-world directions or scientific standards, and culturally-specific imagery.
+
+“Isn’t visual RTL localization difficult and time-consuming?” I pretend you ask.
+
+Grab some popcorn and find out. Scratch it—there’s not enough time for popcorn. Using proper tools, you can localize your images in mere moments. It goes like this:
+
+Translate your content in 
+Centus
+
+Integrate Centus with Figma
+
+Pull the RTL translations into Figma
+
+Align the visual elements in the RTL direction
+
+Told you: it’s not difficult with the right tools at hand. 
+Try Centus now
+!
+
+Get the week's best content!
+
+Subscribe now
+
+->
+
+                                By subscribing, you are agreeing to have your personal information managed in accordance with the terms of Centus 
+
+                                      Privacy Policy
+                                 
+
+                                            ->
+                                       
+
+                    Start 
+translating
+ now!
+                
+
+                    Try now 
+->
+
+Translator
+
+Job in progress
+
+Landing page
+
+890 words translated
+
+Solutions page
+
+Localization manager
+
+Assigned the job on mobile app
+
+Enjoyed the article?
+
+Share it
+ with your colleagues and partners 🤩
+
+                Keep 
+learning
+
+28 Jun 2025
+
+10 min. read
+
+                    What Is UI and UX Localization
+                
+
+                    What is UI and UX localization? Discover how UIUX localization forms the foundation of globally engaging and culturally responsive digital experiences.
+                
+
+                        Read more
+                    
+
+->
+
+Localization
+
+27 Sep 2024
+
+9 min. read
+
+                    7 Best Machine Translation Software Tools
+                
+
+                    Discover the 
+
+[Content truncated]
