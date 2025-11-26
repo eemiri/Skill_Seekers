@@ -1,0 +1,148 @@
+{
+  "name": "nonfunctional-constraints",
+  "description": "When to use this skill: For translating non-functional requirements (Performance, Security, Scalability, Compliance) into concrete guardrails and implementation guidelines",
+  "base_url": "https://www.altexsoft.com/blog/non-functional-requirements/",
+  "selectors": {
+    "main_content": "div.et_postinfo_wrapper, div.post-content, article, main",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "non-functional-requirements",
+      "nfr",
+      "non-functional",
+      "performance",
+      "security",
+      "scalability",
+      "compliance",
+      "usability",
+      "maintainability",
+      "reliability",
+      "availability"
+    ],
+    "exclude": [
+      "/tag/",
+      "/category/",
+      "/author/",
+      "/page/",
+      "/wp-admin/",
+      "/wp-content/",
+      "/search/",
+      "#",
+      "?",
+      ".jpg",
+      ".png",
+      ".gif",
+      ".css",
+      ".js"
+    ]
+  },
+  "categories": {
+    "getting_started": [
+      "introduction",
+      "overview",
+      "what are",
+      "basics",
+      "getting started",
+      "non-functional requirements",
+      "NFRs"
+    ],
+    "performance": [
+      "performance",
+      "response time",
+      "throughput",
+      "latency",
+      "load time",
+      "speed",
+      "efficiency"
+    ],
+    "security": [
+      "security",
+      "authentication",
+      "authorization",
+      "encryption",
+      "vulnerability",
+      "threat",
+      "protection"
+    ],
+    "scalability": [
+      "scalability",
+      "scaling",
+      "capacity",
+      "load balancing",
+      "horizontal scaling",
+      "vertical scaling"
+    ],
+    "compliance": [
+      "compliance",
+      "regulatory",
+      "standards",
+      "audit",
+      "governance",
+      "legal",
+      "privacy"
+    ],
+    "usability": [
+      "usability",
+      "user experience",
+      "accessibility",
+      "interface",
+      "interaction",
+      "user friendly"
+    ],
+    "maintainability": [
+      "maintainability",
+      "maintenance",
+      "code quality",
+      "refactoring",
+      "technical debt",
+      "documentation"
+    ],
+    "reliability": [
+      "reliability",
+      "availability",
+      "fault tolerance",
+      "disaster recovery",
+      "backup",
+      "resilience"
+    ],
+    "guardrails": [
+      "guardrails",
+      "constraints",
+      "limits",
+      "thresholds",
+      "metrics",
+      "monitoring",
+      "implementation"
+    ],
+    "examples": [
+      "examples",
+      "case studies",
+      "best practices",
+      "patterns",
+      "templates",
+      "checklists"
+    ]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150,
+  "additional_sources": [
+    {
+      "name": "Scaled Agile Framework",
+      "base_url": "https://framework.scaledagile.com/nonfunctional-requirements/",
+      "selectors": {
+        "main_content": "div.entry-content, article, main",
+        "title": "h1, title"
+      }
+    },
+    {
+      "name": "Wikipedia NFR",
+      "base_url": "https://en.wikipedia.org/wiki/Non-functional_requirement",
+      "selectors": {
+        "main_content": "div.mw-parser-output, #content",
+        "title": "h1, title"
+      }
+    }
+  ]
+}

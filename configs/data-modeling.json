@@ -1,0 +1,21 @@
+{
+  "name": "data-modeling",
+  "description": "Domain-driven design data modeling with ER diagrams, persistence models, and database entity relationships. Covers domain entities, relational database design, aggregate patterns, and modeling best practices.",
+  "base_url": "https://www.cockroachlabs.com/blog/",
+  "selectors": {
+    "main_content": "article",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["relational-database-entities"],
+    "exclude": ["/tag/", "/search", "/category"]
+  },
+  "categories": {
+    "domain_model": ["domain", "model", "entity", "value object", "aggregate"],
+    "persistence": ["database", "relational", "sql", "entity framework", "ef core"],
+    "modeling": ["modeling", "design", "patterns", "relationships", "schema"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 25
+}

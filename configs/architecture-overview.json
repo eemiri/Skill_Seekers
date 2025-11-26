@@ -1,0 +1,31 @@
+{
+  "name": "architecture-overview",
+  "description": "Use this skill when you need help with software architecture design, C4 model diagrams, tech stack decisions, architecture patterns, or system design guidance. Includes high-level architecture planning, container/component design, and technology selection frameworks.",
+  "base_url": "https://c4model.com/",
+  "selectors": {
+    "main_content": "main article, .content, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search", "/tag/", "/category/", "/feed/", "/assets/", "/css/", "/js/", "/images/"]
+  },
+  "categories": {
+    "c4_model": ["context", "container", "component", "code", "diagram", "c4"],
+    "tech_stack": ["tech-stack", "technology", "framework", "backend", "frontend", "database"],
+    "architecture_patterns": ["pattern", "architecture", "design", "system", "microservices", "monolith"],
+    "decision_frameworks": ["decision", "selection", "criteria", "trade-off", "evaluation", "framework"],
+    "examples": ["example", "case-study", "tutorial", "guide", "how-to"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 200,
+  "additional_sources": [
+    "https://www.infoq.com/articles/C4-architecture-model/",
+    "https://fullscale.io/blog/how-to-choose-tech-stack/",
+    "https://www.bairesdev.com/blog/backend-architecture/",
+    "https://www.lucidchart.com/blog/how-to-choose-the-right-technology-stack-for-software-architecture",
+    "https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/",
+    "https://syndicode.com/blog/how-to-choose-tech-stack/"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "bmad-architect-interface-contracts",
+  "description": "API/Contract Design skill focusing on REST APIs, GraphQL, OpenAPI specifications, input/output schemas, and error handling (Fehlercodes). Use when designing API contracts, defining schema specifications, implementing error handling strategies, or working with REST/GraphQL/Eventing architectures.",
+  "base_url": "https://graphql.org/",
+  "specific_urls": [
+    "https://graphql.org/",
+    "https://www.openapis.org/faq",
+    "https://openapispec.com/docs/how/how-can-i-use-openapi-with-graphql/",
+    "https://www.koyeb.com/blog/understanding-rest-grpc-graphql-and-openapi-to-build-your-apis",
+    "https://github.com/IBM/openapi-to-graphql",
+    "https://www.prisma.io/blog/how-to-wrap-a-rest-api-with-graphql-8bf3fb17547d",
+    "https://stepzen.com/blog/open-api-and-graphql-bridging-the-gap"
+  ],
+  "start_urls": [
+    "https://graphql.org/learn/",
+    "https://graphql.org/docs/",
+    "https://graphql.org/code/",
+    "https://www.openapis.org/documentation",
+    "https://openapispec.com/docs/",
+    "https://github.com/IBM/openapi-to-graphql/blob/main/README.md"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], div.content, div.entry-content, div.post-content, div.markdown-body, section.documentation, div.docs-content",
+    "title": "h1, h2, title",
+    "code_blocks": "pre, code, .highlight, .codehilite"
+  },
+  "url_patterns": {
+    "include": ["/learn/", "/docs/", "/code/", "/documentation/", "/faq", "/blog/", "/tutorial/", "/guide/"],
+    "exclude": ["/search", "/examples#", "/#", "/_static/", "/node_modules/", "/dist/"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "getting-started", "tutorial", "quickstart", "basics"],
+    "graphql_concepts": ["graphql", "schema", "resolver", "query", "mutation", "subscription"],
+    "rest_apis": ["rest", "http", "api", "endpoint", "resource", "method"],
+    "openapi_specification": ["openapi", "swagger", "specification", "oas", "documentation"],
+    "schema_design": ["schema", "type", "validation", "json-schema", "model", "contract"],
+    "error_handling": ["error", "exception", "fault", "fehlercode", "response", "status", "handling"],
+    "api_design": ["design", "pattern", "best-practice", "architecture", "principles"],
+    "integration": ["integration", "converter", "bridge", "wrapper", "transformation"],
+    "eventing": ["event", "webhook", "subscription", "notification", "messaging"]
+  },
+  "rate_limit": 0.8,
+  "max_pages": 300,
+  "language_keywords": {
+    "graphql": ["graphql", "gql", "schema", "type", "Query", "Mutation", "Subscription"],
+    "json": ["json", "object", "array", "property", "schema"],
+    "yaml": ["yaml", "yml", "openapi", "swagger"],
+    "javascript": ["javascript", "js", "node", "fetch", "axios"],
+    "python": ["python", "py", "requests", "fastapi", "django"],
+    "typescript": ["typescript", "ts", "interface", "type"]
+  }
+}

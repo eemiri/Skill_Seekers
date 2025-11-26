@@ -1,0 +1,32 @@
+{
+  "name": "component-design",
+  "description": "When you need help with component-based architecture, component design patterns, module decomposition, responsibilities, and boundaries in software engineering",
+  "base_url": "https://www.geeksforgeeks.org/system-design/component-based-architecture-system-design/",
+  "selectors": {
+    "main_content": "div.entry-content",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/login/", "/register/", "/contribute/", "/practice/"]
+  },
+  "categories": {
+    "fundamentals": ["architecture", "component-based", "fundamentals", "introduction", "basics"],
+    "patterns": ["patterns", "design-patterns", "decomposition", "composition"],
+    "boundaries": ["boundaries", "interfaces", "contracts", "responsibilities", "coupling"],
+    "implementation": ["implementation", "examples", "practice", "case-study", "tutorial"],
+    "methodologies": ["methodology", "approach", "guide", "best-practices"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 150,
+  "additional_sources": [
+    "https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm",
+    "https://www.mendix.com/blog/what-is-component-based-architecture/",
+    "https://blog.pixelfreestudio.com/how-to-use-design-patterns-with-component-based-architecture/",
+    "https://medium.com/omarelgabrys-blog/component-based-architecture-3c3c23c7e348",
+    "https://en.wikipedia.org/wiki/Component-based_software_engineering",
+    "https://marutitech.com/guide-to-component-based-architecture/",
+    "https://hewi.blog/software-architecture-the-hard-partschapter-5-component-based-decomposition-patterns"
+  ]
+}

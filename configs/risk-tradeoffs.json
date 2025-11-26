@@ -1,0 +1,26 @@
+{
+  "name": "risk-tradeoffs",
+  "description": "Use for architectural decision records (ADRs), risk analysis, technical trade-offs, and documenting architecture decisions with pros/cons and recommendations",
+  "base_url": "https://github.com/joelparkerhenderson/architecture-decision-record",
+  "selectors": {
+    "main_content": "markdown-body",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["/blob/"],
+    "exclude": ["/issues/", "/pull/", "/releases/", "/actions/"]
+  },
+  "categories": {
+    "adr_basics": ["adr", "introduction", "overview", "getting-started", "basics"],
+    "templates": ["template", "example", "sample", "format"],
+    "process": ["process", "workflow", "how-to", "guide"],
+    "best_practices": ["best", "practice", "guideline", "recommendation"],
+    "risk_analysis": ["risk", "trade-off", "alternative", "analysis"],
+    "aws_guidance": ["aws", "amazon", "cloud"],
+    "azure_guidance": ["azure", "microsoft"],
+    "tools": ["tool", "automation", "generator"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 150
+}
