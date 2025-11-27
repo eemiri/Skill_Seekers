@@ -1,0 +1,22 @@
+{
+  "name": "microsoft-code-reviews",
+  "description": "Microsoft's engineering playbook for code reviews and pull requests",
+  "base_url": "https://microsoft.github.io/code-with-engineering-playbook/code-reviews/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "principles"],
+    "pull_requests": ["pull-requests", "pr", "workflow"],
+    "culture": ["culture", "mindset", "best-practices"],
+    "process": ["process", "guidelines", "checklist"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

@@ -1,0 +1,23 @@
+{
+  "name": "github-pr-reviews",
+  "description": "GitHub documentation about pull request reviews and code collaboration",
+  "base_url": "https://docs.github.com/articles/about-pull-request-reviews/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "basics"],
+    "features": ["features", "functionality", "capabilities"],
+    "workflow": ["workflow", "process", "steps"],
+    "collaboration": ["collaboration", "team", "comments"],
+    "permissions": ["permissions", "access", "roles"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

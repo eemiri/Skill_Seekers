@@ -1,0 +1,22 @@
+{
+  "name": "conventional-commits",
+  "description": "Conventional Commits specification for standardized commit messages",
+  "base_url": "https://www.conventionalcommits.org/en/v1.0.0/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "summary"],
+    "specification": ["specification", "spec", "format"],
+    "examples": ["examples", "usage", "faqs"],
+    "tools": ["tools", "integrations", "automation"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

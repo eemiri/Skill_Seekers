@@ -1,0 +1,31 @@
+{
+  "name": "bmad-orch-context-pack-builder",
+  "description": "When to use this skill: Use this skill when you need to build context packs, manage context windows, orchestrate agents, optimize context length for LLMs, implement API design patterns, or work with agentic AI patterns and workflow orchestration.",
+  "base_url": "https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent-orchestration/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/frameworks/agent-orchestration/", "/en-us/semantic-kernel/", "/en-us/azure/architecture/best-practices/", "/think/topics/context-window/", "/prescriptive-guidance/latest/agentic-ai-patterns/", "/blog/top-6-techniques-to-manage-context-length-in-llms/"],
+    "exclude": ["/examples/", "/samples/", "/blog/", "/news/"]
+  },
+  "categories": {
+    "context_management": ["context", "window", "length", "optimization", "packing", "chunking"],
+    "agent_orchestration": ["orchestration", "workflow", "agent", "collaboration", "coordination", "patterns"],
+    "semantic_kernel": ["semantic-kernel", "kernel", "skills", "planners", "connectors", "plugins"],
+    "api_design": ["api-design", "architecture", "best-practices", "patterns", "principles"],
+    "llm_optimization": ["techniques", "optimization", "efficiency", "token-management", "prompt-engineering"]
+  },
+  "additional_sources": [
+    "https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent-orchestration/",
+    "https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/workflow-orchestration-agents.html",
+    "https://www.ibm.com/think/topics/context-window",
+    "https://agenta.ai/blog/top-6-techniques-to-manage-context-length-in-llms",
+    "https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design"
+  ],
+  "rate_limit": 1.0,
+  "max_pages": 300,
+  "enhance": true
+}

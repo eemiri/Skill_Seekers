@@ -1,0 +1,40 @@
+{
+  "name": "story-implementation",
+  "description": "Use this skill when implementing user stories, applying clean code principles, software design patterns, SOLID principles, and following Google's engineering practices for software development",
+  "base_url": "https://refactoring.guru/design-patterns",
+  "selectors": {
+    "main_content": "main, .content, article, div[role='main']",
+    "title": "title, h1",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["design-patterns", "clean-code", "refactoring"],
+    "exclude": ["/search", "/#", "javascript:void(0)", "/book#buy"]
+  },
+  "categories": {
+    "engineering_practices": ["engineering", "practices", "google", "review", "testing", "review"],
+    "user_stories": ["user", "story", "stories", "agile", "acceptance", "criteria", "glossary"],
+    "clean_code": ["clean", "code", "naming", "functions", "comments", "formatting", "refactoring"],
+    "design_patterns": ["pattern", "patterns", "creational", "structural", "behavioral", "factory", "singleton", "observer", "strategy"],
+    "solid_principles": ["solid", "single", "responsibility", "open", "closed", "liskov", "interface", "segregation", "dependency"]
+  },
+  "custom_content": {
+    "google_engineering_practices": {
+      "title": "Google Engineering Practices",
+      "content": "# Google Engineering Practices\n\n## Code Review\n- Keep reviews small and focused\n- Be constructive and respectful\n- Look for logic errors, security issues, and performance problems\n- Ensure code follows style guidelines\n\n## Testing\n- Write unit tests for all public methods\n- Use integration tests for component interactions\n- Aim for high code coverage\n- Test edge cases and error conditions\n\n## Documentation\n- Document public APIs\n- Comment complex logic\n- Keep documentation up to date\n\n## Style Guidelines\n- Follow language-specific style guides\n- Use consistent formatting\n- Choose meaningful names",
+      "category": "engineering_practices"
+    },
+    "user_stories_guide": {
+      "title": "User Stories Guide",
+      "content": "# User Stories\n\n## Structure\n- **As a** [type of user]\n- **I want** [some goal]\n- **So that** [some reason]\n\n## Acceptance Criteria\n- Must be testable\n- Clear and unambiguous\n- Defines completion\n- Business value focused\n\n## Good Practices\n- Keep stories small and focused\n- Make them independent\n- Negotiable and valuable\n- Estimable\n- Testable\n\n## Examples\n```\nAs a registered user,\nI want to reset my password,\nSo that I can access my account if I forget it.\n\nAcceptance Criteria:\n- User can request password reset\n- User receives reset email\n- User can set new password with reset link\n- Old password becomes invalid\n```",
+      "category": "user_stories"
+    },
+    "solid_principles_overview": {
+      "title": "SOLID Principles",
+      "content": "# SOLID Principles\n\n## S - Single Responsibility Principle\n- A class should have only one reason to change\n- Each class should handle one specific responsibility\n\n## O - Open/Closed Principle\n- Software entities should be open for extension, closed for modification\n- Use interfaces and abstract classes\n\n## L - Liskov Substitution Principle\n- Subtypes must be substitutable for their base types\n- Don't violate the contract of the base class\n\n## I - Interface Segregation Principle\n- Many specific interfaces are better than one general interface\n- Clients shouldn't depend on methods they don't use\n\n## D - Dependency Inversion Principle\n- High-level modules should not depend on low-level modules\n- Both should depend on abstractions\n- Abstractions shouldn't depend on details\n\n## Benefits\n- More maintainable code\n- Easier testing\n- Better flexibility\n- Reduced coupling",
+      "category": "solid_principles"
+    }
+  },
+  "rate_limit": 0.5,
+  "max_pages": 150
+}

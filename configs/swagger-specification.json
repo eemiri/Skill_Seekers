@@ -1,0 +1,21 @@
+{
+  "name": "swagger-specification",
+  "description": "OpenAPI/Swagger specification for API documentation and contracts",
+  "base_url": "https://swagger.io/specification/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/specification/"],
+    "exclude": ["/tools/", "/blog/", "/pricing/"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "what-is", "getting-started"],
+    "specifications": ["specification", "structure", "format", "schema"],
+    "examples": ["examples", "samples", "usage"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

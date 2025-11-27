@@ -1,0 +1,244 @@
+{
+  "name": "bmad-orch.multi-track-sync",
+  "description": "Use this skill for implementing multi-track synchronization in large-scale agile environments. Covers Agile Release Train (ART) coordination, LeSS multi-team frameworks, branching strategies, synchronization patterns, and high-velocity development workflows.",
+  "base_url": "https://scaledagileframework.com/agile-release-train/",
+  "selectors": {
+    "main_content": ".entry-content, .content, div.articleContent, .row-layout, #main-content",
+    "title": "h1.wp-block-heading, h1, .title",
+    "code_blocks": "pre, code, .wp-block-code"
+  },
+  "url_patterns": {
+    "include": [
+      "/agile-release-train",
+      "/less/framework/",
+      "/coordination-and-integration",
+      "/articles/",
+      "/branching-patterns.html",
+      "/agile-at-scale/",
+      "/blog/vcs/",
+      "/framework/"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/wp-admin/",
+      "/feed",
+      "/rss",
+      "/atom",
+      ".jpg",
+      ".png",
+      ".pdf",
+      "/download",
+      "mailto:",
+      "tel:"
+    ]
+  },
+  "categories": {
+    "agile_release_train": [
+      "agile-release-train",
+      "art",
+      "release-train",
+      "pi-planning",
+      "program-increment",
+      "train",
+      "scrum-of-scrums",
+      "product-management",
+      "system-architect",
+      "release-management"
+    ],
+    "coordination_patterns": [
+      "coordination",
+      "integration",
+      "multi-team",
+      "synchronization",
+      "dependencies",
+      "team-workflow",
+      "feature-teams",
+      "component-teams",
+      "area-owners",
+      "cross-team"
+    ],
+    "branching_strategies": [
+      "branching-patterns",
+      "branching-strategies",
+      "version-control",
+      "vcs",
+      "git-flow",
+      "github-flow",
+      "gitlab-flow",
+      "trunk-based",
+      "feature-branches",
+      "release-branches",
+      "hotfix-branches",
+      "merge-strategies"
+    ],
+    "implementation": [
+      "implementation",
+      "guidance",
+      "best-practices",
+      "patterns",
+      "anti-patterns",
+      "metrics",
+      "kpi",
+      "performance",
+      "scaling",
+      "transformation"
+    ],
+    "organizational_design": [
+      "organizational",
+      "structure",
+      "roles",
+      "responsibilities",
+      "leadership",
+      "governance",
+      "planning",
+      "delivery",
+      "value-stream"
+    ],
+    "technical_coordination": [
+      "technical",
+      "architecture",
+      "integration",
+      "api",
+      "interfaces",
+      "contracts",
+      "continuous-integration",
+      "continuous-delivery",
+      "devops",
+      "infrastructure"
+    ]
+  },
+  "additional_sources": [
+    {
+      "name": "large-scale-scrum-less",
+      "base_url": "https://less.works/less/framework/coordination-and-integration",
+      "selectors": {
+        "main_content": ".content",
+        "title": "h1",
+        "code_blocks": "pre, code"
+      },
+      "url_patterns": {
+        "include": ["/less/framework/", "/coordination", "/integration"],
+        "exclude": ["/tag/", "/search", "/category/"]
+      }
+    },
+    {
+      "name": "martin-fowler-branching",
+      "base_url": "https://martinfowler.com/articles/branching-patterns.html",
+      "selectors": {
+        "main_content": "div.articleContent",
+        "title": "h1",
+        "code_blocks": "pre, code"
+      },
+      "url_patterns": {
+        "include": ["/articles/", "/branching", "/patterns"],
+        "exclude": ["/feed", "/rss", "/search"]
+      }
+    },
+    {
+      "name": "atlassian-less",
+      "base_url": "https://www.atlassian.com/agile/agile-at-scale/less",
+      "selectors": {
+        "main_content": ".row-layout",
+        "title": "h1",
+        "code_blocks": "pre, code"
+      },
+      "url_patterns": {
+        "include": ["/agile/agile-at-scale/", "/less"],
+        "exclude": ["/search", "/tag/", "/category/"]
+      }
+    },
+    {
+      "name": "perforce-branching",
+      "base_url": "https://www.perforce.com/blog/vcs/best-branching-strategies-high-velocity-development",
+      "selectors": {
+        "main_content": "#main-content",
+        "title": "h1, .title",
+        "code_blocks": "pre, code"
+      },
+      "url_patterns": {
+        "include": ["/blog/", "/vcs/", "/branching"],
+        "exclude": ["/search", "/tag/", "/category/"]
+      }
+    }
+  ],
+  "rate_limit": 1.0,
+  "max_pages": 200,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+  "timeout": 30,
+  "max_retries": 3,
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1"
+  },
+  "extraction": {
+    "remove_selectors": [
+      "script",
+      "style",
+      "nav",
+      "header",
+      "footer",
+      ".sidebar",
+      ".navigation",
+      ".menu",
+      ".ads",
+      ".advertisement",
+      ".social-share",
+      ".comments",
+      ".related-articles",
+      ".collection-container",
+      ".wp-block-column.sidebar-safe-next"
+    ],
+    "clean_whitespace": true,
+    "extract_metadata": true,
+    "extract_links": true,
+    "extract_images": true
+  },
+  "enhancement": {
+    "focus_areas": [
+      "agile release train coordination",
+      "multi-team synchronization patterns",
+      "branching strategies for parallel development",
+      "LeSS coordination frameworks",
+      "continuous integration across teams",
+      "dependency management strategies",
+      "scrum of scrums implementation",
+      "feature flag strategies",
+      "integration patterns and practices",
+      "technical architecture alignment",
+      "organizational scaling strategies",
+      "metrics and KPIs for synchronization"
+    ],
+    "code_languages": [
+      "git",
+      "bash",
+      "yaml",
+      "json",
+      "markdown",
+      "plantuml",
+      "mermaid",
+      "shell"
+    ],
+    "patterns_to_extract": [
+      "Release planning templates",
+      "Synchronization workflows",
+      "Branching diagram patterns",
+      "Integration checklists",
+      "Team coordination protocols",
+      "Communication matrices",
+      "Dependency tracking strategies",
+      "Risk mitigation patterns"
+    ]
+  },
+  "special_features": {
+    "diagram_extraction": true,
+    "workflow_patterns": true,
+    "organizational_charts": true,
+    "timeline_patterns": true,
+    "integration_diagrams": true
+  }
+}

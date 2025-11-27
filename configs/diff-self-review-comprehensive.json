@@ -1,0 +1,31 @@
+{
+  "name": "diff-self-review",
+  "description": "Comprehensive code review and self-review practices covering Google engineering practices, pre-commit hooks, conventional commits, Microsoft code review practices, and GitHub PR reviews",
+  "base_url": "https://google.github.io/eng-practices/review/",
+  "additional_sources": [
+    "https://pre-commit.com/",
+    "https://www.conventionalcommits.org/en/v1.0.0/",
+    "https://microsoft.github.io/code-with-engineering-playbook/code-reviews/pull-requests/",
+    "https://docs.github.com/articles/about-pull-request-reviews/"
+  ],
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "reviewer", "developer", "getting-started"],
+    "practices": ["practices", "guidelines", "principles", "best-practices"],
+    "process": ["process", "workflow", "lifecycle", "workflow-overview"],
+    "tools": ["pre-commit", "hooks", "automation", "configuration"],
+    "standards": ["conventional", "commits", "formatting", "specification"],
+    "github": ["pull-request", "github", "merge", "reviews"],
+    "microsoft": ["playbook", "engineering", "culture"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 200
+}

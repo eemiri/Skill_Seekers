@@ -1,0 +1,30 @@
+{
+  "name": "refactor-safe",
+  "description": "When to use this skill: For refactoring techniques, design patterns, code smells detection, and applying SOLID principles for safe code improvements and maintainable software design.",
+  "base_url": "https://refactoring.guru/refactoring",
+  "selectors": {
+    "main_content": "main, .content, div.content, article, .site-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code, .code"
+  },
+  "url_patterns": {
+    "include": ["refactoring.guru/refactoring", "refactoring.guru/design-patterns", "digitalocean.com/community/conceptual-articles/", "en.wikipedia.org/wiki/"],
+    "exclude": ["/search", "/tag/", "/category/", "/#", ".pdf", ".jpg", ".png", ".gif"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "getting-started", "overview", "basics", "what-is"],
+    "refactoring_techniques": ["catalog", "techniques", "methods", "refactorings"],
+    "code_smells": ["smells", "bad-smells", "anti-patterns", "code-quality"],
+    "design_patterns": ["patterns", "design-patterns", "creational", "structural", "behavioral"],
+    "solid_principles": ["solid", "principles", "oop", "object-oriented"],
+    "best_practices": ["best-practices", "guidelines", "tips", "recommendations"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150,
+  "additional_urls": [
+    "https://refactoring.guru/refactoring/smells",
+    "https://refactoring.guru/design-patterns",
+    "https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design",
+    "https://en.wikipedia.org/wiki/SOLID"
+  ]
+}

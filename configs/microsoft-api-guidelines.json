@@ -1,0 +1,21 @@
+{
+  "name": "microsoft-api-guidelines",
+  "description": "Microsoft REST API guidelines and best practices",
+  "base_url": "https://github.com/microsoft/api-guidelines",
+  "selectors": {
+    "main_content": "article",
+    "title": "h1",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/blob/"],
+    "exclude": ["/issues/", "/pulls/", "/actions/", "/commits/"]
+  },
+  "categories": {
+    "guidelines": ["guidelines", "principles", "patterns"],
+    "design": ["design", "architecture", "structure"],
+    "implementation": ["implementation", "code", "examples"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150
+}

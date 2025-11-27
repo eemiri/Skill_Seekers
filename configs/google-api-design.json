@@ -1,0 +1,22 @@
+{
+  "name": "google-api-design",
+  "description": "Google API design guide and principles",
+  "base_url": "https://cloud.google.com/apis/design",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/apis/design/"],
+    "exclude": ["/products/", "/docs/", "/pricing/"]
+  },
+  "categories": {
+    "design_principles": ["design", "principles", "overview"],
+    "api_patterns": ["patterns", "methods", "resources"],
+    "naming": ["naming", "conventions", "style"],
+    "error_handling": ["errors", "status", "exceptions"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 120
+}

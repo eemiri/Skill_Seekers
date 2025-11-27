@@ -1,0 +1,35 @@
+{
+  "name": "bmad_orch_workflow_select",
+  "description": "Use this skill when selecting workflows and orchestration patterns, designing temporal workflows, implementing step functions, choosing Azure AI agent patterns, working with Airflow dynamic tasks, or building multi-agent systems with OpenAI",
+  "base_url": "https://docs.temporal.io/",
+  "selectors": {
+    "main_content": "main, .content, article, div[role='main'], .markdown-body",
+    "title": "title, h1, .page-title",
+    "code_blocks": "pre, code, .highlight"
+  },
+  "url_patterns": {
+    "include": ["evaluate", "use-cases", "design-patterns", "workflows", "orchestration", "temporal", "step-functions", "airflow", "openai-agents", "multi-agent"],
+    "exclude": ["/search", "/#", "javascript:void(0)", "/api", "/docs/api", "/reference"]
+  },
+  "categories": {
+    "temporal_workflows": ["temporal", "workflow", "design-patterns", "use-cases", "evaluate", "durable", "reliable"],
+    "aws_step_functions": ["aws", "step-functions", "workflow-states", "states", "choice", "parallel", "map", "lambda"],
+    "azure_ai_agents": ["azure", "ai", "ml", "agent", "design-patterns", "orchestration", "multi-agent"],
+    "airflow_dynamic": ["airflow", "dynamic-task-mapping", "authoring", "scheduling", "dag", "task", "mapping"],
+    "openai_multi_agent": ["openai", "multi-agent", "agents", "orchestration", "collaboration", "swarm"]
+  },
+  "custom_content": {
+    "workflow_selection_guide": {
+      "title": "Workflow Selection Guide",
+      "content": "# Workflow Selection Guide\n\n## Key Decision Factors\n\n### 1. Scale & Complexity\n- **Small workflows**: AWS Step Functions, Azure Logic Apps\n- **Medium workflows**: Temporal, Airflow\n- **Large distributed systems**: Temporal, custom solutions\n\n### 2. State Management Requirements\n- **Simple state**: Step Functions\n- **Complex state**: Temporal\n- **No state needed**: Simple task queues\n\n### 3. Programming Model\n- **Visual/declarative**: Step Functions, Logic Apps\n- **Code-first**: Temporal, Airflow\n- **Event-driven**: Temporal, EventBridge\n\n### 4. Error Handling Needs\n- **Built-in retries**: All major solutions\n- **Custom compensation**: Temporal\n- **Circuit breakers**: Custom implementations\n\n### 5. Monitoring & Observability\n- **Basic**: Step Functions, Airflow\n- **Advanced**: Temporal, custom solutions\n\n## Use Case Recommendations\n\n### Data Processing Pipelines\n- **Recommended**: Airflow, Temporal\n- **When to use**: Batch processing, ETL workflows\n\n### Microservice Orchestration\n- **Recommended**: Temporal, Step Functions\n- **When to use**: Service coordination, saga patterns\n\n### Human-in-the-loop Workflows\n- **Recommended**: Temporal\n- **When to use**: Approval processes, manual interventions\n\n### Event Processing\n- **Recommended**: Temporal, EventBridge + Step Functions\n- **When to use**: Real-time event handling, CQRS\n\n### AI/ML Workflows\n- **Recommended**: Temporal, Azure AI Agents, custom\n- **When to use**: Model training, inference pipelines",
+      "category": "workflow_selection"
+    },
+    "comparison_matrix": {
+      "title": "Workflow Engine Comparison",
+      "content": "# Workflow Engine Comparison Matrix\n\n| Feature | Temporal | AWS Step Functions | Azure Logic Apps | Airflow | OpenAI Agents |\n|---------|----------|-------------------|------------------|---------|---------------|\n| **Pricing** | Pay-as-you-go | Per execution + duration | Per action + connector | Infrastructure | API usage |\n| **Language Support** | Go, Java, Python, TS | JSON/YAML | JSON/YAML | Python | Python |\n| **State Management** | Advanced | Built-in | Built-in | Limited | Limited |\n| **Error Handling** | Custom compensation | Built-in | Built-in | Built-in | Custom |\n| **Visibility** | Excellent | Good | Good | Good | Limited |\n| **Scalability** | Excellent | Excellent | Good | Good | Limited |\n| **Learning Curve** | Medium | Low | Low | Medium | High |\n| **Ecosystem** | Growing | Mature | Mature | Large | Emerging |\n| **Use Cases** | Complex workflows | Simple orchestrations | Enterprise integration | Data pipelines | AI agents |\n\n## When to Choose Each\n\n### Temporal\n- Complex business logic\n- Long-running workflows\n- Custom state management\n- Multi-language support needed\n\n### AWS Step Functions\n- AWS-native applications\n- Visual workflow design\n- Simple orchestration needs\n- Cost-sensitive small workflows\n\n### Azure Logic Apps\n- Enterprise integration\n- SaaS connectors\n- Low-code requirements\n- Microsoft ecosystem\n\n### Airflow\n- Data engineering\n- ETL/ELT pipelines\n- Python ecosystem\n- Existing Hadoop/Spark workflows\n\n### OpenAI Agents\n- AI-powered workflows\n- Multi-agent collaboration\n- Natural language interfaces\n- Autonomous decision making",
+      "category": "workflow_selection"
+    }
+  },
+  "rate_limit": 0.5,
+  "max_pages": 200
+}

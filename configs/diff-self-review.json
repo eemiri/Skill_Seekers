@@ -1,0 +1,24 @@
+{
+  "name": "diff-self-review",
+  "description": "Code review and self-review practices covering Google engineering practices, pre-commit hooks, conventional commits, Microsoft code review practices, and GitHub PR reviews",
+  "base_url": "https://google.github.io/eng-practices/review/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "reviewer", "developer"],
+    "practices": ["practices", "guidelines", "principles"],
+    "process": ["process", "workflow", "lifecycle"],
+    "tools": ["pre-commit", "hooks", "automation"],
+    "standards": ["conventional", "commits", "formatting"],
+    "github": ["pull-request", "github", "merge"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

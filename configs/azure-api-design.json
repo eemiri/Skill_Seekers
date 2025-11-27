@@ -1,0 +1,21 @@
+{
+  "name": "azure-api-design",
+  "description": "Azure API design best practices and architectural patterns",
+  "base_url": "https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/en-us/azure/architecture/best-practices/", "/api-design"],
+    "exclude": ["/examples/", "/samples/", "/blog/", "/news/"]
+  },
+  "categories": {
+    "api_design": ["api", "design", "architecture", "best-practices", "patterns"],
+    "implementation": ["examples", "getting-started", "tutorials", "guidelines"],
+    "principles": ["principles", "standards", "conventions", "guidelines"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

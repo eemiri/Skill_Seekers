@@ -74,7 +74,15 @@
       "WebFetch(domain:blog.pixelfreestudio.com)",
       "WebFetch(domain:adr.github.io)",
       "Bash(claude:*)",
-      "WebFetch(domain:bool.dev)"
+      "WebFetch(domain:bool.dev)",
+      "WebFetch(domain:abseil.io)",
+      "WebFetch(domain:testing.googleblog.com)",
+      "WebFetch(domain:less.works)",
+      "WebFetch(domain:www.perforce.com)",
+      "Bash(move:*)",
+      "WebFetch(domain:www.confluent.io)",
+      "WebFetch(domain:devblogs.microsoft.com)",
+      "WebFetch(domain:docs.getdynamiq.ai)"
     ],
     "deny": [],
     "ask": []

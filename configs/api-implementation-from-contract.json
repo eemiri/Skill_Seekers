@@ -1,0 +1,30 @@
+{
+  "name": "api-implementation-from-contract",
+  "description": "When to use this skill: Use this skill when you need to implement APIs based on contract specifications like OpenAPI/Swagger, JSON Schema, JSON:API, or following API design guidelines from Microsoft, Google, etc.",
+  "base_url": "https://swagger.io/specification/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/specification/", "/docs/", "/guidelines/", "/design/", "/format/"],
+    "exclude": ["/examples/", "/samples/", "/blog/", "/news/"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "getting-started", "overview", "basics"],
+    "specifications": ["specification", "spec", "schema", "structure"],
+    "design_patterns": ["design", "patterns", "guidelines", "best-practices"],
+    "implementation": ["implementation", "implementation-guide", "code", "examples"],
+    "standards": ["standards", "formats", "protocols", "conventions"]
+  },
+  "additional_sources": [
+    "https://github.com/microsoft/api-guidelines",
+    "https://cloud.google.com/apis/design",
+    "https://json-schema.org/specification",
+    "https://jsonapi.org/format/"
+  ],
+  "rate_limit": 1.0,
+  "max_pages": 300,
+  "enhance": true
+}

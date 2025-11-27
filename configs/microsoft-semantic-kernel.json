@@ -1,0 +1,21 @@
+{
+  "name": "microsoft-semantic-kernel",
+  "description": "Microsoft Semantic Kernel agent orchestration and AI framework documentation",
+  "base_url": "https://learn.microsoft.com/en-us/semantic-kernel/frameworks/agent-orchestration/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/frameworks/agent-orchestration/", "/en-us/semantic-kernel/"],
+    "exclude": ["/examples/", "/samples/", "/blog/", "/news/"]
+  },
+  "categories": {
+    "agent_orchestration": ["orchestration", "agent", "workflow", "planner", "connector"],
+    "semantic_kernel": ["kernel", "skill", "plugin", "process", "memory"],
+    "implementation": ["examples", "getting-started", "tutorials", "samples"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

@@ -1,0 +1,21 @@
+{
+  "name": "jsonapi-format",
+  "description": "JSON:API specification for building APIs",
+  "base_url": "https://jsonapi.org/format/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/format/"],
+    "exclude": ["/examples/", "/implementations/"]
+  },
+  "categories": {
+    "specification": ["specification", "format", "structure"],
+    "concepts": ["concepts", "basics", "introduction"],
+    "examples": ["examples", "samples"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 80
+}

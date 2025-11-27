@@ -1,0 +1,31 @@
+{
+  "name": "bmad-orch-agent-routing",
+  "description": "Multi-agent orchestration and routing for distributed AI systems. Use this skill when you need to design, implement, or troubleshoot multi-agent architectures, agent coordination patterns, event-driven agent systems, or agent routing strategies across different platforms and frameworks.",
+  "base_url": "https://docs.langchain.com/",
+  "selectors": {
+    "main_content": "main, article, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["oss/python/langchain/multi-agent"],
+    "exclude": ["/search", "/_static/", "/assets/", "/.git/", "/node_modules/"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "getting-started", "basics", "tutorial"],
+    "agent_architecture": ["architecture", "design", "patterns", "structure", "multi-agent"],
+    "orchestration": ["orchestration", "coordination", "routing", "workflow", "pipeline"],
+    "event_driven": ["event-driven", "events", "messaging", "streams", "kafka", "confluent"],
+    "frameworks": ["langchain", "semantic-kernel", "dynamiq", "aws", "microsoft"],
+    "implementation": ["examples", "code", "implementation", "samples", "guides"],
+    "best_practices": ["best-practices", "patterns", "anti-patterns", "guidelines", "tips"]
+  },
+  "additional_sources": [
+    "https://www.confluent.io/blog/event-driven-multi-agent-systems/",
+    "https://devblogs.microsoft.com/semantic-kernel/semantic-kernel-multi-agent-orchestration/",
+    "https://docs.getdynamiq.ai/low-code-builder/llm-agents/guide-to-agent-orchestration-linear-and-adaptive-orchestrators",
+    "https://aws.amazon.com/solutions/guidance/multi-agent-orchestration-on-aws/"
+  ],
+  "rate_limit": 0.5,
+  "max_pages": 150
+}

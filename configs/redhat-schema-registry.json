@@ -1,0 +1,24 @@
+{
+  "name": "redhat-schema-registry",
+  "description": "Red Hat schema registry and API management for conflict detection and compatibility",
+  "base_url": "https://www.redhat.com/architect/schema-registry/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "concepts"],
+    "schema": ["schema", "registry", "api", "management"],
+    "events": ["events", "kafka", "messaging", "streams"],
+    "compatibility": ["compatibility", "versioning", "evolution"],
+    "governance": ["governance", "policies", "standards"],
+    "best_practices": ["best-practices", "guidelines", "implementation"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

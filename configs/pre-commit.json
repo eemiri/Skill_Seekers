@@ -1,0 +1,22 @@
+{
+  "name": "pre-commit",
+  "description": "Pre-commit hooks for code quality and automated code reviews",
+  "base_url": "https://pre-commit.com/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "installation", "usage"],
+    "configuration": ["configuration", "config", "hooks", "repo"],
+    "hooks": ["hooks", "types", "languages"],
+    "examples": ["examples", "recipes", "samples"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

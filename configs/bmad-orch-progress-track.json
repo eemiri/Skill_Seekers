@@ -1,0 +1,31 @@
+{
+  "name": "bmad-orch-progress-track",
+  "description": "When to use this skill: When implementing progress tracking systems, creating CI/CD monitoring dashboards, setting up performance reporting with RAG status indicators, managing artifact lifecycle, and implementing traffic light color systems for project health visualization",
+  "base_url": "https://www.datadoghq.com/blog/",
+  "urls": [
+    "https://www.datadoghq.com/blog/best-practices-for-ci-cd-monitoring/",
+    "https://www.splunk.com/en_us/blog/learn/monitoring-ci-cd.html",
+    "https://bernardmarr.com/performance-reporting-how-to-use-traffic-light-colours-and-rag-ratings-in-dashboards/",
+    "https://support.atlassian.com/jira/kb/how-to-create-health-status-indicator-fields-like-rag-or-traffic-light-in-jira-and-advanced-roadmaps/",
+    "https://www.harness.io/harness-devops-academy/artifact-lifecycle-management-strategies/"
+  ],
+  "selectors": {
+    "main_content": "main[role=\"main\"], .content, #main, .main-content, article, .blog-content",
+    "title": "h1, .title, .page-title, .blog-title",
+    "code_blocks": "pre code, pre, .code-example, .highlight"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", "/api/", "/#", ".pdf", ".zip", "/tag/", "/category/", "/author/"]
+  },
+  "categories": {
+    "cicd_monitoring": ["ci-cd", "cicd", "monitoring", "best-practices"],
+    "performance_reporting": ["performance", "reporting", "dashboard", "metrics"],
+    "rag_status": ["rag", "traffic-light", "status", "indicator", "health"],
+    "jira_integration": ["jira", "atlassian", "roadmap", "field"],
+    "artifact_management": ["artifact", "lifecycle", "strategy", "management"],
+    "visualization": ["visualization", "dashboard", "colors", "charts"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

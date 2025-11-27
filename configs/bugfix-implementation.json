@@ -1,0 +1,31 @@
+{
+  "name": "bugfix-implementation",
+  "description": "When to use this skill: When debugging, fixing bugs, or implementing comprehensive bug fixes using debugging tools, root cause analysis, and systematic debugging approaches",
+  "base_url": "https://learn.microsoft.com/en-us/visualstudio/debugger/",
+  "urls": [
+    "https://learn.microsoft.com/en-us/visualstudio/debugger/debugging-absolute-beginners?view=vs-2022",
+    "https://learn.microsoft.com/en-us/visualstudio/debugger/write-better-code-with-visual-studio?view=vs-2022",
+    "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools",
+    "https://www.bmc.com/blogs/root-cause-analysis/",
+    "https://www.browserstack.com/guide/regression-test-plan"
+  ],
+  "selectors": {
+    "main_content": "main[role=\"main\"], .content, #main, .main-content",
+    "title": "h1, .title, .page-title",
+    "code_blocks": "pre code, pre, .code-example"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", "/api/", "/#", ".pdf", ".zip"]
+  },
+  "categories": {
+    "debugging_basics": ["debugger", "debugging", "beginners", "basics"],
+    "visual_studio": ["visual-studio", "visualstudio", "vs-2022"],
+    "browser_tools": ["browser", "developer-tools", "web"],
+    "analysis_methods": ["root-cause", "analysis", "investigation"],
+    "testing": ["testing", "regression", "test"],
+    "best_practices": ["better-code", "practices", "improvement"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

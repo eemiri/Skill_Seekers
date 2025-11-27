@@ -1,0 +1,24 @@
+{
+  "name": "api-contracts-pact",
+  "description": "API contracts and consumer-driven contract testing with Pact for conflict detection",
+  "base_url": "https://docs.pact.io/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "getting-started"],
+    "concepts": ["concepts", "principles", "pact"],
+    "contracts": ["contracts", "specifications", "definitions"],
+    "testing": ["testing", "verification", "consumer", "provider"],
+    "implementation": ["implementation", "languages", "libraries"],
+    "best_practices": ["best-practices", "guidelines", "patterns"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

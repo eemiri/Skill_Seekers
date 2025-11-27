@@ -1,0 +1,173 @@
+{
+  "name": "migration-implementation",
+  "description": "Use this skill for implementing database migrations and evolutionary database design. Covers migration tools like Flyway, Liquibase, Redgate tools, and best practices from Martin Fowler and ThoughtWorks on refactoring databases.",
+  "base_url": "https://martinfowler.com/articles/evodb.html",
+  "selectors": {
+    "main_content": "main, article.article, .article-body, .content, #content",
+    "title": "h1, h1.article-title, h1.entry-title",
+    "code_blocks": "pre, pre.highlight, .code-block, .code-example, code"
+  },
+  "url_patterns": {
+    "include": [
+      "/articles/",
+      "/documentation/",
+      "/getting-started/",
+      "/insights/",
+      "/get-started/",
+      "/core-usage/",
+      "/bliki/"
+    ],
+    "exclude": [
+      "/search",
+      "/_static/",
+      "/downloads/",
+      "/examples/",
+      "/#",
+      "?",
+      "/feed",
+      "/rss",
+      "/atom",
+      "mailto:",
+      "tel:"
+    ]
+  },
+  "categories": {
+    "getting_started": [
+      "getting-started",
+      "introduction",
+      "beginner",
+      "tutorial",
+      "quickstart",
+      "setup",
+      "installation"
+    ],
+    "concepts": [
+      "evodb",
+      "evolutionary",
+      "database",
+      "migration",
+      "refactoring",
+      "principles",
+      "concepts",
+      "best-practices"
+    ],
+    "tools": [
+      "flyway",
+      "liquibase",
+      "redgate",
+      "migrations-",
+      "tools",
+      "automation"
+    ],
+    "implementation": [
+      "core-usage",
+      "implementation",
+      "patterns",
+      "changelog",
+      "scripts",
+      "sql",
+      "examples",
+      "configuration"
+    ],
+    "strategies": [
+      "strategies",
+      "approaches",
+      "methodology",
+      "workflow",
+      "continuous",
+      "deployment",
+      "ci-cd"
+    ]
+  },
+  "additional_sources": [
+    {
+      "name": "redgate-migrations",
+      "base_url": "https://documentation.red-gate.com/fd/migrations-271585107.html",
+      "selectors": {
+        "main_content": "main, .content, .main-content, .documentation-content",
+        "title": "h1, .page-title, .documentation-title",
+        "code_blocks": "pre, .code-block, .example, .snippet, code"
+      }
+    },
+    {
+      "name": "flyway-getting-started",
+      "base_url": "https://documentation.red-gate.com/fd/getting-started-with-flyway-184127223.html",
+      "selectors": {
+        "main_content": "main, .content, .tutorial-content, .getting-started",
+        "title": "h1, .tutorial-title, .page-title",
+        "code_blocks": "pre, .code-block, .configuration-example, code"
+      }
+    },
+    {
+      "name": "liquibase-core-usage",
+      "base_url": "https://www.liquibase.org/get-started/core-usage/database-migration",
+      "selectors": {
+        "main_content": "main, .hero, .features, .documentation, .content",
+        "title": "h1, .page-title, .feature-title",
+        "code_blocks": "pre, .changelog-example, .code-block, .example, code"
+      }
+    },
+    {
+      "name": "thoughtworks-refactoring",
+      "base_url": "https://www.thoughtworks.com/insights/books/refactoring-databases",
+      "selectors": {
+        "main_content": ".content, .article-content, .blog-content, .insights-content",
+        "title": "h1, .article-title, .blog-title",
+        "code_blocks": "pre, .code-block, .example, .snippet, code"
+      }
+    }
+  ],
+  "rate_limit": 1.0,
+  "max_pages": 200,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+  "timeout": 30,
+  "max_retries": 3,
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Accept-Encoding": "gzip, deflate",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1"
+  },
+  "extraction": {
+    "remove_selectors": [
+      "script",
+      "style",
+      "nav",
+      "header",
+      "footer",
+      ".sidebar",
+      ".navigation",
+      ".menu",
+      ".ads",
+      ".advertisement",
+      ".social-share",
+      ".comments",
+      ".related-articles"
+    ],
+    "clean_whitespace": true,
+    "extract_metadata": true,
+    "extract_links": true
+  },
+  "enhancement": {
+    "focus_areas": [
+      "database migration patterns",
+      "evolutionary database design",
+      "migration tool comparisons",
+      "CI/CD integration",
+      "rollback strategies",
+      "team collaboration",
+      "version control for databases"
+    ],
+    "code_languages": [
+      "sql",
+      "yaml",
+      "xml",
+      "json",
+      "java",
+      "csharp",
+      "bash",
+      "groovy"
+    ]
+  }
+}

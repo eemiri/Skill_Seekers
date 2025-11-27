@@ -1,0 +1,24 @@
+{
+  "name": "ai-agent-design",
+  "description": "Use this skill when you need to design, implement, or understand AI agents, agentic AI systems, or AI workflows. Covers agent architecture patterns, design principles, implementation strategies, and best practices from Google Cloud, Microsoft Azure, DeepLearning.AI, AWS Step Functions, and PMI.",
+  "base_url": "https://docs.cloud.google.com/architecture/ai-ml/",
+  "selectors": {
+    "main_content": "main, article, .devsite-content, .content, .markdown-body",
+    "title": "title, h1",
+    "code_blocks": "pre, code, .highlight"
+  },
+  "url_patterns": {
+    "include": ["https://docs.cloud.google.com/architecture/ai-ml/", "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns", "https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-4-planning", "https://docs.aws.amazon.com/step-functions/latest/dg/concepts-state-machines.html", "https://www.pmi.org/learning/library/managing-innovation-programs-rolling-wave-3515"],
+    "exclude": ["/search.html", "/_static/", "/assets/", "/css/", "/js/", "/api/", "/docs/"]
+  },
+  "categories": {
+    "architecture": ["architecture", "design", "patterns", "framework"],
+    "implementation": ["implementation", "code", "examples", "tutorial"],
+    "workflows": ["workflow", "orchestration", "coordination", "multi-agent"],
+    "best_practices": ["best-practices", "guidelines", "standards", "security"],
+    "planning": ["planning", "strategy", "reasoning", "decision-making"],
+    "innovation": ["innovation", "management", "programs", "rolling-wave"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 300
+}

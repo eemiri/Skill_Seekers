@@ -1,0 +1,21 @@
+{
+  "name": "agenta-context-management",
+  "description": "Agenta AI blog on context management techniques and optimization for LLMs",
+  "base_url": "https://agenta.ai/blog/top-6-techniques-to-manage-context-length-in-llms",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/blog/", "/techniques-to-manage-context-length-in-llms"],
+    "exclude": ["/examples/", "/samples/", "/news/"]
+  },
+  "categories": {
+    "context_techniques": ["techniques", "management", "length", "optimization"],
+    "llm_strategies": ["context", "llm", "strategies", "efficiency"],
+    "implementation": ["examples", "solutions", "best-practices", "patterns"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 60
+}

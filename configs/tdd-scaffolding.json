@@ -1,0 +1,30 @@
+{
+  "name": "tdd-scaffolding",
+  "description": "Test-Driven Development scaffolding and best practices from Martin Fowler and Google testing resources. Use this skill when you need guidance on TDD methodology, testing strategies, test frameworks, and software testing best practices.",
+  "base_url": "https://martinfowler.com/",
+  "selectors": {
+    "main_content": "main",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": ["bliki/TestDrivenDevelopment.html", "testing/"],
+    "exclude": ["/search.html", "/_static/", "/feed.xml", "/author/", "/tag/", "/category/"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "getting-started", "overview", "basics"],
+    "tdd_principles": ["test-driven", "tdd", "development", "principles", "philosophy"],
+    "testing_strategies": ["testing", "strategies", "patterns", "approaches"],
+    "best_practices": ["best-practices", "guidelines", "recommendations", "tips"],
+    "code_examples": ["example", "code", "implementation", "sample", "demo"]
+  },
+  "additional_sources": [
+    "https://martinfowler.com/bliki/TestDrivenDevelopment.html",
+    "https://martinfowler.com/testing/",
+    "https://testing.googleblog.com/",
+    "https://abseil.io/resources/swe-book/html/ch12.html",
+    "https://abseil.io/resources/swe-book/html/ch14.html"
+  ],
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

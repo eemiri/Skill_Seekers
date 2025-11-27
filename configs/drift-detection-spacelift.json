@@ -1,0 +1,23 @@
+{
+  "name": "drift-detection-spacelift",
+  "description": "Infrastructure drift detection and management with Spacelift for conflict prevention",
+  "base_url": "https://spacelift.io/blog/drift-detection/",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "concepts"],
+    "drift": ["drift", "detection", "prevention", "management"],
+    "infrastructure": ["infrastructure", "iac", "terraform", "cloud"],
+    "automation": ["automation", "monitoring", "alerts"],
+    "best_practices": ["best-practices", "guidelines", "strategies"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

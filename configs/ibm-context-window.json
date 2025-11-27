@@ -1,0 +1,21 @@
+{
+  "name": "ibm-context-window",
+  "description": "IBM Think documentation on context window management and optimization",
+  "base_url": "https://www.ibm.com/think/topics/context-window",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/think/topics/", "/context-window"],
+    "exclude": ["/examples/", "/samples/", "/blog/", "/news/"]
+  },
+  "categories": {
+    "context_management": ["context", "window", "length", "optimization", "memory"],
+    "llm_concepts": ["llm", "transformer", "attention", "efficiency"],
+    "technical_details": ["implementation", "techniques", "strategies", "solutions"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 80
+}

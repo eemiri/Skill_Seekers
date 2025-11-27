@@ -1,0 +1,23 @@
+{
+  "name": "schema-registry-abseil",
+  "description": "Schema registry and API evolution management for conflict detection and compatibility",
+  "base_url": "https://abseil.io/resources/swe-book/html/ch21.html",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "concepts"],
+    "schema": ["schema", "registry", "evolution", "versioning"],
+    "compatibility": ["compatibility", "breaking", "migration", "apis"],
+    "best_practices": ["best-practices", "guidelines", "patterns"],
+    "management": ["management", "governance", "lifecycle"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

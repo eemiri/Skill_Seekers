@@ -1,0 +1,23 @@
+{
+  "name": "code-comprehension",
+  "description": "Use this skill when you need to understand, analyze, review, or refactor code. Includes code review practices from Google, design patterns from refactoring.guru, refactoring techniques, and strategies for understanding unfamiliar codebases.",
+  "base_url": "https://google.github.io/eng-practices/review/",
+  "selectors": {
+    "main_content": ".markdown-body",
+    "title": "title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["https://google.github.io/eng-practices/review/", "https://refactoring.guru/design-patterns/", "https://refactoring.com/", "https://stackoverflow.blog/", "https://abseil.io/resources/swe-book/html/"],
+    "exclude": ["/search.html", "/_static/", "/assets/", "/css/", "/js/"]
+  },
+  "categories": {
+    "code_review": ["review", "reviewer", "comments", "feedback", "guidelines"],
+    "design_patterns": ["pattern", "design-pattern", "catalog", "structural", "creational", "behavioral"],
+    "refactoring": ["refactoring", "smell", "extract", "rename", "move"],
+    "code_analysis": ["unfamiliar", "interrogate", "understand", "analyze", "comprehension"],
+    "best_practices": ["practices", "guidelines", "standards", "quality", "clean-code"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 200
+}

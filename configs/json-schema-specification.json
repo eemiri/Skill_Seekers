@@ -1,0 +1,21 @@
+{
+  "name": "json-schema-specification",
+  "description": "JSON Schema specification for validation and documentation",
+  "base_url": "https://json-schema.org/specification",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/specification", "/understanding-json-schema/"],
+    "exclude": ["/blog/", "/tools/"]
+  },
+  "categories": {
+    "specifications": ["specification", "draft", "validation"],
+    "examples": ["examples", "samples", "usage"],
+    "concepts": ["concepts", "basics", "introduction"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100
+}

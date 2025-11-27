@@ -1,0 +1,23 @@
+{
+  "name": "requirements-traceability",
+  "description": "Requirements traceability and conflict detection practices for software development",
+  "base_url": "https://en.wikipedia.org/wiki/Requirements_traceability",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/_static/", ".css", ".js", ".png", ".jpg", ".svg"]
+  },
+  "categories": {
+    "getting_started": ["introduction", "overview", "definition"],
+    "concepts": ["concepts", "principles", "theory"],
+    "methods": ["methods", "techniques", "approaches"],
+    "tools": ["tools", "software", "automation"],
+    "practices": ["best-practices", "guidelines", "standards"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 50
+}

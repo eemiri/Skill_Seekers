@@ -1,0 +1,21 @@
+{
+  "name": "aws-agent-orchestration",
+  "description": "AWS Prescriptive Guidance for agentic AI patterns and workflow orchestration",
+  "base_url": "https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-patterns/workflow-orchestration-agents.html",
+  "selectors": {
+    "main_content": "main",
+    "title": "title",
+    "code_blocks": "pre code"
+  },
+  "url_patterns": {
+    "include": ["/prescriptive-guidance/", "/agentic-ai-patterns/"],
+    "exclude": ["/examples/", "/samples/", "/blog/", "/news/"]
+  },
+  "categories": {
+    "agentic_patterns": ["patterns", "workflows", "orchestration", "agents"],
+    "best_practices": ["guidance", "prescriptive", "architecture", "design"],
+    "implementation": ["examples", "getting-started", "tutorials", "samples"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 120
+}
