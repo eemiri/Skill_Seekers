@@ -1,0 +1,50 @@
+{
+  "name": "off-track-diagnosis",
+  "description": "When projects go off track, use systematic approaches like Kepner-Tregoe, Root Cause Analysis, Six-Step Recovery, and TOC Thinking Processes to diagnose problems and implement solutions",
+  "base_url": "https://www.pmi.org/learning/library/six-steps-project-recovery-4641",
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .post-content, .entry-content",
+    "title": "title, h1",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "additional_urls": [
+    "https://asq.org/quality-resources/root-cause-analysis",
+    "https://kepner-tregoe.com/about/faqs/",
+    "https://www.tocinstitute.org/toc-thinking-processes.html",
+    "https://digital.ahrq.gov/health-it-tools-and-resources/evaluation-resources/workflow-assessment-health-it-toolkit/all-workflow-tools/kepner-tregoe-matrix"
+  ],
+  "url_patterns": {
+    "include": [
+      "kepner-tregoe.com",
+      "tocinstitute.org"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/author/",
+      "?page=",
+      "?query=",
+      "/login",
+      "/register",
+      "/cart",
+      "/checkout",
+      "/admin",
+      "/wp-admin",
+      ".pdf",
+      ".doc",
+      ".docx",
+      ".xls",
+      ".xlsx"
+    ]
+  },
+  "categories": {
+    "project_recovery": ["recovery", "six-steps", "project-recovery", "project management"],
+    "root_cause_analysis": ["root-cause", "analysis", "rca", "quality", "problem-solving"],
+    "kepner_tregoe": ["kepner-tregoe", "kt", "matrix", "decision-making", "problem-analysis"],
+    "toc_thinking": ["toc", "thinking-processes", "theory-of-constraints", "constraint"],
+    "workflow_assessment": ["workflow", "assessment", "health-it", "toolkit", "evaluation"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

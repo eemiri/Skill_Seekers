@@ -1,0 +1,22 @@
+{
+  "name": "pmi-risk",
+  "description": "PMI risk management standards and practices for project management",
+  "base_url": "https://www.pmi.org/standards/risk-management",
+  "selectors": {
+    "main_content": "main, article, .content, .page-content, div[role='main']",
+    "title": "title, h1, .page-title",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["#", "mailto:", "tel:", ".pdf", ".doc", ".docx", "login", "register"]
+  },
+  "categories": {
+    "standards": ["pmi", "standard", "pmbok", "practice"],
+    "project_risk": ["project", "risk", "uncertainty"],
+    "management": ["management", "planning", "control"],
+    "processes": ["process", "methodology", "approach"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

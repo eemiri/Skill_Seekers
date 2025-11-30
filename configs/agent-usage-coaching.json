@@ -1,0 +1,60 @@
+{
+  "name": "agent-usage-coaching",
+  "description": "Professional coaching competencies and agent usage coaching for AI assistants, covering ICF core competencies, talent development capability model, agile coaching, and evaluation frameworks",
+  "base_url": "https://coachingfederation.org/credentialing/coaching-competencies/icf-core-competencies/",
+  "additional_urls": [
+    "https://www.td.org/capability-model",
+    "https://www.scrum.org/agile-coaching-professional-scrum",
+    "https://framework.scaledagile.com/scrum-master-team-coach",
+    "https://www.kirkpatrickpartners.com/the-kirkpatrick-model/"
+  ],
+  "selectors": {
+    "main_content": "main, article, div[role='main'], .content-area, .entry-content",
+    "title": "h1, title, .page-title",
+    "code_blocks": "pre, code, .highlight"
+  },
+  "url_patterns": {
+    "include": [
+      "/credentialing/",
+      "/capability-model",
+      "/agile-coaching",
+      "/scrum-master-team-coach",
+      "/kirkpatrick-model",
+      "/competencies",
+      "/coaching"
+    ],
+    "exclude": [
+      "/search",
+      "/wp-admin/",
+      "/login",
+      "/register",
+      "/cart",
+      "/checkout",
+      "/wp-content/",
+      "/wp-json/",
+      "?query=",
+      "?filter=",
+      ".pdf",
+      ".doc",
+      ".docx"
+    ]
+  },
+  "categories": {
+    "coaching_competencies": ["competencies", "core-competencies", "coaching", "mentoring"],
+    "agile_coaching": ["agile", "scrum", "team-coach", "professional-scrum"],
+    "talent_development": ["capability-model", "talent", "development", "td.org"],
+    "evaluation_frameworks": ["kirkpatrick", "evaluation", "assessment", "model"],
+    "professional_standards": ["credentialing", "ethics", "standards", "certification"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 150,
+  "enhancement": {
+    "focus_areas": [
+      "coaching methodologies",
+      "agent interaction patterns",
+      "competency frameworks",
+      "evaluation techniques",
+      "professional development"
+    ]
+  }
+}

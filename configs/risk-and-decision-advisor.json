@@ -1,0 +1,30 @@
+{
+  "name": "risk-and-decision-advisor",
+  "description": "Expert guidance on risk management frameworks (ISO, COSO, PMI) and decision quality methodologies (SDG, Kepner-Tregoe) for organizational and project decision-making",
+  "base_url": "https://www.iso.org/standard/65694.html",
+  "urls": [
+    "https://www.coso.org/guidance-erm",
+    "https://www.pmi.org/standards/risk-management",
+    "https://sdg.com/decision-quality/",
+    "https://kepner-tregoe.com/training/problem-solving-decision-making/"
+  ],
+  "selectors": {
+    "main_content": "main, article, .content, .page-content, div[role='main']",
+    "title": "title, h1, .page-title",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["#", "mailto:", "tel:", ".pdf", ".doc", ".docx", "login", "register"]
+  },
+  "categories": {
+    "frameworks": ["iso", "coso", "pmi", "framework", "standard"],
+    "risk_management": ["risk", "management", "assessment", "mitigation"],
+    "decision_quality": ["decision", "quality", "choice", "analysis"],
+    "methodologies": ["methodology", "process", "approach", "technique"],
+    "tools": ["tool", "template", "checklist", "framework"],
+    "implementation": ["implementation", "application", "practice", "guidance"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 200
+}

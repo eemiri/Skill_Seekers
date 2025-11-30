@@ -1,0 +1,34 @@
+{
+  "name": "retrospective-meta-analysis",
+  "description": "Meta-analysis and comprehensive guide to Sprint Retrospectives in Scrum and Agile frameworks, covering patterns, effectiveness, and continuous improvement",
+  "base_url": "https://www.scrum.org/resources/what-is-a-sprint-retrospective",
+  "selectors": {
+    "main_content": "main, article, div[role='main'], .content, .post-content, .entry-content",
+    "title": "h1, .title, .page-title, .article-title",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [
+      "scrum.org/resources",
+      "scrumalliance.org",
+      "scaledagileframework.com"
+    ],
+    "exclude": ["/search", "/tag/", "/category/", "/author/", "?", "#"]
+  },
+  "categories": {
+    "fundamentals": ["what is", "introduction", "basics", "overview"],
+    "patterns": ["patterns", "techniques", "methods", "approaches"],
+    "effectiveness": ["effective", "improvement", "better", "optimizing"],
+    "scaled_agile": ["inspect and adapt", "safe", "scaled agile", "enterprise"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100,
+  "start_urls": [
+    "https://www.scrum.org/resources/what-is-a-sprint-retrospective",
+    "https://www.scrum.org/resources/making-your-sprint-retrospectives-more-effective",
+    "https://resources.scrumalliance.org/Article/sprint-retrospective",
+    "https://framework.scaledagile.com/inspect-and-adapt",
+    "https://www.scrum.org/resources/blog/improving-sprint-retrospective-scrum-patterns"
+  ],
+  "follow_links": false
+}

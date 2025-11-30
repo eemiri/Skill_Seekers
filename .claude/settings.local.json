@@ -82,7 +82,14 @@
       "Bash(move:*)",
       "WebFetch(domain:www.confluent.io)",
       "WebFetch(domain:devblogs.microsoft.com)",
-      "WebFetch(domain:docs.getdynamiq.ai)"
+      "WebFetch(domain:docs.getdynamiq.ai)",
+      "WebFetch(domain:www.pmi.org)",
+      "Bash(./setup_mcp.sh:*)",
+      "WebFetch(domain:asq.org)",
+      "WebFetch(domain:kepner-tregoe.com)",
+      "WebFetch(domain:www.tocinstitute.org)",
+      "WebFetch(domain:digital.ahrq.gov)",
+      "Bash(pip install:*)"
     ],
     "deny": [],
     "ask": []

@@ -1,0 +1,80 @@
+{
+  "name": "high-stakes-synthesis",
+  "description": "Professional synthesis skills for high-stakes environments including stakeholder management (PMI), IT governance (COBIT), technical reporting (IEEE), business communication (IBCS), and policy brief writing. Use for executive communications, technical documentation, governance frameworks, and strategic decision-making support.",
+  "base_url": "https://www.pmi.org/",
+  "start_urls": [
+    "https://www.pmi.org/learning/library/stakeholder-management-plan-6090",
+    "https://www.isaca.org/resources/cobit",
+    "https://procomm.ieee.org/communication-resources-for-engineers/written-reports/write-effective-reports/",
+    "https://www.ibcs.com/",
+    "https://writingcenter.unc.edu/tips-and-tools/policy-briefs/"
+  ],
+  "selectors": {
+    "main_content": "main, article, .content, .main-content, .page-content, div[role='main']",
+    "title": "h1, .page-title, .article-title",
+    "code_blocks": "pre, code, .code-block, .example"
+  },
+  "url_patterns": {
+    "include": ["/learning/", "/resources/", "/communication-resources/", "/tips-and-tools/", "/about/", "/standards/", "/implementation/"],
+    "exclude": ["/search", "/login", "/register", "/cart", "/admin", "/wp-admin", "javascript:", "mailto:", "#"]
+  },
+  "categories": {
+    "stakeholder_management": ["stakeholder", "management", "engagement", "communication", "pmi", "project"],
+    "it_governance": ["cobit", "governance", "it", "framework", "control", "isaca", "audit"],
+    "technical_reporting": ["technical", "report", "engineering", "ieee", "documentation", "writing"],
+    "business_communication": ["ibcs", "business", "communication", "presentation", "chart", "visualization"],
+    "policy_writing": ["policy", "brief", "government", "public", "administrative", "official"],
+    "standards": ["standard", "framework", "guideline", "best-practice", "methodology"],
+    "implementation": ["implementation", "practice", "application", "case-study", "example"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 200,
+  "cross_domain_enabled": true,
+  "domains": {
+    "pmi.org": {
+      "selectors": {
+        "main_content": ".learning-content, .content-area, article",
+        "title": "h1, .page-title"
+      },
+      "categories": {
+        "stakeholder_management": ["stakeholder", "management", "engagement"]
+      }
+    },
+    "isaca.org": {
+      "selectors": {
+        "main_content": ".resource-content, .main-content, article",
+        "title": "h1, .resource-title"
+      },
+      "categories": {
+        "it_governance": ["cobit", "governance", "framework"]
+      }
+    },
+    "ieee.org": {
+      "selectors": {
+        "main_content": ".communication-content, .article-content, main",
+        "title": "h1, .page-title"
+      },
+      "categories": {
+        "technical_reporting": ["technical", "report", "writing"]
+      }
+    },
+    "ibcs.com": {
+      "selectors": {
+        "main_content": ".content, .page-content, main",
+        "title": "h1, .entry-title"
+      },
+      "categories": {
+        "business_communication": ["ibcs", "business", "communication"]
+      }
+    },
+    "unc.edu": {
+      "selectors": {
+        "main_content": ".content-area, .post-content, article",
+        "title": "h1, .entry-title"
+      },
+      "categories": {
+        "policy_writing": ["policy", "brief", "writing"]
+      }
+    }
+  }
+}

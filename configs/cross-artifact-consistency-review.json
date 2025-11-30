@@ -1,0 +1,43 @@
+{
+  "name": "cross-artifact-consistency-review",
+  "description": "Review and ensure consistency across different artifacts in enterprise architecture, requirements management, and systems engineering based on TOGAF, ISO standards, BABOK, and INCOSE guidelines",
+  "base_url": "https://pubs.opengroup.org/architecture/togaf9-doc/arch/",
+  "start_urls": [
+    "https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap44.html",
+    "https://www.iso.org/standard/74393.html",
+    "https://www.iso.org/standard/72089.html",
+    "https://www.iiba.org/knowledgehub/business-analysis-body-of-knowledge-babok-guide/5-requirements-life-cycle-management/5-1-trace-requirements/"
+  ],
+  "selectors": {
+    "main_content": "div[role='main'], main, article, .content, .page-content, .body-content",
+    "title": "title, h1",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [
+      "pubs.opengroup.org/architecture/togaf9-doc/",
+      "www.iso.org/standard/",
+      "www.iiba.org/knowledgehub/",
+      "www.incose.org/docs/"
+    ],
+    "exclude": [
+      "/search.html",
+      "/_static/",
+      "/static/",
+      "javascript:",
+      "mailto:",
+      ".pdf",
+      "#"
+    ]
+  },
+  "categories": {
+    "architecture_frameworks": ["togaf", "architecture", "framework", "enterprise"],
+    "requirements_management": ["requirements", "traceability", "management", "specification"],
+    "consistency_principles": ["consistency", "alignment", "validation", "verification"],
+    "standards_compliance": ["iso", "standard", "compliance", "governance"],
+    "business_analysis": ["babok", "business", "stakeholder", "analysis"],
+    "systems_engineering": ["incose", "systems", "engineering", "lifecycle"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

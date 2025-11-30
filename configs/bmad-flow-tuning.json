@@ -1,0 +1,42 @@
+{
+  "name": "bmad-flow-tuning",
+  "description": "BMAD flow optimization and continuous improvement methodologies including Lean principles, DMAIC, Kaizen, and value stream mapping",
+  "base_url": "https://www.lean.org/",
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .entry-content, .post-content",
+    "title": "h1, .entry-title, .post-title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [
+      "the-lean-post/articles",
+      "lexicon-terms",
+      "quality-resources",
+      "what-is-kaizen"
+    ],
+    "exclude": [
+      "/search",
+      "/tag/",
+      "/category/",
+      "/wp-admin/",
+      "/feed/"
+    ]
+  },
+  "urls": [
+    "https://www.lean.org/the-lean-post/articles/the-eight-wastes-of-lean/",
+    "https://www.lean.org/lexicon-terms/value-stream-mapping/",
+    "https://asq.org/quality-resources/dmaic",
+    "https://asq.org/quality-resources/continuous-improvement",
+    "https://kaizen.com/what-is-kaizen/"
+  ],
+  "categories": {
+    "lean_principles": ["waste", "lean", "muda", "muri", "mura"],
+    "process_improvement": ["dmaic", "improvement", "kaizen", "continuous"],
+    "value_stream": ["value", "stream", "mapping", "flow", "process"],
+    "tools_methods": ["tools", "methods", "techniques", "framework"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100,
+  "timeout": 10,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
