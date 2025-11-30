@@ -1,43 +1,54 @@
 {
   "name": "meta-path-selection",
-  "description": "When to use this skill: For project management approach selection, decision quality frameworks, portfolio optimization, and systematic path selection methodologies using PMI standards, Kepner-Tregoe, and SDG decision quality approaches.",
-  "base_url": "https://www.pmi.org/",
+  "description": "Use for selecting optimal project management approaches, decision quality frameworks, and portfolio optimization strategies. Covers PMBOK standards, mathematical programming for portfolio selection, and Kepner-Tregoe decision-making methods.",
+  "base_url": "https://sdg.com",
   "selectors": {
-    "main_content": "article, main, div[role='main'], .content, .entry-content",
-    "title": "h1, title",
+    "main_content": "main, article, .content, div[role='main'], .entry-content",
+    "title": "h1, .title, title",
     "code_blocks": "pre, code"
   },
   "url_patterns": {
     "include": [
-      "pmi.org/standards",
-      "pmi.org/learning/library",
-      "sdg.com",
-      "kepner-tregoe.com"
+      "decision-quality",
+      "/resources/",
+      "/blog/",
+      "/insights/"
     ],
     "exclude": [
       "/search",
       "/login",
       "/register",
+      "/account",
       "/cart",
-      "/admin",
-      "javascript:",
-      "mailto:",
+      "/checkout",
+      ".pdf",
+      "/download",
+      "/wp-admin/",
+      "/wp-login",
+      "/wp-content/",
+      "/feed",
+      "/tag/",
+      "/category/",
+      "?",
       "#"
     ]
   },
   "categories": {
-    "frameworks": ["standards", "framework", "methodology", "approach"],
-    "decision_making": ["decision", "selection", "choice", "quality"],
-    "project_management": ["project", "portfolio", "management", "pmbok"],
-    "optimization": ["optimization", "mathematical", "programming"]
+    "decision_quality": ["decision", "quality", "framework", "methodology"],
+    "portfolio_management": ["portfolio", "optimization", "selection", "strategy"],
+    "project_approaches": ["project", "approach", "management", "methodology"],
+    "analytical_methods": ["analysis", "evaluation", "assessment", "criteria"]
   },
-  "rate_limit": 1.0,
-  "max_pages": 100,
   "additional_urls": [
-    "https://www.pmi.org/standards/pmbok",
-    "https://www.pmi.org/learning/library/select-fitting-project-management-approach-6915",
-    "https://sdg.com/decision-quality/",
-    "https://kepner-tregoe.com/training/decision-making-for-leaders/",
-    "https://www.pmi.org/learning/library/portfolio-selection-mathematical-programming-optimization-6074"
-  ]
+    {
+      "url": "https://kepner-tregoe.com/training/decision-making-for-leaders/",
+      "selectors": {
+        "main_content": "main, article, .content, div[role='main']",
+        "title": "h1, .title"
+      }
+    }
+  ],
+  "rate_limit": 1.0,
+  "max_pages": 50,
+  "max_depth": 2
 }

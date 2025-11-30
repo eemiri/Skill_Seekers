@@ -12,12 +12,20 @@
     "exclude": ["/search.html", "/tag/", "/category/", "/author/", "/feed", "/comments", "/login", "/register"]
   },
   "categories": {
-    "fundamentals": ["what", "retrospective", "scrum", "agile", "introduction", "basics"],
-    "techniques": ["patterns", "methods", "activities", "exercises", "facilitation", "effective"],
-    "meta_analysis": ["meta", "analysis", "measuring", "metrics", "evaluation", "improving"],
-    "scaled_frameworks": ["scaled", "safe", "enterprise", "large", "inspect", "adapt"]
+    "fundamentals": ["what", "retrospective", "scrum", "agile", "introduction", "basics", "overview"],
+    "techniques": ["patterns", "methods", "activities", "exercises", "facilitation", "approach"],
+    "effectiveness": ["improving", "effective", "better", "enhancing", "optimization"],
+    "meta_analysis": ["meta-analysis", "analysis", "measuring", "metrics", "evaluation", "assessment"],
+    "scaled_frameworks": ["scaled", "safe", "enterprise", "large-scale", "inspect-adapt", "inspect", "adapt"]
   },
   "rate_limit": 0.5,
-  "max_pages": 50,
-  "follow_links": false
+  "max_pages": 100,
+  "follow_links": false,
+  "merge_data": [
+    "output/retrospective-meta-analysis_data",
+    "output/retrospective-effective_data",
+    "output/retrospective-patterns_data",
+    "output/retrospective-scrumalliance_data",
+    "output/retrospective-safe_data"
+  ]
 }

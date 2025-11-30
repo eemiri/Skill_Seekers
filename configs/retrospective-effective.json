@@ -1,0 +1,21 @@
+{
+  "name": "retrospective-effective",
+  "description": "Making Sprint Retrospectives more effective",
+  "base_url": "https://www.scrum.org/resources/making-your-sprint-retrospectives-more-effective",
+  "selectors": {
+    "main_content": "div.resource-content, div.article-content, main.content, div.entry-content, article, .content, .post-content",
+    "title": "h1, .resource-title, .article-title, .page-title, .title",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/tag/", "/category/", "/author/", "/feed", "/comments", "/login", "/register"]
+  },
+  "categories": {
+    "effectiveness": ["effective", "improving", "better", "enhancing", "optimization"],
+    "techniques": ["patterns", "methods", "activities", "exercises", "facilitation"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 10,
+  "follow_links": false
+}

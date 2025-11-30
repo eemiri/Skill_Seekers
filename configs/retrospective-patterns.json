@@ -1,0 +1,21 @@
+{
+  "name": "retrospective-patterns",
+  "description": "Improving Sprint Retrospective Scrum patterns",
+  "base_url": "https://www.scrum.org/resources/blog/improving-sprint-retrospective-scrum-patterns",
+  "selectors": {
+    "main_content": "div.resource-content, div.article-content, main.content, div.entry-content, article, .content, .post-content",
+    "title": "h1, .resource-title, .article-title, .page-title, .title",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/tag/", "/category/", "/author/", "/feed", "/comments", "/login", "/register"]
+  },
+  "categories": {
+    "patterns": ["patterns", "methods", "activities", "exercises", "facilitation"],
+    "techniques": ["improving", "effective", "better", "enhancing"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 10,
+  "follow_links": false
+}

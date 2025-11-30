@@ -1,0 +1,21 @@
+{
+  "name": "retrospective-scrumalliance",
+  "description": "Sprint Retrospective from Scrum Alliance",
+  "base_url": "https://resources.scrumalliance.org/Article/sprint-retrospective",
+  "selectors": {
+    "main_content": "div.resource-content, div.article-content, main.content, div.entry-content, article, .content, .post-content",
+    "title": "h1, .resource-title, .article-title, .page-title, .title",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search.html", "/tag/", "/category/", "/author/", "/feed", "/comments", "/login", "/register"]
+  },
+  "categories": {
+    "fundamentals": ["what", "retrospective", "scrum", "agile", "introduction", "basics"],
+    "techniques": ["patterns", "methods", "activities", "exercises"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 10,
+  "follow_links": false
+}

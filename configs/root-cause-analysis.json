@@ -1,0 +1,21 @@
+{
+  "name": "root-cause-analysis",
+  "description": "Root cause analysis methodologies and techniques for problem identification and resolution in project management",
+  "base_url": "https://asq.org/quality-resources/root-cause-analysis",
+  "selectors": {
+    "main_content": "div[class*='content'], main, article",
+    "title": "title, h1",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["asq.org"],
+    "exclude": ["/search", "/login", "/register", "/cart"]
+  },
+  "categories": {
+    "methodology": ["root cause", "analysis", "methodology", "technique"],
+    "tools": ["fishbone", "5 whys", "pareto", "chart", "diagram"],
+    "process": ["process", "steps", "procedure", "workflow"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 20
+}
