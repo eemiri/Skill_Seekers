@@ -1,0 +1,33 @@
+{
+  "name": "observability",
+  "description": "When you need guidance on monitoring, alerting, and observability practices including Prometheus, Grafana, OpenTelemetry, and Jaeger",
+  "base_url": "https://prometheus.io/docs/practices/alerting/",
+  "selectors": {
+    "main_content": "main[role='main'], .bd-content, .article, .content, main",
+    "title": "title, h1",
+    "code_blocks": "pre, .highlight, .codehilite"
+  },
+  "url_patterns": {
+    "include": [
+      "prometheus.io/docs/practices/alerting/",
+      "grafana.com/docs/grafana/latest/alerting/",
+      "grafana.com/docs/grafana/latest/dashboards/build-dashboards/best-practices/",
+      "opentelemetry.io/docs/concepts/signals/traces/",
+      "jaegertracing.io/docs/1.9/getting-started/"
+    ],
+    "exclude": [
+      "/search", "/search.html", "/_static/", "/static/", "/assets/",
+      "/api/", "/download/", "/blog/", "/news/", "/community/",
+      "github.com", "gitlab.com"
+    ]
+  },
+  "categories": {
+    "alerting": ["alert", "alerting", "notification", "rules"],
+    "monitoring": ["monitoring", "metrics", "prometheus", "promql"],
+    "visualization": ["dashboard", "grafana", "visualization", "panels"],
+    "tracing": ["tracing", "trace", "jaeger", "opentelemetry", "otel"],
+    "best_practices": ["best-practices", "practices", "guidelines", "patterns"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 100
+}

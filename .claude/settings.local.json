@@ -89,7 +89,9 @@
       "WebFetch(domain:kepner-tregoe.com)",
       "WebFetch(domain:www.tocinstitute.org)",
       "WebFetch(domain:digital.ahrq.gov)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(curl:*)",
+      "Bash(dir:*)"
     ],
     "deny": [],
     "ask": []

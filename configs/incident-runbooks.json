@@ -1,0 +1,84 @@
+{
+  "name": "incident-runbooks",
+  "description": "Use this skill when you need guidance on incident management, runbooks, postmortems, and operational readiness. Covers PagerDuty Response, Google SRE practices, AWS operational readiness, Atlassian incident management, and Grafana on-call procedures.",
+  "base_url": "https://response.pagerduty.com/",
+  "selectors": {
+    "main_content": "main, .content, article",
+    "title": "h1, .page-title, title",
+    "code_blocks": "pre, .codehilite, .highlight"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search", "/api/", "javascript:", "mailto:", "#", "?sort=", "/assets/", "/static/", "/css/", "/js/"]
+  },
+  "categories": {
+    "incident_response": ["incident", "response", "management", "handling", "alert", "escalation"],
+    "postmortem": ["postmortem", "post-mortem", "retrospective", "review", "analysis", "learning"],
+    "runbooks": ["runbook", "playbook", "procedure", "checklist", "sop", "template"],
+    "sre_practices": ["sre", "reliability", "engineering", "slo", "sli", "error-budget"],
+    "on_call": ["on-call", "oncall", "rotation", "schedule", "escalation", "handover"],
+    "monitoring": ["monitoring", "alerting", "metrics", "dashboard", "observability"],
+    "communication": ["communication", "stakeholder", "notification", "messaging", "update"],
+    "tools": ["pagerduty", "grafana", "aws", "atlassian", "jira", "opsgenie"]
+  },
+  "additional_sources": [
+    {
+      "name": "sre-incidents",
+      "base_url": "https://sre.google/sre-book/managing-incidents/",
+      "selectors": {
+        "main_content": "main, .devsite-article-body, .content",
+        "title": "h1, .devsite-article-title, title",
+        "code_blocks": "pre, .codehilite, .highlight"
+      }
+    },
+    {
+      "name": "sre-postmortem",
+      "base_url": "https://sre.google/workbook/postmortem-culture/",
+      "selectors": {
+        "main_content": "main, .devsite-article-body, .content",
+        "title": "h1, .devsite-article-title, title",
+        "code_blocks": "pre, .codehilite, .highlight"
+      }
+    },
+    {
+      "name": "aws-runbooks",
+      "base_url": "https://docs.aws.amazon.com/wellarchitected/latest/framework/ops_ready_to_support_use_runbooks.html",
+      "selectors": {
+        "main_content": "main, .main-col, .content, .awsdocs-content",
+        "title": "h1, .title, .page-title",
+        "code_blocks": "pre, .codehilite, .highlight, .code"
+      }
+    },
+    {
+      "name": "atlassian-incident",
+      "base_url": "https://www.atlassian.com/incident-management/handbook",
+      "selectors": {
+        "main_content": "main, .content, article, .aui-page-panel-content",
+        "title": "h1, .page-title, .aui-page-header-main",
+        "code_blocks": "pre, .codehilite, .highlight, .code"
+      }
+    },
+    {
+      "name": "grafana-oncall",
+      "base_url": "https://grafana.com/docs/oncall/latest/",
+      "selectors": {
+        "main_content": "main, .content, article, .docs-content",
+        "title": "h1, .page-title, .title",
+        "code_blocks": "pre, .codehilite, .highlight, .code"
+      }
+    }
+  ],
+  "rate_limit": 1.0,
+  "max_pages": 200,
+  "enhancement": {
+    "focus_areas": [
+      "Incident response procedures and best practices",
+      "Postmortem templates and analysis frameworks",
+      "Runbook creation and maintenance guidelines",
+      "SRE reliability practices and error budgets",
+      "On-call rotation and escalation policies",
+      "Communication protocols and stakeholder management",
+      "Tool-specific configurations (PagerDuty, Grafana, AWS, Atlassian)"
+    ]
+  }
+}

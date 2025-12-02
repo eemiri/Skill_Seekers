@@ -1,0 +1,32 @@
+{
+  "name": "env-config-matrix",
+  "description": "Environment configuration and management across GitLab CI, GitHub Actions, AWS Secrets Manager, HashiCorp Vault, LaunchDarkly, and Azure App Configuration",
+  "base_url": "https://docs.gitlab.com/ci/environments/",
+  "urls": [
+    "https://docs.gitlab.com/ci/environments/",
+    "https://docs.github.com/actions/deployment/targeting-different-environments/using-environments-for-deployment",
+    "https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html",
+    "https://developer.hashicorp.com/vault/docs",
+    "https://docs.launchdarkly.com/home/flags",
+    "https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview"
+  ],
+  "selectors": {
+    "main_content": "main, .main-content, .content, article, div[role='main']",
+    "title": "title, h1",
+    "code_blocks": "pre, code, .highlight"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search", "/api", "/reference", "/examples", "/tutorials"]
+  },
+  "categories": {
+    "getting_started": ["getting-started", "introduction", "overview", "quickstart", "setup"],
+    "environments": ["environments", "environment", "deployment", "staging", "production"],
+    "secrets_management": ["secrets", "secret-management", "configuration", "variables"],
+    "feature_flags": ["feature-flags", "flags", "toggle", "launchdarkly"],
+    "ci_cd": ["ci", "cd", "pipeline", "actions", "github-actions", "gitlab-ci"],
+    "cloud_services": ["aws", "azure", "vault", "hashicorp", "cloud"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 800
+}

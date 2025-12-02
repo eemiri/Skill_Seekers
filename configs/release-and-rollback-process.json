@@ -1,0 +1,23 @@
+{
+  "name": "release-and-rollback-process",
+  "description": "When to use this skill: For questions about deployment strategies, release processes, rollback procedures, and deployment management across various platforms including AWS CodeDeploy, Kubernetes, Argo Rollouts, Google Cloud Deploy, and GitLab CI/CD.",
+  "base_url": "https://docs.aws.amazon.com/codedeploy/latest/userguide/",
+  "selectors": {
+    "main_content": "div#main-content, .site-content, #content, main",
+    "title": "h1, #page-title, .title",
+    "code_blocks": "pre code, .highlight, .codehilite"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["#", "mailto:", "javascript:", ".pdf", ".zip", ".tar.gz", "search", "feedback"]
+  },
+  "categories": {
+    "deployment_strategies": ["deployment", "strategy", "rolling", "blue-green", "canary", "configurations"],
+    "rollback_procedures": ["rollback", "revert", "undo", "restore", "failure"],
+    "aws_codedeploy": ["codedeploy", "aws", "amazon", "ec2"],
+    "monitoring": ["monitor", "health", "status", "logs", "events"],
+    "troubleshooting": ["troubleshoot", "error", "issue", "debug"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 50
+}

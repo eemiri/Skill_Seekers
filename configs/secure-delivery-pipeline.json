@@ -1,0 +1,88 @@
+{
+  "name": "secure-delivery-pipeline",
+  "description": "When users need help with DevSecOps, application security scanning, vulnerability detection, and secure software delivery pipeline practices",
+  "base_url": "https://docs.gitlab.com/user/application_security/detect/",
+  "selectors": {
+    "main_content": "main[role='main'], .main-content, .content, article",
+    "title": "h1, .page-title, .title",
+    "code_blocks": "pre, code, .highlight"
+  },
+  "url_patterns": {
+    "include": [
+      "application_security",
+      "code-security",
+      "code-scanning",
+      "scan-with-snyk",
+      "scanner/vulnerability",
+      "sigstore"
+    ],
+    "exclude": [
+      "/search.html",
+      "/_static/",
+      "/assets/",
+      "javascript:",
+      "mailto:",
+      "#",
+      "/edit/",
+      "/raw/",
+      "/blob/"
+    ]
+  },
+  "categories": {
+    "getting_started": [
+      "introduction",
+      "getting-started",
+      "overview",
+      "setup",
+      "configuration"
+    ],
+    "static_analysis": [
+      "static-analysis",
+      "sast",
+      "code-scanning",
+      "codeql",
+      "snyk-code"
+    ],
+    "dependency_scanning": [
+      "dependency-scanning",
+      "scanning",
+      "vulnerability",
+      "dependencies",
+      "packages"
+    ],
+    "container_security": [
+      "container",
+      "docker",
+      "kubernetes",
+      "trivy",
+      "image"
+    ],
+    "code_signing": [
+      "sigstore",
+      "signing",
+      "cosign",
+      "fulcio",
+      "rekor"
+    ],
+    "gitlab_security": [
+      "gitlab",
+      "detect",
+      "ci/cd",
+      "gitlab-ci"
+    ],
+    "github_security": [
+      "github",
+      "github-advanced-security",
+      "codeql",
+      "dependabot"
+    ],
+    "snyk_tools": [
+      "snyk",
+      "snyk-code",
+      "snyk-container",
+      "snyk-open-source"
+    ]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 300
+}

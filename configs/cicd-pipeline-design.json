@@ -1,0 +1,84 @@
+{
+  "name": "cicd-pipeline-design",
+  "description": "When designing, implementing, or troubleshooting CI/CD pipelines using GitLab CI, GitHub Actions, Azure DevOps, or CircleCI. Includes YAML syntax, workflow patterns, optimization strategies, and best practices for continuous integration and deployment.",
+  "base_url": "https://docs.gitlab.com/ci/yaml/",
+  "selectors": {
+    "main_content": "main",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [
+      "docs.gitlab.com/ci/yaml/",
+      "docs.github.com/en/actions/using-workflows/",
+      "docs.github.com/en/actions/tutorials/",
+      "learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/",
+      "circleci.com/docs/reference/configuration-reference/"
+    ],
+    "exclude": [
+      "/search",
+      "/api/v3/",
+      "/login",
+      "/signup",
+      "/_static/",
+      ".gitlab",
+      ".github",
+      "edit"
+    ]
+  },
+  "categories": {
+    "getting_started": ["introduction", "getting-started", "overview", "quickstart", "tutorial"],
+    "workflow_syntax": ["syntax", "yaml", "reference", "schema", "configuration"],
+    "triggers": ["triggers", "events", "hooks", "webhooks"],
+    "jobs": ["jobs", "steps", "commands", "scripts"],
+    "variables": ["variables", "environment", "secrets", "parameters"],
+    "artifacts": ["artifacts", "cache", "storage", "outputs"],
+    "deployment": ["deployment", "release", "publish", "deploy"],
+    "security": ["security", "permissions", "access", "authentication"],
+    "monitoring": ["monitoring", "logs", "notifications", "alerts"],
+    "optimization": ["optimization", "performance", "caching", "parallel"],
+    "examples": ["examples", "patterns", "templates", "samples"],
+    "troubleshooting": ["troubleshooting", "debugging", "errors", "common-issues"]
+  },
+  "additional_sites": [
+    {
+      "name": "GitHub Actions Workflow Syntax",
+      "base_url": "https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions",
+      "selectors": {
+        "main_content": "div gh-content",
+        "title": "h1",
+        "code_blocks": "pre"
+      }
+    },
+    {
+      "name": "GitHub Actions Data Tutorial",
+      "base_url": "https://docs.github.com/en/actions/tutorials/store-and-share-data",
+      "selectors": {
+        "main_content": "div gh-content",
+        "title": "h1",
+        "code_blocks": "pre"
+      }
+    },
+    {
+      "name": "Azure DevOps Pipelines",
+      "base_url": "https://learn.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/?view=azure-pipelines",
+      "selectors": {
+        "main_content": "div#main",
+        "title": "h1",
+        "code_blocks": "pre"
+      }
+    },
+    {
+      "name": "CircleCI Configuration",
+      "base_url": "https://circleci.com/docs/reference/configuration-reference/",
+      "selectors": {
+        "main_content": "main#main-content",
+        "title": "h1",
+        "code_blocks": "pre"
+      }
+    }
+  ],
+  "rate_limit": 1.0,
+  "max_pages": 500,
+  "user_agent": "Mozilla/5.0 (compatible; CI/CD Pipeline Designer Bot)"
+}

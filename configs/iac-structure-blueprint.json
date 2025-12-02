@@ -1,0 +1,63 @@
+{
+  "name": "iac-structure-blueprint",
+  "description": "Use this skill when you need to design, structure, and organize Infrastructure as Code projects. Helps with Terraform modules, AWS CloudFormation best practices, Pulumi project organization, and OpenTofu module development.",
+  "base_url": "https://developer.hashicorp.com/terraform/language/style",
+  "start_urls": [
+    "https://developer.hashicorp.com/terraform/language/style",
+    "https://developer.hashicorp.com/terraform/language/modules/develop/structure",
+    "https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/best-practices.html",
+    "https://www.pulumi.com/docs/iac/using-pulumi/organizing-projects-stacks/",
+    "https://opentofu.org/docs/language/modules/develop/structure/"
+  ],
+  "selectors": {
+    "main_content": "main[role='main'], article, .docs-content, .content, .md-content, main",
+    "title": "h1, .title",
+    "code_blocks": "pre.hljs, pre.language-terraform, pre.language-hcl, pre.language-bash, pre.language-yaml, pre.language-json, pre code"
+  },
+  "url_patterns": {
+    "include": [
+      "terraform/language",
+      "AWSCloudFormation",
+      "docs/iac/using-pulumi",
+      "docs/language/modules"
+    ],
+    "exclude": [
+      "/search",
+      "/_static/",
+      "/archive/",
+      "/download/",
+      "github.com",
+      "api.",
+      "/examples",
+      "/tutorials",
+      "#",
+      "?",
+      ".git"
+    ]
+  },
+  "categories": {
+    "getting_started": [
+      "introduction", "getting-started", "overview", "what-is", "beginner"
+    ],
+    "terraform_structure": [
+      "style", "modules", "structure", "files", "organization", "layout"
+    ],
+    "cloudformation_best_practices": [
+      "best-practices", "template", "sections", "intrinsic-functions", "mappings"
+    ],
+    "pulumi_organization": [
+      "organizing-projects", "stacks", "projects", "structure", "directories"
+    ],
+    "opentofu_modules": [
+      "modules", "develop", "structure", "composition", "patterns"
+    ],
+    "patterns_and_conventions": [
+      "pattern", "convention", "standard", "guideline", "recommendation"
+    ],
+    "file_organization": [
+      "files", "directories", "folder", "structure", "layout", "hierarchy"
+    ]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 300
+}
