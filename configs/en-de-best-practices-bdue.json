@@ -1,0 +1,24 @@
+{
+  "name": "en-de-best-practices-bdue",
+  "description": "BDUE German Federal Association of Interpreters and Translators",
+  "base_url": "https://bdue.de/en/bdue",
+  "selectors": {
+    "main_content": "main, article, .content, .page-content, div[role='main'], .entry-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search", "/tag/", "/category/", "/author/", "/feed/", "/comment", "/wp-admin/", "/wp-content/", "/wp-json/", ".pdf"]
+  },
+  "categories": {
+    "translation_guidelines": ["guideline", "technical-german", "translation", "standards"],
+    "technical_writing": ["technical-writing", "documentation", "style-guide"],
+    "dach_region": ["dach", "austria", "switzerland", "germany", "localization"],
+    "professional_standards": ["europa", "bdue", "ata", "standards", "certification"],
+    "language_differences": ["differences", "comparison", "grammar", "vocabulary", "usage"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 30,
+  "timeout": 30
+}

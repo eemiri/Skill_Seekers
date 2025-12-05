@@ -1,0 +1,48 @@
+{
+  "name": "translation-qa",
+  "description": "When to use this skill: For translation quality assurance, terminology management, translation editing, QA workflows, and localization best practices",
+  "base_url": "https://docs.xbench.net/",
+  "selectors": {
+    "main_content": "main, .main-content, .content, article, div[role='main']",
+    "title": "title, h1",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [
+      "docs.xbench.net",
+      "e-verifika.com",
+      "taus.net",
+      "iso.org",
+      "pairaphrase.com"
+    ],
+    "exclude": [
+      "/search",
+      "/login",
+      "/register",
+      "#",
+      "mailto:",
+      "tel:",
+      ".pdf",
+      ".zip",
+      "/download/"
+    ]
+  },
+  "categories": {
+    "user_guide": ["user-guide", "guide", "tutorial", "getting-started"],
+    "qa_features": ["work-qa-features", "qa", "quality-assurance", "quality"],
+    "terminology": ["terminology", "terms", "glossary"],
+    "dqf": ["dqf", "dynamic-quality-framework"],
+    "standards": ["iso", "standard", "best-practices"],
+    "workflows": ["workflow", "process", "procedure"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 200,
+  "additional_urls": [
+    "https://docs.xbench.net/user-guide/work-qa-features/",
+    "https://e-verifika.com/",
+    "https://www.taus.net/resources/blog/how-to-do-translation-quality-assurance",
+    "https://www.taus.net/resources/blog/everything-you-need-to-know-about-dqf",
+    "https://www.iso.org/standard/62970.html",
+    "https://www.pairaphrase.com/blog/terminology-management"
+  ]
+}

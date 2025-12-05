@@ -1,0 +1,34 @@
+{
+  "name": "pdf-translation-workflow",
+  "description": "Complete PDF translation workflow covering OCR, CAT tools, XLIFF processing, and translation workflows. Use this for any tasks involving PDF translation, optical character recognition, computer-assisted translation, and localization workflows.",
+  "base_urls": [
+    "https://www.trados.com/blog/translate-pdf-sdl-trados-studio.html",
+    "https://docs.memoq.com/current/en/Things/things-filter-configurations.html",
+    "https://www.iceni.com/transpdf.htm",
+    "https://help.abbyy.com/en-us/finereader/15/user_guide/cjkrecognition/",
+    "https://tesseract-ocr.github.io/",
+    "https://pymupdf.readthedocs.io/en/latest/recipes-ocr.html",
+    "https://www.iceni.com/help/Infix/7/en/ImportingXLIFF.html"
+  ],
+  "base_url": "https://www.trados.com/blog/translate-pdf-sdl-trados-studio.html",
+  "selectors": {
+    "main_content": "main, article, .content, div[role='main'], .post-content, .blog-content, .documentation, .docs-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code, .code-block"
+  },
+  "url_patterns": {
+    "include": [".html", ".htm", "/"],
+    "exclude": ["/search", "/tag/", "/category/", "/api/", "/assets/", "/static/", "javascript:", "mailto:", "#"]
+  },
+  "categories": {
+    "ocr_tools": ["ocr", "tesseract", "abbyy", "finereader", "recognition", "character"],
+    "cat_tools": ["trados", "memoq", "sdl", "studio", "translation", "localization"],
+    "pdf_processing": ["pdf", "infix", "transpdf", "pymupdf", "fitz", "document"],
+    "workflow": ["workflow", "process", "pipeline", "guide", "tutorial"],
+    "file_formats": ["xliff", "xlf", "tmx", "tbx", "import", "export"],
+    "getting_started": ["introduction", "overview", "getting-started", "beginner", "tutorial"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 300,
+  "multi_source": true
+}

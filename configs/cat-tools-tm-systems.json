@@ -1,0 +1,61 @@
+{
+  "name": "cat-tools-tm-systems",
+  "description": "Comprehensive documentation for CAT (Computer-Assisted Translation) tools and Translation Management Systems including MemoQ, OmegaT, Microsoft Globalization tools, and GALA TMX standards",
+  "base_url": "https://docs.memoq.com/current/en/",
+  "selectors": {
+    "main_content": "main",
+    "title": "h1",
+    "code_blocks": "pre"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search", "/api/", "/reference/", "javascript:", "mailto:", "#", ".css", ".js", ".png", ".jpg", ".gif"]
+  },
+  "categories": {
+    "getting_started": ["welcome", "introduction", "getting-started", "overview"],
+    "memoq": ["memoq", "helpcenter", "guides"],
+    "omegat": ["omegat", "documentation", "beginners"],
+    "tm_management": ["translation-memories", "tm", "tmx"],
+    "localization": ["globalization", "localization", "best-practices"],
+    "standards": ["tmx", "gala", "standards"]
+  },
+  "additional_sources": [
+    {
+      "name": "omegat_docs",
+      "base_url": "https://omegat.org/documentation",
+      "selectors": {
+        "main_content": "div[role='main']",
+        "title": "h1",
+        "code_blocks": "pre"
+      },
+      "include_patterns": ["documentation", "guide"],
+      "exclude_patterns": ["/files/", "/download", "/plugins", "javascript:", "mailto:", "#"]
+    },
+    {
+      "name": "microsoft_globalization",
+      "base_url": "https://learn.microsoft.com/en-us/globalization/",
+      "selectors": {
+        "main_content": "main",
+        "title": "h1",
+        "code_blocks": "pre"
+      },
+      "include_patterns": ["localization", "translation-memories"],
+      "exclude_patterns": ["/api/", "/windows/", "/net/", "javascript:", "mailto:", "#"]
+    },
+    {
+      "name": "gala_tmx",
+      "base_url": "https://www.gala-global.org/tmx-13",
+      "selectors": {
+        "main_content": "main",
+        "title": "h1",
+        "code_blocks": "pre"
+      },
+      "include_patterns": ["tmx"],
+      "exclude_patterns": ["javascript:", "mailto:", "#", "/donate", "/membership"]
+    }
+  ],
+  "rate_limit": 1.0,
+  "max_pages": 100,
+  "language_detection": true,
+  "pattern_extraction": true
+}

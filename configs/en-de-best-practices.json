@@ -1,0 +1,31 @@
+{
+  "name": "en-de-best-practices",
+  "description": "When to use this skill: For English-German translation best practices, technical writing guidelines, DACH region localization, and professional translation standards",
+  "base_url": "https://tcworld.info/e-magazine/technical-writing/guideline-for-technical-german-100/",
+  "additional_urls": [
+    "https://publications.europa.eu/code/en/en-000100.htm",
+    "https://bdue.de/en/bdue",
+    "https://ata-divisions.org/GLD/",
+    "https://www.smartling.com/blog/what-is-dach-region",
+    "https://www.internationalschooltutors.de/English/advice/language/differences/german2.html"
+  ],
+  "selectors": {
+    "main_content": "article, main, div[role='main'], .content, .post-content, .entry-content",
+    "title": "h1, title",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": [],
+    "exclude": ["/search", "/tag/", "/category/", "/author/", "/feed/", "/comment", "/wp-admin/", "/wp-content/", "/wp-json/"]
+  },
+  "categories": {
+    "translation_guidelines": ["guideline", "technical-german", "translation", "standards"],
+    "technical_writing": ["technical-writing", "documentation", "style-guide"],
+    "dach_region": ["dach", "austria", "switzerland", "germany", "localization"],
+    "professional_standards": ["europa", "bdue", "ata", "standards", "certification"],
+    "language_differences": ["differences", "comparison", "grammar", "vocabulary", "usage"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100,
+  "timeout": 30
+}

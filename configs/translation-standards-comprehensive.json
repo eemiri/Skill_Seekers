@@ -1,0 +1,29 @@
+{
+  "name": "translation-standards",
+  "description": "Use this skill for questions about ISO translation standards (ISO 17100, ISO 59149), translation quality management (MQM), TQE (Translation Quality Evaluation), EU translation competence frameworks, and localization industry best practices. Covers certification processes, quality metrics, vendor management, and professional translation standards.",
+  "base_url": "https://iso17100.com/",
+  "additional_urls": [
+    "https://www.iso.org/standard/59149.html",
+    "https://www.lingualinx.com/blog/what-is-iso-17100-why-important",
+    "https://themqm.org/",
+    "https://themqm.org/introduction-to-tqe/an-overview/",
+    "https://www.gala-global.org/"
+  ],
+  "selectors": {
+    "main_content": "main, #content, article, div[role='main']",
+    "title": "h1",
+    "code_blocks": "pre, code"
+  },
+  "url_patterns": {
+    "include": ["iso", "mqm", "translation", "quality", "standard", "competence", "17100", "59149", "tqe"],
+    "exclude": ["/wp-admin/", "/wp-login.php", "/tag/", "/category/", "/page/", "?", "#", "/feed/", "/xmlrpc.php"]
+  },
+  "categories": {
+    "standards": ["iso", "standard", "certification", "compliance", "17100", "59149"],
+    "quality": ["quality", "mqm", "tqe", "evaluation", "metrics", "dqtm", "dqw"],
+    "process": ["process", "workflow", "vendor", "management", "lifecycle"],
+    "competence": ["competence", "framework", "skills", "training", "emt"]
+  },
+  "rate_limit": 0.5,
+  "max_pages": 200
+}

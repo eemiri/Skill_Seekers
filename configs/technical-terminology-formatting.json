@@ -1,0 +1,32 @@
+{
+  "name": "technical-terminology-formatting",
+  "description": "For formatting, styling, and standardizing technical terminology, abbreviations, and controlled vocabularies in German and English",
+  "base_url": "https://iate.europa.eu/",
+  "selectors": {
+    "main_content": "div.content, main, article, div[role='main']",
+    "title": "h1, title",
+    "code_blocks": "pre, code, .code-sample"
+  },
+  "url_patterns": {
+    "include": ["terminology", "formatting", "style", "guidelines", "standards", "vocabulary", "controlled-vocabulary", "mesh", "snomed", "abbreviations"],
+    "exclude": ["/search", "/api/", "/download/", "/login", "/register", "/admin", "/wp-admin"]
+  },
+  "categories": {
+    "terminology_standards": ["standards", "specifications", "guidelines", "formatting", "style", "din", "iso"],
+    "medical_terminology": ["medical", "health", "mesh", "snomed", "terminology", "vocabulary", "classification"],
+    "linguistic_resources": ["iate", "terminology", "translation", "localization", "language", "multilingual"],
+    "technical_abbreviations": ["abbreviations", "acronyms", "shortcuts", "symbols", "notation"],
+    "formatting_guidelines": ["formatting", "style", "presentation", "layout", "documentation"]
+  },
+  "rate_limit": 1.0,
+  "max_pages": 100,
+  "additional_sources": [
+    "https://learn.microsoft.com/en-us/globalization/reference/microsoft-terminology",
+    "http://www.sapterm.com/",
+    "https://www.zbmed.de/en/open-science/terminologies/german-mesh",
+    "https://www.bfarm.de/EN/Code-systems/Terminologies/SNOMED-CT/_node.html",
+    "https://www.dinmedia.de/en/topics/din-5008",
+    "https://www.ptb.de/cms/en.html",
+    "https://en.wikipedia.org/wiki/List_of_German_abbreviations"
+  ]
+}
